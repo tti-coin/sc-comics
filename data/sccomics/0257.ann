@@ -1,0 +1,54 @@
+T1	SC 30 45	superconducting
+T2	Property 71 79	metallic
+T3	Element 80 82	Au
+T5	Main 89 96	Bi-2212
+T6	Material 97 105	ceramics
+T7	Material 107 122	Polycrystalline
+T8	Element 134 157	Bi1.8Sr2AuxCa1.1Cu2.1Oy
+T9	SC 185 199	superconductor
+T10	Process 242 269	solid state reaction method
+T11	Property 293 301	electric
+T12	Property 306 325	magnetic properties
+T13	Characterization 353 356	XRD
+T14	Characterization 358 361	SEM
+T15	Property 363 377	DC resistivity
+T19	SC 449 460	Tc (offset)
+T20	Element 501 503	Au
+T21	Characterization 526 543	X-ray diffraction
+T22	Element 578 580	Au
+T25	Material 674 683	unit cell
+T26	Element 691 698	Bi-2212
+T27	Material 699 705	matrix
+T29	Property 762 764	Jc
+T31	Property 814 839	magnetic hysteresis loops
+T32	Property 850 862	Bean's model
+T33	Property 909 911	Jc
+T34	Element 961 987	Bi1.8Sr2 Au0.2Ca1.1Cu2.1Oy
+T35	Element 1006 1008	Au
+T38	Property 1109 1121	flux pinning
+T39	Property 1130 1145	magnetic fields
+T43	Value 927 940	4.3×104 A/cm2
+T44	Value 944 949	1.95T
+T45	Value 953 956	10K
+T47	Value 1002 1005	0.2
+T49	Value 161 164	0.0
+T50	Value 166 170	0.05
+T51	Value 172 175	0.1
+T52	Value 180 183	0.2
+T17	Value 606 614	0 to 0.2
+T54	Property 417 420	M-H
+T56	Value 744 747	10K
+T4	Doping 83 88	doped
+T23	Doping 581 587	doping
+T24	Doping 635 648	incorporation
+T36	Doping 1009 1017	addition
+T18	Property 383 402	magnetic hysteresis
+T28	Characterization 403 415	measurements
+T30	Property 707 710	M-H
+T37	Characterization 711 723	measurements
+R1	Target Arg1:E1 Arg2:T5
+R2	Target Arg1:E4 Arg2:T34
+E1	Doping:T4 Dopant:T3
+E2	Doping:T23 Dopant:T22
+E3	Doping:T24
+E4	Doping:T36 Dopant:T35

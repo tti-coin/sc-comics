@@ -1,0 +1,80 @@
+T1	Material 21 31	structural
+T3	Main 70 85	SmFe0.5Ru0.5AsO
+T4	Main 90 105	GdFe0.5Ru0.5AsO
+T5	Process 145 153	pressure
+T6	Process 159 179	vacuum encapsulation
+T7	Element 202 209	REFeAsO
+T8	Element 214 216	Sm
+T9	Element 221 223	Gd
+T11	Process 225 237	crystallizes
+T12	Material 241 251	tetragonal
+T13	Material 252 258	P4/nmm
+T14	Material 259 270	space group
+T15	Material 284 302	lattice parameters
+T16	Element 339 341	Sm
+T17	Element 379 381	Gd
+T18	Element 392 394	Ru
+T20	Element 411 413	Fe
+T21	Element 428 443	SmFe0.5Ru0.5AsO
+T22	Element 448 463	GdFe0.5Ru0.5AsO
+T23	Material 468 485	lattice parameter
+T24	Element 561 563	Sm
+T25	Element 604 606	Gd
+T26	Property 616 627	Resistivity
+T27	Material 644 652	pristine
+T28	Property 700 719	metallic transition
+T29	Element 740 742	Fe
+T30	Element 752 754	Ru
+T32	Property 794 802	metallic
+T33	Property 839 856	spin density wave
+T34	Property 858 861	SDW
+T35	Element 903 905	Ru
+T36	Element 909 911	Fe
+T37	Element 963 965	Ru
+T39	SC 995 1028	superconductivity like transition
+T41	Property 1066 1074	metallic
+T42	Element 1094 1098	Fe2+
+T43	Element 1104 1111	Ru4+/5+
+T45	Property 1134 1151	electron carriers
+T46	Material 1190 1194	bulk
+T47	SC 1195 1212	superconductivity
+T49	Element 1224 1226	Ru
+T51	Element 1239 1253	REFeAsO (1111)
+T56	Value 529 540	4.0113(55)Å
+T57	Value 545 556	8.3129(17)Å
+T58	Value 571 582	3.9795(64)Å
+T59	Value 349 359	3.9152(4)Å
+T60	Value 364 374	8.4546(1)Å
+T61	Value 587 599	8.2787 (20)Å
+T62	Value 730 734	150K
+T63	Value 922 925	10%
+T64	Value 930 933	30%
+T65	Value 959 962	10%
+T66	Value 1035 1038	15K
+T67	Value 1044 1047	30%
+T72	Value 388 391	50%
+T73	Value 324 334	8.5021(4)Å
+T10	Value 309 319	3.9375(6)Å
+T53	Element 211 213	RE
+T54	Value 748 751	50%
+T48	Element 1216 1218	Fe
+T19	Doping 395 407	substitution
+T31	Doping 755 766	substituted
+T38	Doping 966 971	doped
+T40	Doping 1048 1053	doped
+T44	Doping 1112 1124	substitution
+T50	Doping 1227 1238	substituted
+T52	Characterization 628 640	measurements
+T2	Property 44 53	transport
+T55	Characterization 54 66	measurements
+R1	Equivalent Arg1:T39 Arg2:T66
+R2	Condition Arg1:T66 Arg2:E4
+R3	Target Arg1:E1 Arg2:T22
+R4	Target Arg1:E7 Arg2:T51
+R5	Target Arg1:E1 Arg2:T21
+E1	Doping:T19 Dopant:T18 Site:T20
+E3	Doping:T31 Dopant:T30 Site:T29
+E4	Doping:T38 Dopant:T37
+E5	Doping:T40
+E6	Doping:T44 Dopant:T43 Site:T42
+E7	Doping:T50 Site:T48 Dopant:T49

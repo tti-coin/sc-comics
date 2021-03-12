@@ -1,0 +1,54 @@
+T1	Material 4 13	structure
+T2	Property 15 23	magnetic
+T3	Property 28 48	electronic transport
+T5	Main 77 92	Mn3Sn1-x Zn x C
+T7	Material 175 185	perovskite
+T8	Material 186 195	structure
+T9	Element 196 202	Mn3SnC
+T10	Material 215 229	cell parameter
+T11	Element 249 264	Mn3Sn1-x Zn x C
+T12	Material 272 277	cubic
+T13	Material 283 293	perovskite
+T14	Material 294 303	structure
+T15	Property 342 355	magnetization
+T16	Property 375 377	PM
+T17	Element 385 391	Mn3SnC
+T18	Element 396 410	Mn3Sn0.9Zn0.1C
+T19	Property 416 418	PM
+T20	Property 422 425	AFM
+T21	Element 430 445	Mn3Sn1-x Zn x C
+T23	Property 503 505	Tc
+T25	Property 577 590	magnetization
+T26	Element 594 609	Mn3Sn1-x Zn x C
+T28	Element 657 672	Mn3Sn1-x Zn x C
+T29	Property 753 764	resistivity
+T33	Element 866 868	Zn
+T34	Element 872 878	Mn3SnC
+T35	Property 891 902	resistivity
+T36	Element 906 912	Mn3SnC
+T38	Value 102 105	0.5
+T39	Value 94 95	0
+T48	Value 450 453	0.2
+T51	Value 538 541	0.5
+T63	Process 770 789	certain temperature
+T6	Element 153 155	Zn
+T57	Value 677 678	0
+T52	Value 680 683	0.1
+T58	Value 685 688	0.2
+T59	Value 689 692	0.3
+T60	Value 694 697	0.4
+T61	Value 699 702	0.5
+T62	Property 419 421	FM
+T65	Property 378 380	FM
+T22	Doping 156 162	doping
+T27	Doping 477 483	doping
+T32	Doping 628 634	doping
+T64	Doping 859 865	doping
+R1	Target Arg1:E1 Arg2:T9
+R2	Target Arg1:E4 Arg2:T34
+R3	Target Arg1:E3 Arg2:T26
+E1	Doping:T22 Dopant:T6
+E2	Doping:T27
+E3	Doping:T32
+E4	Doping:T64 Dopant:T33
+T4	Property 822 853	magnetic transition temperature

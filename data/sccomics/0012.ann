@@ -1,0 +1,25 @@
+T3	SC 62 65	T c
+T4	Process 75 90	low temperature
+T6	SC 123 126	T c
+T7	Process 142 158	high temperature
+T8	SC 172 175	T c
+T9	Material 201 216	heterostructure
+T11	Property 539 552	free electron
+T12	Property 564 567	BCS
+T13	Property 648 657	electrons
+T14	Material 669 676	surface
+T17	Value 702 705	650
+T19	Value 716 717	6
+T21	Value 178 182	150K
+T22	Value 166 169	23K
+T24	Value 129 133	23 K
+T26	Value 731 734	0.1
+T27	Value 741 744	0.3
+T15	SC 798 818	critical temperature
+T5	Material 112 121	2D planes
+T16	SC 826 834	high T c
+T10	SC 255 263	high T c
+T1	SC 25 61	superconducting critical temperature
+R1	Equivalent Arg1:T6 Arg2:T24
+R2	Equivalent Arg1:T8 Arg2:T22
+R3	Equivalent Arg1:T8 Arg2:T21

@@ -1,0 +1,70 @@
+T1	SC 52 67	superconductors
+T3	Process 278 294	partial pressure
+T5	SC 411 426	superconducting
+T7	Material 480 491	orientation
+T9	Process 493 507	melt-sintering
+T10	Material 539 554	single crystals
+T11	Material 580 584	bulk
+T14	SC 666 680	superconductor
+T15	SC 810 825	superconducting
+T19	Material 1044 1055	Orientation
+T21	Process 1056 1070	melt-sintering
+T22	Material 1106 1117	orientation
+T23	Material 1181 1188	Surface
+T24	Material 1189 1200	orientation
+T25	Material 1284 1288	bulk
+T26	Material 1306 1313	surface
+T27	Material 1314 1325	orientation
+T30	Material 1573 1588	single crystals
+T32	Main 30 33	123
+T2	Element 271 277	oxygen
+T34	Element 618 620	Sr
+T35	Element 625 627	Ba
+T36	Element 648 665	yttrium-based 123
+T37	Element 740 749	123 phase
+T38	Value 605 608	70%
+T39	Element 721 727	barium
+T40	Element 867 869	Sb
+T41	Element 834 836	Bi
+T42	Element 874 876	Pb
+T43	Element 881 883	Bi
+T44	Element 909 919	2223 phase
+T45	Element 925 927	Sb
+T46	Element 1022 1024	Pb
+T47	Element 1003 1005	Bi
+T48	Element 1121 1132	yttrium 123
+T52	Element 1214 1216	Bi
+T53	Element 1541 1543	Sr
+T54	Element 1561 1563	Ba
+T55	Element 1569 1572	123
+T56	Value 1643 1646	30%
+T57	Element 1647 1649	Sr
+T58	Element 1654 1656	Ba
+T50	Element 231 233	Bi
+T4	Process 1401 1421	pre- heat processing
+T6	Doping 458 471	substitutions
+T8	Doping 585 597	substitution
+T12	Doping 628 640	substitution
+T13	Doping 851 863	substitution
+T16	Doping 928 940	substitution
+T17	Doping 1025 1036	substituted
+T18	Doping 1544 1556	substitution
+T20	Doping 1621 1633	substitution
+T28	Main 38 51	Bi-based 2223
+T29	Element 1144 1157	bisumuth 2223
+T31	Element 1159 1163	2212
+T33	Element 1168 1179	2201 phases
+T49	Process 92 111	pre-heat processing
+R1	Target Arg1:E3 Arg2:T36
+R2	Target Arg1:E4 Arg2:T44
+R3	Target Arg1:E7 Arg2:T55
+R4	Target Arg1:E9 Arg2:T44
+E1	Doping:T6
+E2	Doping:T8
+E3	Doping:T12 Dopant:T34 Site:T35
+E4	Doping:T13 Dopant:T40 Site:T43
+E5	Doping:T16 Dopant:T45
+E6	Doping:T17 Dopant:T46
+E7	Doping:T18 Dopant:T53 Site:T54
+E8	Doping:T20 Dopant:T57 Site:T58
+E9	Doping:T13 Dopant:T42 Site:T43

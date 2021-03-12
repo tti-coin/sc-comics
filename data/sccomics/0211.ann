@@ -1,0 +1,44 @@
+T1	Element 15 20	Yb2O3
+T2	Material 21 30	particles
+T3	Material 38 52	microstructure
+T4	Property 57 77	transport properties
+T5	Main 81 92	YBa2Cu3O7-δ
+T6	Main 94 98	YBCO
+T7	Property 126 148	resistance-temperature
+T8	Characterization 156 184	scanning electron microscope
+T9	Characterization 186 189	SEM
+T10	Characterization 192 209	X-ray diffraction
+T11	Characterization 211 214	XRD
+T12	Property 224 248	critical current density
+T13	Property 250 253	J c
+T14	Property 270 284	magnetic field
+T16	Element 307 311	YBCO
+T17	Material 312 318	powder
+T18	Element 324 329	Yb2O3
+T19	Material 330 339	additives
+T20	Process 371 391	solid state reaction
+T21	Characterization 403 423	Rietveld refinements
+T22	Characterization 427 444	X-ray diffraction
+T23	Element 462 467	Yb2O3
+T24	Element 472 476	YBCO
+T25	Property 515 539	critical current density
+T26	Property 541 544	J c
+T27	Element 579 590	YBCO+xYb2O3
+T29	Element 629 634	Yb2O3
+T30	Element 638 642	YBCO
+T31	Property 657 660	J c
+T32	Property 677 691	magnetic field
+T34	SC 735 738	T c
+T35	Material 780 788	additive
+T36	Property 829 832	J c
+T37	Material 940 946	grains
+T38	SC 993 1008	superconducting
+T39	Property 150 153	R-T
+T42	Value 571 575	0.05
+T33	SC 706 733	superconducting temperature
+T15	Property 286 291	J c-B
+T44	Material 963 973	nano-scale
+T43	Characterization 293 305	measurements
+T28	Doping 616 625	additions
+R3	Target Arg1:E1 Arg2:T30
+E1	Doping:T28 Dopant:T29

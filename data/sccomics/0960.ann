@@ -1,0 +1,39 @@
+T3	Material 13 19	binary
+T4	Element 28 34	Mo5Si3
+T5	Process 35 47	crystallizes
+T7	Element 55 60	W5Si3
+T8	Material 72 81	structure
+T9	Element 102 107	boron
+T11	Element 117 124	silicon
+T12	Property 145 166	structural transition
+T13	Element 183 188	W5Si3
+T14	Material 189 208	prototype structure
+T15	Element 216 221	Cr5B3
+T17	Material 260 271	composition
+T18	Element 272 279	Mo5SiB2
+T19	Element 281 288	Mo5SiB2
+T21	Process 380 405	high-temperature turbines
+T22	Property 415 425	electronic
+T23	Property 430 438	magnetic
+T24	Main 498 505	Mo5SiB2
+T25	Material 511 515	bulk
+T26	SC 516 531	superconducting
+T27	Material 532 540	material
+T28	SC 546 566	critical temperature
+T29	Property 587 600	specific-heat
+T30	Property 602 613	resistivity
+T31	Property 618 631	magnetization
+T32	Material 662 670	material
+T33	Property 697 700	BCS
+T34	SC 701 715	superconductor
+T35	Value 576 581	5.8 K
+T6	Element 62 70	T1 phase
+T36	Element 243 251	T2 phase
+T16	Material 222 241	prototype structure
+T20	Material 354 364	structural
+T37	Characterization 632 644	measurements
+T10	Doping 108 116	replaces
+T1	Element 7 12	Mo–Si
+R1	Equivalent Arg1:T28 Arg2:T35
+R2	Target Arg1:T35 Arg2:T24
+E1	Doping:T10 Site:T9 Dopant:T11

@@ -1,0 +1,74 @@
+T2	Element 58 66	graphite
+T3	Material 112 119	ternary
+T6	Main 187 194	MAsxC4s
+T7	Element 200 201	K
+T8	Element 203 205	Rb
+T9	Element 209 211	Cs
+T11	Property 396 417	electronic properties
+T14	Process 552 568	Room temperature
+T15	Property 569 580	resistivity
+T18	Property 636 647	resistivity
+T19	Property 668 673	order
+T21	Process 756 771	low temperature
+T23	SC 820 846	superconducting transition
+T24	Characterization 860 878	Raman spectroscopy
+T25	Property 930 940	electronic
+T26	Element 971 975	GICs
+T28	Element 1033 1039	carbon
+T30	Property 1052 1061	vibration
+T31	Property 1062 1071	frequency
+T32	Element 1094 1102	graphite
+T33	Property 1103 1112	vibration
+T34	Property 1155 1181	electronic charge transfer
+T36	Element 1202 1210	graphite
+T37	Material 1211 1217	layers
+T39	Element 120 152	graphite intercalation compounds
+T40	Element 154 158	GICs
+T10	Material 345 368	intercalation compounds
+T13	Material 515 527	basal planes
+T17	Value 853 858	1.3 K
+T22	Property 1019 1025	G-band
+T27	Material 1040 1051	intra-layer
+T46	Characterization 313 325	measurements
+T56	Value 228 229	1
+T35	Property 624 635	anisotropic
+T5	Value 690 693	104
+T29	Doping 1222 1234	intercalated
+T4	Value 537 540	4.2
+T12	Value 545 550	295 K
+T16	Value 600 602	16
+T20	Value 607 615	35 μΩ cm
+T1	Element 6 18	alkali metal
+T38	Element 19 33	arsenic alloys
+T41	Characterization 443 455	measurements
+T42	Property 419 442	Electrical conductivity
+T43	Property 703 726	magnetic susceptibility
+T47	Characterization 727 739	measurements
+R1	Coref Arg1:T39 Arg2:T40
+R2	Equivalent Arg1:T23 Arg2:T17
+E1	Doping:T29 
+#1	AnnotatorNotes T2	58-66
+#2	AnnotatorNotes T3	112-119
+#3	AnnotatorNotes T6	187-194
+#4	AnnotatorNotes T7	200-201
+#5	AnnotatorNotes T8	203-205
+#6	AnnotatorNotes T9	209-211
+#7	AnnotatorNotes T26	971-975
+#8	AnnotatorNotes T28	1033-1039
+#9	AnnotatorNotes T32	1094-1102
+#10	AnnotatorNotes T36	1202-1210
+#11	AnnotatorNotes T37	1211-1217
+#12	AnnotatorNotes T39	120-152
+#13	AnnotatorNotes T40	154-158
+#14	AnnotatorNotes T10	345-368
+#15	AnnotatorNotes T13	515-527
+#16	AnnotatorNotes T17	853-858
+#17	AnnotatorNotes T27	1040-1051
+#18	AnnotatorNotes T56	228-229
+#19	AnnotatorNotes T5	690-693
+#20	AnnotatorNotes T4	537-540
+#21	AnnotatorNotes T12	545-550
+#22	AnnotatorNotes T16	600-602
+#23	AnnotatorNotes T20	607-615
+#24	AnnotatorNotes T1	6-18
+#25	AnnotatorNotes T38	19-33

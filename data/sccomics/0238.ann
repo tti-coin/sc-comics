@@ -1,0 +1,32 @@
+T1	Material 0 12	Bulk samples
+T3	Element 133 136	K2S
+T4	Material 158 174	lattice constant
+T5	Characterization 191 208	X-ray diffraction
+T6	Element 232 238	K ions
+T7	Element 249 256	Fe-Te-S
+T8	Material 257 263	layers
+T9	Element 265 266	K
+T13	Property 375 386	diamagnetic
+T14	Element 440 441	K
+T17	Property 569 584	Meissner effect
+T19	Element 668 670	Fe
+T20	Property 671 679	magnetic
+T21	Material 680 684	ions
+T22	Element 704 705	K
+T23	SC 767 784	superconductivity
+T2	Element 16 17	K
+T26	Main 25 40	K2x FeTe1-x S x
+T29	Value 50 54	0.07
+T15	Value 458 461	0.1
+T30	Value 56 59	0.1
+T31	Value 61 64	0.2
+T32	Value 66 69	0.3
+T16	Element 503 504	K
+T18	Property 627 640	ferromagnetic
+T33	Material 641 645	ions
+T10	Doping 18 24	doping
+T25	Doping 267 273	doping
+T11	SC 300 340	superconductivity transition temperature
+R1	Target Arg1:E1 Arg2:T26
+E1	Doping:T10 Dopant:T2
+E2	Doping:T25 Dopant:T9

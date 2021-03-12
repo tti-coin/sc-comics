@@ -1,0 +1,35 @@
+T1	Property 12 18	models
+T2	SC 22 39	superconductivity
+T3	Property 76 83	kinetic
+T4	Property 163 182	frequency-dependent
+T5	Property 183 195	conductivity
+T6	Property 206 217	frequencies
+T7	SC 256 271	superconducting
+T8	Property 379 394	spectral weight
+T9	Property 499 506	kinetic
+T10	Property 534 540	models
+T12	SC 726 743	Superconductivity
+T13	Property 753 759	models
+T15	Property 922 934	normal state
+T16	SC 949 966	superconductivity
+T18	Property 996 1016	Optical conductivity
+T19	Property 1046 1051	model
+T21	SC 1165 1180	superconductors
+T22	SC 1220 1235	superconductors
+T23	Material 68 72	gain
+T24	Element 1159 1164	oxide
+T25	Property 96 112	potential energy
+T26	Property 272 282	energy gap
+T27	Property 436 448	hamiltonians
+T28	Property 480 491	hamiltonian
+T31	Property 707 724	charge occupation
+T11	Property 556 564	polarons
+T30	Property 1052 1064	hamiltonians
+T32	Property 46 53	pairing
+T33	Property 507 514	pairing
+T29	Property 848 855	pairing
+T20	SC 1150 1158	high-T c
+T14	Doping 908 914	doping
+T17	Doping 988 994	doping
+E1	Doping:T14 
+E2	Doping:T17 

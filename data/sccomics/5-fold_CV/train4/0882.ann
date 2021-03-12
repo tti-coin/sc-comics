@@ -1,0 +1,37 @@
+T1	Material 26 34	impurity
+T2	Property 35 39	band
+T3	Element 109 114	boron
+T5	Main 121 128	diamond
+T6	Element 130 133	BDD
+T7	Material 135 140	films
+T8	Characterization 157 162	X-ray
+T9	Property 163 173	absorption
+T10	Characterization 175 178	XAS
+T11	Characterization 180 194	spectroscopies
+T12	Property 200 211	resistivity
+T13	SC 247 249	Tc
+T14	Element 257 260	BDD
+T15	Material 261 266	films
+T16	Element 310 315	boron
+T17	Element 319 325	carbon
+T18	SC 360 362	Tc
+T19	Material 401 407	defect
+T20	Material 463 470	lattice
+T21	Element 538 543	boron
+T22	Material 544 549	atoms
+T23	Material 591 599	impurity
+T24	Property 600 604	band
+T25	Characterization 611 614	XAS
+T26	Property 649 659	absorption
+T27	Property 769 783	binding energy
+T28	Element 945 952	diamond
+T30	Characterization 147 152	Raman
+T31	Property 677 684	bandgap
+T32	Element 791 794	BDD
+T33	Value 846 853	0.11 eV
+T35	Property 795 797	1s
+T4	Doping 115 120	doped
+T29	Value 897 901	0.19
+T34	Value 904 910	1.2 eV
+R1	Target Arg1:E1 Arg2:T5
+E1	Doping:T4 Dopant:T3

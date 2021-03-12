@@ -1,0 +1,61 @@
+T1	Main 0 7	2HNbSe2
+T2	Material 36 43	layered
+T4	SC 78 92	superconductor
+T5	SC 100 138	superconducting transition temperature
+T6	Element 198 200	Sn
+T8	SC 218 233	superconducting
+T9	Main 248 255	2HNbSe2
+T10	Element 257 259	Sn
+T11	Property 304 315	d-electrons
+T13	SC 387 402	superconducting
+T14	Property 450 458	magnetic
+T15	Property 463 472	transport
+T16	Process 502 511	reduction
+T17	SC 520 558	superconducting transition temperature
+T18	Property 563 583	upper critical field
+T19	SC 585 588	T c
+T20	Property 593 600	BC2 (0)
+T21	Element 607 609	Sn
+T23	Element 645 647	Sn
+T25	SC 683 686	T c
+T27	Property 793 810	magneto-transport
+T28	Process 859 874	low temperature
+T29	Characterization 875 891	Raman scattering
+T31	Element 933 940	2HNbSe2
+T32	SC 981 998	superconductivity
+T33	Property 1038 1057	charge density wave
+T34	Property 1064 1072	ordering
+T35	SC 1099 1116	superconductivity
+T36	Material 1159 1173	c-axis lattice
+T38	Property 1216 1229	Fermi surface
+T39	Element 1235 1237	Sn
+T41	Value 142 147	7.3 K
+T42	Value 637 644	4 mole%
+T26	Property 691 698	BC2 (0)
+T43	Value 718 723	3.5 K
+T44	Value 728 731	3 T
+T45	Property 841 848	BC2 (0)
+T46	Property 904 916	normal phase
+T47	Property 1059 1062	CDW
+T12	Element 323 340	transition metals
+T3	Element 44 62	transitional metal
+T37	Property 266 277	nonmagnetic
+T48	Property 747 774	Werthamer-Helfand-Hohenberg
+T49	Property 776 779	WHH
+T50	Element 63 77	dichalcogenide
+T7	Doping 201 214	intercalation
+T22	Doping 610 623	intercalation
+T24	Doping 648 661	intercalation
+T30	Doping 920 932	intercalated
+T40	Doping 1238 1251	intercalation
+R1	Equivalent Arg1:T5 Arg2:T41
+R3	Equivalent Arg1:T25 Arg2:T43
+R4	Target Arg1:E1 Arg2:T9
+R5	Target Arg1:E4 Arg2:T31
+R6	Target Arg1:T41 Arg2:T1
+R7	Condition Arg1:T43 Arg2:E3
+E1	Doping:T7 Dopant:T6
+E2	Doping:T22 Dopant:T21
+E3	Doping:T24 Dopant:T23
+E4	Doping:T30
+E5	Doping:T40 Dopant:T39

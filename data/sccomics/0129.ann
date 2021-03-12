@@ -1,0 +1,71 @@
+T1	SC 0 23	Transition temperatures
+T2	Material 43 58	single crystals
+T3	Process 129 143	crystal growth
+T4	Material 145 153	Crystals
+T6	Material 307 315	crystals
+T7	Characterization 317 322	X-ray
+T8	Material 361 376	single crystals
+T9	Property 408 424	electron density
+T11	SC 506 521	superconducting
+T12	Material 527 533	planes
+T13	Property 539 555	electron density
+T14	Material 609 617	crystals
+T15	Material 704 709	plane
+T16	Material 798 802	atom
+T17	Characterization 880 883	NQR
+T19	Material 912 927	single crystals
+T20	Material 980 985	plane
+T21	Characterization 1004 1007	NQR
+T23	Material 1068 1074	planes
+T24	Element 522 526	CuO2
+T26	Main 27 36	YBa2Cu4O8
+T27	Element 180 186	Al-124
+T30	Element 233 235	Al
+T31	Element 860 867	63Cu(1)
+T32	Element 872 879	63Cu(2)
+T33	Element 1001 1003	Cu
+T34	Element 1017 1023	Al-124
+T35	Element 899 901	Al
+T36	Element 1063 1067	CuO2
+T37	Element 1039 1041	Al
+T38	Element 818 824	Al-124
+T39	Element 843 847	AlO
+T40	Element 627 632	Al2O3
+T41	Element 643 647	Y2O3
+T42	Element 446 452	Al-124
+T44	Element 432 437	Cu(2)
+T45	Element 563 568	Cu(1)
+T46	Element 698 703	Cu(2)
+T47	Element 634 638	ZrO2
+T48	Element 791 797	oxygen
+T49	Element 773 776	U33
+T51	Element 496 498	Al
+T52	Element 908 911	124
+T54	Material 784 790	apical
+T55	Property 276 283	pinning
+T53	Material 848 858	bondlength
+T56	Main 38 41	124
+T10	Doping 474 487	incorporation
+T18	Doping 902 907	doped
+T22	Doping 1042 1055	incorporation
+T25	Value 72 74	70
+T57	Value 79 83	81 K
+T29	Value 224 227	0.1
+T58	Value 228 232	0.5%
+T5	SC 197 207	lowest T c
+T50	Value 491 492	1
+T59	Value 493 495	2%
+T28	Element 163 178	Al2O3 crucibles
+T60	Doping 212 223	incorporate
+T43	Element 351 360	YBa2Cu4O8
+R2	Equivalent Arg1:T1 Arg2:T25
+R3	Equivalent Arg1:T1 Arg2:T57
+R4	Target Arg1:T25 Arg2:T26
+R5	Target Arg1:T57 Arg2:T26
+R7	Target Arg1:E1 Arg2:T43
+R8	Target Arg1:E2 Arg2:T52
+R9	Target Arg1:E4 Arg2:T28
+E1	Doping:T10 Dopant:T51 Site:T24
+E2	Doping:T18 Dopant:T35
+E3	Doping:T22 Dopant:T37 Site:T36
+E4	Doping:T60 Dopant:T30

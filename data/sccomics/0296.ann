@@ -1,0 +1,92 @@
+T1	Main 0 25	Bi2-xHgxSr2-yBayCa2Cu3O10
+T2	SC 26 57	High Temperature Superconductor
+T3	SC 59 63	HTSC
+T4	Process 98 118	solid state reaction
+T6	Element 175 177	Hg
+T7	Element 182 184	Ba
+T9	Element 209 211	Bi
+T10	Element 216 218	Sr
+T11	SC 239 243	HTSC
+T12	Material 244 249	wires
+T13	SC 284 298	superconductor
+T14	Process 313 327	powder in tube
+T15	Element 351 357	silver
+T17	Material 393 398	wires
+T19	Value 471 473	81
+T21	Process 525 532	drawing
+T22	Process 537 544	rolling
+T23	Element 579 585	silver
+T24	Characterization 737 755	optical microscope
+T25	SC 756 758	Tc
+T28	Material 834 839	wires
+T29	Element 915 917	Bi
+T30	Element 921 923	Hg
+T31	SC 943 957	superconductor
+T32	SC 976 978	Tc
+T34	Element 999 1001	Sr
+T35	Element 1007 1009	Ba
+T36	SC 1017 1019	Tc
+T38	Value 1036 1040	0.05
+T39	Element 1046 1048	Hg
+T40	Material 1056 1067	composition
+T41	Element 1068 1093	Bi2-xHgxSr2-yBayCa2Cu3O10
+T42	SC 1109 1131	transition temperature
+T43	SC 1133 1135	Tc
+T45	Element 1159 1161	Sr
+T46	Element 1165 1167	Ba
+T47	SC 1182 1204	transition temperature
+T48	SC 1206 1208	Tc
+T51	SC 1251 1253	Tc
+T53	Element 1276 1278	Ba
+T54	SC 1298 1307	High – Tc
+T55	Element 1308 1320	phase (2223)
+T59	Element 1370 1372	Ag
+T60	Element 1376 1382	silver
+T61	Material 1383 1390	sheaths
+T62	Material 1413 1428	impurity phases
+T63	Characterization 1453 1456	XRD
+T64	Value 160 161	0
+T65	Value 162 166	0.05
+T66	Value 167 170	0.1
+T71	Process 329 332	PIT
+T72	Value 1042 1045	0.1
+T18	Value 594 599	0.4cm
+T20	Value 613 616	5cm
+T16	Value 442 443	9
+T80	Material 586 590	tube
+T82	Value 715 719	25μm
+T83	Material 700 704	wire
+T57	Material 365 378	tube material
+T84	Characterization 846 874	four point probes techniques
+T5	Doping 185 197	substitution
+T8	Doping 134 146	substitution
+T33	Doping 986 998	substitution
+T37	Doping 1020 1032	substitution
+T44	Doping 1143 1155	substitution
+T50	Doping 1226 1238	substitution
+T52	Doping 1260 1272	substitution
+T58	Doping 1358 1366	addition
+T26	SC 759 801	critical temperature for superconductivity
+T27	Element 1211 1213	Hg
+T49	Value 1214 1218	0.05
+T67	Value 1221 1224	0.1
+T68	Value 1285 1289	0.05
+T69	Value 1292 1295	0.1
+T56	Element 1322 1332	2221 phase
+T70	Element 1336 1342	B-2223
+T73	Value 463 466	9MF
+T74	Value 489 493	81MF
+T75	Value 694 699	81MFC
+R4	Target Arg1:E2 Arg2:T1
+R6	Target Arg1:E4 Arg2:T41
+R7	Target Arg1:E3 Arg2:T41
+R8	Target Arg1:E9 Arg2:T1
+E2	Doping:T5 Dopant:T6 Site:T9
+E1	Doping:T8
+E3	Doping:T33 Site:T34 Dopant:T35
+E4	Doping:T37 Dopant:T39
+E5	Doping:T44 Site:T45 Dopant:T46
+E6	Doping:T50 Dopant:T27
+E7	Doping:T52 Dopant:T53
+E8	Doping:T58 Dopant:T59 Site:T60
+E9	Doping:T5 Dopant:T7 Site:T10

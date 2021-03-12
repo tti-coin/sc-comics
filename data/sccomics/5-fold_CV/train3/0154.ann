@@ -1,0 +1,52 @@
+T3	SC 132 147	superconductors
+T4	SC 206 221	superconducting
+T5	Material 226 241	blocking layers
+T6	Property 388 415	Josephson plasma excitation
+T9	Material 582 589	surface
+T10	SC 734 749	superconducting
+T11	SC 788 803	superconducting
+T13	Property 967 982	order parameter
+T14	Property 988 992	Hole
+T17	SC 1134 1137	T c
+T18	Characterization 1272 1275	STM
+T19	Material 1382 1390	crystals
+T20	Property 1409 1419	excitation
+T21	Material 1576 1584	crystals
+T22	Material 1600 1612	orientations
+T23	Material 1641 1650	interface
+T24	SC 1676 1708	high-temperature superconductors
+T25	Material 1862 1870	symmetry
+T26	Property 1912 1918	models
+T27	Property 1965 1981	order parameters
+T28	Element 126 131	oxide
+T29	Main 163 169	Bi2212
+T30	Main 174 180	T12223
+T31	Element 767 773	Bi2212
+T32	Element 1113 1119	Bi2212
+T33	Element 1366 1372	Bi2212
+T34	Element 1377 1381	Y123
+T35	Element 1571 1575	Y123
+T36	Characterization 511 540	scanning tunneling microscope
+T37	Characterization 27 42	tunneling study
+T2	Material 269 288	Josephson junctions
+T38	Property 290 308	Tunneling currents
+T8	Process 605 611	vacuum
+T39	Process 618 638	inert gas atmosphere
+T40	Characterization 648 670	tunneling measurements
+T41	Property 960 966	d-wave
+T16	Property 1210 1219	pseudogap
+T42	Property 1283 1289	vortex
+T43	Property 1402 1408	vortex
+T44	Property 1494 1500	d-wave
+T45	Property 1614 1633	Josephson tunneling
+T46	Characterization 1750 1767	tunneling spectra
+T47	Property 1855 1861	d-wave
+T48	Property 1947 1953	d-wave
+T49	Property 1958 1964	s-wave
+T15	Doping 993 999	doping
+E1	Doping:T15 Dopant:T14
+T1	Element 47 54	cuprate
+T50	SC 55 70	superconductors
+T7	Element 436 443	cuprate
+T51	SC 444 459	superconductors
+T12	SC 862 879	superconductivity

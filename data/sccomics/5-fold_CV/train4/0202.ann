@@ -1,0 +1,41 @@
+T2	SC 25 59	high-temperature superconductivity
+T3	Element 63 71	cuprates
+T4	SC 230 245	superconducting
+T5	Element 246 250	CuO2
+T7	Process 268 275	growing
+T8	Main 276 280	CuO2
+T10	Element 300 315	Bi2Sr2CaCu2O8+δ
+T11	Material 316 326	substrates
+T12	Property 377 388	energy gaps
+T13	Property 405 417	Fermi energy
+T14	Material 471 476	films
+T15	Element 512 517	alien
+T16	Material 518 523	atoms
+T19	Element 669 670	K
+T20	Element 672 674	Cs
+T21	Element 679 681	Ag
+T23	SC 725 740	superconducting
+T24	Element 752 756	CuO2
+T25	Material 757 763	layers
+T26	Property 815 824	pseudogap
+T28	Property 880 886	s-wave
+T29	SC 887 904	superconductivity
+T30	Element 908 923	Bi2Sr2CaCu2O8+δ
+T32	Material 993 1008	two-dimensional
+T33	Property 1009 1013	hole
+T34	Material 1014 1020	liquid
+T35	Element 1037 1041	CuO2
+T36	Material 1042 1048	layers
+T1	Material 281 296	monolayer films
+T9	Characterization 543 572	scanning tunneling microscopy
+T6	Material 682 687	atoms
+T17	Process 527 542	low-temperature
+T18	Property 436 439	gap
+T22	Property 460 463	gap
+T38	Property 602 605	gap
+T39	Property 784 787	gap
+T40	Property 741 744	gap
+T41	Material 251 257	layers
+T37	Property 4 11	pairing
+T27	Doping 838 848	underdoped
+E1	Doping:T27 

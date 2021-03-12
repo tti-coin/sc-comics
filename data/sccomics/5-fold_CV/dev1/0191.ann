@@ -1,0 +1,63 @@
+T1	Material 26 40	microstructure
+T3	Material 81 86	bulks
+T4	Characterization 163 180	X-ray diffraction
+T5	Characterization 182 185	XRD
+T6	Characterization 191 219	Scanning electron microscopy
+T7	Characterization 221 224	SEM
+T8	Characterization 242 245	XRD
+T9	Property 263 276	decomposition
+T11	Material 307 312	bulks
+T12	Property 368 381	decomposition
+T13	Characterization 493 496	SEM
+T15	Material 593 609	grain boundaries
+T16	Material 619 624	grain
+T18	SC 715 718	T c
+T19	SC 769 772	T c
+T22	Property 939 948	corrosion
+T23	Element 63 69	carbon
+T24	Main 76 80	MgB2
+T25	Element 289 295	carbon
+T26	Element 302 306	MgB2
+T27	Value 420 423	5 h
+T28	Material 441 460	main solid products
+T30	Element 550 556	carbon
+T31	Element 563 567	MgB2
+T32	Element 579 582	HCl
+T33	Element 639 645	carbon
+T34	Element 652 656	MgB2
+T35	Element 685 689	MgB2
+T36	Element 722 726	MgB2
+T37	Value 743 749	10 min
+T38	Element 796 802	carbon
+T39	Element 809 813	MgB2
+T40	Element 882 883	C
+T41	Element 888 893	boron
+T42	Element 897 901	MgB2
+T29	Element 465 471	B(OH)3
+T44	Element 476 487	MgCl2(6H2O)
+T45	Element 952 956	acid
+T46	Element 324 328	acid
+T49	Property 921 931	resistance
+T50	Process 696 709	acid exposure
+T51	Material 4 21	phase composition
+T2	Doping 70 75	doped
+T10	Doping 296 301	doped
+T14	Doping 557 562	doped
+T17	Doping 646 651	doped
+T20	Doping 803 808	doped
+T21	Doping 866 878	substitution
+T43	Element 98 115	hydrochloric acid
+T48	Value 120 121	2
+T47	Process 750 763	acid exposure
+R1	Target Arg1:E1 Arg2:T24
+R2	Target Arg1:E2 Arg2:T26
+R3	Target Arg1:E3 Arg2:T31
+R4	Target Arg1:E4 Arg2:T34
+R5	Target Arg1:E5 Arg2:T39
+R6	Target Arg1:E6 Arg2:T42
+E1	Doping:T2 Dopant:T23
+E2	Doping:T10 Dopant:T25
+E3	Doping:T14 Dopant:T30
+E4	Doping:T17 Dopant:T33
+E5	Doping:T20 Dopant:T38
+E6	Doping:T21 Dopant:T40 Site:T41

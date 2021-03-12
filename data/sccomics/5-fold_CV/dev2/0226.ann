@@ -1,0 +1,55 @@
+T1	Main 12 27	CuCr1−x Fe x O2
+T2	Material 43 57	semiconductors
+T3	Element 99 111	urea nitrate
+T4	Element 136 138	Fe
+T6	Material 160 175	microstructural
+T7	Property 186 194	magnetic
+T8	Property 200 221	electrical properties
+T9	Characterization 241 258	X-ray diffraction
+T10	Characterization 260 263	XRD
+T11	Material 307 316	structure
+T12	Material 341 348	lattice
+T13	Material 349 356	spacing
+T14	Element 360 375	CuCr1−x Fe x O2
+T16	Element 427 429	Fe
+T17	Element 437 439	Cr
+T18	Property 451 469	optical properties
+T19	Process 482 498	room temperature
+T25	Element 773 779	CuCrO2
+T26	Property 798 811	ferromagnetic
+T27	Process 824 840	room temperature
+T29	Element 882 886	Fe3+
+T30	Element 891 895	Cr3+
+T31	Property 927 946	magnetic properties
+T32	Element 950 974	CuCrO2 delafossite oxide
+T33	Property 980 1001	temperature dependent
+T35	SC 1060 1077	superconductivity
+T36	Element 1085 1100	CuCr1−x Fe x O2
+T37	SC 1108 1134	superconducting transition
+T42	Value 37 41	0.15
+T43	Value 29 32	0.0
+T44	Element 295 306	delafossite
+T47	Element 0 11	Delafossite
+T20	Characterization 505 528	UV–visible spectroscopy
+T48	Property 564 577	visible light
+T21	Property 617 640	direct optical band gap
+T49	Value 651 657	3.61eV
+T24	Element 764 766	Fe
+T53	Value 1141 1145	118K
+T54	Characterization 587 589	IR
+T15	Doping 411 423	substitution
+T28	Doping 767 772	doped
+T50	Doping 866 878	substitution
+T5	Property 139 152	concentration
+T22	Characterization 735 747	measurements
+T23	Property 710 734	magnetic hysteresis loop
+T34	Property 1002 1013	resistivity
+T38	Characterization 1014 1026	measurements
+R1	Equivalent Arg1:T37 Arg2:T53
+R2	Target Arg1:T53 Arg2:T36
+R3	Target Arg1:E1 Arg2:T14
+R4	Target Arg1:E2 Arg2:T25
+R5	Target Arg1:E3 Arg2:T32
+E1	Doping:T15 Dopant:T16 Site:T17
+E2	Doping:T28 Dopant:T24
+E3	Doping:T50 Dopant:T29 Site:T30

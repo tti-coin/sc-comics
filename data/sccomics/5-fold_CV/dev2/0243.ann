@@ -1,0 +1,42 @@
+T3	Material 150 165	two-dimensional
+T4	SC 171 185	superconductor
+T5	Element 187 195	graphene
+T9	Property 426 439	self-assembly
+T10	Element 452 459	calcium
+T11	Element 461 463	Ca
+T13	SC 553 568	superconducting
+T14	SC 631 657	superconducting transition
+T15	Property 674 694	upper critical field
+T16	Element 724 727	GSF
+T17	Process 771 781	atmosphere
+T18	Element 853 861	graphene
+T19	SC 902 917	superconductors
+T20	Property 923 936	self-assembly
+T22	SC 1023 1038	superconductors
+T23	Element 128 136	graphene
+T24	Material 167 169	2D
+T8	Element 480 482	As
+T25	Element 494 497	GSF
+T26	Element 619 622	GSF
+T27	Value 662 666	11 K
+T28	Value 702 710	9.85 kOe
+T29	Element 807 810	GSF
+T30	Property 899 901	2D
+T31	Property 1020 1022	2D
+T33	Element 417 420	GSF
+T34	Property 695 698	Hc2
+T35	Main 14 22	graphene
+T1	Doping 122 127	doped
+T2	Doping 465 478	intercalation
+T12	Doping 949 955	doping
+T21	Element 119 121	As
+T6	Element 380 388	graphene
+R1	Coref Arg1:T3 Arg2:T24
+R2	Coref Arg1:T10 Arg2:T11
+R3	Equivalent Arg1:T14 Arg2:T27
+R4	Target Arg1:T27 Arg2:T26
+R5	Target Arg1:E1 Arg2:T23
+R6	Target Arg1:E2 Arg2:T6
+E1	Doping:T1 Dopant:T21
+E2	Doping:T2 Dopant:T10
+E3	Doping:T12 

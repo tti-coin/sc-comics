@@ -1,0 +1,58 @@
+T1	Characterization 0 17	X-ray diffraction
+T2	Characterization 19 22	XRD
+T3	Property 25 47	electrical resistivity
+T4	Property 82 93	thermopower
+T5	Property 102 122	thermal conductivity
+T6	Property 134 147	specific heat
+T7	Main 159 190	Pr 0.7 Sr 0.3 Mn 1 − x Nb x O 3
+T8	Characterization 245 248	XRD
+T9	Property 253 275	electrical resistivity
+T10	Element 320 322	Nb
+T11	Element 380 382	Nb
+T13	Property 439 461	electrical resistivity
+T14	Element 468 470	Nb
+T15	Material 482 496	lattice volume
+T16	Element 541 545	Mn+4
+T17	Element 555 559	Nb+5
+T18	Element 602 608	Mn + 3
+T19	Element 639 641	Nb
+T24	Material 758 766	pristine
+T25	Element 767 781	Pr0.7Sr0.3MnO3
+T26	Process 792 810	lower temperatures
+T28	Property 870 892	electrical resistivity
+T29	Property 897 908	thermopower
+T30	Property 937 945	strength
+T31	Property 949 973	electron–phonon coupling
+T32	Element 1000 1002	Nb
+T33	Property 1012 1032	Thermal conductivity
+T34	Property 1094 1101	phonons
+T35	Property 1105 1122	spin fluctuations
+T36	Property 1174 1187	specific heat
+T40	Value 377 379	3%
+T41	Value 317 319	5%
+T45	Property 609 627	Jahn Teller active
+T46	Property 629 631	JT
+T47	Value 201 205	0.05
+T48	Value 193 194	0
+T50	Element 208 217	manganite
+T12	Doping 383 389	doping
+T20	Doping 400 405	doped
+T22	Doping 471 477	doping
+T27	Doping 528 537	occupancy
+T38	Doping 642 648	doping
+T39	Doping 827 833	doping
+T42	Characterization 276 288	measurements
+T43	Doping 323 329	doping
+T44	Property 58 65	thermal
+T49	Characterization 66 78	measurements
+T51	Property 338 345	thermal
+T52	Characterization 346 358	measurements
+E1	Doping:T12 Dopant:T11
+E2	Doping:T20 
+E3	Doping:T22 Dopant:T14
+E4	Doping:T27 Site:T16 Dopant:T17
+E5	Doping:T38 Dopant:T19
+E6	Doping:T39 
+E7	Doping:T43 Dopant:T10
+T21	Property 712 727	insulator-metal
+T23	Property 728 750	transition temperature

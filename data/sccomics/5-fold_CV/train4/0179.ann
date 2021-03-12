@@ -1,0 +1,43 @@
+T1	Property 0 40	Local density approximation calculations
+T2	Property 59 79	electronic structure
+T3	Property 107 113	strain
+T4	Material 135 147	orthorhombic
+T5	Property 230 236	strain
+T8	SC 317 320	T c
+T9	Property 363 370	strains
+T10	Material 387 392	plane
+T11	Material 413 419	layers
+T13	Property 498 504	strain
+T14	Property 518 524	strain
+T15	Property 550 557	strains
+T16	Property 574 580	phonon
+T18	Property 610 627	density of states
+T19	Property 633 648	charge transfer
+T20	Property 678 685	strains
+T21	Property 696 703	strains
+T22	Property 743 752	frequency
+T23	Property 807 813	strain
+T24	Property 815 830	Charge transfer
+T25	Material 858 864	layers
+T26	Property 912 918	charge
+T27	Material 945 951	layers
+T28	Property 1048 1055	strains
+T29	Property 1062 1068	charge
+T30	Material 1138 1143	layer
+T32	Main 83 92	YBa2Cu3O7
+T36	Element 408 412	CuO2
+T37	Element 571 573	Ag
+T38	Element 768 770	Ag
+T39	Element 1133 1137	CuO2
+T40	Element 1161 1164	Cu2
+T41	Element 1169 1171	O2
+T42	Element 1173 1175	O3
+T31	Property 1203 1216	Fermi surface
+T45	Value 674 676	2%
+T46	Material 433 450	non-tetragonality
+T12	Property 594 609	band structure,
+T17	Material 716 733	non-tetragonality
+T47	Material 843 849	chains
+T48	Property 1102 1121	Madelung potentials
+T6	SC 280 316	superconducting critical temperature
+R1	Coref Arg1:T6 Arg2:T8

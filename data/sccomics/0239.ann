@@ -1,0 +1,39 @@
+T3	Property 20 30	flat bands
+T4	Property 99 120	electronic properties
+T5	Element 159 180	carbon-Kagome-lattice
+T6	Property 203 232	first-principles calculations
+T9	Property 267 277	flat bands
+T10	Material 309 326	three-dimensional
+T11	Element 327 333	carbon
+T12	Material 334 344	structures
+T14	Property 495 514	tight-binding model
+T15	Element 413 419	Kagome
+T16	Material 420 428	lattices
+T17	Property 440 451	Dirac bands
+T18	Element 471 477	carbon
+T19	Material 485 491	chains
+T22	Property 546 561	band structures
+T23	Material 600 604	flat
+T24	Property 609 620	Dirac bands
+T25	Property 632 643	Fermi level
+T26	Material 661 671	structures
+T27	SC 691 706	superconductors
+T29	Property 721 742	electronic properties
+T30	Material 789 802	benzene rings
+T32	Property 817 827	Flat bands
+T33	Property 845 849	band
+T34	Material 865 880	two-dimensional
+T35	Material 881 891	structures
+T36	Property 908 915	spin-up
+T37	Property 920 929	spin-down
+T38	Property 930 935	bands
+T39	Property 987 991	hole
+T1	Property 4 15	Dirac bands
+T41	Element 182 185	CKL
+T42	Property 257 262	Dirac
+T44	Element 575 579	CKLs
+T46	Element 657 660	CKL
+T28	Element 759 762	CKL
+T2	Material 350 354	flat
+T7	Doping 992 998	doping
+E1	Doping:T7 Dopant:T39

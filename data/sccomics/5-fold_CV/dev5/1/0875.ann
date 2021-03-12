@@ -1,0 +1,35 @@
+T2	Process 64 76	ball milling
+T3	Material 101 115	microstructure
+T4	Property 120 140	transport properties
+T5	Main 144 171	Bi1.7Pb0.3Sr2Ca2Cu3Oy(B4C)x
+T6	SC 172 175	HTS
+T7	Characterization 216 233	X-ray diffraction
+T8	Characterization 235 238	XRD
+T9	Characterization 241 269	scanning electron microscopy
+T10	Characterization 271 274	SEM
+T11	Property 277 288	resistivity
+T13	Element 365 368	B4C
+T14	Material 369 377	additive
+T15	SC 414 422	high-T c
+T16	Material 423 438	phase formation
+T17	Property 470 473	J c
+T18	Property 475 486	High-energy
+T19	Process 487 499	ball milling
+T21	Material 566 575	particles
+T22	Element 583 595	(Bi,Pb)-2223
+T23	SC 596 599	HTS
+T24	Material 629 642	intergranular
+T25	Property 643 655	flux pinning
+T26	Property 667 677	self-field
+T27	Property 678 681	J c
+T1	Element 39 42	B4C
+T20	Doping 43 49	doping
+T29	Value 185 186	0
+T30	Value 189 194	0.125
+T28	Doping 560 565	doped
+T12	Property 293 317	critical current density
+T31	Characterization 318 330	measurements
+R1	Target Arg1:E1 Arg2:T5
+R2	Target Arg1:E2 Arg2:T22
+E1	Doping:T20 Dopant:T1
+E2	Doping:T28 

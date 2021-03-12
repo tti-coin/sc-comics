@@ -1,0 +1,36 @@
+T1	Property 73 93	optical conductivity
+T2	Process 97 113	high-temperature
+T4	Property 219 228	stressing
+T5	Property 252 271	strongly correlated
+T6	Property 285 294	pseudogap
+T7	Property 311 323	normal state
+T8	Property 327 331	hole
+T10	Element 338 346	cuprates
+T11	Property 384 399	spectral weight
+T12	Property 471 491	optical conductivity
+T13	Property 522 534	normal state
+T16	Property 583 598	spectral weight
+T17	Property 638 650	normal state
+T18	Property 658 666	electron
+T20	Material 673 682	materials
+T21	SC 688 703	superconducting
+T22	SC 739 754	superconducting
+T23	Property 834 853	Eliashberg function
+T24	Property 893 898	pairs
+T25	Element 978 982	MgB2
+T26	Element 987 995	pnictide
+T27	SC 996 1011	superconductors
+T28	Property 760 774	kinetic energy
+T29	Property 755 758	gap
+T30	Property 651 654	gap
+T9	Doping 332 337	doped
+T14	Doping 545 555	underdoped
+T15	Doping 563 572	overdoped
+T19	Doping 667 672	doped
+T3	Main 114 121	cuprate
+T31	SC 122 137	superconductors
+R1	Target Arg1:E1 Arg2:T10
+E1	Doping:T9 Dopant:T8
+E2	Doping:T14
+E3	Doping:T15
+E4	Doping:T19 Dopant:T18

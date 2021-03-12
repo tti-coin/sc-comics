@@ -1,0 +1,27 @@
+T1	Property 37 49	spin-triplet
+T3	SC 50 64	superconductor
+T4	Main 65 72	Sr2RuO4
+T5	Property 89 106	thermal transport
+T7	SC 146 160	superconductor
+T8	Property 173 178	bands
+T9	Element 182 189	Sr2RuO4
+T10	Property 262 284	Fermi surface topology
+T11	SC 341 356	superconducting
+T12	SC 417 434	superconductivity
+T13	Property 446 461	two-dimensional
+T14	Property 462 481	tight-binding model
+T16	Property 499 505	γ band
+T17	Property 568 585	thermal transport
+T19	SC 676 691	superconducting
+T20	Property 715 727	conductivity
+T21	Process 751 766	low-temperature
+T2	Property 139 145	p-wave
+T6	Property 528 557	Bogoliubov-de Gennes approach
+T18	Property 646 668	topological properties
+T25	Property 974 993	Lifshitz transition
+T27	Property 775 792	Hall conductivity
+T15	Property 304 326	topological properties
+T22	Doping 899 911	incorporates
+E1	Doping:T22
+T23	SC 946 961	superconducting
+T24	Property 962 965	gap

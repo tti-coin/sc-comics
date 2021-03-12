@@ -1,0 +1,23 @@
+T1	Property 16 33	surface impedance
+T2	Main 37 52	NaFe1−x Co x As
+T4	Material 80 95	single crystals
+T5	Property 109 124	magnetic fields
+T6	Process 129 145	low temperatures
+T7	Material 191 199	crystals
+T8	Property 233 236	T n
+T9	SC 302 319	superconductivity
+T10	Material 325 334	flux-flow
+T11	Property 335 346	resistivity
+T13	Property 439 449	electronic
+T14	Property 467 473	vortex
+T15	Element 536 549	LiFeAs1−x P x
+T16	Element 554 571	SrFe2(As0.7P0.3)2
+T17	Property 604 618	gap anisotropy
+T20	Value 257 258	2
+T24	Value 57 61	0.03
+T28	Property 379 405	Bardeen–Stephen prediction
+T18	SC 153 156	T c
+T19	Property 294 301	gapless
+T3	Doping 73 78	doped
+R1	Target Arg1:E1 Arg2:T2
+E1	Doping:T3

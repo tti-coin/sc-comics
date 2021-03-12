@@ -1,0 +1,68 @@
+T1	SC 32 47	superconducting
+T2	Main 62 86	Bi2Sr2Ca1−x Na x Cu2O8+δ
+T3	Material 126 134	textured
+T4	SC 135 150	superconducting
+T5	Material 151 161	fiber rods
+T6	Process 174 195	a laser floating zone
+T7	Element 241 245	Na+1
+T9	Element 263 267	Ca2+
+T10	Characterization 294 311	X-ray diffraction
+T11	Characterization 313 316	XRD
+T12	Characterization 319 347	scanning electron microscopy
+T13	Characterization 349 352	SEM
+T14	Characterization 355 391	energy dispersive X-ray spectroscopy
+T15	Characterization 393 396	EDX
+T18	Property 423 439	dc-magnetization
+T20	Property 441 460	magnetic hysteresis
+T22	Property 465 498	magnetic critical current density
+T23	Material 504 510	powder
+T24	Characterization 511 514	XRD
+T25	Element 555 568	Bi-2212 phase
+T26	Element 604 606	Na
+T27	SC 625 645	critical temperature
+T28	SC 647 650	T C
+T29	Element 711 718	0.075Na
+T31	Property 745 753	magnetic
+T32	Property 754 757	J C
+T33	Element 817 823	0.10Na
+T35	Property 844 878	transport critical current density
+T36	Element 938 944	0.05Na
+T37	Value 787 801	1.35×105 A/cm2
+T38	Value 805 808	10K
+T39	Value 909 922	1.3×103 A/cm2
+T40	Value 926 929	77K
+T41	Value 671 676	93.3K
+T46	Value 94 97	0.0
+T47	Value 99 103	0.05
+T48	Value 105 110	0.075
+T49	Value 112 115	0.1
+T50	Process 197 200	LFZ
+T17	Value 121 125	0.20
+T8	Doping 246 258	substitution
+T19	Doping 719 731	substitution
+T16	Property 399 408	transport
+T21	Characterization 409 421	measurements
+R1	Equivalent Arg1:T28 Arg2:T41
+E1	Doping:T8 Dopant:T7 Site:T9
+E2	Doping:T19 Dopant:T29
+#1	AnnotatorNotes T2	62-86
+#2	AnnotatorNotes T3	126-134
+#3	AnnotatorNotes T5	151-161
+#4	AnnotatorNotes T7	241-245
+#5	AnnotatorNotes T9	263-267
+#6	AnnotatorNotes T23	504-510
+#7	AnnotatorNotes T25	555-568
+#8	AnnotatorNotes T26	604-606
+#9	AnnotatorNotes T29	711-718
+#10	AnnotatorNotes T33	817-823
+#11	AnnotatorNotes T36	938-944
+#12	AnnotatorNotes T37	787-801
+#13	AnnotatorNotes T38	805-808
+#14	AnnotatorNotes T39	909-922
+#15	AnnotatorNotes T40	926-929
+#16	AnnotatorNotes T41	671-676
+#17	AnnotatorNotes T46	94-97
+#18	AnnotatorNotes T47	99-103
+#19	AnnotatorNotes T48	105-110
+#20	AnnotatorNotes T49	112-115
+#21	AnnotatorNotes T17	121-125

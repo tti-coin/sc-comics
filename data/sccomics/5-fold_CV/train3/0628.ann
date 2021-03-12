@@ -1,0 +1,37 @@
+T1	Property 14 22	spectrum
+T2	SC 26 35	high- T c
+T3	Element 36 44	cuprates
+T4	Property 89 99	low energy
+T5	Property 113 124	high energy
+T6	Property 158 169	energy gaps
+T8	Characterization 240 269	scanning tunneling microscopy
+T9	Characterization 270 282	spectroscopy
+T11	Element 309 311	Pb
+T12	Main 324 343	Bi 2 Sr 2 CuO 6 + δ
+T13	Element 345 354	Pb-Bi2201
+T14	SC 358 361	T c
+T15	Property 374 389	magnetic fields
+T16	Property 394 404	zero field
+T17	Characterization 417 434	tunneling spectra
+T18	Characterization 541 559	tunneling spectrum
+T19	Property 587 601	magnetic field
+T20	SC 775 790	superconducting
+T21	Property 803 812	pseudogap
+T22	Value 364 368	20 K
+T23	Value 513 517	10mV
+T24	Value 622 626	10mV
+T26	Value 661 671	above 20mV
+T27	Value 605 607	7T
+T28	Value 728 732	10mV
+T29	Value 522 532	above 20mV
+T7	Property 791 794	gap
+T30	Property 212 216	gaps
+T10	Doping 299 308	overdoped
+T31	Doping 312 323	substituted
+T25	Value 743 747	20mV
+R1	Equivalent Arg1:T14 Arg2:T22
+R2	Target Arg1:T22 Arg2:T12
+R3	Target Arg1:E2 Arg2:T12
+R4	Target Arg1:E1 Arg2:T12
+E1	Doping:T10 
+E2	Doping:T31 Dopant:T11

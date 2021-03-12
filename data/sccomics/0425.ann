@@ -1,0 +1,30 @@
+T1	Element 38 40	Ni
+T3	Main 56 74	K0.8Fe2−x Ni x Se2
+T4	Material 85 99	single crystal
+T5	Material 131 147	epitaxial growth
+T7	Material 211 220	structure
+T8	Material 221 237	phase separation
+T9	Property 258 266	magnetic
+T10	Property 267 282	hysteresis loop
+T11	Process 353 359	cooled
+T12	Property 376 390	magnetic field
+T13	Property 411 430	magnetic anisotropy
+T16	Material 521 528	cluster
+T17	Property 534 544	spin-glass
+T18	Property 615 628	ferromagnetic
+T19	Material 629 637	clusters
+T20	Property 665 682	antiferromagnetic
+T21	Element 742 744	Ni
+T22	Element 748 750	Fe
+T24	Process 771 779	quenched
+T25	SC 784 801	superconductivity
+T26	Property 814 818	spin
+T27	Material 819 828	disorders
+T29	Value 368 370	3K
+T6	Characterization 165 194	X-ray diffraction experiments
+T32	Value 78 83	0.015
+T28	Property 503 517	spin disorders
+T2	Doping 50 55	doped
+T14	Element 754 756	Fe
+R1	Target Arg1:E1 Arg2:T3
+E1	Doping:T2 Dopant:T1

@@ -1,0 +1,53 @@
+T1	Main 0 10	DyBa2Cu3Oy
+T2	Main 12 18	Dy-123
+T3	Material 20 31	thick films
+T4	Element 53 60	Dy2BaO4
+T5	Element 62 68	BaCuO2
+T6	Element 74 77	CuO
+T7	Material 78 85	powders
+T9	Element 123 127	Ag2O
+T10	Element 140 155	alpha-terpineol
+T11	Element 160 175	2-ethyl acetate
+T12	Material 220 234	stoichiometric
+T13	Material 235 243	powdered
+T15	Material 322 332	Thick film
+T16	Element 384 387	MgO
+T17	Material 388 398	substrates
+T18	Material 437 442	films
+T19	Process 448 456	sintered
+T20	Process 464 493	double-step annealing process
+T21	Element 499 505	Dy-123
+T22	Material 506 517	thick films
+T23	Characterization 549 552	XRD
+T24	Material 604 610	c-axis
+T25	Element 620 626	Dy-123
+T26	Material 631 636	films
+T27	Process 637 645	annealed
+T28	Characterization 687 715	Scanning electron microscopy
+T29	Material 746 750	flat
+T30	Material 751 757	grains
+T32	Property 790 803	magnetization
+T33	SC 914 929	superconducting
+T34	Material 930 941	thick films
+T35	Element 945 948	MgO
+T36	Material 949 959	substrates
+T38	Value 101 102	0
+T39	Material 190 197	solvent
+T40	Value 208 213	100nm
+T41	Material 266 273	grinded
+T42	Value 649 655	1070oC
+T43	Value 660 665	10min
+T44	Value 673 678	880oC
+T45	Value 683 685	2h
+T46	Value 773 776	91K
+T48	Value 104 105	1
+T49	Value 107 108	2
+T50	Value 114 119	4 wt%
+T51	Process 406 431	screen printing technique
+T8	Doping 95 100	added
+T14	Doping 256 261	added
+T37	Characterization 804 816	measurements
+T31	SC 759 768	Onset T c
+R2	Equivalent Arg1:T31 Arg2:T46
+E1	Doping:T8 Dopant:T9
+E2	Doping:T14

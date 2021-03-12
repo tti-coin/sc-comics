@@ -1,0 +1,38 @@
+T2	Property 70 79	magnetism
+T3	Property 84 104	transport properties
+T4	Main 108 116	Fe1+y Te
+T5	Material 117 132	single crystals
+T7	Element 213 215	Co
+T9	Property 230 240	spin-glass
+T10	Process 266 281	low temperature
+T12	Element 318 320	Co
+T13	Element 325 327	Fe
+T14	Property 338 346	metallic
+T15	Property 364 385	structural transition
+T16	Property 405 422	density of states
+T17	Property 426 437	Fermi-level
+T19	Element 496 498	Co
+T25	Property 656 667	Fermi-level
+T27	Property 770 782	local moment
+T28	Property 835 838	AFM
+T29	Property 839 851	ground state
+T30	Element 855 863	Fe1+y Te
+T23	Property 575 592	magnetic scatters
+T35	Value 313 317	0.09
+T38	Element 45 47	Co
+T18	Property 522 529	carrier
+T6	Property 723 737	AFM transition
+T1	Doping 48 54	doping
+T8	Doping 216 222	doping
+T11	Doping 288 300	substituting
+T20	Doping 499 505	doping
+T22	Doping 530 536	doping
+T21	Property 155 197	anti-ferromagnetism transition temperature
+T24	Property 623 625	RH
+T31	Characterization 626 638	measurements
+R1	Target Arg1:E1 Arg2:T4
+E1	Doping:T1 Dopant:T38
+E2	Doping:T8 Dopant:T7
+E3	Doping:T11 Dopant:T12 Site:T13
+E4	Doping:T20 Dopant:T19
+E5	Doping:T22 Dopant:T18

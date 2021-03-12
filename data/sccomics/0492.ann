@@ -1,0 +1,50 @@
+T1	Main 66 77	YBa2Cu3O7-δ
+T2	Main 79 83	YBCO
+T3	SC 85 116	high temperature superconductor
+T4	Process 129 136	sol-gel
+T6	Element 159 173	Graphene Oxide
+T7	Element 175 177	GO
+T8	Characterization 240 257	x-ray diffraction
+T9	Characterization 259 262	XRD
+T10	Material 299 311	orthorhombic
+T11	SC 321 338	superconductivity
+T12	Element 383 385	GO
+T14	Material 405 416	crystalline
+T15	Element 466 468	GO
+T17	Property 483 495	normal state
+T18	Property 496 507	resistivity
+T19	SC 513 551	superconducting transition temperature
+T20	SC 553 555	Tc
+T21	Property 561 585	critical current density
+T22	Property 587 589	Jc
+T23	Element 618 620	GO
+T25	Property 689 691	Jc
+T26	Element 720 722	GO
+T28	Element 729 733	YBCO
+T29	Property 752 776	critical current density
+T30	Property 809 811	Jc
+T31	Property 833 847	magnetic field
+T32	Characterization 853 881	scanning electron microscope
+T33	Characterization 883 886	SEM
+T34	Material 949 955	grains
+T35	Element 959 961	GO
+T38	Value 712 719	0.7 %wt
+T39	Value 827 832	0.4 T
+T37	Value 212 213	0
+T40	Value 215 218	0.1
+T41	Value 220 223	0.7
+T42	Value 228 234	1 % wt
+T5	Doping 148 153	doped
+T13	Doping 386 392	doping
+T16	Doping 469 475	doping
+T24	Doping 621 627	doping
+T27	Doping 723 728	doped
+T36	Doping 962 967	doped
+R4	Target Arg1:E1 Arg2:T1
+R5	Target Arg1:E5 Arg2:T28
+E1	Doping:T5 Dopant:T6
+E2	Doping:T13 Dopant:T12
+E3	Doping:T16 Dopant:T15
+E4	Doping:T24 Dopant:T23
+E5	Doping:T27 Dopant:T26
+E6	Doping:T36 Dopant:T35

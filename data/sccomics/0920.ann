@@ -1,0 +1,29 @@
+T1	Material 17 26	materials
+T2	Material 159 175	active molecules
+T3	Element 397 408	polysulfone
+T4	Element 413 422	fullerene
+T6	Element 495 500	AlCl3
+T7	Material 548 568	molecular structures
+T9	Characterization 598 604	1H NMR
+T10	Element 641 650	fullerene
+T11	Material 665 671	bonded
+T12	Material 691 697	chains
+T14	Material 811 820	materials
+T17	Element 795 810	C60–polysulfone
+T19	Characterization 606 608	IR
+T20	Characterization 614 625	UV analyses
+T21	Element 905 908	C60
+T23	Main 298 319	fullerene–polysulfone
+T24	Process 345 365	direct fullerenation
+T25	Material 735 749	macromolecules
+T26	Material 135 152	nonlinear optical
+T27	Material 154 157	NLO
+T28	Element 679 690	polysulfone
+T8	Property 838 855	thermal stability
+T5	Process 430 475	electrophilic aromatic substitution reactions
+T13	Element 699 702	C60
+T15	Property 859 887	glass transition temperature
+T16	Value 775 778	0.5
+T18	Value 782 789	3.2mol%
+T22	Element 251 260	fullerene
+T29	Element 261 268	polymer

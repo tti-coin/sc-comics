@@ -1,0 +1,39 @@
+T1	Property 4 20	spin excitations
+T3	Main 28 43	LaFeAsO1− x F x
+T5	Material 119 125	powder
+T8	Property 197 209	magnetic rod
+T9	Material 241 251	tetragonal
+T10	Property 252 266	Brillouin zone
+T11	Material 293 309	tetragonal phase
+T12	SC 329 344	superconducting
+T13	Property 384 400	spin excitations
+T15	SC 421 460	superconducting transition temperatures
+T16	Property 476 481	order
+T20	Process 674 689	low temperature
+T21	SC 690 707	superconductivity
+T22	SC 758 775	superconductivity
+T23	Property 807 823	spin fluctuation
+T24	Property 882 896	Fermi surfaces
+T28	Value 646 651	0.158
+T30	Value 557 562	11meV
+T31	Value 363 368	0.057
+T32	Value 373 378	0.082
+T33	Value 316 320	280K
+T35	Property 163 178	spin excitation
+T2	Property 568 583	spin excitation
+T4	Characterization 82 113	neutron scattering measurements
+T6	Doping 619 628	overdoped
+T7	Value 714 716	7K
+R1	Equivalent Arg1:T21 Arg2:T7
+R2	Condition Arg1:T7 Arg2:E1
+E1	Doping:T6 
+#1	AnnotatorNotes T3	28-43
+#2	AnnotatorNotes T5	119-125
+#3	AnnotatorNotes T9	241-251
+#4	AnnotatorNotes T11	293-309
+#5	AnnotatorNotes T28	646-651
+#6	AnnotatorNotes T30	557-562
+#7	AnnotatorNotes T31	363-368
+#8	AnnotatorNotes T32	373-378
+#9	AnnotatorNotes T33	316-320
+#10	AnnotatorNotes T7	714-716

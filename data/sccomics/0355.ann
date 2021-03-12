@@ -1,0 +1,67 @@
+T1	Property 0 8	Magnetic
+T2	SC 33 50	superconductivity
+T3	Main 79 97	(In1 − x Fe x )2O3
+T4	Material 129 139	thin films
+T6	Process 156 161	grown
+T7	Material 165 170	glass
+T8	Material 171 180	substrate
+T9	Process 184 197	electron beam
+T10	Process 198 209	evaporation
+T11	Material 234 239	films
+T12	Material 270 279	particles
+T13	Property 308 338	ferromagnetic hysteresis loops
+T15	Process 342 358	room temperature
+T16	Property 374 387	magnetization
+T17	Element 403 407	iron
+T18	Property 408 428	dopant concentration
+T19	Property 439 452	magnetization
+T20	Property 500 508	magnetic
+T21	Property 546 567	Temperature dependent
+T22	Property 568 579	resistivity
+T23	Property 620 628	metallic
+T24	Process 651 667	low temperatures
+T25	SC 672 689	superconductivity
+T27	Element 708 713	In2O3
+T28	Element 726 740	In1.86Fe0.14O3
+T29	SC 754 771	superconductivity
+T30	Property 799 814	magnetic fields
+T31	Process 820 829	reduction
+T32	SC 833 855	transition temperature
+T33	Property 883 893	electrical
+T34	Material 894 902	disorder
+T35	Element 908 912	iron
+T37	SC 977 992	superconducting
+T38	Property 1018 1029	resistivity
+T39	SC 1057 1072	superconducting
+T40	Property 1073 1085	Cooper pairs
+T41	Property 1106 1120	magnetic field
+T43	Property 1186 1202	electrical state
+T44	Property 1223 1235	normal state
+T45	Property 1250 1254	spin
+T46	Property 1325 1339	charge carrier
+T48	Value 223 228	350°C
+T52	Value 102 106	0.00
+T53	Value 108 112	0.03
+T54	Value 114 118	0.05
+T55	Value 123 127	0.07
+T56	Value 264 269	120nm
+T58	Value 598 602	0.00
+T59	Value 607 611	0.07
+T60	Value 693 695	2K
+T62	Property 950 968	magnetoresistivity
+T63	Property 970 972	MR
+T64	Property 1173 1175	MR
+T42	Property 1217 1219	MR
+T5	Material 141 154	2D structures
+T65	Property 1359 1375	localized states
+T14	Element 482 483	F
+T66	Property 10 28	magnetoresistivity
+T36	Doping 913 919	doping
+T47	Doping 1350 1358	occupied
+T26	Value 778 780	2K
+R1	Equivalent Arg1:T25 Arg2:T60
+R2	Target Arg1:T60 Arg2:T27
+R3	Equivalent Arg1:T29 Arg2:T26
+R4	Target Arg1:T26 Arg2:T28
+E2	Doping:T36 Dopant:T35
+E3	Doping:T47

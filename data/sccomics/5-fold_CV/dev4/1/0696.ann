@@ -1,0 +1,38 @@
+T1	Property 4 15	anisotropic
+T3	Main 49 67	Nd1.85Ce0.15CuO4−δ
+T4	Material 68 82	single crystal
+T5	SC 126 146	critical temperature
+T6	SC 147 150	T c
+T8	Property 186 200	magnetic field
+T9	Property 229 253	conductivity fluctuation
+T10	SC 265 291	superconducting transition
+T11	Property 297 317	upper critical field
+T13	Material 372 378	c-axis
+T15	Property 409 419	anisotropy
+T16	Property 489 501	normal state
+T17	Property 521 538	magnetoresistance
+T18	Property 656 660	hole
+T20	Element 667 675	cuprates
+T22	Element 713 731	Nd1.85Ce0.15CuO4−δ
+T25	Value 209 212	12T
+T27	Value 510 514	180K
+T28	Value 503 505	50
+T29	Property 540 542	MR
+T23	Element 732 739	cuprate
+T30	SC 740 754	superconductor
+T12	Property 565 579	H 2 dependence
+T14	Material 395 403	ab-plane
+T7	Doping 661 666	doped
+T2	Doping 43 48	doped
+T21	Value 479 480	8
+T19	Doping 707 712	doped
+T24	Property 159 170	resistivity
+T26	Characterization 171 182	measurement
+R1	Target Arg1:E2 Arg2:T20
+R2	Target Arg1:E1 Arg2:T3
+R3	Coref Arg1:T5 Arg2:T6
+R4	Target Arg1:E3 Arg2:T22
+R5	Target Arg1:E3 Arg2:T23
+E2	Doping:T7 Dopant:T18
+E1	Doping:T2 
+E3	Doping:T19 

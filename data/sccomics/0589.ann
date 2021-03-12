@@ -1,0 +1,37 @@
+T2	Material 51 65	single crystal
+T3	Property 66 89	magnetic susceptibility
+T4	Element 156 158	Ag
+T5	Element 165 175	rare earth
+T6	Material 176 198	intermetallic compound
+T7	Main 199 207	PrAg2Ge2
+T8	Property 320 334	susceptibility
+T9	Property 396 410	magnetic order
+T10	Property 462 484	transition temperature
+T11	Property 618 630	ground state
+T12	Property 735 743	magnetic
+T13	Property 744 757	specific heat
+T14	Property 798 815	magnetic ordering
+T15	Element 823 825	Pr
+T17	Element 911 931	transition-metal ion
+T18	Element 935 943	PrAg2Ge2
+T19	Element 984 992	PrAu2Ge2
+T1	Value 96 104	300–1.8K
+T21	Value 346 349	12K
+T22	Property 528 544	de Gennes factor
+T23	Property 596 610	Stark energies
+T24	Material 688 700	eigenvectors
+T25	Property 710 727	thermal variation
+T26	Property 1086 1094	J-mixing
+T20	Property 0 15	A crystal field
+T27	Property 17 19	CF
+T28	Property 570 572	CF
+T29	Property 369 371	CF
+T30	Property 286 288	CF
+T31	Property 872 874	CF
+T32	Material 137 147	[001] axis
+T33	Material 826 836	sublattice
+T34	Property 1043 1064	intermediate coupling
+T35	Characterization 21 29	analysis
+T16	Doping 895 907	substitution
+R1	Target Arg1:E1 Arg2:T18
+E1	Doping:T16 Dopant:T17

@@ -1,0 +1,115 @@
+T1	Material 0 7	Borides
+T2	Material 9 17	carbides
+T3	Material 23 31	nitrides
+T4	Process 95 103	pressure
+T5	Process 146 160	heat-treatment
+T6	Process 279 295	high temperature
+T7	Process 306 314	Pressure
+T8	Process 330 338	pressing
+T9	Material 396 409	stoichiometry
+T11	Material 430 438	nitrides
+T12	Element 484 486	N2
+T13	Element 488 491	NH3
+T14	Element 497 499	N2
+T15	Element 500 502	H2
+T16	Material 540 548	carbides
+T17	Element 550 557	methane
+T18	Element 559 565	ethane
+T19	Element 567 574	propane
+T20	Element 580 584	urea
+T21	Element 586 587	C
+T22	Element 588 590	CO
+T23	Element 591 594	CO2
+T24	Element 595 597	H2
+T25	Element 616 626	boric acid
+T26	Element 630 644	boron trioxide
+T27	Material 664 671	borides
+T28	Process 694 708	Heat-treatment
+T29	Process 724 733	quenching
+T30	Process 747 762	low temperature
+T31	Material 922 946	stoichiometric compounds
+T32	Material 954 971	crystal structure
+T33	Material 976 983	bonding
+T34	Characterization 1034 1051	X-ray diffraction
+T35	Characterization 1053 1056	XRD
+T37	Characterization 1091 1131	extended X-ray absorption fine structure
+T38	Characterization 1133 1138	EXAFS
+T39	Characterization 1141 1173	X-ray photoelectron spectroscopy
+T40	Characterization 1175 1178	XPS
+T42	Characterization 1210 1243	electron energy loss spectroscopy
+T43	Characterization 1245 1249	EELS
+T44	Characterization 1256 1274	X-ray fluorescence
+T45	Material 1282 1295	Stoichiometry
+T46	Characterization 1339 1383	inductively coupled plasma mass spectrometry
+T49	Element 1437 1438	N
+T50	Element 1439 1440	C
+T53	Material 1462 1474	interstitial
+T55	Material 1489 1502	metal lattice
+T56	Element 1512 1513	B
+T57	Material 1514 1519	atoms
+T60	Material 1534 1546	interstitial
+T61	Element 1556 1580	transition metal borides
+T62	Material 1582 1596	Microstructure
+T63	Characterization 1620 1652	transmission electron microscopy
+T64	Characterization 1654 1657	TEM
+T65	Characterization 1660 1688	scanning electron microscopy
+T66	Characterization 1690 1693	SEM
+T67	Characterization 1696 1737	scanning transmission electron microscopy
+T68	Characterization 1739 1743	STEM
+T72	Material 1818 1826	particle
+T73	Process 1885 1899	heat-treatment
+T74	Material 1921 1928	borides
+T75	Material 1944 1952	nitrides
+T76	Property 1968 1988	thermal conductivity
+T77	Property 1998 2021	electrical conductivity
+T78	SC 2041 2058	superconductivity
+T79	SC 2064 2067	T c
+T80	Element 2089 2093	MgB2
+T81	Property 2102 2110	hardness
+T82	Element 2163 2170	diamond
+T83	Property 2189 2204	magnetic moment
+T85	Element 2208 2214	Fe16N2
+T86	Element 2247 2251	iron
+T87	Material 2259 2268	materials
+T88	Property 2326 2340	melting points
+T89	Material 2354 2361	bonding
+T90	Property 2432 2452	electrical insulator
+T93	Characterization 2561 2564	AFM
+T94	Process 2577 2584	coating
+T95	Property 2593 2604	diamagnetic
+T96	Element 2626 2628	BN
+T97	Element 2630 2635	SiN x
+T98	Characterization 2675 2701	nuclear magnetic resonance
+T99	Characterization 2703 2706	NMR
+T100	Material 2709 2726	magnetic material
+T101	SC 2728 2743	superconducting
+T104	Process 2831 2838	coating
+T105	Material 2842 2850	material
+T106	Element 2856 2859	TiN
+T107	Property 2921 2930	catalysis
+T109	Process 2969 2982	H2 atmosphere
+T112	Element 3042 3056	boron carbides
+T114	Value 297 303	2000°C
+T115	Value 267 272	200°C
+T69	Characterization 1746 1778	atomic/magnetic force microscopy
+T70	Characterization 1780 1787	AFM/MFM
+T41	Characterization 1181 1208	Raman/infrared spectroscopy
+T36	Characterization 1059 1089	neutron scattering/diffraction
+T113	Element 2490 2492	WC
+T116	Characterization 1276 1279	XRF
+T117	Characterization 1385 1391	ICP-MS
+T119	Material 1930 1938	carbides
+T10	Process 258 261	low
+T51	Material 1441 1446	atoms
+T58	Process 777 784	heating
+T54	Property 3004 3022	neutron absorption
+T84	Material 2459 2467	material
+T91	Material 2514 2517	gas
+T92	Material 1427 1435	carbides
+T47	Element 1397 1422	transition metal nitrides
+T48	Value 2073 2074	1
+T52	Value 2078 2081	39K
+R1	Equivalent Arg1:T79 Arg2:T48
+R2	Equivalent Arg1:T79 Arg2:T52
+R3	Target Arg1:T48 Arg2:T80
+R4	Target Arg1:T52 Arg2:T80

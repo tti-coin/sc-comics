@@ -1,0 +1,36 @@
+T2	Main 30 37	Bi-2212
+T3	Material 38 46	crystals
+T4	Element 58 60	Bi
+T6	Element 81 83	Sr
+T8	Process 170 175	grown
+T9	Process 266 275	annealing
+T10	Element 329 331	Bi
+T11	Property 332 339	valence
+T12	Property 395 409	formal valence
+T13	Element 438 440	Bi
+T15	Property 487 500	excess oxygen
+T17	Material 575 588	c-axis length
+T18	Property 639 652	decomposition
+T19	Property 653 666	phase diagram
+T20	SC 691 693	Tc
+T21	Process 725 734	annealing
+T22	SC 768 783	superconducting
+T23	Value 697 700	22K
+T30	Value 808 811	50%
+T31	Property 784 799	volume fraction
+T34	Value 360 364	+2.2
+T35	Value 410 412	+3
+T1	Doping 19 29	underdoped
+T5	Doping 61 73	substitution
+T14	Doping 441 453	substitution
+T24	Value 159 160	0
+T36	Value 161 164	0.3
+T7	Property 112 125	excess oxygen
+T16	Doping 520 526	doping
+R1	Equivalent Arg1:T20 Arg2:T23
+R2	Target Arg1:E1 Arg2:T2
+R3	Target Arg1:E2 Arg2:T2
+E1	Doping:T1
+E2	Doping:T5 Dopant:T4 Site:T6
+E3	Doping:T14 Dopant:T13
+E4	Doping:T16

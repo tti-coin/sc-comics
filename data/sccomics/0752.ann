@@ -1,0 +1,45 @@
+T1	Property 14 26	non-magnetic
+T2	Property 27 46	impurity-scattering
+T3	SC 79 94	superconducting
+T4	SC 100 102	SC
+T6	SC 146 154	high T c
+T7	Main 155 163	cuprates
+T8	Property 169 183	phase diagrams
+T9	Element 192 200	cuprates
+T10	SC 218 221	T c
+T11	SC 314 316	SC
+T12	Property 317 323	orders
+T13	SC 339 341	SC
+T14	SC 349 352	T c
+T16	Property 385 404	impurity scattering
+T17	SC 410 432	transition temperature
+T18	Property 491 508	density of states
+T20	SC 566 568	SC
+T22	Property 676 689	specific heat
+T23	SC 744 747	T c
+T24	Property 762 775	specific heat
+T25	Property 817 829	non-magnetic
+T26	Material 830 840	impurities
+T27	Property 863 873	superfluid
+T28	Property 874 881	density
+T29	Material 912 920	impurity
+T30	Property 95 98	gap
+T5	Property 112 126	d-density wave
+T31	Property 128 131	DDW
+T32	Property 342 345	gap
+T33	Property 440 443	DDW
+T34	SC 522 524	SC
+T35	Property 525 528	DDW
+T37	Property 606 609	DDW
+T39	Property 737 740	gap
+T40	Property 306 309	DDW
+T15	Doping 374 380	doping
+T19	Doping 543 553	underdoped
+T21	Doping 555 557	UD
+T36	Doping 623 625	UD
+T38	Doping 582 591	overdoped
+E1	Doping:T15
+E2	Doping:T19
+E3	Doping:T21
+E4	Doping:T36
+E5	Doping:T38

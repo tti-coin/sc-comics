@@ -1,0 +1,53 @@
+T1	Element 0 2	Si
+T2	Main 14 32	Ba8−x Eu x Al5Si41
+T3	Process 100 111	arc melting
+T4	Element 160 162	Eu
+T6	Element 180 182	Ba
+T7	Property 227 242	magnetic moment
+T9	Material 263 284	crystalline structure
+T10	Material 306 311	cubic
+T11	Material 312 329	lattice parameter
+T12	Element 341 343	Eu
+T14	Element 385 387	Eu
+T17	SC 456 459	T C
+T18	Property 554 565	diamagnetic
+T19	SC 589 606	superconductivity
+T20	Property 680 695	magnetic moment
+T22	Element 699 701	Eu
+T23	SC 707 724	superconductivity
+T25	Property 758 771	ferromagnetic
+T27	SC 897 922	type-II superconductivity
+T28	Element 946 948	Eu
+T29	SC 962 977	superconducting
+T30	Property 984 998	critical field
+T31	SC 1068 1085	superconductivity
+T32	Property 1134 1147	ferromagnetic
+T33	Process 1160 1175	low temperature
+T34	Material 3 13	clathrates
+T43	Material 190 199	clathrate
+T52	Value 546 549	0.4
+T53	Value 625 628	2 K
+T24	Property 849 852	M-T
+T54	Property 857 860	M-H
+T55	Property 1018 1035	Weiss temperature
+T57	Value 1063 1066	0.4
+T38	Value 50 51	0
+T39	Value 53 56	0.1
+T40	Value 58 61	0.2
+T41	Value 63 66	0.3
+T42	Value 71 74	0.4
+T26	Element 828 830	Eu
+T8	Process 116 128	acid washing
+T5	Doping 163 175	substitution
+T13	Doping 364 377	incorporation
+T21	Value 475 478	6.8
+T35	Value 482 487	4.5 K
+T36	Value 508 509	0
+T44	Value 513 516	0.3
+T15	SC 408 455	critical superconducting transition temperature
+R1	Equivalent Arg1:T17 Arg2:T21
+R2	Equivalent Arg1:T17 Arg2:T35
+R3	Coref Arg1:T15 Arg2:T17
+R4	Equivalent Arg1:T19 Arg2:T53
+E1	Doping:T5 Dopant:T4 Site:T6
+E2	Doping:T13 Dopant:T14

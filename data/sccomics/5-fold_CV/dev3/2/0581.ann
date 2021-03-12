@@ -1,0 +1,21 @@
+T1	SC 15 53	superconducting transition temperature
+T2	SC 54 57	T C
+T3	Main 61 85	β ‐ ( BEDT ‐ TTF ) 2 I 3
+T4	SC 93 102	high- T C
+T6	Material 149 156	crystal
+T8	SC 257 260	T C
+T9	Process 292 307	piston pressure
+T13	Property 540 556	spin-fluctuation
+T14	SC 566 583	superconductivity
+T15	Material 601 619	triangular lattice
+T16	Property 620 633	Hubbard model
+T17	Property 115 130	uniaxial strain
+T18	Value 175 177	8K
+T11	Property 454 474	electron correlation
+T12	Property 495 511	spin frustration
+T10	Material 162 173	epoxy resin
+T7	SC 178 199	superconducting phase
+T5	Value 311 312	3
+T19	Value 313 318	4kbar
+R1	Coref Arg1:T1 Arg2:T2
+R2	Equivalent Arg1:T7 Arg2:T18

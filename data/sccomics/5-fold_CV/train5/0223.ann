@@ -1,0 +1,27 @@
+T1	Property 0 9	Pseudogap
+T2	Property 50 69	strongly-correlated
+T3	SC 70 85	superconductors
+T4	Element 99 107	cuprates
+T5	Property 109 122	heavy-fermion
+T6	SC 123 138	superconductors
+T7	Element 144 158	iron pnictides
+T8	Process 177 183	cooled
+T9	Property 188 198	energy gap
+T12	SC 252 267	superconducting
+T13	SC 324 341	superconductivity
+T14	Element 441 448	cuprate
+T15	Property 454 459	model
+T16	Property 498 507	pseudogap
+T17	Property 554 563	electrons
+T18	Property 676 693	antiferromagnetic
+T19	Property 805 829	quantum phase transition
+T20	Property 879 887	critical
+T22	Property 901 910	pseudogap
+T23	Property 399 423	condensed matter physics
+T24	Property 528 545	gauge interaction
+T25	Property 587 598	gauge boson
+T26	Property 616 634	interaction length
+T27	Property 212 231	excitation spectrum
+T10	Property 847 849	2D
+T11	Doping 888 894	doping
+E1	Doping:T11 

@@ -1,0 +1,45 @@
+T1	Material 0 12	Single phase
+T2	Material 14 20	c-axis
+T4	Main 50 66	Sr1− x Nd x CuO2
+T5	Material 67 77	thin films
+T6	Material 83 100	epitaxially grown
+T7	Element 104 116	(110) DyScO3
+T8	Material 117 127	substrates
+T9	Process 131 153	molecular beam epitaxy
+T10	Process 155 158	MBE
+T12	Characterization 186 198	spectroscopy
+T13	Material 244 257	stoichiometry
+T14	Element 289 305	Sr1− x Nd x CuO2
+T15	Material 306 315	thin film
+T16	Process 332 337	grown
+T17	Material 338 343	films
+T18	Property 352 365	excess oxygen
+T19	Process 382 391	reduction
+T20	SC 423 440	superconductivity
+T22	Process 545 554	reduction
+T24	Element 613 629	Sr0.95Nd0.05CuO2
+T25	Material 630 635	films
+T27	SC 656 671	superconducting
+T28	SC 677 686	T c onset
+T29	SC 696 704	T c zero
+T30	Process 721 730	annealing
+T33	Characterization 161 198	Electron impact emission spectroscopy
+T34	Characterization 200 204	EIES
+T38	Value 688 691	30K
+T39	Value 706 711	11.4K
+T40	Material 30 44	infinite layer
+T3	Material 46 48	IL
+T21	Doping 497 507	underdoped
+T23	Doping 596 602	doping
+T26	Doping 637 647	underdoped
+R1	Equivalent Arg1:T28 Arg2:T38
+R2	Equivalent Arg1:T29 Arg2:T39
+R3	Target Arg1:T38 Arg2:T24
+R4	Target Arg1:T39 Arg2:T24
+R5	Coref Arg1:T40 Arg2:T3
+R6	Target Arg1:E3 Arg2:T24
+R7	Condition Arg1:T38 Arg2:E3
+R8	Condition Arg1:T39 Arg2:E3
+E1	Doping:T21 
+E2	Doping:T23 
+E3	Doping:T26 

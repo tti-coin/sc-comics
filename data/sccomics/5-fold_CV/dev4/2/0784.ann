@@ -1,0 +1,61 @@
+T2	Element 17 20	ZnO
+T3	SC 42 57	superconducting
+T4	Main 72 76	MgB2
+T6	Element 117 121	MgB2
+T7	Property 142 145	J c
+T9	Property 180 195	magnetic fields
+T12	Material 238 255	lattice parameter
+T13	Element 288 291	ZnO
+T15	Element 298 302	MgB2
+T16	Material 358 365	lattice
+T17	Property 366 372	strain
+T19	Property 404 415	resistivity
+T21	SC 501 504	T c
+T22	Property 526 548	temperature dependence
+T23	Property 552 563	resistivity
+T25	Element 587 591	MgB2
+T26	Property 653 659	vortex
+T27	Property 660 673	instabilities
+T30	Property 735 741	Vortex
+T31	Property 870 876	vortex
+T32	Property 877 890	instabilities
+T34	Element 911 914	ZnO
+T35	Material 915 928	nanoparticles
+T36	Characterization 930 958	Scanning electron microscopy
+T37	Material 1023 1029	grains
+T38	Material 1072 1080	particle
+T39	Value 710 712	2%
+T40	Value 717 719	4%
+T43	Value 285 287	2%
+T45	Value 821 824	15K
+T28	Property 675 692	vortex-avalanches
+T47	Material 21 34	nanoparticles
+T48	Value 99 101	2%
+T1	Doping 0 6	Doping
+T5	Doping 111 116	doped
+T8	Doping 208 213	doped
+T10	Doping 292 297	doped
+T11	Doping 452 458	doping
+T14	Doping 581 586	doped
+T18	Doping 720 725	doped
+T20	Doping 901 907	doping
+T24	Material 102 106	nano
+T29	Element 107 110	ZnO
+T33	Material 443 447	nano
+T42	Element 448 451	ZnO
+T41	Material 572 576	nano
+T44	Element 577 580	ZnO
+T46	Value 1090 1091	5
+T49	Value 1092 1096	10μm
+R1	Target Arg1:E1 Arg2:T4
+R2	Target Arg1:E2 Arg2:T6
+R3	Target Arg1:E4 Arg2:T15
+R4	Target Arg1:E6 Arg2:T25
+E1	Doping:T1 Dopant:T2
+E2	Doping:T5 Dopant:T29
+E3	Doping:T8 
+E4	Doping:T10 Dopant:T13
+E5	Doping:T11 Dopant:T42
+E6	Doping:T14 Dopant:T44
+E7	Doping:T18 
+E8	Doping:T20 Dopant:T34

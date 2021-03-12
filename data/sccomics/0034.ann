@@ -1,0 +1,34 @@
+T1	Material 66 81	single crystals
+T2	Property 89 104	zero resistance
+T3	SC 105 120	superconducting
+T4	SC 132 135	T c
+T5	Property 147 159	Normal state
+T6	Property 160 182	electrical resistivity
+T7	Material 252 267	single crystals
+T8	Property 273 285	normal state
+T9	Property 286 297	resistivity
+T12	Property 411 422	resistivity
+T13	Property 451 459	metallic
+T14	Material 494 501	defects
+T15	SC 531 569	superconducting transition temperature
+T16	SC 571 574	T c
+T17	Process 592 600	pressure
+T18	SC 628 643	Superconducting
+T19	Material 644 664	needle-like crystals
+T20	Material 696 711	single crystals
+T21	Property 772 782	insulating
+T22	SC 798 813	superconducting
+T23	Main 36 51	Bi2Sr2CaCu2O8+x
+T25	Value 141 145	80 K
+T26	Property 193 208	critical fields
+T28	Element 242 251	YBa2Cu3O7
+T29	Element 368 377	YBa2Cu3O7
+T30	Material 399 405	c-axis
+T10	Material 308 317	a-b plane
+T31	Value 616 626	0.2 K/kbar
+T32	Element 896 909	BiSrCaCuO
+T33	Element 924 931	La2CuO4
+T34	Element 859 869	“2212” one
+R1	Equivalent Arg1:T4 Arg2:T25
+R2	Target Arg1:T25 Arg2:T23
+R4	Equivalent Arg1:T16 Arg2:T31

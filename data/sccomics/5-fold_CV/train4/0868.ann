@@ -1,0 +1,60 @@
+T1	Main 0 4	MgB2
+T2	Material 5 10	wires
+T3	Element 16 23	iridium
+T5	Element 92 97	Cu-Nb
+T6	Material 98 104	sheath
+T8	Process 168 184	argon atmosphere
+T9	Element 214 216	Ir
+T11	Element 226 228	Mg
+T12	Element 232 236	MgB2
+T13	SC 242 280	superconducting transition temperature
+T14	Element 304 306	Ir
+T16	Element 332 337	IrMg3
+T17	Element 342 347	IrMg4
+T18	Material 364 373	particles
+T19	Material 413 426	stoichiometry
+T20	Element 441 443	Ir
+T22	Property 456 480	critical current density
+T23	Material 512 517	wires
+T24	Element 548 550	Ir
+T25	Element 605 607	Ir
+T26	Process 651 669	lower temperatures
+T27	Value 132 138	700 °C
+T28	Value 140 146	800 °C
+T29	Value 150 156	900 °C
+T30	Value 161 164	1 h
+T31	Value 205 213	1.5 at.%
+T32	Value 432 440	2.0 at.%
+T4	Doping 24 30	doping
+T7	Doping 217 225	replaces
+T10	Doping 307 313	doping
+T15	Doping 444 450	doping
+R1	Target Arg1:E1 Arg2:T1
+R2	Target Arg1:E2 Arg2:T12
+E1	Doping:T4 Dopant:T3
+E2	Doping:T7 Dopant:T9 Site:T11
+E3	Doping:T10 Dopant:T14
+E4	Doping:T15 Dopant:T20
+#1	AnnotatorNotes T1	0-4
+#2	AnnotatorNotes T2	5-10
+#3	AnnotatorNotes T3	16-23
+#4	AnnotatorNotes T5	92-97
+#5	AnnotatorNotes T6	98-104
+#6	AnnotatorNotes T9	214-216
+#7	AnnotatorNotes T11	226-228
+#8	AnnotatorNotes T12	232-236
+#9	AnnotatorNotes T14	304-306
+#10	AnnotatorNotes T16	332-337
+#11	AnnotatorNotes T17	342-347
+#12	AnnotatorNotes T18	364-373
+#13	AnnotatorNotes T19	413-426
+#14	AnnotatorNotes T20	441-443
+#15	AnnotatorNotes T23	512-517
+#16	AnnotatorNotes T24	548-550
+#17	AnnotatorNotes T25	605-607
+#18	AnnotatorNotes T27	132-138
+#19	AnnotatorNotes T28	140-146
+#20	AnnotatorNotes T29	150-156
+#21	AnnotatorNotes T30	161-164
+#22	AnnotatorNotes T31	205-213
+#23	AnnotatorNotes T32	432-440

@@ -1,0 +1,63 @@
+T1	SC 20 35	superconducting
+T2	Material 62 72	thin films
+T5	Material 187 192	films
+T7	Material 352 357	films
+T10	Characterization 712 741	scanning electron microscopic
+T12	Material 766 771	films
+T13	Material 800 805	grain
+T15	Material 913 918	films
+T16	Material 943 948	grain
+T17	Material 1055 1062	lattice
+T18	Material 1147 1152	atoms
+T19	Material 1184 1190	grains
+T20	Material 1279 1285	grains
+T22	Material 1310 1315	films
+T23	Main 50 61	YBa2Cu3O7−δ
+T25	Element 118 129	YBa2Cu3O7−δ
+T27	Value 149 155	5 wt.%
+T28	Element 156 158	Ag
+T29	Element 202 214	〈100〉 LaAlO3
+T8	Value 422 436	1.4×107 A cm-2
+T30	Element 220 231	100〉 SrTiO3
+T32	Element 340 351	YBa2Cu3O7−δ
+T34	Value 440 444	77 K
+T35	Element 466 472	SrTiO3
+T36	Material 473 483	substrates
+T37	Property 394 418	critical current density
+T38	Value 622 626	77 K
+T39	Value 681 687	13 dBm
+T40	Value 612 618	190 μΩ
+T41	Element 1298 1309	YBa2Cu3O7−δ
+T43	Element 1289 1291	Ag
+T44	Element 1043 1054	YBa2Cu3O7−δ
+T46	Element 1144 1146	Ag
+T47	Element 1091 1095	Ag2O
+T48	Material 1103 1112	substrate
+T49	Element 904 906	Ag
+T50	Element 757 759	Ag
+T51	Element 999 1001	Ag
+T52	Element 1026 1027	O
+T53	Element 178 180	Ag
+T54	Material 232 242	substrates
+T55	Property 659 674	microwave power
+T9	Property 580 608	microwave surface resistance
+T56	Material 0 15	Microstructural
+T57	Process 90 111	pulsed laser ablation
+T6	Process 73 78	grown
+T58	Process 193 198	grown
+T59	Process 358 363	grown
+T60	Property 867 889	microwave transmission
+T3	Doping 138 143	doped
+T4	Doping 181 186	doped
+T11	Doping 760 765	doped
+T14	Doping 907 912	doped
+T21	Doping 1292 1297	doped
+T24	Value 272 275	650
+T26	Value 276 281	700°C
+R1	Target Arg1:E1 Arg2:T25
+R2	Target Arg1:E5 Arg2:T41
+E1	Doping:T3 Dopant:T28
+E2	Doping:T4 Dopant:T53
+E3	Doping:T11 Dopant:T50
+E4	Doping:T14 Dopant:T49
+E5	Doping:T21 Dopant:T43

@@ -1,0 +1,40 @@
+T2	Element 56 58	Ca
+T3	Main 72 79	Tl-2223
+T4	SC 80 94	superconductor
+T5	Material 131 150	nominal composition
+T6	Element 151 173	Tl2Ba2Ca2−x V x Cu3O y
+T7	Process 228 248	solid-state reaction
+T8	Characterization 305 322	x-ray diffraction
+T9	Characterization 324 352	scanning electron microscope
+T10	SC 361 378	superconductivity
+T11	Property 422 444	electrical resistivity
+T12	Characterization 446 470	X-ray powder diffraction
+T13	Material 506 521	impurity phases
+T14	Element 533 540	Tl-1223
+T15	SC 566 586	critical temperature
+T16	SC 588 591	T c
+T19	SC 684 687	T c
+T20	Element 721 729	vanadium
+T22	SC 759 773	superconductor
+T24	Element 818 820	Ca
+T25	Element 840 847	Tl-2223
+T26	SC 848 863	superconducting
+T27	Element 30 38	vanadium
+T32	Value 177 180	0.0
+T33	Element 792 800	vanadium
+T34	Value 182 185	0.1
+T35	Value 187 190	0.3
+T36	Value 192 195	0.5
+T37	Value 197 200	0.7
+T1	Doping 39 51	substitution
+T17	Doping 626 638	substitution
+T18	Doping 664 676	substitution
+T21	Doping 730 742	substitution
+T23	Doping 801 813	substitution
+R2	Target Arg1:E1 Arg2:T3
+R3	Target Arg1:E5 Arg2:T25
+E1	Doping:T1 Dopant:T27 Site:T2
+E2	Doping:T17
+E3	Doping:T18
+E4	Doping:T21 Dopant:T20
+E5	Doping:T23 Dopant:T33 Site:T24

@@ -1,0 +1,29 @@
+T1	SC 150 181	high temperature superconductor
+T2	SC 183 186	HTS
+T4	Property 345 355	electronic
+T5	Property 425 427	DC
+T7	Process 561 567	quench
+T8	SC 607 624	superconductivity
+T9	SC 669 684	superconducting
+T10	Process 724 740	quench detection
+T11	SC 950 953	HTS
+T14	Property 1175 1185	electronic
+T15	Process 1202 1208	quench
+T3	Characterization 356 367	measurement
+T16	Value 420 424	50kV
+T12	Characterization 1186 1197	measurement
+T20	Process 522 544	high voltage potential
+T19	Material 188 201	current leads
+T21	Material 203 205	CL
+T6	Material 954 967	current leads
+T22	Value 809 812	Six
+T17	Characterization 825 836	measurement
+T13	Process 483 494	temperature
+T23	Property 499 506	voltage
+T24	Characterization 507 518	measurement
+T18	Process 742 753	temperature
+T25	Property 758 765	voltage
+T26	Characterization 766 777	measurement
+T27	Process 813 824	temperature
+R1	Coref Arg1:T1 Arg2:T2
+R2	Coref Arg1:T19 Arg2:T21

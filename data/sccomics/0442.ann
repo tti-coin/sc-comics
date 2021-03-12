@@ -1,0 +1,41 @@
+T1	Property 10 19	cryogenic
+T3	Material 68 83	single crystals
+T4	SC 87 102	superconducting
+T5	Main 103 115	FeSe1−x Te x
+T7	SC 158 179	critical temperatures
+T8	SC 180 183	T c
+T9	Property 267 283	density-of-state
+T10	Material 284 294	clustering
+T12	Property 361 380	Conductance spectra
+T14	Material 670 683	dip structure
+T15	SC 699 714	superconducting
+T16	Property 715 725	energy gap
+T17	SC 745 748	T c
+T18	Property 793 812	non-superconducting
+T19	Property 857 868	conductance
+T20	SC 895 898	T c
+T21	Property 927 937	low-energy
+T22	Property 938 952	quasiparticles
+T23	Property 969 982	Fermi surface
+T24	Element 1064 1076	FeSe1−x Te x
+T25	Property 1114 1128	band structure
+T26	Value 186 190	12 K
+T30	Value 140 143	0.5
+T31	Value 148 151	0.7
+T33	Value 390 395	300mK
+T13	Material 460 479	sharp dip structure
+T36	Property 193 212	Atomically resolved
+T37	Material 585 595	topography
+T38	Material 213 231	topographic images
+T39	Value 877 882	300mK
+T40	Characterization 1034 1060	spectroscopic measurements
+T6	Doping 121 127	doping
+T11	Doping 353 359	doping
+T27	Value 489 499	± 2 – 4 mV
+T2	Characterization 20 64	scanning tunneling spectroscopy measurements
+R1	Equivalent Arg1:T8 Arg2:T26
+R3	Target Arg1:T26 Arg2:T5
+R4	Target Arg1:E1 Arg2:T5
+R5	Condition Arg1:T26 Arg2:E1
+E1	Doping:T6
+E2	Doping:T11

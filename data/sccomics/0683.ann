@@ -1,0 +1,29 @@
+T1	Property 4 17	heavy-fermion
+T2	Main 27 34	URu2Si2
+T3	SC 71 86	superconducting
+T4	SC 94 97	T c
+T5	Property 191 197	charge
+T6	Property 202 219	thermal transport
+T8	Material 247 262	single crystals
+T9	Element 266 273	URu2Si2
+T10	Property 290 310	residual-resistivity
+T11	SC 380 395	superconducting
+T12	SC 477 494	superconductivity
+T13	Property 582 595	chiral d-wave
+T14	Material 663 667	flux
+T15	Material 673 680	lattice
+T16	Property 681 688	melting
+T17	Property 750 771	upper critical fields
+T18	SC 819 834	superconducting
+T19	Element 844 851	URu2Si2
+T21	SC 917 932	superconductors
+T7	Value 99 104	1.45K
+T22	Value 167 172	17.5K
+T23	Value 325 329	30mK
+T24	Property 780 802	sub-Kelvin temperature
+T25	SC 332 335	T c
+T26	Property 564 567	gap
+T28	Property 535 549	nodal topology
+T20	Characterization 220 232	measurements
+R1	Equivalent Arg1:T4 Arg2:T7
+R2	Target Arg1:T7 Arg2:T2

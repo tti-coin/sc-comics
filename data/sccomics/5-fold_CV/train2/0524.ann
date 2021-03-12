@@ -1,0 +1,44 @@
+T2	Material 0 13	Superlattices
+T3	Material 30 39	structure
+T4	Main 40 64	La1.56Sr0.44CuO4/La2CuO4
+T6	Main 66 74	LSCO-LCO
+T7	SC 111 126	superconducting
+T8	SC 135 161	superconducting transition
+T10	SC 215 230	superconducting
+T11	Property 257 267	low-energy
+T12	Property 293 307	magnetic field
+T13	Property 318 332	Meissner state
+T14	Property 353 365	vortex state
+T16	Material 374 385	film planes
+T17	SC 406 423	superconductivity
+T18	Material 427 432	sheet
+T19	Property 459 470	anisotropic
+T20	SC 471 486	superconducting
+T21	Property 534 549	charge-transfer
+T22	Property 550 555	model
+T25	Element 657 660	LCO
+T26	Element 665 669	LSCO
+T27	Element 682 684	Sr
+T28	Property 685 699	interdiffusion
+T29	Property 709 723	pancake-vortex
+T30	Property 724 729	model
+T31	Material 819 832	superlattices
+T33	Property 838 860	temperature dependence
+T34	Process 896 909	field cooling
+T36	Element 974 979	BSCCO
+T37	Property 998 1023	vortex-vortex interaction
+T39	Value 170 173	25K
+T40	Value 804 809	380nm
+T42	Property 1039 1063	electromagnetic coupling
+T9	Property 776 800	London penetration depth
+T1	Property 630 648	chemical potential
+T5	Property 1079 1100	Josephson interaction
+T15	Material 586 603	layered structure
+T23	Property 868 892	muon depolarization rate
+T24	Doping 961 973	intercalated
+T32	SC 165 169	T c’
+R1	Coref Arg1:T4 Arg2:T6
+R2	Target Arg1:E1 Arg2:T36
+R3	Equivalent Arg1:T32 Arg2:T39
+R4	Target Arg1:T39 Arg2:T4
+E1	Doping:T24 

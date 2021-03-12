@@ -1,0 +1,54 @@
+T2	Material 249 255	planes
+T3	SC 273 276	T c
+T4	Property 300 306	mobile
+T5	Property 307 311	hole
+T7	Material 388 394	layers
+T8	Material 474 489	orthorhombicity
+T9	SC 652 655	T c
+T10	Material 678 690	orthorhombic
+T11	Material 691 701	tetragonal
+T12	SC 813 816	T c
+T13	SC 888 891	T c
+T14	Material 914 925	space-group
+T15	Material 926 934	symmetry
+T16	Property 941 954	hole trapping
+T17	Material 986 993	lattice
+T18	SC 1068 1071	T c
+T20	Element 18 22	Ca2+
+T21	Element 27 30	Y3+
+T22	Element 35 39	La3+
+T23	Main 52 81	Y1-z Ca z Ba2-2y La2y Cu3O6+x
+T29	Element 44 48	Ba2+
+T1	Property 132 161	critical oxygen concentration
+T31	Element 375 387	Ba1-y La y O
+T34	Element 240 248	Cu(1)O x
+T35	Element 1179 1191	BaO-Cu(1)O x
+T36	Element 1193 1196	BaO
+T37	Element 226 232	oxygen
+T41	Element 354 358	La3+
+T45	Element 425 431	oxygen
+T46	Element 446 454	La3+ ion
+T47	Element 363 367	Ba2+
+T48	Element 555 583	Y1-z Ca z Ba2-z La z Cu3O6+x
+T56	Element 588 609	LaBa2-2y Ca2y Cu3O6+x
+T57	Element 611 640	La1-z Ca z Ba2-z La z Cu3O6+x
+T65	Element 739 760	LaBa2-2y Sr2y Cu3O6+x
+T69	Element 762 801	La1-z Sr z (Ba2-2y Sr2y-z La z )Cu3O6+x
+T74	Element 1153 1159	oxygen
+T75	Element 1040 1043	BaO
+T76	Material 1051 1057	planes
+T83	Material 1132 1138	c-axis
+T84	Element 1139 1145	oxygen
+T86	Material 1197 1214	intergrowth layer
+T52	Value 658 666	80 ( ) K
+T30	Material 1160 1171	disordering
+T6	Doping 338 350	substitution
+T24	Doping 0 14	Cosubstitution
+R1	Equivalent Arg1:T9 Arg2:T52
+R2	Target Arg1:T52 Arg2:T57
+R3	Target Arg1:E2 Arg2:T23
+R4	Target Arg1:E1 Arg2:T31
+R5	Target Arg1:E3 Arg2:T23
+E1	Doping:T6 Dopant:T41 Site:T47
+E2	Doping:T24 Dopant:T20 Site:T21
+E3	Doping:T24 Dopant:T22 Site:T29

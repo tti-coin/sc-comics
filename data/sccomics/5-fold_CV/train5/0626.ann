@@ -1,0 +1,27 @@
+T1	Element 15 17	Zn
+T3	Property 54 77	magnetic susceptibility
+T4	Property 79 83	χ(T)
+T6	Main 114 140	La2− x Sr x Cu1− y Zn y O4
+T7	Process 141 149	sintered
+T8	Element 197 199	Zn
+T9	Property 214 226	Non-magnetic
+T10	Element 227 229	Zn
+T11	Property 251 255	χ(T)
+T12	SC 283 285	Tc
+T13	Property 341 357	pseudogap energy
+T14	Property 391 395	χ(T)
+T16	Element 468 470	Zn
+T18	Property 522 542	pseudogap phenomenon
+T19	Property 547 566	non-superconducting
+T20	Element 601 603	Zn
+T21	Property 642 646	χ(T)
+T28	Value 51 52	0
+T29	Value 108 112	0.15
+T2	Doping 18 30	substitution
+T5	Doping 98 103	doped
+T17	Doping 471 483	substitution
+T15	SC 409 411	Tc
+R1	Target Arg1:E2 Arg2:T6
+E1	Doping:T2 Dopant:T1
+E2	Doping:T5 
+E3	Doping:T17 Dopant:T16

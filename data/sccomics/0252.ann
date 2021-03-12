@@ -1,0 +1,67 @@
+T3	Main 68 77	Y–Ba–Cu–O
+T4	Main 79 83	YBCO
+T6	Process 124 129	grown
+T7	Material 158 164	liquid
+T8	Element 174 190	Y2O3+10BaO+16CuO
+T9	Element 195 212	Yb2O3+10BaO+16CuO
+T10	Element 225 229	Y-LS
+T11	Element 234 239	Yb-LS
+T12	Material 292 306	microstructure
+T13	SC 311 326	superconducting
+T14	Material 356 371	Microstructural
+T15	Element 403 408	Yb-LS
+T16	Element 446 454	Y2BaCuO5
+T17	Element 456 461	Y-211
+T18	Material 463 472	particles
+T19	Element 492 497	Y-211
+T20	Element 537 541	Y-LS
+T21	Characterization 590 593	EDS
+T22	Element 628 630	Yb
+T23	Property 646 659	concentration
+T24	Element 677 682	Yb-LS
+T25	SC 717 732	superconducting
+T26	SC 824 827	T c
+T27	Element 857 862	Yb-LS
+T28	Element 918 922	Y-LS
+T29	Property 941 944	J c
+T30	Property 969 979	zero-field
+T31	Property 980 983	J c
+T32	Element 1094 1099	Yb-LS
+T33	Property 1153 1160	pinning
+T34	Element 1174 1179	Y-211
+T35	Material 1180 1189	particles
+T37	Property 1232 1239	pinning
+T38	Material 1273 1279	matrix
+T39	Material 1280 1291	composition
+T40	Element 1347 1349	Yb
+T41	Element 1361 1365	YBCO
+T42	Material 1366 1370	bulk
+T43	SC 1371 1385	superconductor
+T44	Property 1411 1420	diffusion
+T46	Process 1446 1465	liquid infiltration
+T47	Process 13 45	top-seed infiltration and growth
+T48	Process 47 51	TSIG
+T1	Material 85 97	single-grain
+T2	Characterization 558 588	energy dispersive spectrometry
+T5	Value 666 673	0.46wt%
+T49	Value 829 834	90.3K
+T51	Value 793 799	29.09N
+T52	Value 897 903	28.54N
+T54	Value 987 1001	8.41×104 A/cm2
+T55	Value 1032 1046	4.33×104 A/cm2
+T56	Value 1068 1072	1.4T
+T53	Property 775 791	levitation force
+T50	Value 908 913	90.8K
+T57	Property 1145 1152	δl-type
+T36	Property 1222 1231	δT c-type
+T59	Material 1249 1269	spatial fluctuations
+T45	Doping 1421 1427	doping
+R5	Equivalent Arg1:T26 Arg2:T49
+R6	Target Arg1:T49 Arg2:T27
+R7	Target Arg1:T50 Arg2:T28
+R8	Equivalent Arg1:T26 Arg2:T50
+E1	Doping:T45
+T60	Doping 498 508	inclusions
+E2	Doping:T60
+T58	Doping 1190 1200	inclusions
+E3	Doping:T58

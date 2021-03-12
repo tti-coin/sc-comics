@@ -1,0 +1,26 @@
+T1	SC 26 41	superconducting
+T2	Property 42 57	order parameter
+T3	Property 58 84	thermodynamic fluctuations
+T6	Property 217 239	Ginzburg–Landau theory
+T7	Property 245 267	temperature dependence
+T8	Property 334 346	Cooper pairs
+T10	Property 422 445	Aslamazov–Larkin theory
+T12	Property 590 605	two-dimensional
+T13	Property 643 658	two-dimensional
+T14	Property 669 684	two-dimensional
+T15	Property 685 693	critical
+T16	Property 726 746	critical temperature
+T17	Property 793 803	resistance
+T18	Property 812 824	Cooper pairs
+T19	Property 832 840	critical
+T20	Element 986 1002	YBa 2 Cu 3 O 6.9
+T21	Element 1007 1028	Bi 2 Sr 2 Ca Cu 3 0 x
+T9	Property 477 493	Lawrence–Doniach
+T11	Property 571 586	one-dimensional
+T23	Property 845 865	thermal fluctuations
+T26	Property 509 532	three to two dimensions
+T24	Property 303 325	repulsive interactions
+T25	Property 113 129	paraconductivity
+T5	Property 173 203	renormalized Gaussian approach
+T4	SC 141 156	superconductors
+T27	Element 133 140	cuprate

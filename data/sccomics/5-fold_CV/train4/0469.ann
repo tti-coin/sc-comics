@@ -1,0 +1,56 @@
+T1	Property 35 59	electron–phonon coupling
+T2	SC 64 81	superconductivity
+T3	Property 99 107	electron
+T5	Main 114 129	indium selenide
+T7	Property 167 175	Electron
+T9	Property 217 223	phonon
+T10	Property 241 249	acoustic
+T11	Property 267 276	frequency
+T12	Property 297 306	frequency
+T13	Property 348 372	electron–phonon coupling
+T15	Property 414 442	electronic density of states
+T16	Property 450 461	Fermi level
+T18	SC 537 559	transition temperature
+T19	Element 665 673	silicene
+T23	Element 731 735	MoS2
+T24	Material 736 744	bilayers
+T25	Property 783 789	phonon
+T26	SC 799 816	superconductivity
+T27	Material 937 942	layer
+T28	SC 1000 1017	superconductivity
+T6	Main 131 135	InSe
+T29	Value 186 196	0.1 e/cell
+T30	Property 250 257	ZA mode
+T31	Property 277 284	E″ mode
+T32	Property 307 315	A′1 mode
+T33	Value 398 408	0.2 e/cell
+T34	Property 495 507	Fermi sheets
+T35	Value 573 579	3.41 K
+T36	Property 597 625	McMillan–Allen–Dynes formula
+T37	Value 656 661	1.7 K
+T21	Value 689 700	0.44 e/atom
+T38	Value 705 711	2.85 K
+T39	Element 943 947	InSe
+T40	Property 1021 1035	two dimensions
+T17	Element 715 717	Na
+T41	Material 137 146	monolayer
+T42	Property 986 999	topologically
+T43	Property 859 872	topologically
+T4	Doping 108 113	doped
+T8	Doping 176 182	doping
+T14	Doping 388 394	doping
+T20	Doping 679 685	doping
+T22	Doping 718 730	intercalated
+R1	Coref Arg1:T5 Arg2:T6
+R2	Equivalent Arg1:T18 Arg2:T35
+R3	Equivalent Arg1:T18 Arg2:T37
+R4	Equivalent Arg1:T18 Arg2:T38
+R6	Target Arg1:E1 Arg2:T5
+R7	Target Arg1:E5 Arg2:T23
+R8	Condition Arg1:T37 Arg2:E4
+R9	Condition Arg1:T38 Arg2:E5
+E1	Doping:T4 Dopant:T3
+E2	Doping:T8 Dopant:T7
+E3	Doping:T14 
+E4	Doping:T20 Dopant:T19
+E5	Doping:T22 Dopant:T17

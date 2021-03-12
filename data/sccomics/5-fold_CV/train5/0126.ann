@@ -1,0 +1,71 @@
+T1	Process 105 125	solid-state reaction
+T2	Material 171 183	orthorhombic
+T3	Material 185 196	space group
+T4	SC 247 262	superconducting
+T6	Property 365 388	magnetic-susceptibility
+T7	SC 479 494	superconducting
+T8	Property 593 612	non-superconducting
+T9	Property 660 677	magnetic ordering
+T10	Property 700 707	moments
+T12	Property 775 795	ordering temperature
+T14	Property 806 813	moments
+T15	Property 871 884	moments order
+T17	Property 885 906	antiferromagnetically
+T18	Property 939 956	magnetic ordering
+T19	Property 967 974	moments
+T20	Property 1046 1069	magnetic susceptibility
+T21	Property 1173 1193	paramagnetic moments
+T22	Property 1290 1296	moment
+T23	Property 1386 1392	moment
+T24	Main 37 50	RSr2Cu2NbO7+δ
+T25	Value 621 626	1.8 K
+T26	Element 263 274	RBa2Cu3O7−δ
+T31	Element 60 61	Y
+T32	Element 63 65	Pr
+T33	Element 70 72	Gd
+T34	Process 152 163	crystallize
+T35	Element 315 319	CuO
+T36	Element 332 336	NbO
+T38	Value 358 363	50 Oe
+T39	Property 347 356	Low-field
+T40	Value 513 517	13 K
+T42	Element 579 581	Pr
+T43	Element 586 588	Gd
+T44	Element 405 418	RSr2Cu2NbO7+δ
+T48	Element 817 828	GdBaCu3O7−δ
+T50	Value 737 742	2.2 K
+T51	Element 632 646	GdSr2Cu2NbO7+δ
+T53	Element 849 861	PrBa2Cu3O7−δ
+T55	Element 868 870	Pr
+T56	Element 1077 1090	RSr2Cu2NbO7+δ
+T57	Element 1012 1026	PrSr2Cu2NbO7+δ
+T61	Value 918 923	17 K,
+T62	Value 1035 1040	1.8 K
+T63	Element 964 966	Pr
+T64	Value 1197 1204	7.50μ B
+T65	Value 1206 1213	3.11μ B
+T66	Value 1218 1226	0.728μ B
+T67	Element 1235 1237	Gd
+T68	Element 1239 1241	Pr
+T69	Element 1246 1247	Y
+T70	Element 1363 1367	Pr3+
+T71	Element 1372 1385	Pr4+ free-ion
+T72	Element 1287 1289	Pr
+T73	Element 1300 1314	PrSr2Cu2NbO7+δ
+T74	Element 1399 1411	PrBa2Cu3O7−δ
+T77	Property 1139 1157	paramagnetic state
+T78	Material 0 12	Single-phase
+T79	Property 525 548	small Meissner fraction
+T80	Element 697 699	Gd
+T81	Property 994 1008	susceptibility
+T82	Property 1111 1131	Curie-Weiss behavior
+T83	Element 803 805	Gd
+T11	Property 714 730	Néel temperature
+T84	Property 731 734	T N
+T85	Property 912 915	T N
+T5	Doping 299 311	substitution
+T13	Element 445 446	Y
+R1	Equivalent Arg1:T7 Arg2:T40
+R2	Target Arg1:T40 Arg2:T44
+R3	Target Arg1:E1 Arg2:T26
+E1	Doping:T5 Dopant:T36 Site:T35

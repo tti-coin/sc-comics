@@ -1,0 +1,60 @@
+T1	Process 48 72	oxygen reduction process
+T2	Material 80 90	structural
+T3	Property 95 115	transport properties
+T4	Material 119 128	epitaxial
+T5	Material 129 139	thin films
+T6	Property 147 155	electron
+T8	Element 162 169	cuprate
+T9	Main 170 189	Nd2− x Ce x CuO4± δ
+T13	Property 333 341	metallic
+T14	SC 393 408	superconducting
+T15	Element 436 442	cerium
+T16	Property 443 456	concentration
+T17	SC 473 493	critical temperature
+T18	SC 494 497	T c
+T19	Property 521 532	oxygen loss
+T20	Process 546 564	thermal treatments
+T21	Process 611 620	reduction
+T22	Material 628 636	disorder
+T23	Property 647 658	conductance
+T24	SC 716 731	superconducting
+T25	Process 767 788	annealing temperature
+T26	SC 812 829	superconductivity
+T27	Material 904 913	unit cell
+T28	Material 924 930	c-axis
+T29	SC 1008 1023	superconducting
+T31	Process 1131 1139	annealed
+T32	Process 1143 1160	high temperatures
+T33	Property 1210 1222	normal-state
+T34	Property 1223 1234	resistivity
+T35	Process 1313 1327	oxygen-reduced
+T36	Property 1404 1408	hole
+T37	Property 1434 1438	hole
+T38	Property 1465 1477	Fermi energy
+T39	Property 1511 1525	Brillouin zone
+T40	Property 1567 1577	electronic
+T41	Element 1590 1596	oxygen
+T42	Element 1617 1623	cerium
+T43	Property 1624 1637	concentration
+T45	Process 1711 1719	annealed
+T46	Element 1734 1740	cerium
+T47	Property 1741 1754	concentration
+T11	Value 499 502	25K
+T53	Value 805 810	850°C
+T54	Value 1334 1339	850°C
+T30	Material 1057 1080	structural modification
+T10	Process 235 243	as-grown
+T12	Element 276 294	excess oxygen ions
+T7	Doping 156 161	doped
+T49	Doping 1774 1784	underdoped
+T44	Value 590 593	500
+T50	Value 594 599	850°C
+T48	Doping 1655 1661	doping
+T51	Doping 1800 1809	overdoped
+R1	Coref Arg1:T17 Arg2:T18
+R2	Equivalent Arg1:T18 Arg2:T11
+R3	Target Arg1:E1 Arg2:T8
+E1	Doping:T7 Dopant:T6
+E3	Doping:T49 
+E2	Doping:T48 Dopant:T42
+E4	Doping:T51 

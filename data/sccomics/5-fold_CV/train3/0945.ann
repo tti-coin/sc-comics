@@ -1,0 +1,56 @@
+T1	Element 18 20	Te
+T2	Element 25 27	Se
+T4	Main 48 54	Fe7Se8
+T5	Material 73 80	layered
+T7	Material 91 100	structure
+T8	Characterization 130 147	X-ray diffraction
+T9	Characterization 149 177	scanning electron microscopy
+T10	Property 179 196	thermal expansion
+T11	Property 198 220	electrical resistivity
+T12	Property 225 238	magnetization
+T13	Process 257 263	growth
+T14	Element 267 269	Te
+T15	Element 291 308	Fe7(Se1−y Te y )8
+T16	Material 350 367	phase segregation
+T17	Element 381 385	NiAs
+T18	SC 401 416	superconducting
+T19	Material 417 427	tetragonal
+T21	Material 499 516	crystal structure
+T22	Material 521 532	composition
+T23	Material 540 549	hexagonal
+T24	Element 550 561	Fe7(Se,Te)8
+T25	Material 569 576	P63/mmc
+T26	Element 605 607	Te
+T27	Material 623 632	CdI2-type
+T29	Material 669 679	monoclinic
+T30	Material 680 696	Fe3(Se,Te)4-type
+T31	Property 717 730	concentration
+T33	Material 790 806	tetragonal phase
+T34	Element 845 862	Fe7(Se1−y Te y )8
+T35	Material 876 880	bulk
+T36	SC 881 898	superconductivity
+T37	SC 911 950	superconducting transition temperatures
+T38	SC 952 955	T c
+T39	Material 984 996	single-phase
+T40	Element 1008 1017	Fe(Se,Te)
+T41	SC 1096 1111	superconducting
+T42	Property 1116 1135	non-superconducting
+T43	Element 1157 1174	Fe7(Se1−y Te y )8
+T46	Value 962 968	17.8 K
+T48	Value 836 839	0.4
+T28	Element 270 279	tellurium
+T55	Value 319 323	0.15
+T56	Material 704 710	I12/m1
+T57	Material 641 644	P 3
+T58	Material 633 638	phase
+T3	Doping 28 40	substitution
+T44	Characterization 239 251	measurements
+T20	Material 428 436	PbO-type
+T45	Material 437 442	phase
+T6	Material 81 90	NiAs-type
+T32	Material 756 765	NiAs-type
+R1	Coref Arg1:T14 Arg2:T28
+R2	Equivalent Arg1:T38 Arg2:T46
+R3	Target Arg1:T46 Arg2:T34
+R4	Target Arg1:E1 Arg2:T4
+E1	Doping:T3 Dopant:T1 Site:T2

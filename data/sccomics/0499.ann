@@ -1,0 +1,38 @@
+T1	Element 62 67	Mg2Si
+T2	Material 68 74	dopant
+T4	Main 97 101	MgB2
+T5	SC 102 116	superconductor
+T6	Property 141 165	critical current density
+T7	Element 167 172	Mg-Si
+T8	Material 173 178	alloy
+T9	Element 211 216	Mg2Si
+T10	Material 217 226	particles
+T11	Process 248 255	casting
+T12	Material 271 276	alloy
+T13	Element 292 294	Mg
+T14	Element 325 329	MgB2
+T17	Characterization 391 394	XRD
+T18	Element 418 423	Mg2Si
+T19	Element 431 433	Si
+T20	Characterization 454 457	SEM
+T21	Material 472 486	microstructure
+T22	Material 511 517	grains
+T23	Material 530 543	crystallinity
+T25	Element 632 637	Mg2Si
+T26	Material 638 647	particles
+T27	Element 659 663	MgB2
+T28	Material 664 670	grains
+T30	SC 770 792	transition temperature
+T31	Property 851 875	critical current density
+T16	Element 378 389	nano carbon
+T32	Characterization 562 576	HRTEM analysis
+T3	Doping 87 93	doping
+T15	Doping 338 343	doped
+T24	Doping 733 739	doping
+T29	Doping 547 552	doped
+R1	Target Arg1:E1 Arg2:T4
+R2	Target Arg1:E2 Arg2:T14
+E1	Doping:T3 Dopant:T1
+E2	Doping:T15 Dopant:T16
+E3	Doping:T24
+E4	Doping:T29

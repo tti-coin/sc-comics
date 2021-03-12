@@ -1,0 +1,38 @@
+T1	Main 0 14	2H-Ni0.02TaSe2
+T2	Material 15 30	single crystals
+T3	Process 49 54	grown
+T4	Element 63 69	iodine
+T6	Material 126 133	crystal
+T7	Element 190 198	2H-TaSe2
+T8	SC 206 244	superconducting transition temperature
+T9	SC 245 248	T C
+T10	Property 263 283	electronic transport
+T11	Property 285 298	specific-heat
+T12	Property 303 316	magnetization
+T13	SC 343 360	superconductivity
+T14	Element 368 379	Ni0.02TaSe2
+T15	Material 380 394	single crystal
+T16	SC 419 422	T C
+T19	Property 483 502	charge-density-wave
+T20	Property 544 563	charge-density-wave
+T22	Element 632 634	Ni
+T23	SC 693 710	superconductivity
+T24	SC 712 714	SC
+T25	Property 720 739	charge-density-wave
+T26	Property 746 751	order
+T27	Element 756 764	2H-TaSe2
+T28	SC 789 791	SC
+T29	Value 143 154	3×2×0.5 mm3
+T30	Value 251 257	0.14 K
+T31	Value 425 431	2.79 K
+T17	Value 587 593	96.2 K
+T32	Property 741 744	CDW
+T33	Process 70 85	vapor transport
+T5	Doping 603 616	intercalation
+T18	Property 565 569	CCDW
+T21	Property 504 508	ICDW
+R2	Equivalent Arg1:T9 Arg2:T30
+R3	Equivalent Arg1:T16 Arg2:T31
+R5	Target Arg1:T30 Arg2:T7
+R6	Target Arg1:T31 Arg2:T14
+E1	Doping:T5 Dopant:T22

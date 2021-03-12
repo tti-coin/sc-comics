@@ -1,0 +1,46 @@
+T1	Element 14 16	Ca
+T3	Element 33 35	Ba
+T4	Main 44 67	Y(Ba1− x Ca x )2Cu3O7−δ
+T5	Material 107 115	ceramics
+T6	Process 128 145	thermal treatment
+T8	Material 171 189	Surface morphology
+T10	SC 206 221	superconducting
+T13	Characterization 285 302	X-ray Diffraction
+T14	Characterization 304 307	XRD
+T15	Material 380 390	grain size
+T16	Element 439 441	Ca
+T18	Characterization 461 464	XRD
+T19	Material 482 494	orthorhombic
+T20	Material 495 512	crystal structure
+T21	Material 516 527	space group
+T22	Material 528 532	Pmmm
+T23	SC 576 596	critical temperature
+T24	SC 598 607	Tc R=zero
+T25	SC 772 798	superconducting transition
+T26	SC 800 804	ΔT c
+T27	Material 834 848	microstructure
+T28	Material 849 859	morphology
+T29	Material 871 884	crystallinity
+T34	Value 73 77	0.00
+T35	Value 79 83	0.04
+T36	Value 85 89	0.08
+T37	Value 91 94	0.1
+T38	Value 99 104	0.125
+T7	Characterization 241 275	field emission electron microscope
+T11	Characterization 277 282	FESEM
+T12	Characterization 332 337	FESEM
+T39	Value 675 679	0.08
+T41	Value 652 655	80K
+T42	Value 625 628	87K
+T43	Value 726 730	0.08
+T46	Value 747 751	0.04
+T9	Material 191 201	structural
+T33	Property 392 403	homogeneity
+T2	Doping 17 29	substitution
+T17	Doping 442 454	substitution
+T30	Material 637 648	pure sample
+R4	Target Arg1:E1 Arg2:T4
+E1	Doping:T2 Dopant:T1 Site:T3
+E2	Doping:T17 Dopant:T16
+R2	Equivalent Arg1:T23 Arg2:T42
+R3	Equivalent Arg1:T23 Arg2:T41

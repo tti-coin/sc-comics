@@ -1,0 +1,51 @@
+T3	SC 146 184	superconducting transition temperature
+T4	SC 186 189	T c
+T6	SC 321 343	transition temperature
+T7	SC 365 368	T c
+T9	Property 524 539	charge-transfer
+T11	SC 623 645	transition temperature
+T12	SC 705 708	T c
+T13	Material 827 841	site occupancy
+T14	Element 30 32	Ca
+T15	Element 293 295	Sr
+T16	Element 286 288	Ca
+T18	Element 37 39	Nd
+T19	Element 44 46	Sr
+T20	Main 50 63	NdBaSrCu3O7−δ
+T22	Element 106 108	Ca
+T23	Element 113 115	Nd
+T24	Element 241 254	NdBaSrCu3O7−δ
+T26	Value 395 399	70 K
+T27	Element 421 423	Ca
+T28	Element 593 595	Ca
+T29	Element 755 768	NdBaCaCu3O7−δ
+T31	Element 600 602	Sr
+T33	Value 98 105	20 at.%
+T34	Value 737 745	100 at.%
+T35	Value 430 437	10 at.%
+T37	Property 846 856	solubility
+T1	Doping 14 26	substitution
+T2	Doping 82 94	Substitution
+T5	Doping 270 282	Substitution
+T8	Doping 405 417	substitution
+T10	Doping 551 563	Substitution
+T21	Value 196 200	64 K
+T32	Value 204 208	77 K
+T17	Value 579 581	10
+T25	Value 582 589	20 at.%
+R1	Coref Arg1:T3 Arg2:T4
+R2	Equivalent Arg1:T7 Arg2:T26
+R3	Equivalent Arg1:T3 Arg2:T32
+R4	Condition Arg1:T32 Arg2:E2
+R5	Target Arg1:T32 Arg2:T24
+R6	Target Arg1:T21 Arg2:T24
+R7	Condition Arg1:T26 Arg2:E4
+R8	Target Arg1:E1 Arg2:T20
+R9	Target Arg1:E7 Arg2:T20
+R10	Equivalent Arg1:T3 Arg2:T21
+E1	Doping:T1 Dopant:T14 Site:T18
+E2	Doping:T2 Dopant:T22 Site:T23
+E3	Doping:T5 Dopant:T16 Site:T15
+E4	Doping:T8 Dopant:T27
+E5	Doping:T10 Dopant:T28 Site:T31
+E7	Doping:T1 Dopant:T14 Site:T19

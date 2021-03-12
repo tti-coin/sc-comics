@@ -1,0 +1,24 @@
+T1	SC 89 92	HTS
+T2	Property 174 183	transport
+T3	Property 213 228	magnetic fields
+T4	Property 331 336	pairs
+T5	Property 383 388	order
+T7	Process 676 691	low temperature
+T8	Process 949 964	low temperature
+T9	Material 1118 1125	surface
+T11	Material 1496 1503	surface
+T12	Element 1587 1594	Bi-2223
+T13	Material 1621 1627	liquid
+T14	Element 1628 1636	nitrogen
+T15	Process 9 33	Poynting's vector method
+T16	Property 134 149	solenoidal coil
+T17	Process 246 271	Poynting's vector methods
+T18	Property 455 472	Poynting's vector
+T19	Property 480 495	solenoidal coil
+T20	Material 543 562	spiral pickup coils
+T21	Material 518 538	potential lead coils
+T22	Property 631 646	solenoidal coil
+T6	Property 400 427	local energy flow densities
+T23	Property 1388 1412	electromagnetic behavior
+T10	Doping 1144 1154	substitute
+E1	Doping:T10

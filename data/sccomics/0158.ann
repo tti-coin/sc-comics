@@ -1,0 +1,67 @@
+T2	Material 17 27	thin films
+T3	Process 56 65	annealing
+T4	Material 118 123	films
+T6	SC 347 350	T c
+T7	SC 356 359	T c
+T8	Material 376 386	thin films
+T9	SC 498 501	T c
+T10	SC 569 572	T c
+T11	Material 594 604	thin films
+T13	Material 782 787	films
+T14	Material 824 831	surface
+T15	Material 832 842	morphology
+T16	Material 852 857	films
+T17	Material 901 907	grains
+T18	Element 0 2	Cd
+T19	Main 9 16	Tl-2223
+T20	Element 66 82	B2Ca2Cd x Cu3O y
+T24	Value 88 91	0.0
+T25	Value 93 96	0.1
+T26	Value 98 101	0.2
+T27	Value 103 106	0.3
+T28	Element 138 147	MgO (100)
+T29	Element 182 186	Tl2O
+T30	Value 247 252	890°C
+T31	Value 257 260	2 h
+T32	Element 272 274	Cd
+T33	Element 314 324	2223 phase
+T34	Value 399 404	118 K
+T35	Value 406 411	120 K
+T36	Value 413 418	124 K
+T37	Value 423 428	121 K
+T38	Element 446 448	Cd
+T40	Value 462 465	0.0
+T41	Value 467 470	0.1
+T42	Value 472 475	0.2
+T43	Value 480 483	0.3
+T44	Value 504 509	124 K
+T46	Value 518 521	0.2
+T47	Value 576 581	122 K
+T48	Element 586 593	Tl-2223
+T49	Property 758 761	J c
+T50	Element 773 775	Cd
+T51	Value 808 812	77 K
+T52	Value 814 817	0 T
+T53	Value 31 35	1 μm
+T54	Value 791 806	1.12 × 105A/cm2
+T55	Value 214 223	10−5 Torr
+T56	Value 769 772	0.2
+T57	Element 679 685	oxygen
+T58	Material 232 243	quartz tube
+T59	Process 151 177	ultrasonic spray pyrolysis
+T1	Doping 3 8	doped
+T5	Doping 262 268	Doping
+T12	Doping 776 781	doped
+R1	Equivalent Arg1:T10 Arg2:T47
+R2	Equivalent Arg1:T9 Arg2:T44
+R3	Equivalent Arg1:T7 Arg2:T34
+R4	Equivalent Arg1:T7 Arg2:T35
+R5	Equivalent Arg1:T7 Arg2:T36
+R6	Equivalent Arg1:T7 Arg2:T37
+R7	Target Arg1:T47 Arg2:T48
+R8	Target Arg1:T44 Arg2:T48
+R9	Target Arg1:E1 Arg2:T19
+R10	Target Arg1:E2 Arg2:T33
+E1	Doping:T1 Dopant:T18
+E2	Doping:T5 Dopant:T32
+E3	Doping:T12 Dopant:T50

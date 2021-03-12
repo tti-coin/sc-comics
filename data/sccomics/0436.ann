@@ -1,0 +1,39 @@
+T1	SC 7 39	high temperature superconducting
+T2	SC 41 44	HTS
+T3	Property 65 73	magnetic
+T4	Element 213 223	rare earth
+T5	Material 224 242	magnetic materials
+T6	Property 263 271	magnetic
+T9	Element 348 367	rare earth elements
+T12	Element 423 428	NdFeB
+T13	Element 448 467	rare earth elements
+T16	Element 571 576	NdFeB
+T20	SC 762 765	HTS
+T21	Material 766 771	bulks
+T24	Property 906 927	magnetic flux density
+T27	Element 967 972	NdFeB
+T28	Process 999 1008	reduction
+T29	Element 1012 1017	NdFeB
+T31	Material 1110 1127	magnetic material
+T32	SC 1142 1145	HTS
+T33	Element 1185 1203	rare earth element
+T36	Material 373 387	ferrite magnet
+T38	Material 504 516	double-layer
+T40	Property 723 744	electromagnetic force
+T41	Material 845 862	Halbach structure
+T43	Value 995 998	10%
+T44	Property 1220 1234	magnetic rails
+T45	Property 1266 1280	coercive force
+T46	Material 1284 1299	ferrite magnets
+T47	Property 962 966	pure
+T7	Property 330 338	magnetic
+T8	Material 429 436	magnets
+T10	Material 581 596	ferrite magnets
+T15	Material 1018 1024	magnet
+T22	Material 973 985	Halbach rail
+T23	Material 832 844	double-layer
+T34	Material 517 534	Halbach structure
+T11	Property 684 705	magnetic flux density
+T14	Doping 403 410	replace
+R2	Target Arg1:E1 Arg2:T12
+E1	Doping:T14 Dopant:T36

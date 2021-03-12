@@ -1,0 +1,53 @@
+T1	Material 0 10	Thin films
+T2	Property 18 26	electron
+T4	SC 33 64	high-temperature superconductor
+T5	Main 65 82	Nd2−x Ce x CuO4±δ
+T7	Process 106 119	dc sputtering
+T8	Element 133 145	(100) SrTiO3
+T9	Material 146 156	substrates
+T10	Element 174 180	oxygen
+T12	Property 205 224	non-superconducting
+T13	Process 267 290	oxygen partial pressure
+T18	SC 366 392	superconducting transition
+T19	Process 419 436	thermal treatment
+T23	Property 487 507	electrical transport
+T25	SC 553 568	superconducting
+T26	Material 618 639	structural properties
+T27	Material 662 672	deficiency
+T28	Property 680 694	oxygen content
+T29	Process 721 729	annealed
+T30	SC 770 785	superconducting
+T33	Property 882 898	Hall coefficient
+T34	Property 943 955	normal state
+T36	Material 1041 1046	films
+T38	Property 1138 1154	Hall coefficient
+T43	SC 1403 1429	superconducting transition
+T44	Property 1433 1441	electron
+T46	Material 1463 1485	microstructural change
+T47	Material 1522 1528	c-axis
+T48	Process 1636 1653	reduction process
+T52	Value 1169 1172	10%
+T31	Material 836 842	c-axis
+T11	Process 316 343	Argon sputtering atmosphere
+T14	Process 1546 1558	deoxygenated
+T17	SC 1664 1679	superconductors
+T6	Process 302 308	growth
+T24	Process 199 204	grown
+T21	Process 529 534	grown
+T32	Process 1213 1218	grown
+T39	Material 843 860	lattice parameter
+T22	Property 908 931	function of temperature
+T42	Material 1599 1620	microscopic mechanism
+T16	Process 1333 1338	grown
+T53	Characterization 862 874	Measurements
+T41	Element 1320 1326	oxygen
+T40	Element 1219 1225	oxygen
+T57	Material 472 482	Structural
+T15	Element 443 449	oxygen
+T20	Property 1065 1079	oxygen content
+T35	Material 963 978	epitaxial films
+T3	Doping 27 32	doped
+T45	Doping 1442 1447	doped
+R1	Target Arg1:E1 Arg2:T5
+E1	Doping:T3 Dopant:T2
+E2	Doping:T45 Dopant:T44

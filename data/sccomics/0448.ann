@@ -1,0 +1,62 @@
+T1	Element 21 25	75As
+T2	Characterization 26 29	NMR
+T3	Characterization 34 37	NQR
+T4	SC 50 65	superconducting
+T5	Element 66 75	arsenides
+T6	Main 76 91	PrFeAs0.89F0.11
+T7	SC 94 97	T c
+T8	Main 109 125	LaFeAsO0.92F0.08
+T9	SC 128 131	T c
+T10	Main 143 149	LiFeAs
+T11	SC 152 155	T c
+T12	Main 169 186	Ba0.72K0.28Fe2As2
+T13	SC 189 192	T c
+T14	Material 204 218	single crystal
+T15	Element 241 247	nickel
+T16	Main 255 269	LaNiAsO0.9F0.1
+T17	SC 272 275	T c
+T18	Element 303 317	LaNiAsO0.9F0.1
+T19	SC 328 347	superconducting gap
+T20	Property 378 382	spin
+T21	Material 383 390	lattice
+T22	Property 391 401	relaxation
+T23	Property 407 410	1/T
+T24	Element 420 432	Fe-arsenides
+T25	SC 449 452	T c
+T26	Process 511 527	low temperatures
+T27	SC 562 565	T c
+T28	Property 632 636	spin
+T29	Property 637 644	singlet
+T30	SC 645 662	superconductivity
+T31	Element 689 701	Fe-arsenides
+T32	Element 707 709	Fe
+T33	Property 710 727	antiferromagnetic
+T34	Property 728 745	spin fluctuations
+T35	Property 750 761	anisotropic
+T37	Element 796 809	copper-oxides
+T38	Element 813 825	cobalt-oxide
+T39	SC 826 841	superconductors
+T40	Property 873 881	electron
+T41	Element 898 912	LaNiAsO0.9F0.1
+T43	Value 100 104	45 K
+T44	Value 134 138	27 K
+T45	Value 158 162	17 K
+T46	Value 195 201	31.5 K
+T47	Value 278 283	4.0 K
+T48	Property 533 545	Knight shift
+T49	Property 668 681	multiple gaps
+T50	Property 363 372	isotropic
+T51	Property 461 470	coherence
+T42	Property 1000 1023	Fermi surface topology.
+T36	Doping 785 795	underdoped
+R1	Equivalent Arg1:T7 Arg2:T43
+R2	Target Arg1:T43 Arg2:T6
+R3	Equivalent Arg1:T9 Arg2:T44
+R4	Target Arg1:T44 Arg2:T8
+R5	Equivalent Arg1:T11 Arg2:T45
+R6	Target Arg1:T45 Arg2:T10
+R7	Equivalent Arg1:T13 Arg2:T46
+R8	Target Arg1:T46 Arg2:T12
+R9	Equivalent Arg1:T17 Arg2:T47
+R10	Target Arg1:T47 Arg2:T16
+E1	Doping:T36

@@ -1,0 +1,41 @@
+T1	SC 24 41	superconductivity
+T2	Main 45 82	Pb-1212–Cu1− x Pb x Sr2Y0.6Ca0.4Cu2O7
+T3	Process 148 168	solid-state reaction
+T4	Process 190 212	sintering temperatures
+T5	Process 264 283	reducing atmosphere
+T6	SC 306 323	superconductivity
+T7	Element 334 336	Pb
+T8	Characterization 358 375	X-ray diffraction
+T9	Characterization 377 380	XRD
+T10	Process 426 438	crystallized
+T11	Material 442 453	space group
+T12	Material 454 460	P4/mmm
+T13	Material 468 477	structure
+T14	SC 479 496	Superconductivity
+T15	Element 528 530	Pb
+T16	SC 578 595	superconductivity
+T17	Material 600 623	structure stabilization
+T19	Property 645 653	critical
+T20	Element 692 700	cuprates
+T21	SC 723 740	superconductivity
+T22	Element 762 769	Pb-1212
+T24	Process 808 827	reducing atmosphere
+T25	Element 841 843	Pb
+T26	Property 859 866	valence
+T28	Element 906 912	Cu–O x
+T29	Material 913 919	chains
+T30	Element 923 929	RE-123
+T31	Element 933 939	Pb–O x
+T32	Material 940 946	sheets
+T33	Property 957 981	charge reservoir carrier
+T38	Value 550 553	90%
+T39	Value 500 503	56K
+T42	Element 461 467	RE-123
+T18	Element 627 629	Pb
+T43	Value 855 857	+4
+T23	Doping 891 902	replacement
+T27	Value 87 90	0.5
+T34	Value 91 94	0.9
+R1	Equivalent Arg1:T14 Arg2:T39
+R2	Target Arg1:E1 Arg2:T30
+E1	Doping:T23 Site:T28 Dopant:T31

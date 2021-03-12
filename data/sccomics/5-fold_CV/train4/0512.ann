@@ -1,0 +1,63 @@
+T1	Material 0 15	Polycrystalline
+T2	Main 16 36	SmBa2Cu3−x Zn x O7−δ
+T3	Main 38 43	SBCZO
+T4	Process 92 112	solid-state reaction
+T5	Element 139 141	Zn
+T7	Material 156 165	structure
+T8	Material 171 176	grain
+T9	Material 177 187	morphology
+T10	Characterization 189 202	Raman spectra
+T13	Element 242 247	SBCZO
+T14	Material 284 306	orthorhombic structure
+T17	Material 380 394	grain boundary
+T18	Element 432 434	Zn
+T19	Characterization 444 457	Raman spectra
+T20	Element 501 503	Zn
+T21	Element 529 536	Zn ions
+T22	Property 577 592	charge carriers
+T23	Element 600 604	CuO2
+T24	Material 605 611	planes
+T25	Material 625 633	disorder
+T26	Element 641 645	CuO2
+T27	Material 646 652	planes
+T28	Element 666 672	oxygen
+T29	Element 686 689	CuO
+T30	Material 690 696	chains
+T31	Property 722 733	resistivity
+T32	SC 748 786	superconducting transition temperature
+T33	SC 787 790	T c
+T34	SC 817 843	superconducting transition
+T35	Element 886 888	Zn
+T36	Property 940 952	normal state
+T37	Property 953 964	resistivity
+T38	Property 970 978	metallic
+T39	Element 1060 1062	Zn
+T40	Material 1090 1095	grain
+T41	Material 1105 1110	grain
+T42	Material 1111 1120	disorders
+T43	Material 1151 1158	lattice
+T44	Material 1159 1167	disorder
+T45	Element 1175 1179	CuO2
+T46	Material 1180 1186	planes
+T47	Property 1192 1206	oxygen content
+T48	Element 1217 1220	CuO
+T49	Material 1221 1227	chains
+T50	SC 1243 1260	superconductivity
+T52	Element 1296 1298	Zn
+T53	Element 1303 1305	Cu
+T54	SC 1340 1343	T c
+T55	Element 1351 1356	SBCZO
+T11	Property 207 238	electronic transport properties
+T12	Property 982 997	semi-conducting
+T61	Property 1028 1043	heterogeneities
+T16	Characterization 702 714	measurements
+T6	Doping 142 148	doping
+T15	Doping 1280 1292	substitution
+T51	Value 49 52	0.0
+T57	Value 53 56	0.4
+R1	Coref Arg1:T2 Arg2:T3
+R2	Coref Arg1:T32 Arg2:T33
+R3	Target Arg1:E1 Arg2:T13
+R4	Target Arg1:E2 Arg2:T55
+E1	Doping:T6 Dopant:T5
+E2	Doping:T15 Dopant:T52 Site:T53

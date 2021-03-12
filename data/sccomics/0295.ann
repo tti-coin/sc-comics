@@ -1,0 +1,72 @@
+T1	Main 0 5	B2223
+T2	SC 6 37	High Temperature Superconductor
+T3	SC 39 43	HTSC
+T4	Process 78 98	solid state reaction
+T5	SC 106 110	HTSC
+T6	Material 111 116	wires
+T7	SC 151 165	superconductor
+T9	Element 210 216	silver
+T11	SC 239 253	Superconductor
+T12	Material 254 260	powder
+T13	Element 284 290	silver
+T14	Material 349 354	wires
+T15	Value 398 399	9
+T17	Value 429 431	81
+T19	Process 487 494	drawing
+T20	Process 499 506	rolling
+T21	Element 541 547	silver
+T22	Material 597 606	thickness
+T24	SC 690 692	SC
+T25	Process 737 744	drawing
+T29	Material 966 971	wires
+T30	SC 1012 1014	Tc
+T33	Material 1089 1094	wires
+T35	SC 1273 1275	Tc
+T37	Property 1302 1326	critical current density
+T40	Material 1348 1353	wires
+T43	Characterization 1471 1488	X-ray diffraction
+T44	SC 1507 1514	high Tc
+T45	Element 1524 1529	B2223
+T47	Element 1569 1574	B2212
+T49	Material 1625 1630	wires
+T50	Property 1643 1658	current density
+T52	Characterization 1685 1703	optical microscope
+T53	Material 1723 1729	grains
+T57	Material 1755 1760	wires
+T58	Material 1766 1785	misalignment grains
+T59	Process 172 186	powder in tube
+T8	Process 188 191	PIT
+T10	Value 305 310	4.5mm
+T60	Value 325 329	50mm
+T61	Value 556 561	0.4cm
+T62	Material 291 295	tube
+T63	Value 575 578	5cm
+T64	Material 548 552	tube
+T65	Value 590 596	0.35mm
+T23	Value 684 689	0.7mm
+T66	Value 799 806	0.175mm
+T67	Value 883 887	25μm
+T68	Characterization 923 941	optical microscope
+T28	Value 772 776	nine
+T69	Value 1005 1010	0.9mm
+T70	Value 1174 1180	110 °K
+T71	Value 1289 1296	119.5°K
+T72	Value 1210 1218	112.5 °K
+T73	Value 1227 1228	9
+T75	Value 1256 1261	117°K
+T41	Value 1456 1457	9
+T48	Property 1590 1600	I-V curves
+T31	SC 1015 1057	critical temperature for superconductivity
+T32	Property 1135 1170	critical temperature for the pellet
+T16	Value 420 423	9MF
+T18	Value 447 451	81MF
+T34	Value 1239 1242	9MF
+T36	Value 1280 1284	81MF
+T39	Value 1335 1338	9MF
+T38	Value 1343 1347	81MF
+T46	Value 1663 1668	81 MF
+T51	Value 1750 1754	9 MF
+T26	Value 757 761	9 MF
+T27	Value 844 849	81MFC
+T42	Value 1465 1469	81MF
+R2	Equivalent Arg1:T35 Arg2:T71

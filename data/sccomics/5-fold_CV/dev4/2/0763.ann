@@ -1,0 +1,58 @@
+T1	SC 5 20	superconducting
+T2	SC 39 71	high temperature superconductors
+T3	Process 85 91	plasma
+T4	Property 92 101	frequency
+T7	Property 157 171	oxygen content
+T8	Material 179 187	material
+T9	Property 199 213	oxygen content
+T10	Material 234 239	grain
+T11	Element 290 296	oxygen
+T15	Material 325 332	layered
+T16	SC 333 348	superconductors
+T17	Property 365 369	hole
+T18	SC 375 392	superconductivity
+T19	Property 453 466	concentration
+T20	Property 470 474	hole
+T21	Element 516 522	oxygen
+T22	Process 523 532	annealing
+T23	Property 591 599	critical
+T24	Element 641 647	oxygen
+T26	Material 684 695	grain sizes
+T27	Element 703 709	oxygen
+T28	Process 710 718	annealed
+T29	Characterization 753 781	Scanning Electron Microscopy
+T30	Characterization 783 786	SEM
+T31	Property 803 816	magnetization
+T33	Characterization 880 885	SQUID
+T34	Property 909 920	calculation
+T35	Property 924 948	critical current density
+T36	Property 995 1022	Josephson penetration depth
+T37	Property 1028 1056	Josephson penetration depths
+T39	SC 1123 1155	high temperature superconductors
+T40	Process 1163 1169	plasma
+T41	Property 1170 1179	frequency
+T42	Property 1223 1250	Josephson penetration depth
+T43	Process 1256 1262	plasma
+T44	Property 1263 1274	frequencies
+T46	SC 1340 1371	high temperature superconductor
+T14	Characterization 835 878	Superconducting Interference Quantum Device
+T32	Property 1096 1118	Lawrence–Doniach Model
+T47	Property 480 488	carriers
+T48	Main 303 324	Hg-based copper oxide
+T12	Doping 297 302	doped
+T13	Doping 648 654	doping
+T25	Doping 1290 1296	doping
+R1	Target Arg1:E1 Arg2:T48
+E1	Doping:T12 Dopant:T11
+E2	Doping:T13 Dopant:T24
+E3	Doping:T25 
+#1	AnnotatorNotes T8	179-187
+#2	AnnotatorNotes T10	234-239
+#3	AnnotatorNotes T11	290-296
+#4	AnnotatorNotes T15	325-332
+#5	AnnotatorNotes T21	516-522
+#6	AnnotatorNotes T24	641-647
+#7	AnnotatorNotes T26	684-695
+#8	AnnotatorNotes T27	703-709
+#9	AnnotatorNotes T48	303-324
+T5	SC 110 141	critical transition temperature

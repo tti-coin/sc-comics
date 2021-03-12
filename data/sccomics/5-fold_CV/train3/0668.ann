@@ -1,0 +1,49 @@
+T1	Element 10 12	Pr
+T3	Property 37 54	antiferromagnetic
+T4	Process 64 72	pressure
+T5	SC 81 95	superconductor
+T6	Main 96 107	Ce 2 RhIn 8
+T7	Property 122 144	electrical resistivity
+T8	Element 148 174	( Ce 1 - x Pr x ) 2 RhIn 8
+T11	Property 268 271	T N
+T12	Element 296 298	Pr
+T15	Property 371 393	critical concentration
+T16	Property 414 417	T N
+T17	Property 472 475	T N
+T18	Element 493 495	Ce
+T20	Element 556 558	Ce
+T21	Element 559 561	Ce
+T25	Value 182 183	0
+T26	Value 185 189	0.05
+T27	Value 191 195	0.07
+T28	Value 197 201	0.10
+T29	Value 203 207	0.15
+T30	Value 209 213	0.68
+T31	Value 218 221	1.0
+T32	Value 348 355	- 6.2 K
+T33	Value 403 407	0.45
+T34	Process 435 451	zero-temperature
+T2	Doping 13 25	substitution
+T13	Doping 299 305	doping
+T14	Doping 501 507	doping
+R1	Target Arg1:E1 Arg2:T6
+E1	Doping:T2 Dopant:T1
+E2	Doping:T13 Dopant:T12
+E3	Doping:T14 Site:T18
+#1	AnnotatorNotes T1	10-12
+#2	AnnotatorNotes T6	96-107
+#3	AnnotatorNotes T8	148-174
+#4	AnnotatorNotes T12	296-298
+#5	AnnotatorNotes T18	493-495
+#6	AnnotatorNotes T20	556-558
+#7	AnnotatorNotes T21	559-561
+#8	AnnotatorNotes T25	182-183
+#9	AnnotatorNotes T26	185-189
+#10	AnnotatorNotes T27	191-195
+#11	AnnotatorNotes T28	197-201
+#12	AnnotatorNotes T29	203-207
+#13	AnnotatorNotes T30	209-213
+#14	AnnotatorNotes T31	218-221
+#15	AnnotatorNotes T32	348-355
+#16	AnnotatorNotes T33	403-407
+T9	Property 227 255	antiferromagnetic transition

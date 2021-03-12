@@ -1,0 +1,69 @@
+T1	Material 22 38	grain boundaries
+T2	SC 78 85	high-Tc
+T3	Element 86 94	cuprates
+T5	Process 170 178	sintered
+T6	Property 194 218	critical current density
+T7	Property 248 256	magnetic
+T8	Material 257 261	flux
+T9	Element 322 324	Zn
+T10	Property 344 356	pin vortices
+T11	SC 378 395	superconductivity
+T12	Element 446 448	Zn
+T13	Material 449 457	impurity
+T14	Material 465 475	intergrain
+T15	Main 512 538	La2− x Sr x Cu1− y Zn y O4
+T16	Process 539 547	sintered
+T17	Property 571 590	hole concentrations
+T18	Element 621 623	Zn
+T19	Property 659 676	AC susceptibility
+T20	SC 741 779	superconducting transition temperature
+T21	SC 780 782	Tc
+T22	SC 843 858	superconducting
+T23	Material 859 865	grains
+T24	Property 898 902	hole
+T25	Material 907 915	disorder
+T27	Material 1114 1124	intergrain
+T28	Element 1144 1146	Zn
+T29	SC 1163 1165	Tc
+T30	Property 1201 1213	hole content
+T31	Element 1250 1252	Zn
+T33	Material 40 43	GBs
+T34	Material 317 320	GBs
+T39	Property 678 681	ACS
+T40	Property 701 704	ACS
+T41	Property 805 809	Tgcp
+T26	SC 1027 1029	Tc
+T44	Material 963 966	GBs
+T45	Property 1170 1174	Tgcp
+T46	Material 1332 1335	GBs
+T48	Property 643 658	field-dependent
+T49	Characterization 683 695	measurements
+T43	Property 1087 1090	ACS
+T50	Property 1071 1086	field-dependent
+T52	Property 1222 1242	carrier localization
+T53	Property 1014 1018	Tgcp
+T32	Doping 1253 1265	substitution
+T4	SC 137 152	superconductors
+T55	Element 129 136	cuprate
+R1	Coref Arg1:T1 Arg2:T33
+R2	Coref Arg1:T20 Arg2:T21
+E1	Doping:T32 Dopant:T31
+#1	AnnotatorNotes T1	22-38
+#2	AnnotatorNotes T3	86-94
+#3	AnnotatorNotes T8	257-261
+#4	AnnotatorNotes T9	322-324
+#5	AnnotatorNotes T12	446-448
+#6	AnnotatorNotes T13	449-457
+#7	AnnotatorNotes T14	465-475
+#8	AnnotatorNotes T15	512-538
+#9	AnnotatorNotes T18	621-623
+#10	AnnotatorNotes T23	859-865
+#11	AnnotatorNotes T25	907-915
+#12	AnnotatorNotes T27	1114-1124
+#13	AnnotatorNotes T28	1144-1146
+#14	AnnotatorNotes T31	1250-1252
+#15	AnnotatorNotes T33	40-43
+#16	AnnotatorNotes T34	317-320
+#17	AnnotatorNotes T44	963-966
+#18	AnnotatorNotes T46	1332-1335
+#19	AnnotatorNotes T55	129-136

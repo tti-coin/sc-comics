@@ -1,0 +1,39 @@
+T1	Material 0 10	Thin films
+T2	SC 229 237	high-T c
+T3	SC 245 260	Superconducting
+T4	Material 261 266	films
+T5	Process 304 313	annealing
+T7	Material 383 388	films
+T10	Process 454 464	deposition
+T11	Process 465 473	pressure
+T12	Process 483 492	annealing
+T13	Material 518 523	films
+T14	Material 560 570	morphology
+T15	SC 578 593	superconducting
+T16	Material 594 604	thin films
+T17	Characterization 620 648	scanning electron microscopy
+T18	Characterization 703 720	X-ray diffraction
+T19	Main 14 23	BiSrCaCuO
+T20	Value 139 146	10.6 μm
+T21	Material 56 67	crystalline
+T22	Element 68 77	MgO (100)
+T23	Material 78 88	substrates
+T24	Process 97 100	TEA
+T25	Element 101 104	CO2
+T26	Element 168 170	Ca
+T27	Element 176 178	Cu
+T28	Element 198 200	Pb
+T31	Value 393 398	115 K
+T32	Value 431 437	99.5 K
+T33	Element 666 670	2212
+T34	Element 675 686	2223 phases
+T35	Property 125 135	wavelength
+T36	Process 105 117	pulsed laser
+T29	Value 317 322	800°C
+T37	Value 323 328	825°C
+T30	Value 333 338	850°C
+T38	Value 339 344	865°C
+T8	SC 407 426	zero resistance T c
+T6	SC 358 367	onset T c
+R1	Equivalent Arg1:T8 Arg2:T32
+R2	Equivalent Arg1:T6 Arg2:T31

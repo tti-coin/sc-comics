@@ -1,0 +1,47 @@
+T1	Material 24 28	flux
+T2	Element 47 49	Fe
+T3	Main 56 60	MgB2
+T4	Element 85 89	FeTi
+T5	Material 90 99	particles
+T7	Material 196 211	stainless steel
+T8	Element 222 224	Mg
+T9	Element 226 227	B
+T10	Element 232 236	FeTi
+T11	Material 237 246	particles
+T12	Material 263 267	flux
+T13	Element 276 280	MgB2
+T14	SC 281 296	superconductors
+T15	Material 313 319	fluxes
+T16	Material 331 338	defects
+T17	Element 368 372	MgB2
+T18	Element 374 378	MgB2
+T20	Element 394 398	FeTi
+T21	Material 399 408	particles
+T22	Element 448 452	MgB2
+T23	Material 458 462	flux
+T24	Element 471 475	MgB2
+T26	Element 519 523	FeTi
+T27	Material 524 533	particles
+T29	Element 574 578	FeTi
+T30	Property 605 616	diamagnetic
+T31	Property 636 648	flux pinning
+T32	Material 693 702	particles
+T33	Element 706 710	MgB2
+T35	Material 728 732	flux
+T36	Material 769 773	flux
+T37	Element 782 786	MgB2
+T38	Value 103 105	5K
+T39	Element 688 692	FeTi
+T6	Property 116 125	flux jump
+T40	Property 351 364	heat capacity
+T19	Doping 50 55	doped
+T25	Doping 383 388	doped
+T28	Doping 513 518	doped
+T34	Doping 564 570	doping
+R1	Target Arg1:E1 Arg2:T3
+R2	Target Arg1:E2 Arg2:T18
+R3	Target Arg1:E3 Arg2:T24
+E1	Doping:T19 Dopant:T2
+E2	Doping:T25 Dopant:T20
+E3	Doping:T28 Dopant:T26
+E4	Doping:T34 Dopant:T29

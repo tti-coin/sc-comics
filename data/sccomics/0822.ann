@@ -1,0 +1,72 @@
+T1	Property 4 7	BCS
+T2	Property 13 20	pairing
+T3	Property 21 27	theory
+T5	Property 148 162	Fermi surfaces
+T6	Property 186 193	pairing
+T7	SC 213 216	T c
+T8	Property 236 245	pseudogap
+T10	SC 285 288	T c
+T12	Material 340 349	materials
+T13	Property 367 380	polaron model
+T14	Property 399 402	BCS
+T15	Property 449 477	electron–phonon interactions
+T16	Property 502 509	polaron
+T17	Property 588 602	Cooper pairing
+T18	SC 608 611	T c
+T19	SC 630 656	superconducting transition
+T21	Property 712 715	BCS
+T22	Material 781 788	isotope
+T23	Element 804 810	oxygen
+T24	Element 815 821	copper
+T25	Material 822 829	isotope
+T26	Material 854 861	isotope
+T27	Property 900 920	strengths of Coulomb
+T28	Property 925 940	electron–phonon
+T30	Property 973 993	dielectric constants
+T31	Element 1001 1009	cuprates
+T32	Property 1019 1022	BCS
+T33	Property 1028 1035	pairing
+T34	Property 1036 1042	theory
+T35	Material 1125 1132	isotope
+T36	Element 1164 1170	oxygen
+T37	Element 1175 1181	copper
+T38	Material 1182 1189	isotope
+T39	Element 1215 1223	cuprates
+T40	Property 1235 1249	Fermi surfaces
+T41	Material 1284 1291	isotope
+T43	Property 1463 1469	theory
+T44	Material 1553 1560	isotope
+T46	Element 1597 1605	cuprates
+T47	Property 1617 1631	Fermi surfaces
+T48	Material 1659 1666	isotope
+T49	SC 1686 1689	T c
+T51	Element 1713 1721	cuprates
+T52	Material 1740 1746	metals
+T53	Property 247 249	PG
+T54	Property 328 330	PG
+T55	Property 750 752	PG
+T11	Material 305 312	isotope
+T56	Property 877 879	PG
+T57	Property 1205 1207	PG
+T58	Element 1118 1124	oxygen
+T59	Property 1046 1064	polaronic carriers
+T9	Process 256 278	mean-field temperature
+T60	Property 1155 1163	negative
+T61	Property 1109 1117	positive
+T62	Property 1768 1776	positive
+T63	Property 1792 1800	negative
+T29	Doping 955 961	doping
+T4	SC 111 126	superconductors
+T64	Element 103 110	cuprate
+T20	SC 676 691	superconductors
+T65	Element 668 675	cuprate
+T45	Doping 1586 1596	underdoped
+T50	Doping 1703 1712	overdoped
+R1	Target Arg1:E1 Arg2:T31
+R2	Target Arg1:E2 Arg2:T46
+R3	Target Arg1:E3 Arg2:T51
+E1	Doping:T29
+E2	Doping:T45
+E3	Doping:T50
+T42	Element 1360 1367	cuprate
+T66	Property 1368 1383	superconductors

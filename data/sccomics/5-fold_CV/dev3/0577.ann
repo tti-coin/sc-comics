@@ -1,0 +1,51 @@
+T1	Property 32 41	pseudogap
+T2	Property 49 59	excitation
+T3	SC 71 80	high- T c
+T4	Main 81 89	cuprates
+T5	Material 108 116	impurity
+T6	Property 127 147	charge inhomogeneity
+T7	Property 221 234	specific heat
+T8	SC 261 264	T c
+T11	Property 331 336	model
+T12	Property 387 395	polarons
+T13	Property 419 431	Cooper pairs
+T14	Property 457 466	pseudogap
+T15	Material 471 479	impurity
+T16	Property 495 507	normal-state
+T17	Property 508 518	electronic
+T18	Property 519 532	specific heat
+T19	SC 536 545	high- T c
+T20	Element 546 554	cuprates
+T21	Property 575 597	charge inhomogeneities
+T22	Property 628 643	electron–phonon
+T23	Property 691 705	Cooper pairing
+T24	Property 723 727	band
+T25	Property 736 746	mean-field
+T26	Property 786 795	pseudogap
+T27	SC 802 805	T c
+T28	Element 813 821	cuprates
+T29	Property 827 837	electronic
+T30	Property 838 851	specific heat
+T32	Element 871 879	cuprates
+T33	Property 982 994	Cooper pairs
+T34	Property 1029 1041	Cooper pairs
+T37	Property 1182 1190	polarons
+T39	Element 1334 1336	La
+T42	Property 1492 1495	BCS
+T43	Material 1551 1559	impurity
+T44	Property 1607 1610	BCS
+T45	Property 317 330	multi-carrier
+T48	Property 1006 1014	Bose-gas
+T50	Property 1242 1251	Fermi-gas
+T38	Material 1075 1088	impurity band
+T35	Property 411 418	bosonic
+T40	Property 1050 1067	unpaired carriers
+T9	Doping 283 288	doped
+T31	Doping 865 870	doped
+T10	Element 289 296	cuprate
+T46	SC 297 311	superconductor
+T36	Element 1342 1358	Y-based cuprates
+R1	Target Arg1:E1 Arg2:T10
+R2	Target Arg1:E2 Arg2:T32
+E1	Doping:T9 
+E2	Doping:T31 

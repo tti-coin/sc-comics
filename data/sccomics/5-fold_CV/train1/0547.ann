@@ -1,0 +1,23 @@
+T2	Property 86 104	antiferromagnetism
+T3	Property 106 108	AF
+T4	SC 114 131	superconductivity
+T5	SC 133 135	SC
+T6	Property 152 165	Hubbard model
+T9	Property 322 326	band
+T10	SC 419 421	SC
+T11	Property 439 441	AF
+T12	Element 485 493	cuprates
+T14	Material 548 564	phase separation
+T15	Property 652 654	AF
+T16	Value 470 472	10
+T8	Material 171 185	square lattice
+T17	Property 223 253	variational Monte Carlo method
+T7	Property 305 317	Mott physics
+T18	Property 262 281	trial wave function
+T19	Property 655 658	gap
+T20	Value 700 701	0
+T13	Doping 525 531	doping
+R1	Coref Arg1:T4 Arg2:T5
+E1	Doping:T13 
+T1	Main 7 14	cuprate
+T21	SC 15 30	superconductors

@@ -1,0 +1,39 @@
+T1	Property 12 33	electronic properties
+T2	Main 37 46	γ-Uranium
+T3	Element 69 71	Mo
+T5	Process 111 118	cooling
+T6	Material 155 168	bcc structure
+T7	Process 172 188	low temperatures
+T8	Property 272 295	Magnetic susceptibility
+T10	Property 385 388	BCS
+T11	SC 389 406	superconductivity
+T12	SC 412 415	T c
+T13	Property 426 440	critical field
+T14	Element 465 467	Mo
+T15	SC 482 499	superconductivity
+T16	Element 555 556	U
+T17	SC 574 577	T c
+T18	Property 606 619	specific heat
+T19	Material 655 659	bulk
+T20	Value 252 262	11mJ/molK2
+T21	Value 236 246	16mJ/molK2
+T22	Value 329 342	5×10−8 m3/mol
+T23	Value 417 421	2.1K
+T24	Value 451 453	5T
+T25	Value 458 464	15at.%
+T26	Element 348 350	Mo
+T9	Element 357 360	γ-U
+T28	Value 590 592	1K
+T29	Property 194 216	Sommerfeld coefficient
+T30	Element 267 270	α-U
+T4	Doping 72 78	doping
+T27	Doping 351 356	doped
+R1	Equivalent Arg1:T12 Arg2:T23
+R2	Target Arg1:T23 Arg2:T9
+R3	Equivalent Arg1:T17 Arg2:T28
+R4	Target Arg1:E1 Arg2:T2
+R5	Target Arg1:E2 Arg2:T9
+R6	Condition Arg1:T23 Arg2:E2
+R7	Target Arg1:T28 Arg2:T16
+E1	Doping:T4 Dopant:T3
+E2	Doping:T27 Dopant:T26

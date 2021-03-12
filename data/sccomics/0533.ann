@@ -1,0 +1,67 @@
+T1	Main 75 80	Nb3Sn
+T2	SC 81 95	superconductor
+T4	SC 113 128	superconducting
+T5	Element 138 140	Ti
+T6	Element 192 197	Nb3Sn
+T7	Property 204 227	electrical conductivity
+T8	Property 231 243	normal state
+T9	Element 277 282	Nb3Sn
+T10	Material 283 288	layer
+T11	Process 289 296	growing
+T12	Property 320 344	critical current density
+T13	Material 379 388	structure
+T14	Material 393 404	composition
+T15	Element 408 415	Nb3+xSn
+T16	SC 416 431	superconducting
+T17	Characterization 443 446	SEM
+T18	Characterization 448 451	TEM
+T19	Characterization 456 460	EDXS
+T20	Material 502 511	structure
+T21	Material 516 527	composition
+T22	Element 531 536	Nb3Sn
+T23	SC 537 552	superconducting
+T24	Element 652 654	Ti
+T25	Element 666 671	Nb3Sn
+T26	Element 697 699	Ti
+T27	Element 714 716	Nb
+T28	Material 740 746	matrix
+T29	Element 800 802	Ti
+T30	Material 857 863	matrix
+T32	Element 901 903	Nb
+T33	Element 915 920	Nb3Sn
+T34	Material 945 959	stoichiometric
+T35	Element 975 980	Nb3Sn
+T36	Material 981 999	lattice parameters
+T37	Characterization 1021 1024	XRD
+T38	Material 1049 1067	lattice parameters
+T39	Element 1088 1090	Ti
+T41	Material 1097 1103	matrix
+T42	Material 1128 1142	stoichiometric
+T43	Element 1143 1148	Nb3Sn
+T44	Material 1177 1182	grain
+T45	Material 1183 1193	morphology
+T46	Material 1198 1209	composition
+T47	SC 1213 1228	superconducting
+T48	Property 1239 1263	critical current density
+T49	Property 160 163	Hc2
+T50	Value 592 597	575°C
+T51	Value 598 603	150 h
+T52	Value 604 609	650°C
+T53	Value 610 614	200h
+T54	Element 733 739	bronze
+T56	Characterization 461 474	microanalysis
+T57	Property 47 71	current-carrying ability
+T59	Material 717 726	filaments
+T3	Doping 99 105	doping
+T31	Doping 700 710	introduced
+T40	Doping 864 870	doping
+T58	Doping 1091 1096	doped
+R1	Target Arg1:E1 Arg2:T1
+R2	Target Arg1:E4 Arg2:T43
+R3	Target Arg1:E5 Arg2:T25
+R4	Target Arg1:E2 Arg2:T25
+E1	Doping:T3 Dopant:T5
+E2	Doping:T31 Dopant:T26 Site:T27
+E3	Doping:T40
+E4	Doping:T58 Dopant:T39
+E5	Doping:T31 Dopant:T26 Site:T54

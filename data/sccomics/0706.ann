@@ -1,0 +1,45 @@
+T1	Element 14 20	oxygen
+T2	Property 21 29	isotopic
+T4	SC 50 88	superconducting transition temperature
+T7	Main 143 169	La2− x Sr x Cu1− y Zn y O4
+T8	Element 195 197	Zn
+T9	Element 214 218	CuO2
+T10	Material 219 224	plane
+T11	Element 240 242	Zn
+T12	Material 250 257	isotope
+T15	Material 424 432	disorder
+T16	Property 478 483	model
+T20	Property 567 572	model
+T22	Element 651 653	Zn
+T23	SC 671 673	Tc
+T24	Property 699 703	hole
+T25	Element 705 707	Sr
+T26	Element 738 740	Zn
+T27	Property 749 762	pair-breaking
+T28	Element 867 869	Zn
+T29	Property 878 887	magnetism
+T30	SC 938 953	superconducting
+T31	Property 954 969	order parameter
+T32	Property 973 985	hole content
+T33	Element 993 997	CuO2
+T34	Material 998 1003	plane
+T39	Value 342 346	0.09
+T42	Value 388 392	0.22
+T17	Property 500 520	Cooper pair-breaking
+T3	Doping 30 42	substitution
+T5	Doping 118 128	underdoped
+T6	Doping 133 142	overdoped
+T13	Doping 327 337	underdoped
+T14	Doping 374 383	overdoped
+T19	Doping 540 550	underdoped
+T21	Doping 620 629	overdoped
+R1	Target Arg1:E2 Arg2:T7
+R2	Target Arg1:E3 Arg2:T7
+R3	Target Arg1:E1 Arg2:T7
+E1	Doping:T3 Dopant:T1
+E2	Doping:T5 Dopant:T8 Site:T9
+E3	Doping:T6 Site:T9 Dopant:T8
+E4	Doping:T13
+E5	Doping:T14
+E6	Doping:T19
+E7	Doping:T21

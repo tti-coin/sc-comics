@@ -1,0 +1,31 @@
+T1	Material 29 36	layered
+T2	Main 37 50	iron-arsenide
+T3	SC 51 66	superconductors
+T4	Material 72 77	thick
+T7	Material 100 115	blocking layers
+T8	Element 208 212	iron
+T9	Material 213 219	layers
+T10	Property 261 274	magnetization
+T11	Property 429 439	low fields
+T12	Element 462 466	iron
+T13	SC 473 488	superconductors
+T14	Material 544 553	thickness
+T15	Material 561 575	blocking layer
+T17	Property 682 688	vortex
+T18	SC 710 713	T c
+T19	Property 754 780	electromagnetic anisotropy
+T20	Material 801 808	layered
+T21	Material 809 826	crystal structure
+T23	Property 890 912	magnetic phase diagram
+T24	Material 916 923	layered
+T25	Element 924 938	iron arsenides
+T26	Material 961 968	layered
+T27	Element 969 977	cuprates
+T16	Value 716 719	0.6
+T22	Property 323 335	magnetically
+T29	Property 507 519	lower fields
+T28	Value 225 228	1.5
+T30	Value 232 238	3.0 nm
+T6	Characterization 275 287	measurements
+T5	Material 78 93	perovskite-type
+T31	Element 94 99	oxide

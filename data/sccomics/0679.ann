@@ -1,0 +1,40 @@
+T2	Property 21 57	ab initio band structure calculation
+T4	SC 70 78	high-T c
+T5	Element 87 100	iron-pnictide
+T6	Main 111 117	LaFeXO
+T7	Element 124 126	As
+T8	Main 129 137	BaFe2As2
+T9	Main 139 147	CaFe2As2
+T10	Main 152 158	LiFeAs
+T11	Element 162 163	P
+T12	Element 165 167	As
+T13	Element 184 190	LaFeXO
+T14	Element 195 203	CaFe2As2
+T15	Property 236 251	band structures
+T16	Material 277 282	ionic
+T17	Property 283 288	model
+T18	Material 318 328	distortion
+T19	Element 332 337	FeAs4
+T20	Element 352 359	LaFeAsO
+T21	Property 398 415	density of states
+T22	Property 425 436	Fermi level
+T23	Element 470 477	REFeAsO
+T24	Element 482 484	Nd
+T25	Element 486 488	Sm
+T26	SC 505 508	T c
+T27	Element 514 521	LaFeAsO
+T28	Property 527 536	electrons
+T30	Property 581 598	density of states
+T31	Property 606 617	Fermi level
+T33	Material 635 640	atoms
+T34	Element 659 661	Fe
+T35	Element 662 664	Fe
+T36	Material 665 670	plane
+T37	Element 715 717	Fe
+T39	Element 758 760	Fe
+T40	Property 761 768	d-bands
+T44	Element 121 122	P
+T45	Property 693 706	hybridization
+T46	Material 338 348	tetrahedra
+T1	Doping 541 546	doped
+E1	Doping:T1 Dopant:T28

@@ -1,0 +1,33 @@
+T1	Material 0 15	Single crystals
+T2	Main 19 26	2H-NbS2
+T3	Process 43 67	chemical vapor transport
+T5	Process 148 153	grown
+T6	Material 154 169	single crystals
+T7	SC 217 256	superconducting transition temperatures
+T8	SC 258 260	Tc
+T9	Material 295 308	stoichiometry
+T10	Process 326 335	annealing
+T11	Element 374 380	sulfur
+T12	Material 381 390	deficient
+T13	Element 391 403	2H-NbS 2 − y
+T14	Material 404 419	single crystals
+T15	SC 426 428	Tc
+T16	Process 444 452	annealed
+T17	Characterization 572 591	electron scattering
+T18	Property 616 635	interlayer coupling
+T19	Material 669 683	c-axis lattice
+T21	Process 699 708	annealing
+T22	Element 726 728	Nb
+T24	Material 751 757	layers
+T25	Value 277 282	6.2 K
+T4	Property 105 131	residual resistivity ratio
+T29	Property 133 136	RRR
+T23	Doping 729 742	intercalation
+T20	Value 197 199	10
+T30	Value 203 205	60
+T26	Property 433 436	RRR
+T28	Value 513 517	0.05
+T31	Value 521 525	0.10
+R1	Coref Arg1:T7 Arg2:T8
+R2	Equivalent Arg1:T7 Arg2:T25
+E1	Doping:T23 Dopant:T22

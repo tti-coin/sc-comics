@@ -1,0 +1,54 @@
+T1	Property 25 38	low-frequency
+T2	Element 39 41	Cu
+T4	Main 84 102	La2−xSrxCu1−yFeyO4
+T5	Property 143 153	zero-field
+T10	Element 275 277	Fe
+T12	Property 310 328	hole concentration
+T13	Element 333 335	Cu
+T14	SC 348 365	superconductivity
+T15	Element 377 389	La2−xSrxCuO4
+T20	Element 670 672	Fe
+T21	Property 678 686	magnetic
+T22	Material 687 695	impurity
+T23	Property 748 760	stripe order
+T24	SC 764 772	high-T c
+T25	Element 773 781	cuprates
+T27	Property 834 848	magnetic order
+T28	Element 869 871	Fe
+T3	Element 69 71	Fe
+T40	Value 133 137	0.01
+T43	Value 272 274	1%
+T7	Value 557 562	0.225
+T44	Value 546 550	0.15
+T45	Value 488 492	0.15
+T46	Value 606 610	0.05
+T47	Value 617 621	0.09
+T48	Value 435 440	0.115
+T49	Property 42 46	spin
+T11	Doping 72 83	substituted
+T16	Doping 278 290	substitution
+T17	Doping 464 473	overdoped
+T18	Doping 526 535	overdoped
+T19	Doping 585 595	underdoped
+T26	Doping 654 666	substitution
+T29	Doping 789 799	underdoped
+T30	Doping 872 884	substitution
+T31	Doping 892 901	overdoped
+T32	Doping 945 955	underdoped
+T33	Value 112 116	0.06
+T34	Value 119 124	0.235
+T8	Property 206 237	magnetic transition temperature
+T6	Property 154 174	muon-spin-relaxation
+T9	Characterization 175 187	measurements
+R1	Target Arg1:E1 Arg2:T4
+R2	Target Arg1:E2 Arg2:T15
+E1	Doping:T11 Dopant:T3
+E2	Doping:T16 Dopant:T10 Site:T13
+E3	Doping:T17
+E4	Doping:T18
+E5	Doping:T19
+E6	Doping:T26 Dopant:T20
+E7	Doping:T29
+E8	Doping:T30 Dopant:T28
+E9	Doping:T31
+E10	Doping:T32

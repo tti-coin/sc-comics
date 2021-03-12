@@ -1,0 +1,134 @@
+T1	Element 0 12	Zinc ferrite
+T2	Element 13 24	(ZnFe2O4) y
+T3	Material 25 38	nanoparticles
+T4	Main 39 63	Cu0.5Tl0.5Ba2Ca2Cu3O10−δ
+T5	SC 76 90	superconductor
+T6	Material 91 101	composites
+T8	Element 144 151	ZnFe2O4
+T9	Material 152 165	nanoparticles
+T10	SC 181 195	superconductor
+T11	Material 196 202	matrix
+T12	Characterization 230 247	X-ray diffraction
+T13	Characterization 249 252	XRD
+T14	Characterization 255 283	scanning electron microscopy
+T15	Characterization 285 288	SEM
+T16	Characterization 291 314	energy dispersive X-ray
+T17	Characterization 316 319	EDX
+T18	Characterization 322 349	Fourier transforms infrared
+T19	Characterization 357 369	spectroscopy
+T21	Property 374 388	dc-resistivity
+T22	Material 411 415	bulk
+T23	Element 416 425	CuTl-1223
+T24	SC 426 440	superconductor
+T25	Material 441 447	matrix
+T26	Process 467 487	solid-state reaction
+T27	Element 492 504	Zinc ferrite
+T28	Element 506 513	ZnFe2O4
+T29	Material 515 528	nanoparticles
+T30	Characterization 573 585	XRD analysis
+T31	Material 599 609	tetragonal
+T32	Material 614 630	spinel structure
+T33	Element 634 643	CuTl-1223
+T34	SC 644 658	superconductor
+T35	Element 663 670	ZnFe2O4
+T36	Material 671 684	nanoparticles
+T39	Element 756 763	ZnFe2O4
+T40	Material 764 777	nanoparticles
+T42	Material 798 818	tetragonal structure
+T43	Element 827 836	CuTl-1223
+T44	SC 837 851	superconductor
+T45	Material 852 858	matrix
+T46	Material 896 914	lattice parameters
+T47	Characterization 920 923	SEM
+T49	Material 943 961	granular structure
+T50	SC 974 988	superconductor
+T51	Material 989 995	matrix
+T52	Element 1013 1020	ZnFe2O4
+T53	Material 1021 1034	nanoparticles
+T54	SC 1043 1057	superconductor
+T55	Material 1058 1064	matrix
+T60	Material 1198 1211	nanoparticles
+T61	SC 1224 1238	superconductor
+T62	Material 1239 1245	matrix
+T64	Material 1315 1328	nanoparticles
+T69	Property 1418 1429	spin charge
+T70	Property 1449 1461	paramagnetic
+T71	Element 1462 1469	ZnFe2O4
+T72	Material 1470 1483	nanoparticles
+T74	Element 1531 1533	Fe
+T75	Element 1538 1540	Zn
+T76	Material 1548 1555	lattice
+T79	Material 1651 1661	composites
+T81	Main 65 74	CuTl-1223
+T85	Process 557 571	sol–gel method
+T86	Characterization 351 355	FTIR
+T20	Property 390 391	ρ
+T87	Element 171 180	CuTl-1223
+T41	Characterization 1087 1091	FTIR
+T48	Process 1573 1590	synthesis process
+T80	Property 1286 1298	diamagnetism
+T37	Characterization 704 716	XRD analysis
+T38	Property 1379 1399	mobile free carriers
+T59	Property 1177 1190	concentration
+T65	Property 1329 1342	concentration
+T66	Property 739 752	concentration
+T7	Doping 137 143	adding
+T67	Doping 1514 1527	incorporation
+T73	Value 111 112	0
+T77	Value 113 119	2 wt.%
+T68	Characterization 393 405	measurements
+T56	SC 1112 1149	zero resistivity critical temperature
+T57	SC 1151 1158	T c (0)
+T58	SC 1274 1281	T c (0)
+T63	SC 1630 1637	T c (0)
+R1	Coref Arg1:T4 Arg2:T81
+R2	Coref Arg1:T27 Arg2:T28
+R3	Coref Arg1:T1 Arg2:T2
+R4	Target Arg1:E1 Arg2:T87
+R5	Coref Arg1:T56 Arg2:T57
+E1	Doping:T7 Dopant:T8
+E2	Doping:T67 Dopant:T74
+E3	Doping:T67 Dopant:T75
+#1	AnnotatorNotes T1	0-12
+#2	AnnotatorNotes T2	13-24
+#3	AnnotatorNotes T3	25-38
+#4	AnnotatorNotes T4	39-63
+#5	AnnotatorNotes T6	91-101
+#6	AnnotatorNotes T8	144-151
+#7	AnnotatorNotes T9	152-165
+#8	AnnotatorNotes T11	196-202
+#9	AnnotatorNotes T22	411-415
+#10	AnnotatorNotes T23	416-425
+#11	AnnotatorNotes T25	441-447
+#12	AnnotatorNotes T27	492-504
+#13	AnnotatorNotes T28	506-513
+#14	AnnotatorNotes T29	515-528
+#15	AnnotatorNotes T31	599-609
+#16	AnnotatorNotes T32	614-630
+#17	AnnotatorNotes T33	634-643
+#18	AnnotatorNotes T35	663-670
+#19	AnnotatorNotes T36	671-684
+#20	AnnotatorNotes T39	756-763
+#21	AnnotatorNotes T40	764-777
+#22	AnnotatorNotes T42	798-818
+#23	AnnotatorNotes T43	827-836
+#24	AnnotatorNotes T45	852-858
+#25	AnnotatorNotes T46	896-914
+#26	AnnotatorNotes T49	943-961
+#27	AnnotatorNotes T51	989-995
+#28	AnnotatorNotes T52	1013-1020
+#29	AnnotatorNotes T53	1021-1034
+#30	AnnotatorNotes T55	1058-1064
+#31	AnnotatorNotes T60	1198-1211
+#32	AnnotatorNotes T62	1239-1245
+#33	AnnotatorNotes T64	1315-1328
+#34	AnnotatorNotes T71	1462-1469
+#35	AnnotatorNotes T72	1470-1483
+#36	AnnotatorNotes T74	1531-1533
+#37	AnnotatorNotes T75	1538-1540
+#38	AnnotatorNotes T76	1548-1555
+#39	AnnotatorNotes T79	1651-1661
+#40	AnnotatorNotes T81	65-74
+#41	AnnotatorNotes T87	171-180
+#42	AnnotatorNotes T73	111-112
+#43	AnnotatorNotes T77	113-119

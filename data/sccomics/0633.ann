@@ -1,0 +1,36 @@
+T2	Characterization 94 123	scanning tunneling microscopy
+T4	Element 149 157	cuprates
+T7	Property 340 353	quasiparticle
+T8	Property 390 400	energy gap
+T9	SC 441 456	superconducting
+T10	SC 669 672	T c
+T12	Element 698 706	cuprates
+T13	Property 804 815	energy gaps
+T15	Element 860 868	cuprates
+T16	SC 989 1004	superconducting
+T17	Property 1005 1020	order parameter
+T19	Property 1088 1098	energy gap
+T20	Property 1136 1142	d-wave
+T21	Property 1257 1266	pseudogap
+T5	Characterization 233 274	angle-resolved photoemission spectroscopy
+T6	Characterization 276 281	ARPES
+T22	Property 50 84	quasiparticle interference pattern
+T23	Property 86 89	QPI
+T1	Property 457 460	QPI
+T24	Property 301 304	QPI
+T25	Property 637 640	QPI
+T27	Property 898 913	Bogoliubov arcs
+T18	Characterization 1231 1236	ARPES
+T28	Property 523 533	Fermi arcs
+T29	Property 163 186	function of temperature
+T30	Property 1237 1240	gap
+T3	Doping 138 148	underdoped
+T11	Doping 687 697	underdoped
+T14	Doping 849 859	underdoped
+T26	Property 791 794	QPI
+R1	Target Arg1:E1 Arg2:T4
+R2	Target Arg1:E2 Arg2:T12
+R3	Target Arg1:E3 Arg2:T15
+E1	Doping:T3
+E2	Doping:T11
+E3	Doping:T14

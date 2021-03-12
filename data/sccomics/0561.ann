@@ -1,0 +1,52 @@
+T3	Material 40 44	flux
+T4	Property 56 66	de-pinning
+T5	Main 93 112	(Ba0.56K0.44)Fe2As2
+T6	SC 114 117	T c
+T7	Material 126 130	bulk
+T8	SC 131 145	superconductor
+T11	Property 180 197	Ac susceptibility
+T12	Property 241 243	DC
+T13	Property 248 266	AC magnetic fields
+T15	Property 283 300	Ac susceptibility
+T18	Material 449 453	flux
+T19	Property 454 473	activation energies
+T21	Property 498 516	DC magnetic fields
+T23	Property 522 546	activation energy ranges
+T24	Value 572 575	0 T
+T25	Property 663 671	DC field
+T26	Property 725 749	pinning transition field
+T28	Property 866 883	activation energy
+T29	Property 901 909	AC field
+T30	Property 948 956	DC field
+T32	Property 993 1010	activation energy
+T33	Property 1054 1062	AC field
+T34	Property 1098 1105	pinning
+T35	Property 1186 1194	AC field
+T36	Property 1196 1205	frequency
+T39	Material 0 24	Thermally activated flux
+T1	Property 25 35	de-pinning
+T2	Value 119 124	38.5K
+T40	Value 174 178	18 T
+T41	Property 149 167	DC magnetic fields
+T9	Property 272 281	frequency
+T10	Property 344 353	frequency
+T16	Property 422 435	Arrhenius law
+T17	Property 491 493	AC
+T22	Value 552 557	8822K
+T43	Property 642 659	non-linear manner
+T44	Value 684 687	0 T
+T45	Value 699 702	1 T
+T46	Value 843 847	18 T
+T47	Value 588 592	18 T
+T48	Value 603 609	80 A/m
+T50	Value 579 584	1100K
+T42	Property 965 973	DC field
+T31	Property 1226 1234	DC field
+T27	Property 820 828	DC field
+T20	Property 216 239	function of temperature
+T14	Value 372 374	75
+T38	Value 378 384	1997Hz
+T37	Value 925 931	80 A/m
+T49	Value 935 942	800 A/m
+R1	Target Arg1:T2 Arg2:T5
+R2	Equivalent Arg1:T6 Arg2:T2

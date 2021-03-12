@@ -1,0 +1,95 @@
+T1	Material 30 42	compositions
+T2	Main 43 72	(Tl1 − x Cr x )Sr2CaCu2O7 − δ
+T3	Main 77 106	TlSr2(Ca1 − x Cr x )Cu2O7 − δ
+T4	Process 147 167	solid state reaction
+T5	Characterization 190 214	powder X-ray diffraction
+T8	Characterization 262 285	energy dispersive X-ray
+T9	Characterization 296 299	EDX
+T10	Element 302 307	Cr2S3
+T11	Element 324 326	Cr
+T12	Property 342 354	conductivity
+T13	Property 396 402	theory
+T14	Property 453 465	conductivity
+T15	Property 511 517	theory
+T16	Property 544 560	coherence length
+T18	SC 622 637	superconducting
+T20	Element 671 673	Cr
+T21	Element 686 688	Tl
+T22	Element 692 721	(Tl1 − x Cr x )Sr2CaCu2O7 − δ
+T23	Element 723 731	Tl-1212)
+T27	Property 902 914	normal state
+T28	Property 915 937	electrical resistivity
+T29	Characterization 939 942	XRD
+T30	Element 995 1002	Tl-1212
+T31	Property 1017 1029	conductivity
+T32	Element 1051 1053	Cr
+T35	Property 1084 1096	conductivity
+T37	Property 1185 1197	calculations
+T38	Property 1224 1229	model
+T39	Property 1248 1264	coherence length
+T41	Element 1337 1339	Cr
+T42	Element 1352 1354	Ca
+T43	Element 1358 1387	TlSr2(Ca1 − x Cr x )Cu2O7 − δ
+T45	Property 1451 1463	conductivity
+T46	Element 1477 1506	TlSr2(Ca1 − x Cr x )Cu2O7 − δ
+T48	Property 1557 1569	conductivity
+T6	Property 374 390	Aslamazov–Larkin
+T56	Property 392 394	AL
+T57	Property 489 505	Lawrence–Donaich
+T58	Property 507 509	LD
+T59	Material 569 587	Josephson coupling
+T61	SC 759 786	zero-resistance–temperature
+T62	Value 813 817	0.15
+T64	Value 881 885	105K
+T66	Value 1175 1179	0.15
+T67	Property 1207 1223	Lawrence–Doniach
+T68	Property 1284 1304	interplanar coupling
+T71	Value 1412 1415	90K
+T73	Value 1420 1423	0.3
+T74	Value 1429 1433	104K
+T76	Value 1438 1441	0.2
+T34	Property 1075 1083	2D-to-3D
+T47	Property 1514 1522	2D-to-3D
+T80	Value 1608 1611	0.2
+T81	Value 1663 1666	0.2
+T82	SC 1125 1147	transition temperature
+T84	Value 1315 1319	0.20
+T86	Property 1149 1159	T 2 D –3 D
+T87	Property 1586 1596	T 2 D –3 D
+T88	Property 1722 1732	T 2 D –3 D
+T89	SC 837 870	superconducting onset temperature
+T85	Property 561 567	ξc (0)
+T90	Material 588 589	J
+T92	Property 420 444	dimension of fluctuation
+T93	Property 466 467	λ
+T94	Property 1266 1272	ξc (0)
+T95	Material 1306 1307	J
+T96	Property 1634 1640	ξc (0)
+T97	Material 1645 1646	J
+T19	Doping 655 667	substitution
+T33	Doping 1054 1066	substitution
+T40	Doping 1321 1333	Substitution
+T50	Value 111 115	0.05
+T51	Value 116 120	0.30
+T17	SC 788 795	Tc zero
+T24	SC 1395 1403	Tc onset
+T25	SC 1709 1717	Tc onset
+T26	SC 871 879	Tc onset
+T7	Property 223 244	electrical resistance
+T44	Characterization 245 257	measurements
+R1	Coref Arg1:T22 Arg2:T23
+R2	Target Arg1:T71 Arg2:T43
+R3	Target Arg1:T74 Arg2:T43
+R4	Coref Arg1:T59 Arg2:T90
+R5	Target Arg1:E1 Arg2:T22
+R6	Target Arg1:E3 Arg2:T43
+R7	Coref Arg1:T61 Arg2:T17
+R8	Equivalent Arg1:T24 Arg2:T71
+R9	Equivalent Arg1:T24 Arg2:T74
+R10	Condition Arg1:T71 Arg2:E3
+R11	Condition Arg1:T74 Arg2:E3
+R12	Coref Arg1:T89 Arg2:T26
+R13	Equivalent Arg1:T26 Arg2:T64
+E1	Doping:T19 Dopant:T20 Site:T21
+E2	Doping:T33 Dopant:T32
+E3	Doping:T40 Dopant:T41 Site:T42

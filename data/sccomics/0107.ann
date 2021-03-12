@@ -1,0 +1,27 @@
+T1	Property 32 40	magnetic
+T2	SC 111 126	superconducting
+T3	Property 152 177	irreversible strain limit
+T4	Property 213 219	strain
+T5	SC 242 257	superconductors
+T6	Property 282 296	magnetic field
+T7	Property 366 372	strain
+T8	Property 530 536	strain
+T9	SC 573 587	superconductor
+T10	Property 658 663	model
+T11	Material 691 707	grain boundaries
+T14	Property 814 819	model
+T15	Property 820 831	calculation
+T18	Property 933 939	strain
+T19	Material 1110 1126	grain boundaries
+T20	Property 735 738	J c
+T21	Element 102 104	Bi
+T22	Element 230 232	Ag
+T23	Value 388 393	0.5 T
+T24	Value 397 401	77 K
+T25	Element 1009 1011	Ag
+T26	Property 847 871	critical current density
+T27	Property 67 91	critical current density
+T28	Property 588 594	cracks
+T29	Material 629 647	Josephson junction
+T16	SC 875 898	high-T c superconductor
+T12	SC 779 803	high-T c superconducting

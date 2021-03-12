@@ -1,0 +1,67 @@
+T2	Element 37 39	RE
+T3	Element 40 42	Ba
+T5	SC 59 74	superconducting
+T6	Element 89 94	REBCO
+T7	Material 95 100	films
+T8	Property 104 119	magnetic fields
+T10	Main 145 163	Nd1+x Ba2-x Cu3O y
+T11	Material 164 169	films
+T12	Element 179 181	Nd
+T13	Material 182 193	composition
+T14	Process 213 216	PLD
+T15	SC 265 268	T c
+T16	Element 272 277	NdBCO
+T17	Material 294 299	films
+T18	Material 354 360	c-axis
+T19	Property 364 367	J c
+T20	Property 389 403	magnetic field
+T21	Property 419 432	pinning force
+T23	Material 456 460	film
+T24	Element 498 503	NdBCO
+T25	Material 514 518	film
+T26	Property 536 539	J c
+T28	Element 555 560	NdBCO
+T29	Material 571 575	film
+T30	Property 611 625	magnetic field
+T32	Element 668 677	BHO-NdBCO
+T33	Material 678 683	films
+T34	Property 773 776	J c
+T36	Element 803 808	NdBCO
+T37	Material 819 823	film
+T38	Property 843 860	three-dimensional
+T39	Property 861 876	pinning centers
+T40	Element 885 887	Nd
+T41	Element 888 890	Ba
+T45	Material 915 929	solid solution
+T47	Element 954 957	BHO
+T48	Process 958 964	growth
+T55	Value 311 314	92K
+T22	Element 440 445	NdBCO
+T49	Value 629 632	1 T
+T63	Property 647 652	J c-θ
+T53	Value 282 286	0.01
+T31	Value 565 569	0.08
+T58	Value 508 512	0.01
+T66	Value 813 817	0.08
+T60	Value 693 697	0.01
+T46	Element 135 138	BHO
+T61	Element 545 548	BHO
+T56	Value 450 454	0.08
+T67	Value 288 292	0.08
+T68	Value 702 706	0.08
+T35	Element 793 796	BHO
+T1	Material 891 906	solid solutions
+T4	Doping 43 55	substitution
+T27	Doping 139 144	doped
+T42	Doping 549 554	doped
+T43	Doping 797 802	doped
+R1	Equivalent Arg1:T15 Arg2:T55
+R2	Target Arg1:T55 Arg2:T16
+R3	Target Arg1:E1 Arg2:T6
+R4	Target Arg1:E2 Arg2:T10
+R5	Target Arg1:E3 Arg2:T28
+R6	Target Arg1:E4 Arg2:T36
+E1	Doping:T4 Dopant:T2 Site:T3
+E2	Doping:T27 Dopant:T46
+E3	Doping:T42 Dopant:T61
+E4	Doping:T43 Dopant:T35

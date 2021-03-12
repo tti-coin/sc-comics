@@ -1,0 +1,21 @@
+T1	Material 4 11	surface
+T2	SC 12 29	superconductivity
+T3	Property 53 67	electric field
+T4	Material 89 96	surface
+T7	Property 140 149	insulator
+T9	Material 302 307	layer
+T10	Property 322 342	transport properties
+T11	SC 346 361	superconductors
+T12	Property 417 422	model
+T13	SC 436 439	T c
+T14	Property 534 544	BCS theory
+T16	SC 661 664	T c
+T17	Property 694 699	model
+T19	Material 884 893	thin film
+T20	Material 895 905	thick film
+T21	Property 986 989	J c
+T22	Material 249 256	surface
+T8	Property 257 272	carrier density
+T15	Property 503 529	Thomas-Fermi approximation
+T18	Property 616 629	G-L equations
+T5	SC 102 125	high-T c superconductor

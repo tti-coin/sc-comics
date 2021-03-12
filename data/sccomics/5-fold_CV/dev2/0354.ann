@@ -1,0 +1,37 @@
+T1	Element 0 2	Sn
+T3	Material 9 13	bulk
+T4	Main 14 26	FeSe0.5Te0.5
+T5	Process 68 88	solid state reaction
+T6	Element 113 115	Sn
+T8	Material 179 188	hexagonal
+T9	SC 202 217	superconducting
+T10	Material 218 234	tetragonal phase
+T11	Process 246 255	sintering
+T12	Element 267 279	FeSe0.5Te0.5
+T13	Material 313 319	liquid
+T14	Element 320 322	Sn
+T15	Process 326 341	low temperature
+T16	SC 360 375	superconducting
+T17	Material 423 436	crystallinity
+T18	Element 443 445	Sn
+T22	SC 590 616	superconducting transition
+T24	Material 707 713	dopant
+T25	SC 735 752	superconductivity
+T26	Element 764 766	Fe
+T27	SC 773 788	superconductors
+T28	Value 438 442	5wt%
+T29	Value 523 525	3K
+T23	SC 619 625	T c on
+T30	SC 569 616	onset temperature of superconducting transition
+T21	SC 512 517	T c 0
+T20	SC 481 509	zero resistivity temperature
+T2	Doping 3 8	added
+T7	Doping 116 124	addition
+T19	Doping 446 454	addition
+R1	Coref Arg1:T30 Arg2:T23
+R2	Coref Arg1:T20 Arg2:T21
+R3	Target Arg1:E1 Arg2:T4
+R4	Target Arg1:E2 Arg2:T12
+E1	Doping:T2 Dopant:T1
+E2	Doping:T7 Dopant:T6
+E3	Doping:T19 Dopant:T18

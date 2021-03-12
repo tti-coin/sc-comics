@@ -1,0 +1,40 @@
+T1	Property 50 68	antiferromagnetism
+T2	Property 70 72	AF
+T3	SC 78 95	superconductivity
+T4	SC 97 99	SC
+T5	SC 104 113	High- T c
+T6	Main 114 122	cuprates
+T7	Property 201 231	variational Monte Carlo method
+T8	SC 293 295	SC
+T9	Property 300 302	AF
+T10	Property 341 353	Cooper pairs
+T11	SC 400 402	SC
+T12	Property 484 488	hole
+T13	Property 490 498	electron
+T15	SC 516 518	SC
+T16	Property 562 564	AF
+T18	Property 675 679	hole
+T20	Property 690 698	electron
+T22	Property 750 757	pairing
+T23	Property 834 838	hole
+T25	Property 849 857	electron
+T27	Element 864 872	cuprates
+T28	Property 451 464	electron–hole
+T29	Property 403 406	gap
+T30	Property 237 248	t – J model
+T31	Property 809 812	gap
+T14	Doping 500 505	doped
+T17	Doping 649 654	doped
+T19	Doping 680 685	doped
+T21	Doping 699 704	doped
+T24	Doping 839 844	doped
+T26	Doping 858 863	doped
+R2	Target Arg1:E6 Arg2:T27
+R3	Target Arg1:E5 Arg2:T27
+E1	Doping:T14 Dopant:T12
+E2	Doping:T17
+E3	Doping:T19 Dopant:T18
+E4	Doping:T21 Dopant:T20
+E5	Doping:T24 Dopant:T23
+E6	Doping:T26 Dopant:T25
+E7	Doping:T14 Dopant:T13

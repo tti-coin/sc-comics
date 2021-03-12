@@ -1,0 +1,44 @@
+T1	SC 0 17	Superconductivity
+T2	Property 66 88	Landau-Ginzburg theory
+T4	Property 172 182	BCS theory
+T6	Characterization 229 242	photoemission
+T7	SC 269 284	superconductors
+T8	SC 521 535	superconductor
+T9	Property 536 545	insulator
+T10	SC 546 560	superconductor
+T11	SC 628 643	superconductors
+T13	SC 900 914	superconductor
+T15	SC 1005 1019	superconductor
+T16	Property 1020 1035	order parameter
+T17	Material 1036 1046	symmetries
+T18	SC 1086 1100	superconductor
+T19	Property 1101 1118	density of states
+T20	Material 1200 1208	symmetry
+T21	SC 1217 1231	superconductor
+T22	Property 1232 1237	order
+T23	Property 1280 1285	model
+T30	Element 1344 1357	Bi2Sr2CaCu2O8
+T31	Characterization 1330 1335	ARPBS
+T32	Property 1307 1320	quasiparticle
+T34	Element 1255 1263	cuprates
+T35	Main 255 268	cuprate oxide
+T37	Material 486 496	derivative
+T14	Property 933 953	frequency thresholds
+T27	Property 970 983	quasiparticle
+T33	Property 819 833	quasiparticles
+T5	Element 620 627	cuprate
+T25	Property 92 122	second order phase transitions
+T3	Material 446 449	SIS
+T26	Property 450 471	tunneling conductance
+T28	Property 808 818	mean field
+T36	Property 869 879	mean field
+T38	Material 1130 1133	SIS
+T39	Property 1134 1155	tunneling conductance
+T40	Property 1193 1199	d-wave
+T24	Value 668 672	5.5K
+T42	Value 676 680	100K
+T12	SC 650 656	T c 's
+R1	Target Arg1:T24 Arg2:T5
+R2	Target Arg1:T42 Arg2:T5
+R3	Equivalent Arg1:T12 Arg2:T24
+R4	Equivalent Arg1:T12 Arg2:T42

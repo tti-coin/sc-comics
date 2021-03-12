@@ -1,0 +1,38 @@
+T1	Property 10 19	ab initio
+T4	Property 52 77	electronic band structure
+T5	Property 79 98	densities of states
+T6	Property 108 130	Fermi surface topology
+T10	Element 200 213	iron selenide
+T11	SC 214 228	superconductor
+T12	Main 229 239	K x Fe2Se2
+T13	Property 259 275	electronic state
+T14	Material 283 297	stoichiometric
+T15	Element 298 305	KFe2Se2
+T16	Material 330 343	isostructural
+T17	Element 344 357	iron pnictide
+T18	SC 358 373	superconductors
+T19	SC 436 453	superconductivity
+T20	Material 463 471	material
+T21	Material 479 489	deficiency
+T22	Element 493 502	potassium
+T23	Property 513 517	hole
+T25	Property 618 628	electronic
+T26	Element 647 657	K x Fe2Se2
+T27	SC 658 672	superconductor
+T28	Element 692 693	K
+T29	Material 694 703	vacancies
+T32	Property 768 772	hole
+T34	Material 791 801	structural
+T35	Property 852 865	band topology
+T7	Element 163 186	ThCr2Si2-type potassium
+T2	Property 20 29	FLAPW-GGA
+T3	Material 741 763	structural relaxations
+T8	Doping 187 199	intercalated
+T9	Doping 518 524	doping
+T24	Doping 773 779	doping
+R1	Target Arg1:E2 Arg2:T12
+R2	Target Arg1:E2 Arg2:T10
+R3	Target Arg1:E4 Arg2:T26
+E2	Doping:T8 Dopant:T7
+E3	Doping:T9 Dopant:T23
+E4	Doping:T24 Dopant:T32

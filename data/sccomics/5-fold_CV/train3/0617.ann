@@ -1,0 +1,31 @@
+T2	SC 78 92	superconductor
+T3	Main 93 111	SrFe2(As1−x P x )2
+T4	Main 113 118	Sr122
+T5	Material 120 135	single crystals
+T10	SC 303 341	superconducting transition temperature
+T11	Element 395 400	Ba122
+T12	Element 436 441	Ba122
+T14	Element 584 588	C 66
+T15	Material 611 621	monoclinic
+T17	Element 666 671	Sr122
+T19	Material 697 707	tetragonal
+T20	SC 844 861	superconductivity
+T21	Element 865 869	iron
+T22	SC 876 891	superconductors
+T27	Property 529 547	Jahn-Teller energy
+T28	Property 482 501	Jahn-Teller formula
+T30	Property 447 464	elastic anomalies
+T31	Property 191 208	elastic anomalies
+T1	Element 67 71	iron
+T7	Material 622 645	structural fluctuations
+T23	Element 50 54	C 44
+T24	Element 59 63	C 66
+T25	Element 350 354	C 44
+T26	Element 359 363	C 66
+T29	Element 551 555	C 44
+T32	Element 413 417	C 66
+T33	Property 141 164	function of temperature
+T6	Doping 172 177	doped
+T8	Property 221 263	structural/magnetic transition temperature
+R1	Coref Arg1:T3 Arg2:T4
+E1	Doping:T6 

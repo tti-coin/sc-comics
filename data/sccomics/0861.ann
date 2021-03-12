@@ -1,0 +1,61 @@
+T1	Main 0 23	YBa2(Cu1- x Li x )3O7-δ
+T2	Material 24 36	single-grain
+T3	Material 37 41	bulk
+T4	SC 42 57	superconductors
+T5	Element 73 75	Li
+T6	Property 76 90	concentrations
+T7	Process 96 101	grown
+T9	Process 123 134	melt growth
+T11	Property 183 196	magnetisation
+T13	Element 242 244	Cu
+T14	Material 245 250	atoms
+T15	Element 258 260	Li
+T16	Material 261 266	atoms
+T17	Element 285 296	YBa2Cu3O7-δ
+T18	Material 297 312	crystal lattice
+T20	Property 378 385	pinning
+T21	Property 414 421	pinning
+T22	Property 466 490	critical current density
+T23	Process 503 512	annealing
+T24	Element 532 538	oxygen
+T25	Element 543 548	argon
+T26	SC 565 603	superconducting transition temperature
+T27	Element 654 656	Li
+T28	Element 663 674	YBa2Cu3O7-δ
+T29	Process 688 696	annealed
+T30	Element 700 705	argon
+T31	Element 762 764	Li
+T32	Material 765 770	atoms
+T33	Element 783 786	CuO
+T34	Material 787 793	chains
+T35	Element 802 806	CuO2
+T36	Material 807 813	planes
+T37	Process 831 840	annealing
+T38	Element 844 850	oxygen
+T39	Property 873 899	critical current densities
+T40	Property 916 923	pinning
+T41	Element 938 961	YBa2(Cu1- x Li x )3O7-δ
+T42	Material 962 974	single-grain
+T43	Material 975 979	bulk
+T44	SC 980 995	superconductors
+T45	Element 1037 1039	Li
+T46	Material 1040 1045	atoms
+T47	Element 1053 1064	YBa2Cu3O7-δ
+T48	Material 1065 1080	crystal lattice
+T49	Material 1112 1138	crystal lattice parameters
+T51	Property 1168 1187	non-superconducting
+T52	Element 1188 1196	Y2BaCuO5
+T53	Material 1197 1206	particles
+T54	Element 1234 1236	Li
+T55	Property 1237 1250	concentration
+T8	Process 517 528	reannealing
+T10	Characterization 144 163	Structural analysis
+T12	Doping 222 234	substitution
+T19	Doping 319 331	substitution
+T50	Doping 657 662	doped
+T56	Characterization 197 209	measurements
+R1	Target Arg1:E1 Arg2:T17
+R2	Target Arg1:E3 Arg2:T28
+E1	Doping:T12 Site:T13 Dopant:T15
+E2	Doping:T19
+E3	Doping:T50 Dopant:T27

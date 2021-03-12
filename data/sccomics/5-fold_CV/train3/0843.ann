@@ -1,0 +1,29 @@
+T1	SC 15 30	superconducting
+T2	Main 45 60	FeSe 1 − x Te x
+T3	Material 61 66	films
+T4	Element 115 117	Te
+T5	Element 131 135	CaF2
+T6	Material 136 146	substrates
+T7	Property 168 190	electrical resistivity
+T8	SC 219 222	T c
+T9	Material 226 231	films
+T10	Material 310 314	film
+T11	Material 365 376	composition
+T12	Element 380 395	FeSe 1 − x Te x
+T13	Material 396 401	films
+T14	Element 405 409	CaF2
+T15	Material 410 420	substrates
+T17	SC 459 462	T c
+T18	Property 571 584	phase diagram
+T19	Element 605 609	iron
+T20	SC 616 631	superconductors
+T25	Value 241 244	0.3
+T27	Value 261 265	22 K
+T29	Value 324 327	0.2
+T33	Value 247 250	0.4
+T34	Value 507 510	0.1
+T35	Value 517 521	0.15
+T21	Value 76 77	0
+T22	Value 80 83	0.4
+T16	Characterization 191 203	measurements
+R1	Equivalent Arg1:T8 Arg2:T27

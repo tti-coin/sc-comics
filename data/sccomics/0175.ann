@@ -1,0 +1,29 @@
+T1	Property 4 9	model
+T3	Property 55 64	insulator
+T7	Property 181 186	model
+T10	Property 361 370	insulator
+T11	Material 374 379	metal
+T13	Property 447 467	pair electron states
+T14	Property 497 512	electron energy
+T15	Property 580 599	electronic spectrum
+T17	SC 669 694	high-Tc superconductivity
+T18	SC 133 137	HTSC
+T19	SC 215 219	HTSC
+T20	Element 554 560	oxygen
+T21	Property 251 266	Madelung energy
+T4	SC 109 131	high-Tc superconductor
+T5	Material 13 26	heterovalence
+T22	Material 191 204	heterovalence
+T16	Property 38 53	charge-transfer
+T23	Property 561 565	band
+T2	Doping 27 33	doping
+T6	Doping 155 161	doping
+T8	Doping 205 211	doping
+T9	Doping 276 281	doped
+T12	Doping 391 397	doping
+T24	Property 282 302	carrier localization
+E1	Doping:T2
+E2	Doping:T6
+E3	Doping:T8
+E4	Doping:T9
+E5	Doping:T12

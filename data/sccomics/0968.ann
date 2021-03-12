@@ -1,0 +1,30 @@
+T1	Main 21 28	ScMn2O4
+T3	Material 127 144	crystal structure
+T4	Element 148 155	ScMn2O4
+T5	Material 174 180	spinel
+T6	Element 181 186	Mn3O4
+T7	Element 202 206	Mn2+
+T8	Element 244 253	Sc3+ ions
+T9	Property 319 342	magnetic susceptibility
+T10	Element 378 385	ScMn2O4
+T15	Property 530 563	electronic structural calculation
+T16	Characterization 568 592	EELS spectra measurement
+T19	Element 623 625	Sc
+T20	Element 630 632	Mn
+T21	Element 636 651	MnO6 octahedron
+T22	Material 687 698	distortions
+T23	Element 735 740	Mn3O4
+T18	Material 218 234	tetrahedral site
+T24	Material 278 293	octahedral site
+T2	Value 457 460	58K
+T11	Property 398 428	ferrimagnetic phase transition
+T12	Property 675 686	Jahn–Teller
+T13	Material 14 20	spinel
+T14	Property 347 360	heat capacity
+T25	Element 239 243	Mn3+
+T26	Characterization 71 83	measurements
+T27	Material 507 517	structural
+T28	Material 87 97	structural
+T17	Doping 607 619	substitution
+R1	Target Arg1:E1 Arg2:T21
+E1	Doping:T17 Dopant:T19 Site:T20

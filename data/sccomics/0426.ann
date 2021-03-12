@@ -1,0 +1,66 @@
+T1	Property 36 52	magnetic moments
+T3	Element 56 58	Ni
+T4	Element 60 62	Mn
+T5	Element 67 69	Tb
+T6	Material 70 75	atoms
+T7	Material 83 105	intermetallic compound
+T8	Main 106 113	TbNi2Mn
+T11	Property 134 171	magnetic phase transition temperature
+T12	Property 172 175	T C
+T15	Element 306 308	Ni
+T16	Material 309 314	atoms
+T17	Property 328 350	applied magnetic field
+T18	Property 376 391	magnetic moment
+T20	Property 395 399	spin
+T23	Property 491 497	moment
+T24	Property 551 557	moment
+T25	Element 561 563	Ni
+T26	Property 586 601	magnetic moment
+T29	Element 640 642	Mn
+T30	Element 663 665	Mn
+T31	Property 669 690	antiferromagnetically
+T32	Property 691 698	ordered
+T34	Material 747 750	16d
+T35	Property 761 776	magnetic moment
+T37	Element 819 821	Tb
+T38	Material 822 827	atoms
+T39	Property 849 864	magnetic moment
+T41	Element 872 874	Ni
+T42	Material 875 880	atoms
+T46	Element 992 999	TbNi2Mn
+T47	Element 1014 1019	TbNi2
+T48	Property 1021 1024	T C
+T49	Element 1037 1042	TbMn2
+T50	Property 1044 1047	T C
+T51	Element 1061 1071	rare earth
+T53	Element 1099 1115	transition metal
+T57	Element 1219 1226	TbNi2Mn
+T60	Property 1300 1303	T C
+T61	Value 238 242	300K
+T62	Value 244 247	80K
+T63	Value 252 255	20K
+T64	Value 177 181	131K
+T65	Characterization 186 219	X-ray magnetic circular dichroism
+T66	Characterization 221 225	XMCD
+T68	Value 318 321	20K
+T69	Value 354 356	1T
+T70	Value 442 453	0.53±0.01μB
+T71	Value 458 469	0.05±0.01μB
+T75	Property 412 427	magnetic moment
+T76	Value 787 792	0.3μB
+T77	Value 1026 1031	37.5K
+T78	Value 1049 1052	54K
+T83	Value 1230 1234	300K
+T84	Value 1236 1239	80K
+T85	Value 1244 1247	20K
+T87	Property 1270 1299	magnetic ordering temperature
+T88	Characterization 1174 1215	X-ray magnetic circular dichroism spectra
+T89	Material 755 757	8a
+T90	Value 612 617	0.1μB
+T2	Element 1072 1088	transition metal
+T10	Element 1116 1132	transition metal
+T13	Material 121 132	Laves phase
+T9	Doping 729 737	occupied
+T14	Property 951 988	magnetic phase transition temperature
+T19	Value 1305 1309	131K
+E1	Doping:T9

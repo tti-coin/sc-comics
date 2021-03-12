@@ -1,0 +1,33 @@
+T5	Characterization 214 231	X-ray diffraction
+T6	Characterization 276 279	XPS
+T7	SC 365 368	T c
+T8	Property 401 412	resistivity
+T11	Material 500 505	metal
+T12	Material 506 519	semiconductor
+T13	Property 633 639	charge
+T14	Property 664 666	2p
+T15	Property 865 887	charge-transfer energy
+T16	Property 969 1000	configuration interaction model
+T17	Property 1027 1033	strain
+T18	SC 1042 1056	superconductor
+T20	Element 654 655	Y
+T21	Element 36 37	Y
+T22	Element 52 54	Ca
+T23	Main 91 97	Bi2212
+T24	Element 196 203	BiY2212
+T28	Property 247 249	AC
+T29	Property 254 271	DC susceptibility
+T30	Element 161 194	Bi2.1Sr1.93(Ca0.97−x Y x )Cu2O8+y
+T32	Element 661 663	Cu
+T33	Element 464 465	Y
+T34	Element 598 604	copper
+T36	Material 308 320	single-phase
+T19	Property 1067 1082	BVS calculation
+T10	Property 793 807	binding energy
+T2	SC 67 90	high-T c superconductor
+T1	Doping 38 44	doping
+T3	Material 130 148	off-stoichiometric
+T4	Property 417 434	AC susceptibility
+T9	Characterization 435 447	measurements
+R2	Target Arg1:E1 Arg2:T23
+E1	Doping:T1 Dopant:T21 Site:T22

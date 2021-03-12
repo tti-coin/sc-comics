@@ -1,0 +1,38 @@
+T1	Process 20 25	laser
+T2	Characterization 26 52	photoemission spectroscopy
+T3	Characterization 54 57	PES
+T4	Property 78 98	electronic structure
+T6	SC 117 131	superconductor
+T7	Main 132 149	(La,Eu)FeAsO1-xFx
+T8	Main 151 159	LaEu1111
+T10	SC 243 258	superconducting
+T11	SC 260 262	SC
+T12	SC 264 286	transition temperature
+T13	SC 288 291	T c
+T14	Element 301 303	Eu
+T16	Characterization 362 365	PES
+T18	SC 378 380	SC
+T19	SC 421 424	T c
+T20	SC 455 457	SC
+T21	SC 538 541	T c
+T22	Property 563 572	pseudogap
+T23	SC 587 589	SC
+T24	Element 597 609	(La,Eu)FeAsO
+T25	SC 665 679	superconductor
+T17	Value 399 405	14 meV
+T29	Value 496 502	35 meV
+T30	Property 574 576	PG
+T31	Value 626 632	41 meV
+T5	Element 106 110	iron
+T32	Property 458 461	gap
+T33	Property 618 620	PG
+T34	Property 471 483	energy scale
+T35	Property 325 338	energy scales
+T9	Element 753 766	“1111” family
+T26	Element 201 214	“1111” family
+T15	Doping 304 310	doping
+R1	Coref Arg1:T10 Arg2:T11
+R2	Coref Arg1:T12 Arg2:T13
+R3	Coref Arg1:T7 Arg2:T8
+R4	Target Arg1:E1 Arg2:T7
+E1	Doping:T15 Dopant:T14

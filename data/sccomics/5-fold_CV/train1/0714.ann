@@ -1,0 +1,47 @@
+T2	Element 31 37	carbon
+T3	Element 66 70	MgB2
+T4	Material 110 117	dopants
+T5	Element 127 130	C60
+T6	Element 136 143	C9H11NO
+T7	Element 162 165	C60
+T9	Element 199 205	carbon
+T11	Property 229 240	resistivity
+T12	SC 258 261	T c
+T14	SC 293 296	T c
+T15	Element 397 404	C9H11NO
+T18	Property 458 461	J c
+T19	Element 498 505	C9H11NO
+T21	Property 532 535	J c
+T23	Element 659 663	MgB2
+T24	Element 721 725	MgB2
+T29	Element 389 392	C60
+T31	Value 471 473	5K
+T32	Value 550 552	5K
+T33	Value 557 560	20K
+T22	Property 641 646	J c–H
+T1	Doping 4 10	doping
+T8	Doping 166 171	doped
+T10	Doping 206 218	substitution
+T13	Doping 278 283	doped
+T16	Doping 405 410	doped
+T17	Doping 431 436	doped
+T20	Doping 506 511	doped
+T25	Doping 756 762	doping
+T26	Material 119 123	nano
+T34	Element 124 125	C
+T27	Material 271 275	nano
+T35	Element 276 277	C
+T28	Value 340 342	2K
+T30	Material 424 428	nano
+T36	Element 429 430	C
+R1	Target Arg1:E1 Arg2:T3
+R2	Target Arg1:E9 Arg2:T24
+E1	Doping:T1 Dopant:T2
+E2	Doping:T8 Dopant:T7
+E3	Doping:T10 Dopant:T9
+E4	Doping:T13 Dopant:T35
+E5	Doping:T16 Dopant:T15
+E6	Doping:T16 Dopant:T29
+E7	Doping:T17 Dopant:T36
+E8	Doping:T20 Dopant:T19
+E9	Doping:T25 

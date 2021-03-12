@@ -1,0 +1,33 @@
+T1	Main 46 62	Bi2Sr2CaCu2O8+ δ
+T2	Main 64 72	Bi- 2212
+T3	Material 74 79	films
+T4	Process 87 92	grown
+T5	Process 97 110	sedimentation
+T6	Process 132 146	heat treatment
+T7	Material 167 172	films
+T8	Property 192 202	relaxation
+T10	Element 268 271	KCl
+T11	Property 302 309	melting
+T12	Element 317 324	Bi-2212
+T14	Process 341 355	melt-quenching
+T15	Process 360 369	annealing
+T16	Material 385 389	film
+T17	Element 414 421	Bi-2212
+T18	Material 422 439	crystal structure
+T19	Material 452 459	surface
+T20	Material 473 482	substrate
+T21	Material 497 506	thickness
+T22	Material 514 518	film
+T24	SC 610 618	Tc-onset
+T26	Value 264 267	10%
+T13	Value 600 603	30K
+T28	Value 583 596	3579.54 A/cm2
+T29	Value 621 626	85.1K
+T23	Property 559 561	Jc
+T9	Doping 258 263	added
+T25	Value 531 537	490 nm
+T27	Value 540 545	540nm
+R1	Coref Arg1:T1 Arg2:T2
+R2	Equivalent Arg1:T24 Arg2:T29
+R3	Target Arg1:E1 Arg2:T12
+E1	Doping:T9 Dopant:T10

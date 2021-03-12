@@ -1,0 +1,69 @@
+T1	Property 0 11	Spintronics
+T2	Property 70 74	spin
+T4	Property 111 117	charge
+T5	Property 172 195	giant magnetoresistance
+T6	Property 197 200	GMR
+T7	Property 212 220	metallic
+T8	Material 221 232	multilayers
+T9	Property 255 266	spintronics
+T10	Property 352 363	spintronics
+T11	Property 418 426	magnetic
+T15	Property 493 503	electronic
+T16	Property 519 523	spin
+T17	Property 597 610	ferromagnetic
+T18	Material 611 620	materials
+T19	Property 635 639	spin
+T20	Property 652 662	relaxation
+T21	Property 668 678	spin-orbit
+T22	Property 691 703	non-magnetic
+T24	Property 763 774	spintronics
+T25	Material 801 810	materials
+T26	Property 974 984	spintronic
+T27	Property 1018 1031	ferromagnetic
+T28	Material 1032 1037	metal
+T29	Material 1047 1053	alloys
+T30	Property 1055 1068	half-metallic
+T31	Material 1069 1078	materials
+T32	Property 1084 1099	two-dimensional
+T33	Material 1105 1114	materials
+T35	Material 1123 1129	alloys
+T36	Property 1147 1160	magnetization
+T37	Property 1197 1200	T c
+T38	Property 1203 1216	half-metallic
+T39	Material 1217 1226	materials
+T40	Property 1240 1244	spin
+T41	Property 1245 1257	polarization
+T42	Property 1267 1278	Fermi level
+T43	Material 1297 1306	materials
+T44	Property 1319 1334	band structures
+T45	Property 1400 1415	charge carriers
+T48	Material 1510 1519	materials
+T49	Material 1544 1554	structures
+T50	Material 1614 1631	hetero-interfaces
+T51	Material 1675 1689	semiconductors
+T52	Material 1700 1714	nanostructures
+T53	Property 1716 1730	spin injection
+T54	Material 1753 1762	materials
+T55	Element 1771 1779	graphene
+T58	Property 1937 1941	spin
+T59	Property 1961 1971	spin-orbit
+T60	Property 1989 2002	spin-momentum
+T61	Property 2055 2075	electronic transport
+T3	Property 1101 1103	2D
+T62	Element 1781 1813	transition-metal dichalcogenides
+T56	Element 1815 1819	TMDs
+T63	Property 1280 1283	E F
+T64	Property 1294 1296	2D
+T23	Property 1750 1752	2D
+T12	Property 1178 1195	Curie temperature
+T34	Property 1825 1847	topological insulators
+T65	Property 1849 1852	TIs
+T46	Material 1588 1605	atomic dimensions
+T47	Property 1347 1363	Fermi Dirac cone
+T66	Property 1116 1118	FM
+T67	Property 1039 1041	FM
+T13	Material 431 444	semiconductor
+T68	Material 445 454	materials
+R1	Coref Arg1:T62 Arg2:T56
+T14	Material 1482 1491	epitaxial
+T57	Property 1499 1509	spintronic

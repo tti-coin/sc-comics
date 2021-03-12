@@ -1,0 +1,71 @@
+T4	Material 78 87	molecular
+T5	Material 88 93	films
+T6	Main 97 153	alkylammonium–M bis(1,3-dithiole-2-thione-4,5-dithiolate
+T7	Element 156 163	(dmit)2
+T8	Element 167 169	Ni
+T9	Element 171 173	Au
+T10	Element 179 181	Pd
+T11	Material 219 226	surface
+T13	Material 289 297	in-plane
+T14	Material 302 314	out-of-plane
+T15	Characterization 315 333	X-ray diffractions
+T16	Characterization 335 338	XRD
+T17	Characterization 345 368	atomic force microscopy
+T18	Characterization 370 373	AFM
+T20	Element 409 431	alkylammonium–M(dmit)2
+T21	SC 450 467	superconductivity
+T22	Property 505 515	electronic
+T25	Element 588 610	alkylammonium–M(dmit)2
+T26	Material 611 620	molecules
+T30	Material 681 687	c-axis
+T34	Material 768 777	molecules
+T36	Material 787 804	layered structure
+T37	Material 812 816	film
+T38	Material 817 828	multilayers
+T41	Material 867 876	molecules
+T42	Material 890 897	surface
+T45	Characterization 950 966	XRD measurements
+T46	Material 1036 1051	two-dimensional
+T47	Material 1052 1069	lattice structure
+T49	Element 1073 1095	alkylammonium–M(dmit)2
+T50	Material 1096 1105	molecules
+T52	Material 1141 1159	structural changes
+T53	Element 1282 1289	(dmit)2
+T55	Material 1346 1367	molecular arrangement
+T56	Material 1376 1397	structural morphology
+T58	Material 1405 1410	films
+T62	Material 1537 1558	molecular arrangement
+T63	Material 1562 1571	materials
+T65	Element 1618 1625	(dmit)2
+T67	Material 1675 1696	structural formations
+T68	Element 1765 1769	dmit
+T69	Property 1795 1816	conductive properties
+T1	Material 20 41	molecular arrangement
+T2	Material 46 64	surface morphology
+T3	Material 183 208	charge–transfer complexes
+T12	Characterization 267 287	visible spectroscopy
+T70	Property 227 240	pressure–area
+T71	Property 242 245	π–A
+T19	Material 382 405	Langmuir–Blodgett films
+T72	Material 541 559	subnanometer scale
+T23	Material 516 525	molecular
+T31	Material 719 730	alkyl chain
+T32	Element 844 866	alkylammonium–M(dmit)2
+T39	Material 924 936	Out-of-plane
+T40	Material 941 949	in-plane
+T43	Material 694 711	subcell structure
+T27	Material 645 670	ordered layered structure
+T28	Material 738 746	ab-plane
+T29	Property 1305 1322	two dimensionally
+T33	Property 1202 1227	van der Waals interaction
+T44	Element 1239 1251	hydrocarbons
+T73	Property 1260 1275	π–π interaction
+T74	Property 1123 1133	bulk state
+T75	Material 1436 1453	hydrocarbon chain
+T76	Material 1477 1489	alkyl chains
+T78	Material 1579 1593	didecyl chains
+T79	Material 1660 1668	ab-plane
+T80	Property 1742 1750	stacking
+T54	Material 830 840	Monolayers
+T24	Property 568 578	bulk state
+T35	Material 1511 1516	metal

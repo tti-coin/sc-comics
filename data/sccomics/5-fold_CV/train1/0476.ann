@@ -1,0 +1,36 @@
+T1	SC 25 49	high-T c superconductors
+T2	Element 51 53	Cu
+T3	Material 60 67	ternary
+T4	Main 81 91	SrCu2 Pn 2
+T5	Element 96 97	P
+T6	Element 99 101	As
+T7	Element 103 105	Sb
+T8	Element 112 114	La
+T10	Material 157 171	stoichiometric
+T11	Property 202 212	electrical
+T12	Property 217 236	magnetic properties
+T13	Property 252 272	electronic structure
+T14	SC 318 333	superconductive
+T15	Process 390 406	room temperature
+T16	Material 429 438	materials
+T17	Material 451 456	metal
+T18	Property 462 474	conductivity
+T20	Property 521 526	bands
+T21	Element 549 551	Cu
+T22	Property 552 554	3d
+T23	Element 559 561	Pn
+T24	Material 562 564	np
+T25	Property 595 614	densities of states
+T26	Property 616 619	DOS
+T27	Element 657 659	Sb
+T28	Property 749 769	transport properties
+T29	Element 773 782	pnictides
+T30	Element 68 77	pnictides
+T33	Value 142 147	1073K
+T34	Value 415 417	2K
+T35	Property 444 450	p-type
+T36	Property 479 497	Pauli paramagnetic
+T37	Element 652 653	P
+T9	Doping 115 121	doping
+R1	Target Arg1:E1 Arg2:T4
+E1	Doping:T9 Dopant:T8

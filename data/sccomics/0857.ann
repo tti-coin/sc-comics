@@ -1,0 +1,57 @@
+T1	Material 0 9	Substrate
+T2	SC 66 97	high-temperature superconductor
+T3	SC 99 102	HTS
+T4	Material 104 120	coated conductor
+T5	Main 180 192	Cerium oxide
+T6	Main 194 198	CeO2
+T7	Property 200 223	surface reconstructions
+T8	Process 242 246	grow
+T10	SC 270 273	HTS
+T11	Element 274 285	YBa2Cu3O7-δ
+T12	Element 287 291	YBCO
+T13	Process 323 332	annealing
+T14	Process 337 351	post-annealing
+T15	Material 382 392	nucleation
+T16	Element 412 414	Ar
+T17	Element 417 419	H2
+T18	Element 427 429	Ar
+T19	Element 432 434	H2
+T20	Element 439 441	O2
+T21	Process 445 461	high temperature
+T22	Process 462 471	annealing
+T23	Material 510 519	structure
+T24	Material 521 528	surface
+T25	Material 529 539	morphology
+T26	Material 541 548	crystal
+T27	Material 563 570	surface
+T28	Element 594 599	ceria
+T29	Characterization 617 634	X-ray diffraction
+T30	Characterization 636 639	XRD
+T31	Characterization 642 674	X-ray photoelectron spectroscopy
+T32	Characterization 676 679	XPS
+T34	Characterization 732 738	FE-SEM
+T35	Element 759 764	ceria
+T36	Material 765 769	film
+T37	Process 770 783	post-annealed
+T38	Element 796 798	Ar
+T39	Element 801 803	H2
+T40	Material 823 835	buffer layer
+T41	Material 865 869	film
+T42	Element 883 894	oxygen ions
+T43	Process 927 938	oxygenation
+T44	SC 942 956	superconductor
+T45	Material 957 961	film
+T46	Material 967 971	film
+T47	Element 991 996	ceria
+T48	Property 997 1002	model
+T50	Element 1047 1051	CeO2
+T51	Material 1052 1056	bulk
+T52	Material 1057 1065	material
+T53	Value 415 417	5%
+T54	Value 430 432	5%
+T33	Characterization 685 730	field-emission scanning electronic microscopy
+T55	Value 799 801	5%
+T49	Doping 1032 1042	substitute
+R4	Target Arg1:E1 Arg2:T50
+E1	Doping:T49
+T9	Material 247 262	epitaxial films

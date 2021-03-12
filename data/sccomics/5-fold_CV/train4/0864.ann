@@ -1,0 +1,109 @@
+T1	Main 0 16	La2- x Sr x CuO4
+T2	Main 18 22	LSCO
+T3	Main 28 44	La2- x Ba x CuO4
+T4	Main 46 50	LBCO
+T5	Material 90 99	materials
+T6	SC 116 140	high-T c superconductors
+T7	Material 148 166	crystal structures
+T8	Material 224 230	cation
+T12	Property 358 366	spectrum
+T14	Property 387 397	electronic
+T15	Property 402 421	magnetic properties
+T16	Material 484 493	thin-film
+T17	Process 494 500	growth
+T18	Element 504 508	LSCO
+T19	Element 513 517	LBCO
+T20	SC 523 543	critical temperature
+T21	SC 545 548	T c
+T22	Element 553 557	LSCO
+T23	Element 562 566	LBCO
+T24	Property 583 589	strain
+T25	Process 609 626	positive pressure
+T26	SC 642 645	T c
+T27	Material 649 661	bulk samples
+T28	Material 675 680	films
+T29	Property 685 693	strained
+T30	Process 706 711	grown
+T31	Material 715 722	lattice
+T32	Material 734 744	substrates
+T35	Process 801 807	growth
+T36	Element 811 815	LSCO
+T37	Element 820 824	LBCO
+T38	Material 825 830	films
+T39	SC 853 856	T c
+T40	Process 881 886	grown
+T41	Element 906 912	SrTiO3
+T42	Material 913 922	substrate
+T43	Material 924 932	in-plane
+T44	Material 933 950	lattice parameter
+T45	Material 973 981	in-plane
+T46	Material 982 1000	lattice parameters
+T47	Element 1004 1008	LSCO
+T48	Element 1013 1017	LBCO
+T51	Element 1121 1129	LaSrAlO4
+T52	Material 1130 1140	substrates
+T53	Material 1165 1173	in-plane
+T54	Material 1174 1190	lattice constant
+T55	Element 1213 1221	LaSrAlO4
+T56	Material 1222 1232	substrates
+T57	SC 1238 1241	T c
+T58	Element 1258 1274	La1.85Sr0.15CuO4
+T59	Element 1284 1300	La1.85Ba0.15CuO4
+T60	Process 1314 1328	ozone-oxidized
+T61	Element 1329 1339	La2CuO4+ δ
+T62	Material 1340 1345	films
+T63	Material 1390 1394	bulk
+T64	SC 1410 1413	T c
+T65	Element 1426 1442	La1.85Sr0.15CuO4
+T66	Material 1443 1448	films
+T67	Element 1452 1460	LaSrAlO4
+T68	Element 1477 1483	SrTiO3
+T69	Property 1569 1600	anisotropic strain coefficients
+T71	SC 1604 1607	T c
+T72	Process 1661 1667	growth
+T73	Material 1686 1691	films
+T74	Element 1695 1703	cuprates
+T75	Element 1715 1721	K2NiF4
+T76	Material 1722 1731	structure
+T77	SC 1777 1780	T c
+T80	Material 1818 1833	phase formation
+T82	Material 1885 1895	structural
+T83	SC 1935 1938	T c
+T84	SC 1992 1995	T c
+T91	Property 104 108	hole
+T93	Value 863 867	30 K
+T94	Value 959 966	3.905 Å
+T96	Value 1023 1029	3.80 Å
+T98	Value 1200 1207	3.756 Å
+T99	Value 1250 1254	45 K
+T100	Value 1276 1280	47 K
+T101	Value 1306 1310	56 K
+T9	Property 1527 1555	phenomenological estimations
+T70	Property 1805 1817	quasi-stable
+T33	Material 746 762	epitaxial strain
+T34	Material 1049 1065	epitaxial strain
+T49	Material 1784 1800	epitaxial strain
+T50	Material 1999 2015	epitaxial strain
+T10	Doping 109 114	doped
+T11	Doping 258 264	doping
+T78	Doping 370 376	doping
+T13	Doping 301 313	substitution
+T79	SC 1377 1382	T c’s
+T85	SC 1609 1613	dT c
+R1	Coref Arg1:T1 Arg2:T2
+R2	Coref Arg1:T3 Arg2:T4
+R3	Coref Arg1:T20 Arg2:T21
+R4	Equivalent Arg1:T57 Arg2:T99
+R5	Equivalent Arg1:T57 Arg2:T100
+R6	Target Arg1:T99 Arg2:T58
+R7	Target Arg1:T100 Arg2:T59
+R8	Target Arg1:T101 Arg2:T61
+R9	Equivalent Arg1:T39 Arg2:T93
+R10	Equivalent Arg1:T57 Arg2:T101
+R11	Target Arg1:T93 Arg2:T37
+R12	Target Arg1:T93 Arg2:T36
+E1	Doping:T10 Dopant:T91
+E2	Doping:T11 
+E4	Doping:T78 
+E3	Doping:T13 
+T81	Process 1837 1860	epitaxial stabilization

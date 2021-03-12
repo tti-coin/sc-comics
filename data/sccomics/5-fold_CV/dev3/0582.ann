@@ -1,0 +1,50 @@
+T1	Property 4 26	electrical resistivity
+T3	Main 87 130	Cu0.5Tl0.5Ba2(Ca2−y Mg y )(Cu0.5Zn2.5)O10−δ
+T4	Property 192 204	conductivity
+T5	Property 255 275	critical temperature
+T6	Property 377 383	models
+T7	Property 389 405	coherence length
+T8	Element 549 555	oxygen
+T10	Property 587 608	crossover temperature
+T11	Property 663 675	conductivity
+T12	Property 705 720	two-dimensional
+T13	Property 730 747	three-dimensional
+T14	Property 749 751	3D
+T16	Process 812 830	lower temperatures
+T17	Element 845 847	Mg
+T19	Property 869 871	3D
+T20	Property 872 874	AL
+T21	Element 908 910	Mg
+T23	Process 968 977	annealing
+T25	Process 985 1002	oxygen atmosphere
+T26	Property 1032 1048	coherence length
+T27	Material 1059 1065	c-axis
+T29	Element 1097 1099	Mg
+T30	Element 1174 1182	thallium
+T31	Property 1240 1247	density
+T32	Property 1251 1266	mobile carriers
+T33	Element 1270 1274	CuO2
+T34	Material 1275 1281	planes
+T35	Property 1304 1320	coherence length
+T36	Material 1331 1337	c-axis
+T37	SC 1342 1359	superconductivity
+T38	Process 78 86	annealed
+T43	Value 134 135	0
+T44	Value 137 140	0.5
+T45	Value 142 145	1.0
+T46	Property 407 428	inter-planar coupling
+T47	Property 722 724	2D
+T15	Property 753 765	AL equations
+T41	Property 321 341	Aslamazov and Larkin
+T48	Property 343 345	AL
+T49	Property 351 371	Lawrence and Doniach
+T50	Property 373 375	LD
+T51	Property 771 793	cross-over temperature
+T52	Process 561 569	annealed
+T9	Doping 848 854	doping
+T18	Doping 911 917	doping
+T22	Doping 1087 1093	doping
+T2	Element 75 77	O2
+E1	Doping:T9 Dopant:T17
+E2	Doping:T18 Dopant:T21
+E3	Doping:T22 Dopant:T29

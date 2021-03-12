@@ -1,0 +1,49 @@
+T2	Property 0 25	Density-functional-theory
+T3	Property 32 65	electronic structure calculations
+T4	Property 97 107	electronic
+T5	Main 118 130	Ru-pnictides
+T6	Main 139 143	RuAs
+T7	Property 165 182	phase transitions
+T8	SC 187 204	superconductivity
+T10	Element 221 223	Rh
+T13	Property 311 322	Fermi level
+T14	Process 330 346	high-temperature
+T15	Property 347 355	metallic
+T16	Element 365 368	RuP
+T17	Element 373 377	RuAs
+T20	Element 438 445	Ru ions
+T21	Element 454 456	Rh
+T23	Property 475 486	Fermi level
+T28	Property 562 572	electronic
+T29	Property 573 584	instability
+T30	Property 626 642	phase transition
+T31	Property 662 672	insulating
+T32	Process 682 698	low temperatures
+T33	Property 722 736	band structure
+T34	Element 752 756	RuSb
+T36	Element 785 788	RuP
+T37	Element 793 797	RuAs
+T38	SC 841 858	superconductivity
+T39	Element 869 873	RuSb
+T40	Element 882 884	Rh
+T42	Main 131 134	RuP
+T11	Property 288 298	flat bands
+T12	Property 383 392	flat-band
+T19	Property 502 512	flat bands
+T24	Property 535 545	flat bands
+T18	Property 421 425	4dxy
+T1	Property 650 661	nonmagnetic
+T22	Doping 457 463	doping
+T25	Doping 779 784	doped
+T26	Doping 885 891	doping
+T9	Doping 211 217	doping
+R1	Target Arg1:E5 Arg2:T36
+R2	Target Arg1:E7 Arg2:T39
+R5	Target Arg1:E1 Arg2:T42
+R6	Target Arg1:E1 Arg2:T6
+R7	Target Arg1:E1 Arg2:T5
+R8	Target Arg1:E5 Arg2:T37
+E3	Doping:T22 Dopant:T21
+E5	Doping:T25
+E7	Doping:T26 Dopant:T40
+E1	Doping:T9 Dopant:T10

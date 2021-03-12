@@ -1,0 +1,34 @@
+T1	Characterization 20 50	analytical electron microscopy
+T2	Characterization 52 56	HREM
+T3	Property 180 200	electronic structure
+T4	Material 248 253	layer
+T5	SC 267 281	superconductor
+T6	Characterization 293 297	EELS
+T8	SC 380 395	superconductors
+T9	Characterization 467 471	EELS
+T12	SC 543 552	lower-T c
+T13	Process 567 575	annealed
+T15	Property 738 748	excitation
+T16	Property 764 780	delocalized hole
+T18	SC 889 904	superconductors
+T19	Characterization 61 64	AEM
+T20	Material 149 164	crystallography
+T21	Main 204 215	HgBa2CuO4+δ
+T23	Element 254 266	copper-oxide
+T24	Value 627 630	60%
+T25	Value 793 797	2 eV
+T26	Element 561 566	argon
+T27	Property 499 515	delocalized hole
+T28	Property 595 615	oscillator strengths
+T29	Process 650 660	oxygenated
+T10	Element 367 379	copper oxide
+T30	Property 310 318	O K edge
+T31	Property 329 337	pre-edge
+T32	Element 881 888	cuprate
+T33	Characterization 0 15	High-resolution
+T14	SC 681 691	higher T c
+T17	SC 818 828	higher-T c
+T7	Doping 361 366	doped
+T11	Property 516 537	carrier concentration
+R1	Target Arg1:E1 Arg2:T10
+E1	Doping:T7 

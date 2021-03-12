@@ -1,0 +1,38 @@
+T1	Element 10 12	WC
+T4	Main 42 46	MgB2
+T5	SC 54 69	superconducting
+T6	Process 102 110	sintered
+T7	Material 111 118	powders
+T8	Material 157 167	Impurities
+T9	Element 176 180	MgB4
+T10	Element 224 228	MgB2
+T11	Element 233 235	WC
+T12	Material 236 243	powders
+T13	Process 283 291	sintered
+T14	Process 328 337	Sintering
+T16	Element 394 400	carbon
+T18	Element 417 421	MgB2
+T19	SC 427 447	critical temperature
+T20	SC 449 452	T c
+T21	Process 454 463	reduction
+T24	Process 648 657	reduction
+T27	Property 698 701	J c
+T29	SC 875 878	T c
+T30	Process 879 888	reduction
+T31	Value 295 301	900 °C
+T32	Value 306 312	700 °C
+T15	Element 535 537	WC
+T23	Value 571 579	10 mass%
+T33	Value 827 835	10 mass%
+T34	Property 670 696	transport critical current
+T3	Material 25 38	contamination
+T2	Doping 13 21	addition
+T17	Doping 401 413	substitution
+T22	Doping 538 546	addition
+T25	Doping 794 802	addition
+R2	Target Arg1:E1 Arg2:T4
+R3	Target Arg1:E2 Arg2:T18
+E1	Doping:T2 Dopant:T1
+E2	Doping:T17 Dopant:T16
+E3	Doping:T22 Dopant:T15
+E4	Doping:T25

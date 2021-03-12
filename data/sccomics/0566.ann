@@ -1,0 +1,27 @@
+T1	Material 0 5	Ionic
+T2	Material 6 13	liquids
+T3	Property 46 57	dielectrics
+T4	Material 61 82	Electric Double Layer
+T7	Material 136 145	materials
+T8	Property 190 200	dielectric
+T9	Property 217 235	ionic conductivity
+T13	Property 358 372	electric field
+T15	Property 446 459	phase diagram
+T16	Element 464 474	DEME- TFSI
+T17	Material 550 555	ionic
+T18	Material 556 562	liquid
+T19	Property 563 573	dielectric
+T20	Element 574 583	DEME-TFSI
+T21	Property 597 610	phase diagram
+T24	Process 745 753	pressure
+T5	Material 84 87	EDL
+T25	Value 276 280	182K
+T26	Value 658 664	0.6GPa
+T27	Material 711 714	EDL
+T12	Element 729 738	DEME-TFSI
+T14	Element 147 156	DEME-TFSI
+T10	Property 244 272	glass transition temperature
+T11	Property 623 651	glass transition temperature
+T22	Characterization 530 542	measurements
+T6	Doping 115 121	doping
+E1	Doping:T6

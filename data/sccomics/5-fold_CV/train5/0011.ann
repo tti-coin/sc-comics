@@ -1,0 +1,57 @@
+T1	Material 4 21	crystal structure
+T2	SC 26 41	superconducting
+T4	Characterization 112 129	X-ray diffraction
+T8	Property 244 253	diffusion
+T9	Material 273 278	layer
+T10	Process 299 308	sintering
+T11	Property 332 341	diffusion
+T15	SC 581 596	superconducting
+T16	Property 637 642	model
+T17	Material 673 686	precipitation
+T18	Property 712 721	diffusion
+T22	Element 396 408	Bi (2 2 2 3)
+T23	Element 540 551	BiPbSrCaCuO
+T24	Main 71 82	BiPbSrCaCuO
+T25	Element 199 210	BiPbSrCaCuO
+T13	SC 426 446	critical temperature
+T26	Element 239 243	gold
+T27	Element 60 64	gold
+T28	Element 707 711	gold
+T29	Element 529 533	gold
+T30	Element 363 367	gold
+T31	Property 451 475	critical current density
+T32	Material 567 576	structure
+T5	Characterization 131 159	scanning electron microscope
+T20	Value 482 491	33 Å cm−2
+T34	Value 514 524	112 Å cm−2
+T3	Doping 65 70	doped
+T7	Doping 189 195	Doping
+T12	Doping 342 348	doping
+T19	Doping 534 539	doped
+T33	Doping 722 728	doping
+T6	Property 164 174	electrical
+T14	Characterization 175 187	measurements
+R1	Target Arg1:E1 Arg2:T24
+R2	Target Arg1:E2 Arg2:T25
+R3	Target Arg1:E3 Arg2:T22
+R4	Target Arg1:E5 Arg2:T23
+E1	Doping:T3 Dopant:T27
+E2	Doping:T7 Dopant:T26
+E3	Doping:T12 Dopant:T30
+E5	Doping:T19 Dopant:T29
+E6	Doping:T33 Dopant:T28
+#1	AnnotatorNotes T1	4-21
+#2	AnnotatorNotes T9	273-278
+#3	AnnotatorNotes T17	673-686
+#4	AnnotatorNotes T22	396-408
+#5	AnnotatorNotes T23	540-551
+#6	AnnotatorNotes T24	71-82
+#7	AnnotatorNotes T25	199-210
+#8	AnnotatorNotes T26	239-243
+#9	AnnotatorNotes T27	60-64
+#10	AnnotatorNotes T28	707-711
+#11	AnnotatorNotes T29	529-533
+#12	AnnotatorNotes T30	363-367
+#13	AnnotatorNotes T32	567-576
+#14	AnnotatorNotes T20	482-491
+#15	AnnotatorNotes T34	514-524

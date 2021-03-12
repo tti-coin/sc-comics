@@ -1,0 +1,43 @@
+T1	Material 4 11	crystal
+T2	Property 16 37	electronic structures
+T3	Main 57 74	Ba1− x K x Fe2As2
+T4	Property 173 182	ab-initio
+T6	Property 183 208	density functional theory
+T7	Element 221 222	K
+T9	Material 237 254	crystal structure
+T10	Material 259 277	lattice parameters
+T12	Material 457 475	lattice parameters
+T13	Element 479 480	K
+T15	Property 493 513	electronic structure
+T16	Property 542 559	density of states
+T17	Property 564 578	band structure
+T18	Element 620 621	K
+T20	Property 704 715	Fermi level
+T21	Element 737 738	K
+T23	SC 807 822	superconducting
+T27	Value 82 85	0.0
+T28	Value 87 90	0.5
+T29	Value 95 98	1.0
+T5	Property 393 412	metal–metal bonding
+T11	Property 126 141	pseudopotential
+T30	Property 142 163	Quantum Espresso code
+T8	Doping 223 229	doping
+T14	Doping 481 487	doping
+T19	Doping 622 628	doping
+T22	Doping 739 745	doping
+E1	Doping:T8 Dopant:T7
+E3	Doping:T14 Dopant:T13
+E4	Doping:T19 Dopant:T18
+E5	Doping:T22 Dopant:T21
+#1	AnnotatorNotes T1	4-11
+#2	AnnotatorNotes T3	57-74
+#3	AnnotatorNotes T7	221-222
+#4	AnnotatorNotes T9	237-254
+#5	AnnotatorNotes T10	259-277
+#6	AnnotatorNotes T12	457-475
+#7	AnnotatorNotes T13	479-480
+#8	AnnotatorNotes T18	620-621
+#9	AnnotatorNotes T21	737-738
+#10	AnnotatorNotes T27	82-85
+#11	AnnotatorNotes T28	87-90
+#12	AnnotatorNotes T29	95-98

@@ -1,0 +1,89 @@
+T2	Element 73 79	cerium
+T3	Element 83 85	Ca
+T4	Main 94 105	Bi(Pb)-2212
+T5	SC 127 142	Superconducting
+T6	Material 143 151	ceramics
+T7	Material 155 175	nominal compositions
+T8	Element 176 200	Bi2Sr2Ca1−x Ce x Cu2O8+δ
+T9	Element 209 211	CC
+T10	Element 224 255	Bi1.6Pb0.4Sr2Ca1−x Ce x Cu2O8+δ
+T11	Process 345 348	air
+T12	Process 365 385	solid state reaction
+T13	Characterization 413 430	X-ray diffraction
+T14	Characterization 432 435	XRD
+T15	Characterization 438 466	scanning electron microscopy
+T16	Characterization 468 471	SEM
+T19	Material 542 553	cell volume
+T20	Characterization 566 569	SEM
+T21	Material 620 626	grains
+T22	Material 634 638	flat
+T26	Process 722 731	reduction
+T27	Element 735 737	Ca
+T28	Element 766 768	Ce
+T29	Property 791 802	resistivity
+T30	Property 853 861	metallic
+T31	Property 884 896	normal state
+T33	Element 925 928	PCC
+T36	Element 1047 1049	Ce
+T37	Element 1107 1108	Y
+T39	Element 1140 1143	PCC
+T40	Property 1186 1197	resistivity
+T41	Element 1213 1219	cerium
+T44	Material 1278 1296	structural defects
+T45	Material 1301 1309	disorder
+T52	Element 264 267	PCC
+T58	Value 283 284	0
+T25	Characterization 683 699	Quantitative EDS
+T59	Value 1013 1019	90.84K
+T60	Value 1038 1043	0.075
+T48	Value 286 291	0.025
+T51	Value 293 297	0.05
+T54	Value 299 304	0.075
+T55	Value 309 312	0.1
+T1	Doping 51 57	doping
+T18	Doping 523 529	doping
+T32	Doping 906 912	doping
+T38	Doping 1109 1114	doped
+T42	Doping 1260 1266	doping
+T34	SC 952 990	onset critical transition temperatures
+T17	Property 477 488	resistivity
+T35	Characterization 489 501	measurements
+T23	Element 664 681	Bi-based cuprates
+R1	Coref Arg1:T8 Arg2:T9
+R2	Coref Arg1:T10 Arg2:T52
+R3	Target Arg1:E1 Arg2:T4
+R4	Target Arg1:E3 Arg2:T33
+E1	Doping:T1 Dopant:T2 Site:T3
+E2	Doping:T18 
+E3	Doping:T32 
+E4	Doping:T38 Dopant:T37
+E5	Doping:T42 
+#1	AnnotatorNotes T2	73-79
+#2	AnnotatorNotes T3	83-85
+#3	AnnotatorNotes T4	94-105
+#4	AnnotatorNotes T6	143-151
+#5	AnnotatorNotes T7	155-175
+#6	AnnotatorNotes T8	176-200
+#7	AnnotatorNotes T9	209-211
+#8	AnnotatorNotes T10	224-255
+#9	AnnotatorNotes T19	542-553
+#10	AnnotatorNotes T21	620-626
+#11	AnnotatorNotes T22	634-638
+#12	AnnotatorNotes T27	735-737
+#13	AnnotatorNotes T28	766-768
+#14	AnnotatorNotes T33	925-928
+#15	AnnotatorNotes T36	1047-1049
+#16	AnnotatorNotes T37	1107-1108
+#17	AnnotatorNotes T39	1140-1143
+#18	AnnotatorNotes T41	1213-1219
+#19	AnnotatorNotes T44	1278-1296
+#20	AnnotatorNotes T45	1301-1309
+#21	AnnotatorNotes T52	264-267
+#22	AnnotatorNotes T58	283-284
+#23	AnnotatorNotes T59	1013-1019
+#24	AnnotatorNotes T60	1038-1043
+#25	AnnotatorNotes T48	286-291
+#26	AnnotatorNotes T51	293-297
+#27	AnnotatorNotes T54	299-304
+#28	AnnotatorNotes T55	309-312
+#29	AnnotatorNotes T23	664-681

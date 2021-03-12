@@ -1,0 +1,40 @@
+T1	Property 2 12	mean-field
+T2	Property 119 137	antiferromagnetism
+T3	Property 139 141	AF
+T4	Property 144 159	charge transfer
+T5	SC 170 187	superconductivity
+T6	Property 214 216	AF
+T7	SC 394 402	high T c
+T8	Property 437 452	pairing t-model
+T9	Material 556 564	symmetry
+T10	Property 636 642	models
+T11	Property 776 798	quasiparticle spectrum
+T12	Material 853 865	orthorhombic
+T13	Material 868 878	tetragonal
+T15	Property 949 955	phonon
+T16	SC 1004 1007	T c
+T17	Property 1061 1067	theory
+T18	Property 1183 1186	BCS
+T19	Property 1193 1198	model
+T20	Property 161 163	CT
+T21	SC 189 191	SC
+T22	Main 196 208	d-p cuprates
+T23	Property 330 332	CT
+T24	SC 377 379	SC
+T25	SC 927 929	SC
+T26	Property 933 935	CT
+T27	SC 1129 1131	SC
+T28	Element 1132 1140	cuprates
+T29	Property 454 457	PtM
+T30	Property 566 569	PtM
+T31	SC 666 668	SC
+T32	Property 738 753	anti-adiabatics
+T33	Element 897 905	cuprates
+T34	Element 1023 1031	cuprates
+T35	Property 1156 1181	Bardeen-Cooper-Schrieffer
+T36	Property 957 967	ion plasma
+T38	Property 14 16	MF
+T39	Property 633 635	MF
+T14	SC 917 925	high-T c
+T37	Property 44 67	Green's function method
+T40	Property 804 822	Jahn-Teller effect

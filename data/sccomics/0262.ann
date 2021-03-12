@@ -1,0 +1,49 @@
+T1	Element 11 13	Ni
+T3	Property 30 38	magnetic
+T4	Property 43 60	thermal expansion
+T5	Main 75 87	Mn3Ga1−xNixN
+T6	Property 125 143	magnetic structure
+T7	Element 148 154	Mn3GaN
+T8	Property 181 198	antiferromagnetic
+T9	Element 211 213	Ni
+T10	Element 236 238	Ga
+T11	Property 249 253	spin
+T12	Property 281 298	antiferromagnetic
+T13	Property 302 315	ferromagnetic
+T17	Element 417 419	Ni
+T18	Property 484 492	electron
+T20	Material 520 527	lattice
+T21	Property 545 553	magnetic
+T22	Element 566 578	Mn3Ga1−xNixN
+T23	Material 596 603	lattice
+T24	Material 669 676	lattice
+T25	Element 771 773	Ni
+T27	Property 808 825	thermal expansion
+T28	Element 863 875	Mn3Ga.6Ni.4N
+T29	Property 881 910	thermal expansion coefficient
+T30	Property 969 986	thermal expansion
+T31	Property 1060 1077	thermal expansion
+T32	Property 1125 1138	ferromagnetic
+T33	Element 1169 1171	Ni
+T35	Property 1212 1229	antiferromagnetic
+T36	Material 1230 1239	structure
+T37	Value 714 719	0.38%
+T39	Value 729 730	0
+T41	Value 750 753	1.0
+T42	Value 735 740	0.09%
+T47	Value 933 949	0.311 × 10−6 K−1
+T53	Value 89 90	0
+T54	Value 97 100	1.0
+T2	Doping 14 26	substitution
+T14	Doping 498 504	doping
+T19	Doping 774 786	substitution
+T26	Doping 1172 1184	substitution
+T15	Property 334 365	magnetic transition temperature
+T16	Doping 218 228	introduced
+T34	Value 841 846	150 K
+R1	Target Arg1:E1 Arg2:T5
+E1	Doping:T2 Dopant:T1
+E2	Doping:T14
+E3	Doping:T19 Dopant:T25
+E4	Doping:T26 Dopant:T33
+E5	Doping:T16 Dopant:T9 Site:T10

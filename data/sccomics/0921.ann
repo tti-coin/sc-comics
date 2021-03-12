@@ -1,0 +1,29 @@
+T1	Material 24 33	flux flow
+T2	Material 61 70	epitaxial
+T3	Main 71 83	FeSe0.6Te0.4
+T4	Material 84 93	thin film
+T5	Process 94 99	grown
+T6	Process 105 108	PLD
+T7	Property 128 150	electrical resistivity
+T8	Property 177 192	magnetic fields
+T12	Property 313 334	temperature-dependent
+T13	Property 335 352	activation energy
+T14	Property 377 394	activation energy
+T15	Property 412 417	order
+T16	Property 491 505	magnetic field
+T17	Element 535 547	FeSe0.6Te0.4
+T18	Material 548 557	thin film
+T19	Property 568 578	anisotropy
+T20	SC 591 593	Tc
+T21	SC 606 621	superconducting
+T22	Material 654 663	flux flow
+T24	Property 689 695	vortex
+T25	Material 696 712	glass transition
+T26	Property 721 743	temperature dependence
+T27	Property 756 771	critical fields
+T28	Property 598 600	2D
+T9	Value 582 585	5.6
+T23	Property 634 653	thermally activated
+T29	Property 4 23	thermally activated
+T30	Characterization 151 162	measurement
+T10	Property 241 270	thermally activated flux flow

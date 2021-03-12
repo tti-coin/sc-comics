@@ -1,0 +1,43 @@
+T1	SC 42 56	superconductor
+T2	Process 63 71	coatings
+T3	Material 86 91	steel
+T4	Material 148 155	surface
+T5	Material 175 180	metal
+T6	Material 191 197	powder
+T7	Process 226 235	sintering
+T8	Material 253 260	texture
+T9	Property 268 276	metallic
+T10	Material 277 285	surfaces
+T12	Material 355 367	buffer layer
+T14	Material 474 485	orientation
+T16	Process 517 524	coating
+T17	Process 579 587	coatings
+T18	Material 633 642	interface
+T19	Process 683 691	coatings
+T20	Material 695 700	steel
+T21	Property 768 777	diffusion
+T22	Property 787 795	metallic
+T23	Process 814 821	coating
+T24	Process 850 858	coatings
+T25	Material 893 905	buffer layer
+T26	Process 927 936	sintering
+T27	Property 989 1010	electrical properties
+T29	Element 96 102	copper
+T30	Characterization 445 464	Xray diffractometry
+T32	Element 601 603	Ag
+T33	Value 706 710	20 %
+T34	Element 711 713	Ag
+T35	Value 835 840	20 μ.
+T36	Element 862 868	copper
+T37	Element 909 913	Cu2O
+T38	Element 940 942	O2
+T39	Element 1028 1030	Ag
+T40	Value 670 672	90
+T41	Material 103 113	substrates
+T42	Process 198 211	sedimentation
+T43	Process 213 221	pressing
+T11	Process 943 953	atmosphere
+T13	Doping 1016 1024	addition
+T15	Value 593 595	15
+T28	Value 596 600	20 %
+E1	Doping:T13 Dopant:T39

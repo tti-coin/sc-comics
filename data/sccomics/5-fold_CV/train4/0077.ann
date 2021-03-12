@@ -1,0 +1,54 @@
+T1	SC 4 19	superconducting
+T3	Property 187 213	DC magnetic susceptibility
+T4	Property 226 248	electrical resistivity
+T5	Characterization 250 267	X-ray diffraction
+T7	SC 374 377	T c
+T8	Property 410 423	concentration
+T9	SC 483 500	superconductivity
+T12	SC 688 703	superconducting
+T13	Property 810 824	magnetic field
+T16	Property 988 998	Bean Model
+T18	SC 1086 1101	superconducting
+T19	Property 1206 1221	magnetic fields
+T21	Value 1056 1059	0.3
+T23	Property 180 182	AC
+T24	Element 93 116	(Bi2Sr2CaCu2O8)1−x Li x
+T25	Element 34 36	Li
+T26	Main 43 56	Bi2Sr2CaCu2O8
+T29	Value 118 119	0
+T30	Value 122 126	0.55
+T33	Element 1061 1063	Li
+T34	Element 407 409	Li
+T36	Material 73 92	nominal composition
+T37	Property 999 1023	critical current density
+T38	Property 825 826	H
+T40	Characterization 273 296	metallographic analysis
+T41	Material 727 740	intergranular
+T42	Property 591 608	second transition
+T43	Property 755 772	second transition
+T14	Material 914 924	intergrain
+T44	Material 974 987	intergranular
+T45	Material 1125 1138	intergranular
+T6	SC 335 373	superconducting transition temperature
+T2	Doping 37 42	doped
+T11	Doping 1064 1072	addition
+T10	SC 637 654	superconductivity
+T17	SC 658 661	T c
+T15	SC 890 895	T c's
+R1	Coref Arg1:T6 Arg2:T7
+R2	Target Arg1:E1 Arg2:T26
+E1	Doping:T2 Dopant:T25
+E2	Doping:T11 Dopant:T33
+#1	AnnotatorNotes T21	1056-1059
+#2	AnnotatorNotes T24	93-116
+#3	AnnotatorNotes T25	34-36
+#4	AnnotatorNotes T26	43-56
+#5	AnnotatorNotes T29	118-119
+#6	AnnotatorNotes T30	122-126
+#7	AnnotatorNotes T33	1061-1063
+#8	AnnotatorNotes T34	407-409
+#9	AnnotatorNotes T36	73-92
+#10	AnnotatorNotes T41	727-740
+#11	AnnotatorNotes T14	914-924
+#12	AnnotatorNotes T44	974-987
+#13	AnnotatorNotes T45	1125-1138

@@ -1,0 +1,43 @@
+T1	SC 27 44	superconductivity
+T2	Material 52 62	tetragonal
+T3	Element 63 81	Fe-based pnictides
+T4	SC 112 129	superconductivity
+T5	Material 149 158	materials
+T6	Material 172 181	structure
+T7	Element 183 189	Copper
+T8	Material 206 219	isostructural
+T9	Element 223 230	LaOFeAs
+T10	Material 232 244	Single phase
+T11	Main 245 251	BiOCuS
+T12	Process 273 293	solid state reaction
+T13	Element 344 349	Bi2O3
+T14	Element 351 356	Bi2S3
+T15	Element 361 365	Cu2S
+T16	Characterization 415 418	EDX
+T17	Characterization 429 446	X-ray diffraction
+T20	Material 490 505	cell parameters
+T21	Property 533 547	Charge carrier
+T23	Element 581 582	F
+T25	Element 601 602	O
+T26	Element 610 612	Cu
+T27	Material 613 630	off-stoichiometry
+T29	SC 683 700	superconductivity
+T30	SC 707 710	T c
+T31	Value 23 26	50K
+T32	Value 320 325	500°C
+T18	Value 712 716	5.8K
+T34	Value 513 520	3.8708Å
+T35	Value 525 531	8.565Å
+T22	Doping 548 554	doping
+T24	Doping 583 596	substitutions
+T28	Doping 643 649	doping
+T19	Property 461 471	electrical
+T33	Property 448 456	magnetic
+T38	Characterization 472 484	measurements
+R1	Target Arg1:T31 Arg2:T3
+R2	Equivalent Arg1:T30 Arg2:T18
+R3	Equivalent Arg1:T1 Arg2:T31
+E1	Doping:T22 Dopant:T21
+E2	Doping:T24 Dopant:T23 Site:T25
+E3	Doping:T28
+E4	Doping:T24 Dopant:T26

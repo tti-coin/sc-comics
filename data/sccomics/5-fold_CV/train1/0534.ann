@@ -1,0 +1,82 @@
+T1	Element 0 12	Hydrogenated
+T2	Material 13 22	amorphous
+T3	Main 23 30	silicon
+T5	Process 40 45	grown
+T6	Property 107 118	dielectrics
+T7	Element 128 132	SiO2
+T8	Element 137 141	SiNx
+T9	Material 179 188	amorphous
+T10	Property 189 199	dielectric
+T11	Material 200 208	material
+T12	SC 213 228	superconducting
+T14	Element 275 281	a-Si:H
+T15	Element 291 293	Nb
+T16	SC 363 380	superconductivity
+T17	Element 388 390	Nb
+T18	Material 391 396	films
+T19	SC 398 436	Superconducting transition temperature
+T20	SC 438 440	Tc
+T21	Property 446 466	residual resistivity
+T22	Material 499 504	thick
+T23	Element 505 507	Nb
+T24	Material 508 513	films
+T26	Process 552 562	deposition
+T27	Element 583 589	oxygen
+T28	Element 594 602	hydrogen
+T29	Element 614 616	Nb
+T30	Material 617 622	films
+T31	Material 663 680	lattice parameter
+T32	Characterization 693 698	X-ray
+T33	Element 779 792	hydrogen ions
+T35	Material 811 816	layer
+T36	Process 817 823	growth
+T37	SC 845 847	Tc
+T38	Element 902 908	oxygen
+T39	Material 927 934	surface
+T42	Element 952 960	hydrogen
+T43	Element 981 983	Nb
+T44	Material 984 989	films
+T45	SC 1010 1012	Tc
+T46	Material 1050 1054	film
+T47	Material 1055 1064	thickness
+T48	Element 1066 1077	Nitridation
+T49	Element 1081 1083	Nb
+T50	Material 1084 1089	films
+T51	Process 1094 1104	deposition
+T52	Process 1110 1119	sputtered
+T53	Material 1125 1134	amorphous
+T54	Element 1135 1142	silicon
+T55	Material 1143 1148	layer
+T56	Element 1163 1165	Nb
+T57	Material 1166 1171	films
+T58	Element 1210 1212	Nb
+T59	Material 1213 1217	film
+T60	Process 1218 1228	deposition
+T61	Material 1252 1259	surface
+T62	Element 1286 1288	Nb
+T63	Element 1362 1368	oxygen
+T64	Element 1373 1381	hydrogen
+T65	Element 1396 1398	Nb
+T66	Material 1399 1404	films
+T67	Element 1412 1418	a-Si:H
+T68	Process 1419 1429	deposition
+T69	Material 1444 1449	layer
+T70	Element 1483 1485	Nb
+T71	Material 1486 1491	films
+T72	Process 269 274	PECVD
+T73	Process 49 54	PECVD
+T74	Element 32 38	a-Si:H
+T75	Value 475 480	20 nm
+T76	Value 482 487	50 nm
+T77	Value 492 498	100 nm
+T4	Element 545 551	a-Si:H
+T25	Element 804 810	a-Si:H
+T79	Element 1150 1154	a-Si
+T80	Process 1301 1306	PECVD
+T81	Element 1439 1443	a-Si
+T83	Property 229 234	qubit
+T82	Value 741 747	250_ C
+T13	Doping 252 265	incorporation
+T34	Element 935 944	Nb oxides
+R1	Coref Arg1:T19 Arg2:T20
+E1	Doping:T13 Dopant:T14 Site:T15

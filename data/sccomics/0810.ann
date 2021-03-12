@@ -1,0 +1,63 @@
+T1	Property 11 24	ferromagnetic
+T2	Element 25 46	(Fe2O3) x :(CeO2)1− x
+T3	Material 66 79	nanocomposite
+T4	Material 86 92	layers
+T5	Process 98 107	deposited
+T6	Material 132 138	layers
+T7	Main 143 154	YBa2Cu3O7−δ
+T8	Main 156 160	YBCO
+T9	Material 162 172	thin films
+T10	Material 178 189	composition
+T11	Element 193 198	Fe2O3
+T12	Material 199 206	dopants
+T13	Material 214 217	VAN
+T15	Element 308 313	Fe2O3
+T16	Element 318 322	CeO2
+T18	Material 389 400	composition
+T19	Property 432 439	ordered
+T20	Property 456 464	magnetic
+T22	Property 504 519	pinning centers
+T23	Element 527 531	YBCO
+T24	Material 532 542	thin films
+T25	SC 548 563	superconducting
+T27	SC 624 626	Tc
+T28	Property 645 647	Jc
+T29	Element 721 726	Fe2O3
+T31	Element 801 806	Fe2O3
+T33	Property 838 845	pinning
+T34	Property 871 879	magnetic
+T35	Property 880 887	pinning
+T36	Property 932 939	density
+T37	Property 943 951	magnetic
+T38	Property 952 967	pinning centers
+T39	Property 1012 1019	pinning
+T42	Value 246 249	10%
+T43	Value 251 254	30%
+T44	Value 259 262	50%
+T45	Value 633 636	90K
+T46	Value 663 666	75K
+T47	Value 671 674	65K
+T48	Characterization 573 585	measurements
+T49	Value 688 698	3.07MA/cm2
+T50	Value 703 712	9.2MA/cm2
+T51	Value 717 720	30%
+T52	Value 777 779	5K
+T53	Value 797 800	50%
+T14	Material 47 65	vertically aligned
+T55	Material 81 84	VAN
+T56	Material 218 228	nanolayers
+T57	Material 323 334	nanopillars
+T17	Property 361 372	flux pining
+T58	Material 465 476	nanodopants
+T59	Material 481 500	interfacial defects
+T21	Material 727 730	VAN
+T60	Material 807 810	VAN
+T61	Material 987 990	VAN
+T26	Doping 601 606	doped
+T30	Doping 731 736	doped
+T32	Doping 811 816	doped
+R1	Equivalent Arg1:T27 Arg2:T45
+R3	Condition Arg1:T45 Arg2:E1
+E1	Doping:T26
+E2	Doping:T30 Dopant:T29
+E3	Doping:T32 Dopant:T31

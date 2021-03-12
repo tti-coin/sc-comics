@@ -1,0 +1,64 @@
+T2	Material 55 62	layered
+T3	SC 101 115	superconductor
+T4	Characterization 119 150	X-ray absorption fine structure
+T5	Characterization 152 156	XAFS
+T6	Characterization 159 176	X-ray diffraction
+T7	Characterization 178 181	XRD
+T8	Characterization 187 205	Raman spectroscopy
+T9	Characterization 207 211	XAFS
+T10	Material 229 233	bond
+T12	SC 340 350	T c(onset)
+T13	Material 359 369	Tetragonal
+T14	Material 370 388	lattice parameters
+T16	SC 495 505	T c(onset)
+T19	Characterization 771 775	XAFS
+T20	Characterization 780 783	XRD
+T22	Material 849 854	plane
+T23	Material 926 931	plane
+T24	Property 956 964	electron
+T26	SC 971 985	superconductor
+T27	Main 63 78	Sr1−x La x CuO2
+T30	Value 80 81	0
+T31	Value 88 92	0.12
+T33	Value 295 299	20 K
+T34	Value 353 357	43 K
+T35	Value 546 554	151 cm−1
+T36	Value 559 567	304 cm−1
+T37	Characterization 635 649	Raman inactive
+T41	Element 844 848	CuO2
+T42	Element 921 925	CuO2
+T43	Element 880 890	oxygen ion
+T44	Element 224 228	CuO
+T45	Element 575 577	La
+T46	Characterization 517 528	Raman peaks
+T48	Element 94 96	La
+T1	Doping 578 583	doped
+T11	Doping 965 970	doped
+T15	Element 986 1001	Nd2−x Ce x CuO4
+T17	Element 1003 1009	T′-214
+R1	Equivalent Arg1:T12 Arg2:T34
+R2	Coref Arg1:T15 Arg2:T17
+R3	Target Arg1:E2 Arg2:T15
+E1	Doping:T1 Dopant:T45
+E2	Doping:T11 Dopant:T24
+#1	AnnotatorNotes T2	55-62
+#2	AnnotatorNotes T10	229-233
+#3	AnnotatorNotes T13	359-369
+#4	AnnotatorNotes T14	370-388
+#5	AnnotatorNotes T22	849-854
+#6	AnnotatorNotes T23	926-931
+#7	AnnotatorNotes T27	63-78
+#8	AnnotatorNotes T30	80-81
+#9	AnnotatorNotes T31	88-92
+#10	AnnotatorNotes T33	295-299
+#11	AnnotatorNotes T34	353-357
+#12	AnnotatorNotes T35	546-554
+#13	AnnotatorNotes T36	559-567
+#14	AnnotatorNotes T41	844-848
+#15	AnnotatorNotes T42	921-925
+#16	AnnotatorNotes T43	880-890
+#17	AnnotatorNotes T44	224-228
+#18	AnnotatorNotes T45	575-577
+#19	AnnotatorNotes T48	94-96
+#20	AnnotatorNotes T15	986-1001
+#21	AnnotatorNotes T17	1003-1009

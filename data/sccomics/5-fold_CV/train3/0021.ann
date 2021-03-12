@@ -1,0 +1,38 @@
+T2	Material 69 86	lattice parameter
+T3	Material 100 112	orthorhombic
+T14	Process 828 837	pressures
+T17	SC 946 949	T c
+T22	SC 1123 1126	T c
+T23	Property 1139 1147	fracture
+T24	Material 1165 1173	crystals
+T26	Material 1355 1373	lattice parameters
+T27	Main 139 163	YBa2(Cu1−y , Fe y )3O7−x
+T28	Element 270 281	YBa2Cu3O7−x
+T29	Main 123 134	YBa2Cu3O7−x
+T4	SC 213 233	critical temperature
+T1	SC 44 64	critical temperature
+T5	SC 333 353	critical temperature
+T7	Characterization 397 423	chemical pressure analysis
+T34	Characterization 425 428	CPA
+T9	SC 506 526	critical temperature
+T8	Process 460 477	chemical pressure
+T36	Element 530 541	YBa2Cu3O7−x
+T39	Process 615 645	physical (mechanical) pressure
+T10	Process 732 750	physical pressures
+T11	Material 764 778	chemical bonds
+T12	Process 804 822	chemical pressures
+T40	Characterization 856 859	CPA
+T15	Process 864 881	physical pressure
+T20	Process 1214 1231	physical stresses
+T41	Process 1050 1068	physical pressures
+T19	SC 1020 1040	critical temperature
+T18	Process 956 974	chemical pressures
+T43	Characterization 1258 1261	CPA
+T25	SC 1320 1340	critical temperature
+T46	Process 915 935	hydrostatic pressure
+T48	Process 1381 1397	ultrahigh stress
+T16	Process 1070 1091	Hydrostatic pressures
+T6	Material 369 386	lattice constants
+T13	Value 844 849	4 GPa
+T21	Value 1098 1103	4 GPa
+T30	Value 1411 1416	4 GPa

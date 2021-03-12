@@ -1,0 +1,81 @@
+T2	Material 27 38	composition
+T3	Element 60 65	boron
+T6	Main 76 98	carbonado-like diamond
+T8	Property 160 177	metallic solvents
+T9	Element 181 187	carbon
+T10	Element 189 191	Co
+T11	Element 196 198	Ni
+T13	Material 218 224	metals
+T15	Element 320 325	boron
+T16	SC 345 362	superconductivity
+T17	Element 366 373	diamond
+T18	Characterization 388 391	XPS
+T19	Element 428 433	boron
+T20	Element 473 481	diamonds
+T21	Element 494 500	Co-C-B
+T22	Element 502 508	Ni-C-B
+T23	Element 513 516	C-B
+T25	Property 547 555	Metallic
+T26	SC 592 609	superconductivity
+T27	Element 622 629	diamond
+T28	Property 668 682	semiconducting
+T29	Property 696 708	conductivity
+T30	Element 723 731	diamonds
+T31	SC 781 807	superconducting transition
+T32	Element 842 849	diamond
+T34	Element 859 865	Ni-C-B
+T35	Material 887 904	phase composition
+T37	Element 956 964	diamonds
+T38	Element 1020 1025	boron
+T39	Element 1029 1043	boride-forming
+T40	Material 1044 1050	metals
+T41	Element 1063 1068	boron
+T43	Element 1079 1086	diamond
+T44	Element 1100 1105	boron
+T46	Element 1112 1134	carbonado-like diamond
+T47	Property 1161 1185	electrochemical activity
+T48	Material 1189 1206	aqueous solutions
+T49	Material 1236 1246	electrodes
+T50	Process 124 132	diluting
+T51	Value 446 450	0.07
+T52	Value 452 456	0.16
+T45	Value 717 719	2K
+T55	Value 461 469	0.39at.%
+T56	Element 646 649	C-B
+T57	Element 137 140	C-B
+T60	Value 811 813	2K
+T1	Property 999 1016	chemical affinity
+T7	Process 631 642	synthesized
+T24	Process 850 855	grown
+T33	Process 13 19	growth
+T59	Process 517 523	growth
+T61	Process 141 147	growth
+T62	Process 1250 1266	electrosynthesis
+T63	Characterization 1271 1286	electroanalysis
+T4	Doping 66 72	doping
+T12	Doping 200 208	Addition
+T14	Doping 308 314	doping
+T36	Doping 413 427	substitutional
+T42	Doping 931 937	doping
+T54	Doping 1069 1075	doping
+T58	Doping 1106 1111	doped
+T5	Value 102 103	8
+T64	Value 104 108	9GPa
+T53	Value 616 618	5K
+R1	Target Arg1:T60 Arg2:T32
+R2	Target Arg1:E1 Arg2:T6
+R3	Target Arg1:E3 Arg2:T17
+R4	Target Arg1:E4 Arg2:T20
+R5	Target Arg1:E5 Arg2:T37
+R6	Target Arg1:E6 Arg2:T43
+R7	Target Arg1:E7 Arg2:T46
+R8	Equivalent Arg1:T26 Arg2:T53
+R9	Target Arg1:T53 Arg2:T27
+R10	Equivalent Arg1:T31 Arg2:T60
+E1	Doping:T4 Dopant:T3
+E2	Doping:T12
+E3	Doping:T14 Dopant:T15
+E4	Doping:T36 Dopant:T19
+E5	Doping:T42
+E6	Doping:T54 Dopant:T41
+E7	Doping:T58 Dopant:T44

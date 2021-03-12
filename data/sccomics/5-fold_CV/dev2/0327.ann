@@ -1,0 +1,68 @@
+T1	Main 0 4	U-Mo
+T2	Material 5 11	alloys
+T3	Element 17 19	Mo
+T4	Property 20 33	concentration
+T5	Element 59 61	Mo
+T7	Characterization 130 147	X-ray diffraction
+T8	Characterization 149 152	XRD
+T9	Characterization 155 183	scanning electron microscopy
+T10	Characterization 185 188	SEM
+T12	Characterization 229 233	EBSD
+T13	Process 300 316	room temperature
+T14	Process 408 424	room temperature
+T15	Element 428 435	uranium
+T16	Material 436 441	metal
+T17	Process 455 462	cooling
+T19	Material 550 556	alloys
+T20	Element 571 573	Mo
+T21	Element 594 596	Mo
+T23	Element 641 643	Mo
+T24	Material 654 659	cubic
+T25	Element 680 682	Mo
+T26	SC 689 715	superconducting transition
+T27	Process 736 751	low-temperature
+T29	Property 793 808	magnetic fields
+T30	SC 841 856	superconducting
+T31	SC 862 865	T c
+T33	Element 924 926	Mo
+T34	SC 933 950	superconductivity
+T35	Material 966 972	alloys
+T36	Property 997 1017	upper critical field
+T37	Material 1035 1043	material
+T38	Property 1045 1067	Electrical resistivity
+T39	Material 1075 1083	γ-alloys
+T40	Element 1093 1095	Mo
+T41	Process 1147 1163	room temperature
+T42	SC 1176 1202	superconducting transition
+T44	Characterization 194 227	electron back-scatter diffraction
+T46	Element 340 349	α-U phase
+T48	Value 673 679	15at.%
+T49	Value 884 889	1.24K
+T51	Value 785 789	0.3K
+T52	Value 908 913	2.11K
+T53	Value 1086 1092	11at.%
+T55	Value 815 817	5T
+T57	Process 84 107	splat-cooling technique
+T58	Material 397 404	γ-phase
+T59	Material 617 625	γ° phase
+T32	Value 917 923	15at.%
+T60	Material 958 965	γ-phase
+T61	Material 1027 1034	α-phase
+T18	Material 481 496	(α+γ) structure
+T62	Material 522 529	α-phase
+T54	Element 915 916	U
+T56	Element 896 897	U
+T63	Material 660 667	γ phase
+T11	Element 278 287	γ-U phase
+T22	Doping 597 603	doping
+T43	Value 50 51	0
+T45	Value 52 58	15at.%
+T47	Value 562 563	0
+T64	Value 564 570	10at.%
+T50	Value 631 633	11
+T65	Value 634 640	12at.%
+T6	Property 752 763	resistivity
+T28	Characterization 764 776	measurements
+R1	Equivalent Arg1:T31 Arg2:T49
+R2	Equivalent Arg1:T31 Arg2:T52
+E1	Doping:T22 Dopant:T21

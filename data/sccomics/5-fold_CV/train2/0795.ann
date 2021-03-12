@@ -1,0 +1,64 @@
+T1	Main 40 44	MgB2
+T2	Material 45 49	bulk
+T3	SC 50 65	superconductors
+T4	Material 139 145	Powder
+T5	Element 158 167	magnesium
+T6	Element 169 171	Mg
+T8	Property 241 251	melt point
+T9	Element 270 272	Mg
+T10	Material 377 383	powder
+T11	Element 543 545	Mg
+T12	Property 571 578	density
+T14	Element 670 674	MgB2
+T15	Material 675 681	plates
+T16	Element 690 692	Mg
+T17	Process 693 704	evaporation
+T18	Element 738 742	MgB2
+T19	Material 748 762	microstructure
+T20	Element 812 816	MgB2
+T21	Element 895 897	Mg
+T22	Material 898 904	matrix
+T23	Material 905 915	interfaces
+T24	Material 924 930	spaces
+T25	Element 940 942	Mg
+T26	Material 943 950	powders
+T29	Element 1189 1191	Mg
+T30	Element 1196 1197	B
+T31	Material 1220 1225	solid
+T32	Material 1259 1265	liquid
+T33	Property 1325 1332	melting
+T34	Element 1336 1338	Mg
+T35	Material 1339 1346	powders
+T36	Property 1388 1392	melt
+T37	Material 1465 1471	liquid
+T38	Property 1570 1594	critical current density
+T39	Element 1602 1606	MgB2
+T40	SC 1607 1621	superconductor
+T41	Property 1694 1701	density
+T42	Material 1718 1723	grain
+T43	Value 260 265	649°C
+T7	Element 177 182	boron
+T44	Element 184 185	B
+T45	Property 253 258	m. p.
+T46	Property 1121 1126	m. p.
+T47	Property 445 461	de-densification
+T48	Property 477 493	pellet expansion
+T49	Property 1296 1301	m. p.
+T50	Value 1634 1639	600°C
+T51	Value 1664 1669	900°C
+T52	Process 1404 1419	capillary force
+T53	Property 1518 1523	m. p.
+T54	Property 1560 1565	m. p.
+T13	Process 636 650	pore formation
+T55	Process 660 666	growth
+T56	Property 846 851	m. p.
+T57	Property 534 539	m. p.
+T58	Process 1622 1630	prepared
+T59	Process 192 204	heat-treated
+T60	Process 338 359	reaction temperatures
+T61	Process 1006 1019	reaction time
+T28	Property 1085 1096	solid state
+T27	Doping 951 959	occupied
+R1	Coref Arg1:T5 Arg2:T6
+R2	Coref Arg1:T7 Arg2:T44
+E1	Doping:T27 Dopant:T25

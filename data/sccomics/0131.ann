@@ -1,0 +1,79 @@
+T1	SC 0 15	Superconducting
+T2	Material 28 33	films
+T3	Material 105 117	buffer layer
+T5	Process 168 177	annealing
+T7	SC 223 238	superconducting
+T8	Material 265 270	films
+T9	Characterization 291 308	X-ray diffraction
+T10	Characterization 310 328	X-ray fluorescence
+T11	Characterization 329 341	spectroscopy
+T12	Characterization 343 371	scanning electron microscopy
+T13	SC 373 393	critical temperature
+T15	Property 441 452	resistivity
+T16	Process 489 498	annealing
+T17	Material 516 521	films
+T19	Process 689 698	Annealing
+T20	Material 702 707	films
+T22	Material 782 794	buffer layer
+T23	Material 812 817	films
+T24	Process 838 853	crystallization
+T25	Material 917 928	orientation
+T26	Material 947 954	surface
+T27	Material 955 965	morphology
+T28	Material 979 996	lattice parameter
+T30	Property 1042 1053	resistivity
+T31	SC 1094 1114	critical temperature
+T32	SC 1116 1119	T c
+T34	Material 1230 1235	films
+T35	Material 1301 1306	films
+T37	Property 1365 1386	diffusion coefficient
+T38	Material 1398 1403	films
+T39	Main 16 27	BiPbSrCaCuO
+T40	Element 58 60	Ag
+T41	Element 61 64	MgO
+T42	Element 69 72	MgO
+T43	Element 102 104	Ag
+T44	Element 253 264	BiPbSrCaCuO
+T45	Value 525 530	835°C
+T46	Element 566 573	Bi-2223
+T47	Element 578 592	Bi-2212 phases
+T48	Element 711 713	Ag
+T49	Element 714 717	MgO
+T50	Element 760 762	Ag
+T51	Element 800 811	BiPbSrCaCuO
+T52	Property 1168 1171	J c
+T53	Element 861 868	Bi-2223
+T54	Element 873 887	Bi-2212 phases
+T57	Value 1120 1125	106 K
+T59	Value 1131 1132	0
+T60	Property 1142 1166	critical current density
+T61	Value 1174 1189	1.1 × 104 A/cm2
+T62	Value 1193 1197	77 K
+T63	Element 1221 1223	Ag
+T64	Element 1240 1242	Ag
+T65	Element 1243 1246	MgO
+T66	Element 1311 1314	MgO
+T67	Element 1362 1364	Ag
+T68	Element 1390 1397	Bi-2212
+T71	Value 1459 1480	2.2×10−5 exp(−1.2/kT)
+T72	Material 197 218	crystalline structure
+T73	Property 395 419	critical current density
+T74	Material 677 687	substrates
+T75	Material 1247 1257	substrates
+T58	Material 1315 1325	substrates
+T76	Material 73 83	substrates
+T77	Material 718 728	substrates
+T78	Material 649 655	c-axis
+T79	Process 44 54	evaporated
+T4	Process 126 149	electron-beam technique
+T6	Material 615 639	preferential orientation
+T14	Property 763 772	diffusion
+T18	Doping 1224 1229	doped
+T21	Value 1003 1006	0.6
+T29	Value 1007 1011	0.8%
+T33	Value 1417 1420	650
+T36	Value 1421 1426	800°C
+T55	Value 1055 1056	2
+T56	Value 1057 1064	3 times
+R1	Equivalent Arg1:T32 Arg2:T57
+E1	Doping:T18 Dopant:T63

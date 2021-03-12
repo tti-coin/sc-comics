@@ -1,0 +1,48 @@
+T1	Material 18 35	crystal structure
+T2	Property 44 51	content
+T3	SC 56 59	T c
+T4	Material 63 70	ceramic
+T5	Process 139 148	annealing
+T6	Process 190 198	annealed
+T7	SC 233 236	T c
+T8	Material 241 256	orthorhombicity
+T9	Process 314 323	annealing
+T10	Process 354 363	quenching
+T11	Process 392 401	annealing
+T12	SC 449 452	T c
+T13	Material 457 472	orthorhombicity
+T15	Process 753 761	annealed
+T16	Process 846 855	annealing
+T18	Element 910 916	oxygen
+T19	SC 929 932	T c
+T21	Material 1020 1034	order-disorder
+T22	Material 1058 1069	sub-lattice
+T23	Process 1088 1097	annealing
+T24	Element 992 994	Ba
+T25	Element 998 1000	Sr
+T26	Element 1051 1057	oxygen
+T28	Value 817 820	1.0
+T29	Main 71 91	GdBa2−x Sr x Cu3O7−δ
+T34	Element 202 208	oxygen
+T35	Value 212 217	900°C
+T36	Element 286 288	Sr
+T37	Element 341 346	argon
+T38	Value 376 381	900°C
+T39	Element 405 411	oxygen
+T40	Value 415 420	500°C
+T42	Element 494 500	oxygen
+T45	Value 733 736	0.0
+T46	Value 741 744	1.0
+T47	Element 885 891	oxygen
+T48	Value 93 96	0.0
+T50	Value 99 102	1.6
+T51	Value 477 478	0
+T53	Value 485 488	1.6
+T54	Value 543 544	0
+T56	Value 551 555	0.12
+T58	Element 37 43	oxygen
+T60	Property 581 598	AC susceptibility
+T62	Property 289 296	content
+T14	Characterization 632 645	DC bias field
+T17	Doping 976 988	substitution
+E1	Doping:T17 Site:T24 Dopant:T25

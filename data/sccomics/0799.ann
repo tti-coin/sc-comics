@@ -1,0 +1,81 @@
+T2	Element 46 60	graphene oxide
+T3	Element 62 64	GO
+T4	Element 84 94	rare-earth
+T5	Element 103 105	La
+T6	Element 107 109	Sm
+T7	Element 111 113	Eu
+T8	Element 115 117	Gd
+T9	Element 119 121	Tb
+T10	Element 126 128	Ho
+T11	Element 130 136	oxides
+T12	Element 138 141	REO
+T13	Element 166 168	GO
+T14	Element 173 190	rare-earth oxides
+T16	SC 207 222	superconducting
+T17	Main 237 241	MgB2
+T18	Property 278 288	electrical
+T19	Property 289 298	transport
+T20	Property 303 311	magnetic
+T21	Process 384 404	solid-state reaction
+T22	Element 450 453	REO
+T23	Element 463 465	GO
+T25	Characterization 513 530	X-ray diffraction
+T26	Material 564 573	hexagonal
+T27	Material 574 591	crystal structure
+T28	Material 593 604	space group
+T29	Material 605 611	P6/mmm
+T30	Element 616 620	MgB2
+T31	Element 643 648	REB x
+T32	Element 666 669	MgO
+T33	Material 670 685	impurity phases
+T34	Property 738 762	critical current density
+T35	Property 764 767	J c
+T36	Property 772 792	upper critical field
+T37	Property 793 800	H c2(0)
+T40	SC 891 911	critical temperature
+T41	SC 913 916	T c
+T42	Property 947 953	J c(H)
+T43	Property 958 965	H c2(0)
+T47	Element 1006 1010	MgB2
+T48	Property 1026 1038	flux pinning
+T49	Property 1112 1119	pinning
+T51	Material 1174 1188	grain boundary
+T52	Property 1189 1196	pinning
+T53	Element 1224 1227	REO
+T55	Property 1293 1305	flux pinning
+T59	Element 1333 1337	MgB2
+T62	Value 445 449	1wt%
+T63	Value 458 462	3wt%
+T66	Value 653 654	4
+T67	Value 659 660	6
+T69	Element 830 833	REO
+T70	Element 844 846	GO
+T73	Element 1153 1155	GO
+T76	Characterization 312 324	measurements
+T1	Doping 30 38	addition
+T24	Doping 470 478	addition
+T38	Doping 834 839	added
+T39	Doping 847 852	added
+T46	Doping 994 1002	addition
+T50	Doping 1156 1161	added
+T54	Doping 1228 1233	added
+T58	Doping 1327 1332	added
+T15	Element 192 198	GO+REO
+T44	Element 987 993	GO+REO
+T45	Element 1320 1326	GO+REO
+R3	Target Arg1:E8 Arg2:T47
+R4	Target Arg1:E11 Arg2:T59
+R5	Target Arg1:E1 Arg2:T17
+R6	Target Arg1:E2 Arg2:T17
+R7	Target Arg1:E3 Arg2:T17
+E2	Doping:T1 Dopant:T12
+E4	Doping:T24 Dopant:T23
+E5	Doping:T24 Dopant:T22
+E6	Doping:T38 Dopant:T69
+E7	Doping:T39 Dopant:T70
+E8	Doping:T46 Dopant:T44
+E9	Doping:T50 Dopant:T73
+E10	Doping:T54 Dopant:T53
+E11	Doping:T58 Dopant:T45
+E1	Doping:T1 Dopant:T3
+E3	Doping:T1 Dopant:T15

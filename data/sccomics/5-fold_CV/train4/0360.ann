@@ -1,0 +1,81 @@
+T1	Material 0 15	Polycrystalline
+T2	Main 27 47	(Nb1-xCux)Sr2EuCu2Oz
+T4	Element 108 135	(Nb0.9-xTi0.1Cux)Sr2EuCu2Oz
+T6	Element 184 186	Ti
+T7	Element 187 189	Cu
+T10	Characterization 281 284	XRD
+T11	Property 287 296	transport
+T13	Element 337 339	Ti
+T16	SC 390 407	superconductivity
+T18	Element 475 477	Ti
+T19	Element 478 480	Cu
+T20	SC 512 538	superconducting transition
+T24	Characterization 641 661	Rietveld refinements
+T25	Characterization 665 668	XRD
+T26	Element 682 684	Ti
+T28	Material 719 744	structural transformation
+T29	Material 759 769	tetragonal
+T30	Material 771 777	P4/mmm
+T31	Material 788 800	orthorhombic
+T32	Material 802 806	Ima2
+T33	Material 845 863	orthorhombic phase
+T35	SC 917 932	superconducting
+T36	Element 954 956	Ti
+T37	Element 957 959	Cu
+T39	Property 1018 1036	hole concentration
+T42	Element 894 896	Cu
+T47	Value 57 58	0
+T48	Value 70 73	0.1
+T50	Value 80 83	0.5
+T51	Element 85 87	Cu
+T54	Value 169 172	0.1
+T56	Value 179 182	0.4
+T62	Value 145 146	0
+T63	Element 148 150	Ti
+T9	Characterization 262 279	X-ray diffraction
+T66	Value 505 508	0.4
+T67	Element 685 687	Cu
+T41	Value 635 639	30 K
+T23	SC 614 625	T c (onset)
+T69	Element 345 347	Cu
+T70	Element 370 372	Ti
+T3	Material 1045 1070	structural transformation
+T53	Property 822 837	weight fraction
+T8	Doping 88 93	doped
+T12	Doping 151 156	doped
+T17	Doping 193 198	doped
+T21	Doping 348 353	doped
+T22	Doping 373 378	doped
+T27	Doping 481 488	codoped
+T38	Doping 691 696	doped
+T43	Doping 897 903	doping
+T52	Doping 963 969	doping
+T5	Property 302 315	magnetization
+T15	Characterization 316 328	measurements
+T34	Property 428 439	resistivity
+T40	Characterization 440 452	measurements
+T14	Property 566 577	resistivity
+T44	Property 582 595	magnetization
+T45	Characterization 596 608	measurements
+R1	Coref Arg1:T29 Arg2:T30
+R2	Coref Arg1:T31 Arg2:T32
+R3	Equivalent Arg1:T23 Arg2:T41
+R4	Target Arg1:E1 Arg2:T2
+R5	Target Arg1:E2 Arg2:T4
+R6	Target Arg1:E3 Arg2:T4
+R7	Condition Arg1:T41 Arg2:E6
+R8	Target Arg1:E10 Arg2:T4
+R9	Condition Arg1:T41 Arg2:E11
+E1	Doping:T8 Dopant:T51
+E2	Doping:T12 Dopant:T63
+E3	Doping:T17 Dopant:T6
+E4	Doping:T21 Dopant:T69
+E5	Doping:T22 Dopant:T70
+E6	Doping:T27 Dopant:T18
+E7	Doping:T38 Dopant:T26
+E8	Doping:T43 Dopant:T42
+E9	Doping:T52 Dopant:T36
+E10	Doping:T17 Dopant:T7
+E11	Doping:T27 Dopant:T19
+E12	Doping:T38 Dopant:T67
+E13	Doping:T52 Dopant:T37

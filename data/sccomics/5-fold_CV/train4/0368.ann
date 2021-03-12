@@ -1,0 +1,78 @@
+T1	Element 60 62	Nd
+T3	Material 83 98	phase formation
+T4	Material 112 127	microstructural
+T5	SC 132 147	superconducting
+T6	Main 162 173	YBa2Cu3O7−x
+T7	Material 174 182	ceramics
+T8	Characterization 254 271	X-ray diffraction
+T9	Characterization 273 276	XRD
+T10	Property 279 293	dc resistivity
+T12	Characterization 336 364	scanning electron microscopy
+T13	Characterization 366 369	SEM
+T14	Element 431 433	Nd
+T16	Element 446 451	Y-123
+T19	SC 524 546	transition temperature
+T20	Material 548 565	crystal structure
+T21	Material 567 572	grain
+T22	Material 579 591	phase purity
+T23	Material 596 614	lattice parameters
+T24	Element 755 757	Nd
+T25	Property 758 771	concentration
+T26	Element 785 787	Ba
+T27	SC 800 815	superconducting
+T28	Property 832 840	critical
+T31	Element 1006 1011	Y-123
+T32	SC 1012 1027	superconducting
+T33	Material 1028 1035	lattice
+T34	Property 1074 1078	hole
+T35	Property 1107 1117	electronic
+T36	Property 1148 1159	Fermi level
+T37	Material 1185 1195	disordered
+T38	Property 1196 1210	metallic state
+T40	Element 1283 1285	Ba
+T41	Element 1301 1303	Nd
+T42	Material 1304 1314	impurities
+T43	Element 1364 1369	Y-123
+T44	Element 1410 1415	Y-211
+T45	Material 1436 1454	crystal structures
+T46	Property 1464 1480	phase transition
+T47	Material 1486 1498	orthorhombic
+T48	Material 1526 1543	crystal structure
+T49	Element 1734 1736	Nd
+T50	Element 1764 1769	Y-123
+T51	SC 1770 1785	superconducting
+T52	Material 1786 1792	matrix
+T53	Property 1798 1819	Vickers microhardness
+T54	Property 1864 1883	plastic deformation
+T55	Property 1935 1943	recovery
+T56	Property 301 324	Vickers's microhardness
+T57	Property 326 329	H v
+T59	Value 854 859	0.250
+T60	Property 100 110	mechanical
+T62	Value 1257 1262	0.250
+T64	Property 1971 1984	RISE behavior
+T65	Material 1502 1518	pseudotetragonal
+T66	Property 295 298	ρ-T
+T11	Characterization 371 383	measurements
+T69	Characterization 1820 1831	measurement
+T70	Property 1629 1639	mechanical
+T2	Doping 63 75	substitution
+T15	Doping 434 445	substituted
+T29	Doping 954 959	doped
+T30	Doping 973 983	underdoped
+T39	Doping 1268 1279	replacement
+T67	Doping 1748 1756	inserted
+R1	Target Arg1:E1 Arg2:T6
+R2	Target Arg1:E2 Arg2:T16
+R3	Target Arg1:E3 Arg2:T31
+R4	Target Arg1:E4 Arg2:T31
+R5	Target Arg1:E5 Arg2:T43
+R6	Target Arg1:E5 Arg2:T44
+R7	Target Arg1:E6 Arg2:T50
+E1	Doping:T2 Dopant:T1
+E2	Doping:T15 Dopant:T14
+E3	Doping:T29 
+E4	Doping:T30 
+E5	Doping:T39 Site:T40 Dopant:T41
+E6	Doping:T67 Dopant:T49
+T17	SC 465 509	onset–offset critical transition temperature

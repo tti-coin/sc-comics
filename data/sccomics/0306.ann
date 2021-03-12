@@ -1,0 +1,30 @@
+T1	SC 4 19	superconducting
+T3	Process 273 279	plasma
+T4	Process 638 650	water-cooled
+T5	Material 652 654	3d
+T6	SC 720 735	superconducting
+T7	Property 755 759	pair
+T8	Property 1025 1034	hardening
+T9	Property 1446 1453	density
+T10	Material 1463 1471	impurity
+T12	Process 1671 1677	cooled
+T14	Process 1799 1811	water-cooled
+T15	Material 1812 1824	carbon fiber
+T16	Element 1836 1842	carbon
+T17	Value 1154 1158	10MW
+T19	Value 1126 1131	30min
+T20	Value 986 989	8MW
+T21	Property 1253 1262	discharge
+T22	Process 1281 1291	high-power
+T23	Element 1691 1699	graphite
+T25	Property 121 156	stellarator optimization principles
+T26	Material 736 749	current leads
+T27	Process 1159 1172	heating power
+T28	Process 1132 1150	discharge duration
+T18	Process 964 982	discharge duration
+T24	Process 990 1003	heating power
+T29	Process 1523 1540	microwave heating
+T11	Doping 1728 1736	replaced
+T2	Value 958 959	5
+T13	Value 960 963	10s
+E1	Doping:T11

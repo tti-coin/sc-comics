@@ -1,0 +1,105 @@
+T2	SC 56 71	superconducting
+T3	SC 86 117	high temperature superconductor
+T4	SC 119 123	HTSc
+T5	Main 125 136	YBa2Cu3O7-δ
+T6	Main 138 142	YBCO
+T8	Element 176 180	CNTs
+T9	Process 241 261	solid state reaction
+T10	Material 273 285	orthorhombic
+T11	Material 286 295	structure
+T12	Material 326 337	space group
+T13	Characterization 361 378	X-ray Diffraction
+T14	Characterization 380 383	XRD
+T15	Characterization 402 422	Rietveld refinements
+T16	Material 468 486	lattice parameters
+T17	Material 494 506	orthorhombic
+T18	Material 507 516	structure
+T19	Element 520 524	YBCO
+T20	SC 525 540	superconducting
+T21	Material 541 547	matrix
+T22	Element 571 575	CNTs
+T24	Material 680 686	grains
+T25	Element 690 694	CNTs
+T27	Property 719 740	temperature dependent
+T29	SC 824 839	superconducting
+T30	Element 840 844	YBCO
+T31	Element 849 853	CNTs
+T33	Element 874 878	CNTs
+T34	Process 892 908	room temperature
+T35	Property 909 920	resistivity
+T36	SC 954 974	critical temperature
+T40	Material 1068 1076	pristine
+T42	Element 1149 1153	YBCO
+T43	Material 1162 1172	composites
+T44	Material 1222 1232	composites
+T45	Element 1247 1251	CNTs
+T46	Element 1259 1263	YBCO
+T47	Property 1286 1310	critical current density
+T48	Property 1338 1341	J C
+T49	Element 1383 1387	YBCO
+T50	Element 1410 1414	YBCO
+T51	Value 182 185	0.0
+T23	Characterization 581 624	Field emission scanning electron microscope
+T52	Characterization 626 631	FESEM
+T53	Value 1399 1406	0.8 wt%
+T1	Material 14 38	structural modifications
+T41	Property 1122 1127	2D-3D
+T54	Value 187 190	0.2
+T55	Value 192 195	0.4
+T56	Value 197 200	0.6
+T57	Value 202 205	0.8
+T58	Value 208 215	1.0 wt%
+T59	Property 1128 1138	transition
+T37	SC 977 983	T C on
+T7	Doping 147 155	addition
+T26	Doping 695 700	doped
+T32	Doping 862 870	addition
+T38	Doping 996 1001	doped
+T39	Doping 1039 1044	doped
+T60	Doping 1234 1243	Inclusion
+T28	Characterization 753 764	measurement
+T61	Property 741 752	resistivity
+R1	Coref Arg1:T3 Arg2:T4
+R2	Coref Arg1:T5 Arg2:T6
+R3	Coref Arg1:T36 Arg2:T37
+R4	Target Arg1:E1 Arg2:T5
+R5	Target Arg1:E6 Arg2:T46
+E1	Doping:T7 Dopant:T8
+E2	Doping:T26 Dopant:T25
+E3	Doping:T32 Dopant:T33
+E4	Doping:T38 
+E5	Doping:T39 
+E6	Doping:T60 Dopant:T45
+#1	AnnotatorNotes T5	125-136
+#2	AnnotatorNotes T6	138-142
+#3	AnnotatorNotes T8	176-180
+#4	AnnotatorNotes T10	273-285
+#5	AnnotatorNotes T11	286-295
+#6	AnnotatorNotes T12	326-337
+#7	AnnotatorNotes T16	468-486
+#8	AnnotatorNotes T17	494-506
+#9	AnnotatorNotes T18	507-516
+#10	AnnotatorNotes T19	520-524
+#11	AnnotatorNotes T21	541-547
+#12	AnnotatorNotes T22	571-575
+#13	AnnotatorNotes T24	680-686
+#14	AnnotatorNotes T25	690-694
+#15	AnnotatorNotes T30	840-844
+#16	AnnotatorNotes T31	849-853
+#17	AnnotatorNotes T33	874-878
+#18	AnnotatorNotes T40	1068-1076
+#19	AnnotatorNotes T42	1149-1153
+#20	AnnotatorNotes T43	1162-1172
+#21	AnnotatorNotes T44	1222-1232
+#22	AnnotatorNotes T45	1247-1251
+#23	AnnotatorNotes T46	1259-1263
+#24	AnnotatorNotes T49	1383-1387
+#25	AnnotatorNotes T50	1410-1414
+#26	AnnotatorNotes T51	182-185
+#27	AnnotatorNotes T53	1399-1406
+#28	AnnotatorNotes T1	14-38
+#29	AnnotatorNotes T54	187-190
+#30	AnnotatorNotes T55	192-195
+#31	AnnotatorNotes T56	197-200
+#32	AnnotatorNotes T57	202-205
+#33	AnnotatorNotes T58	208-215

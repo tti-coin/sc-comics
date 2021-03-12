@@ -1,0 +1,123 @@
+T1	Material 15 24	amorphous
+T2	Element 25 31	carbon
+T4	SC 42 57	superconducting
+T5	Main 72 76	MgB2
+T6	Element 77 79	Nb
+T7	Element 80 82	Cu
+T8	Material 83 88	wires
+T10	Element 173 175	Nb
+T11	Element 195 197	Cu
+T12	Element 221 225	MgB2
+T13	Material 226 231	wires
+T14	Process 251 263	cold drawing
+T15	Material 269 274	wires
+T16	Element 278 288	MgB2-x C x
+T17	Material 371 380	amorphous
+T18	Element 381 387	carbon
+T20	Material 402 417	phase formation
+T21	Material 419 433	microstructure
+T22	SC 438 453	superconducting
+T23	Element 486 490	MgB2
+T24	Element 491 493	Nb
+T25	Element 494 496	Cu
+T26	Material 497 502	wires
+T27	Characterization 525 528	XRD
+T28	Characterization 530 535	SQUID
+T29	Characterization 537 540	SEM
+T30	Characterization 541 544	EDS
+T31	Characterization 568 571	XRD
+T32	Element 606 610	MgB2
+T33	Process 635 649	heat-treatment
+T34	Material 665 679	microstructure
+T35	Material 696 701	wires
+T36	Element 717 721	MgB2
+T37	Element 722 724	Nb
+T38	Element 725 727	Cu
+T39	Material 728 733	wires
+T40	Material 746 751	grain
+T42	Material 778 787	amorphous
+T43	Element 788 794	carbon
+T44	Characterization 800 823	Energy Dispersive X-ray
+T45	Characterization 825 828	EDS
+T46	Element 876 882	carbon
+T47	Element 890 894	MgB2
+T48	SC 895 910	superconducting
+T49	Property 922 946	critical current density
+T50	Property 948 951	J c
+T51	Material 956 961	wires
+T52	Property 988 1003	magnetic fields
+T53	Property 1046 1055	transport
+T54	Property 1056 1059	J c
+T55	Value 294 297	0.0
+T57	Value 299 303	0.05
+T58	Value 305 309	0.08
+T59	Value 311 315	0.10
+T60	Value 317 321	0.15
+T9	Process 115 129	powder-in-tube
+T61	Process 131 134	PIT
+T62	Value 653 659	700 °C
+T63	Value 1095 1100	4.2 K
+T64	Value 1102 1105	5 T
+T65	Value 1111 1126	3.3 × 104 A/cm2
+T66	Value 1135 1139	10 T
+T67	Value 1128 1133	4.2 K
+T70	Characterization 550 566	I c measurements
+T71	Value 1078 1093	1.4 × 105 A/cm2
+T72	Characterization 1018 1036	four probes method
+T73	Material 183 190	barrier
+T74	Material 205 215	stabilizer
+T3	Doping 32 38	doping
+T19	Doping 388 394	doping
+T41	Doping 771 777	doping
+R1	Target Arg1:E1 Arg2:T5
+R2	Target Arg1:E2 Arg2:T16
+E1	Doping:T3 Dopant:T2
+E2	Doping:T19 Dopant:T18
+E3	Doping:T41 Dopant:T43
+#1	AnnotatorNotes T1	15-24
+#2	AnnotatorNotes T2	25-31
+#3	AnnotatorNotes T5	72-76
+#4	AnnotatorNotes T6	77-79
+#5	AnnotatorNotes T7	80-82
+#6	AnnotatorNotes T8	83-88
+#7	AnnotatorNotes T10	173-175
+#8	AnnotatorNotes T11	195-197
+#9	AnnotatorNotes T12	221-225
+#10	AnnotatorNotes T13	226-231
+#11	AnnotatorNotes T15	269-274
+#12	AnnotatorNotes T16	278-288
+#13	AnnotatorNotes T17	371-380
+#14	AnnotatorNotes T18	381-387
+#15	AnnotatorNotes T20	402-417
+#16	AnnotatorNotes T21	419-433
+#17	AnnotatorNotes T23	486-490
+#18	AnnotatorNotes T24	491-493
+#19	AnnotatorNotes T25	494-496
+#20	AnnotatorNotes T26	497-502
+#21	AnnotatorNotes T32	606-610
+#22	AnnotatorNotes T34	665-679
+#23	AnnotatorNotes T35	696-701
+#24	AnnotatorNotes T36	717-721
+#25	AnnotatorNotes T37	722-724
+#26	AnnotatorNotes T38	725-727
+#27	AnnotatorNotes T39	728-733
+#28	AnnotatorNotes T40	746-751
+#29	AnnotatorNotes T42	778-787
+#30	AnnotatorNotes T43	788-794
+#31	AnnotatorNotes T46	876-882
+#32	AnnotatorNotes T47	890-894
+#33	AnnotatorNotes T51	956-961
+#34	AnnotatorNotes T55	294-297
+#35	AnnotatorNotes T57	299-303
+#36	AnnotatorNotes T58	305-309
+#37	AnnotatorNotes T59	311-315
+#38	AnnotatorNotes T60	317-321
+#39	AnnotatorNotes T62	653-659
+#40	AnnotatorNotes T63	1095-1100
+#41	AnnotatorNotes T64	1102-1105
+#42	AnnotatorNotes T65	1111-1126
+#43	AnnotatorNotes T66	1135-1139
+#44	AnnotatorNotes T67	1128-1133
+#45	AnnotatorNotes T71	1078-1093
+#46	AnnotatorNotes T73	183-190
+#47	AnnotatorNotes T74	205-215

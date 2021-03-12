@@ -1,0 +1,25 @@
+T1	Property 36 43	melting
+T4	Property 72 75	COO
+T6	Material 131 139	material
+T7	Material 222 231	thin film
+T8	Property 284 292	electron
+T13	Material 348 358	substrates
+T14	Property 407 415	electron
+T15	Material 416 426	interfaces
+T21	Material 491 507	epitaxial growth
+T24	Material 521 530	materials
+T25	Element 539 551	(Bi, Sr)MnO3
+T26	Property 563 570	ordered
+T27	Element 571 580	SmBaMn2O6
+T28	Material 581 591	thin films
+T29	Process 637 653	room temperature
+T30	Property 678 686	electron
+T31	Property 47 70	charge-orbital ordering
+T33	Main 80 101	perovskite manganites
+T34	Property 556 562	A-site
+T11	Material 342 347	(110)
+T12	Material 430 435	(001)
+T16	Material 437 442	(110)
+T17	Material 448 453	(210)
+T9	Material 322 338	epitaxial strain
+T2	SC 511 520	high-T co

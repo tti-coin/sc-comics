@@ -1,0 +1,44 @@
+T1	SC 16 31	superconducting
+T2	Element 46 56	REBa2Cu3Oy
+T3	Element 57 62	RE123
+T4	Element 68 87	rare earth elements
+T6	Material 105 110	bulks
+T7	Material 177 184	crystal
+T9	Element 244 246	RE
+T11	Process 306 320	crystal growth
+T12	Process 327 347	reducing atmospheres
+T14	Element 406 408	RE
+T16	Process 481 501	reducing atmospheres
+T17	Property 521 542	mechanical properties
+T18	Main 573 578	RE123
+T19	Material 579 584	bulks
+T20	Property 602 606	melt
+T21	Process 607 621	solidification
+T22	Process 628 640	low pressure
+T24	Process 646 663	oxygen atmosphere
+T26	Element 693 695	RE
+T27	Element 700 706	barium
+T28	Element 735 739	Y123
+T29	Material 740 745	bulks
+T30	Element 812 816	Y123
+T31	Material 817 822	bulks
+T32	Property 848 850	Jc
+T33	Element 890 894	Y123
+T34	Material 895 900	bulks
+T36	Process 920 923	air
+T37	Value 857 860	2 T
+T38	Value 864 867	77K
+T41	Element 64 66	RE
+T23	Process 89 104	melt-solidified
+T5	Process 901 916	melt-solidified
+T13	Doping 384 396	substitution
+T25	Doping 677 689	substitution
+T8	Doping 228 240	substitution
+T10	Element 255 261	barium
+T15	Element 417 423	barium
+R1	Coref Arg1:T41 Arg2:T4
+R2	Coref Arg1:T2 Arg2:T3
+R3	Target Arg1:E3 Arg2:T18
+E2	Doping:T13 Dopant:T14 Site:T15
+E3	Doping:T25 Dopant:T26 Site:T27
+E1	Doping:T8 Dopant:T9 Site:T10

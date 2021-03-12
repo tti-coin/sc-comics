@@ -1,0 +1,37 @@
+T1	Material 2 12	structural
+T3	Element 43 49	Pr-ion
+T4	Element 59 60	Y
+T5	Material 82 97	polycrystalline
+T6	Main 109 126	(Y1-xPrx)Ba2Cu3O7
+T7	Characterization 159 176	X-ray diffraction
+T9	Property 187 206	bond valence method
+T10	Property 211 229	electronic density
+T11	Material 244 265	crystalline structure
+T12	Material 282 300	orthorhombic phase
+T13	Material 302 306	Pmmm
+T14	Material 325 334	unit cell
+T15	Material 349 357	symmetry
+T17	Element 372 373	Y
+T18	Material 402 418	tetragonal phase
+T19	Material 420 426	P4/mmm
+T20	Material 453 463	structural
+T22	Property 544 546	Tc
+T23	Property 594 608	oxygen content
+T24	Characterization 650 670	μ-Raman spectroscopy
+T25	Property 686 695	frequency
+T26	Element 708 715	O(4)-Ag
+T27	Property 716 722	phonon
+T31	Value 314 315	0
+T33	Value 434 437	0.5
+T35	Value 584 587	0.3
+T36	Value 562 565	90K
+T37	Value 577 580	49K
+T39	Value 569 572	0.0
+T41	Characterization 138 155	Rietveld analysis
+T2	Doping 26 39	incorporation
+T8	Doping 361 367	doping
+T16	Property 506 519	magnetization
+T21	Characterization 520 532	measurements
+R3	Target Arg1:E1 Arg2:T6
+E1	Doping:T2 Dopant:T3 Site:T4
+E2	Doping:T8 Site:T17

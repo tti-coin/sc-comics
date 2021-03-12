@@ -1,0 +1,47 @@
+T1	Main 0 17	Y1−xNixBa2Cu3O7−δ
+T2	SC 18 33	superconducting
+T3	Process 89 109	solid-state reaction
+T4	Characterization 135 159	X-ray powder diffraction
+T5	Characterization 191 194	XRD
+T6	Process 233 245	crystallized
+T7	Material 249 261	single phase
+T8	Material 270 292	orthorhombic structure
+T11	Material 298 302	Pmmm
+T12	Material 303 314	space group
+T14	Property 355 363	magnetic
+T15	Material 379 388	structure
+T16	SC 397 411	superconductor
+T17	Material 419 433	cell parameter
+T19	Element 457 459	Ni
+T20	Element 489 491	Ni
+T21	Element 559 561	Ni
+T23	Element 602 611	Cu(2)O(2)
+T24	Material 612 623	bond length
+T25	Element 650 652	Ni
+T26	Property 671 684	concentration
+T27	Element 688 690	Ni
+T28	Element 701 705	CuO2
+T29	Material 706 712	planes
+T30	Property 745 760	charge carriers
+T31	Element 810 814	CuO2
+T32	Material 815 821	planes
+T33	Element 848 850	Ni
+T34	Element 887 896	Cu(2)O(2)
+T35	Material 897 909	bond lengths
+T36	Element 939 943	CuO2
+T37	Material 944 950	planes
+T38	Property 1000 1008	magnetic
+T39	Element 1027 1029	Ni
+T40	Material 1030 1038	impurity
+T41	Element 1044 1046	Ni
+T46	Value 505 510	0.004
+T47	Value 47 48	0
+T48	Value 55 59	0.02
+T9	Doping 346 352	adding
+T13	Doping 447 453	doping
+T18	Doping 562 574	substitution
+T22	Doping 1047 1059	substitution
+E1	Doping:T9
+E2	Doping:T13 Dopant:T19
+E3	Doping:T18 Dopant:T21
+E4	Doping:T22 Dopant:T41

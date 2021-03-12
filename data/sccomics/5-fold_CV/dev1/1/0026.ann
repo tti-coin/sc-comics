@@ -1,0 +1,35 @@
+T1	Property 15 28	low-frequency
+T2	Property 29 37	magnetic
+T3	Material 75 83	ceramics
+T4	Process 144 155	temperature
+T6	SC 267 270	T c
+T8	Property 375 380	model
+T11	SC 494 511	Superconductivity
+T13	Property 553 566	concentration
+T15	SC 615 618	T c
+T18	SC 814 829	superconductors
+T19	Property 861 876	magnetic fields
+T20	Property 947 954	fractal
+T21	Material 955 975	percolation clusters
+T22	Property 1010 1017	fractal
+T28	Main 84 97	YBa2Cu3O7−δFx
+T27	Value 749 753	1.33
+T37	Process 156 157	T
+T38	Process 63 74	halogenated
+T7	Property 275 296	coherence temperature
+T14	Property 577 598	coherence temperature
+T16	Property 631 652	percolation threshold
+T39	Property 654 672	Critical exponents
+T17	Property 697 718	percolation exponents
+T40	Material 805 813	granular
+T41	Value 305 314	2.7 ± 0.2
+T44	Property 178 194	flux penetration
+T32	Material 889 904	Euclidean space
+T24	Material 403 416	stoichiometry
+T23	Property 117 135	AC field amplitude
+T25	Property 136 139	H 0
+T9	SC 442 469	local critical temperatures
+T10	SC 470 478	T c( r )
+T12	SC 539 547	T c( r )
+T5	SC 252 255	T c
+R1	Coref Arg1:T9 Arg2:T10

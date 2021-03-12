@@ -1,0 +1,47 @@
+T2	SC 64 79	superconductors
+T3	Property 133 148	charge transfer
+T5	Material 220 226	layers
+T6	SC 243 258	superconducting
+T7	SC 283 286	T c
+T9	Property 334 338	hole
+T11	Material 358 364	planes
+T12	Material 401 415	single crystal
+T13	Property 452 470	hole concentration
+T14	Characterization 479 482	XPS
+T16	Property 583 594	Fermi level
+T17	Property 624 635	resistivity
+T18	Material 649 664	single crystals
+T19	Material 733 740	crystal
+T20	Property 758 766	metallic
+T21	Property 796 807	resistivity
+T22	Element 259 263	CuO2
+T23	Material 264 270	sheets
+T24	Element 216 219	BiO
+T25	Main 33 53	Bi2Sr2Ca n-1Cu n O y
+T27	Value 57 58	1
+T28	Value 61 62	3
+T29	Value 59 60	2
+T33	Element 353 357	CuO2
+T35	Value 418 419	2
+T36	Material 508 513	ionic
+T38	Value 647 648	2
+T39	Material 617 623	c-axis
+T40	Material 789 795	c-axis
+T41	Element 17 23	iodine
+T42	Element 545 551	iodine
+T44	Property 694 718	semiconductive behaviour
+T1	Doping 0 13	Intercalation
+T4	Doping 172 185	intercalation
+T8	Doping 290 303	intercalation
+T10	Doping 339 345	doping
+T15	Doping 532 544	intercalated
+T30	Characterization 111 123	measurements
+T31	Property 366 382	Hall coefficient
+T32	Characterization 383 395	measurements
+R1	Target Arg1:E1 Arg2:T25
+E1	Doping:T1 Dopant:T41
+E2	Doping:T4 Site:T24
+E3	Doping:T8
+E4	Doping:T10 Dopant:T9 Site:T33
+E5	Doping:T15 Dopant:T42
+E6	Doping:T4 Site:T22

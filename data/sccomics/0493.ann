@@ -1,0 +1,77 @@
+T1	Material 27 37	structural
+T2	SC 42 57	superconducting
+T3	Main 72 76	MgB2
+T5	Material 98 103	wires
+T8	Element 157 160	n C
+T9	Element 163 171	nano SiC
+T10	Element 173 178	n SiC
+T12	Material 202 205	BRH
+T13	Characterization 229 246	X-Ray diffraction
+T14	Element 259 264	n SiC
+T15	Material 269 272	BRH
+T17	Element 303 308	Mg2Si
+T18	Property 352 364	flux pinning
+T19	Material 370 387	Lattice parameter
+T21	Property 425 438	concentration
+T24	Element 523 524	B
+T27	Process 633 642	reduction
+T28	Material 646 651	grain
+T29	Characterization 661 664	SEM
+T30	Material 702 708	grains
+T31	Material 720 729	hexagonal
+T32	Material 730 742	crystallites
+T34	Material 792 799	dopants
+T35	SC 812 834	transition temperature
+T39	Property 927 936	transport
+T40	Property 937 961	critical current density
+T41	Property 963 966	J C
+T43	Property 1013 1024	high fields
+T44	Material 1072 1079	dopants
+T45	Element 1116 1121	n SiC
+T46	Material 1126 1129	BRH
+T48	Material 1149 1152	BRH
+T49	Element 1189 1194	n SiC
+T50	Property 1211 1235	critical current density
+T51	Property 1261 1266	order
+T4	Process 77 91	Powder-In-Tube
+T53	Process 93 96	PIT
+T54	Element 144 155	nano carbon
+T7	Material 184 200	Burned Rice Husk
+T11	Element 488 491	n C
+T55	Element 504 505	C
+T56	Property 530 556	Full Width at Half Maximum
+T57	Property 558 562	FWHM
+T58	Value 1301 1306	4.2 K
+T59	Value 1311 1314	8 T
+T37	Element 887 890	n C
+T6	Doping 104 109	doped
+T16	Doping 273 278	doped
+T20	Doping 418 424	doping
+T22	Doping 451 456	doped
+T23	Doping 506 518	substitution
+T25	Doping 609 615	doping
+T26	Doping 769 774	doped
+T33	Doping 617 623	Doping
+T38	Doping 891 897	doping
+T42	Doping 976 981	doped
+T47	Doping 1130 1135	doped
+R4	Target Arg1:E1 Arg2:T3
+R5	Target Arg1:E2 Arg2:T3
+R6	Target Arg1:E3 Arg2:T3
+R7	Target Arg1:E5 Arg2:T17
+R8	Target Arg1:E4 Arg2:T17
+E1	Doping:T6 Dopant:T54
+E2	Doping:T6 Dopant:T7
+E3	Doping:T6 Dopant:T9
+E4	Doping:T16 Dopant:T15
+E5	Doping:T16 Dopant:T14
+E6	Doping:T20
+E7	Doping:T22
+E8	Doping:T23 Dopant:T55 Site:T24
+E9	Doping:T25
+E10	Doping:T26
+E11	Doping:T33
+E13	Doping:T38 Dopant:T37
+E14	Doping:T42
+E15	Doping:T47 Dopant:T46
+E16	Doping:T47 Dopant:T45

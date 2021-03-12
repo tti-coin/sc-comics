@@ -1,0 +1,57 @@
+T1	Element 25 31	BaCuO2
+T2	Element 33 38	Ga2O3
+T3	Element 54 63	Gd2BaCuO5
+T4	Element 65 70	Gd211
+T5	Material 72 79	powders
+T7	SC 96 111	superconductive
+T8	Material 127 142	microstructures
+T9	Main 146 158	GdBa2Cu3O7−δ
+T10	Main 160 165	Gd123
+T12	Material 183 188	bulks
+T13	Process 203 206	air
+T14	Characterization 235 268	differential scanning calorimetry
+T15	Characterization 270 273	DSC
+T17	Element 310 315	Ga2O3
+T19	Material 380 395	microstructures
+T22	Property 499 507	magnetic
+T23	Property 508 532	critical current density
+T24	Property 534 537	J c
+T25	Property 586 601	carrier density
+T27	Material 662 670	impurity
+T28	Process 687 698	oxygenation
+T30	Element 807 813	oxygen
+T31	Property 852 855	J c
+T32	SC 906 910	δT c
+T33	Property 911 918	pinning
+T34	Process 954 957	air
+T35	Element 968 973	Gd123
+T36	Material 974 987	single-domain
+T37	Process 1006 1020	post-annealing
+T38	Element 1024 1026	Ar
+T39	Property 1086 1101	carrier density
+T40	Material 1106 1114	impurity
+T41	Property 1115 1128	concentration
+T11	Process 167 182	melt-solidified
+T43	Characterization 275 287	measurements
+T18	Process 336 358	peritectic temperature
+T45	Element 403 408	Ga2O3
+T29	Property 744 772	secondary magnetization peak
+T46	Property 774 777	SMP
+T47	Value 859 861	2T
+T48	Property 1153 1156	SMP
+T49	Value 1160 1165	77.3K
+T20	Element 456 463	gallium
+T21	Material 43 53	nanoscopic
+T6	Doping 80 88	addition
+T16	Doping 298 306	addition
+T26	Doping 409 414	doped
+T42	Doping 619 625	doping
+R4	Target Arg1:E1 Arg2:T9
+R5	Target Arg1:E2 Arg2:T9
+R6	Target Arg1:E3 Arg2:T9
+E1	Doping:T6 Dopant:T1
+E2	Doping:T6 Dopant:T3
+E3	Doping:T6 Dopant:T2
+E4	Doping:T16 Dopant:T17
+E5	Doping:T26 Dopant:T45
+E6	Doping:T42

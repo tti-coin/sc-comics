@@ -1,0 +1,34 @@
+T2	Property 30 48	optical absorption
+T3	SC 120 135	superconducting
+T4	Material 156 161	films
+T5	Property 353 362	hole band
+T6	SC 408 411	T c
+T7	Property 466 471	holes
+T9	Property 534 543	electrons
+T10	Material 572 577	plane
+T11	Property 591 599	electron
+T12	Property 625 631	charge
+T13	SC 669 686	superconductivity
+T14	SC 690 693	T c
+T15	Property 735 753	optical absorption
+T16	SC 761 764	T c
+T17	Characterization 784 804	optical spectroscopy
+T19	Property 899 919	electronic structure
+T20	Property 937 948	Fermi level
+T21	Main 165 176	YBa2Cu3O7−δ
+T22	Main 181 194	Bi2Sr2CaCu2O8
+T25	Element 567 571	CuO2
+T30	Material 137 155	single-crystalline
+T31	SC 923 927	HTSC
+T24	Property 306 318	valence band
+T8	Property 494 515	temperature dependent
+T1	Property 4 26	temperature dependence
+T18	Property 862 883	temperature dependent
+T26	Value 104 106	60
+T28	Value 111 116	180 K
+R1	Equivalent Arg1:T3 Arg2:T26
+R2	Equivalent Arg1:T3 Arg2:T28
+R3	Target Arg1:T26 Arg2:T21
+R4	Target Arg1:T28 Arg2:T21
+R5	Target Arg1:T26 Arg2:T22
+R6	Target Arg1:T28 Arg2:T22

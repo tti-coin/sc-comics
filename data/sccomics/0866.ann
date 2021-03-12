@@ -1,0 +1,32 @@
+T4	Main 31 36	A3C60
+T5	SC 42 57	superconductors
+T6	SC 63 84	critical temperatures
+T7	SC 86 88	Tc
+T8	SC 112 114	Tc
+T9	Material 150 167	lattice parameter
+T10	Process 208 225	chemical pressure
+T11	Element 249 255	alkali
+T12	Material 256 260	atom
+T14	SC 382 384	Tc
+T15	Material 450 454	atom
+T16	SC 475 477	Tc
+T17	SC 547 549	Tc
+T18	Material 608 613	atoms
+T20	Material 752 769	lattice parameter
+T21	Property 866 871	model
+T22	Element 19 29	fullerides
+T24	Value 106 110	38 K
+T25	Characterization 414 426	measurements
+T26	Element 443 449	alkali
+T27	Element 601 607	alkali
+T3	Doping 13 18	doped
+T13	Element 0 12	Alkali metal
+T19	Doping 264 272	replaced
+T28	Doping 618 626	replaced
+R2	Equivalent Arg1:T7 Arg2:T24
+R3	Target Arg1:T24 Arg2:T4
+R4	Target Arg1:E1 Arg2:T22
+R5	Target Arg1:T24 Arg2:T22
+E1	Doping:T3 Dopant:T13
+E2	Doping:T19 Site:T11
+E3	Doping:T28 Site:T27

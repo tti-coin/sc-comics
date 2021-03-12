@@ -1,0 +1,66 @@
+T1	Element 0 7	Calcium
+T3	Element 24 28	MoS2
+T4	Material 34 53	nominal composition
+T5	Element 54 63	Ca x MoS2
+T6	Material 96 102	liquid
+T7	Element 112 119	Ammonia
+T8	Material 120 129	molecules
+T10	Element 158 162	MoS2
+T11	Element 174 176	Ca
+T12	Characterization 192 225	thermogravimetric and gravimetric
+T14	Material 269 280	composition
+T15	Main 284 301	Ca x (NH3) y MoS2
+T16	Material 322 339	crystal structure
+T17	Element 343 362	Ca0.50(NH3)0.40MoS2
+T18	Characterization 391 415	powder X-ray diffraction
+T19	Material 436 445	hexagonal
+T20	Material 446 454	symmetry
+T21	Material 456 467	space group
+T22	Material 468 473	P-3m1
+T23	Material 515 532	crystal structure
+T24	Element 536 555	Ca0.50(NH3)0.40MoS2
+T25	Characterization 581 599	Raman spectroscopy
+T26	Characterization 604 636	transmission electron microscopy
+T28	Property 673 689	phase transition
+T29	SC 779 794	superconducting
+T30	SC 814 817	T c
+T31	Property 822 835	phase diagram
+T32	Element 843 860	Ca x (NH3) y MoS2
+T33	SC 911 914	T c
+T34	Element 939 958	Ca0.20(NH3)0.17MoS2
+T35	SC 985 988	T c
+T37	Element 1025 1057	transition metal dichalcogenides
+T38	Element 1063 1082	Ca0.20(NH3)0.17MoS2
+T39	SC 1088 1110	type-II superconductor
+T45	Value 65 66	0
+T46	Value 73 77	0.50
+T47	Element 103 110	ammonia
+T52	Value 311 315	0.40
+T53	Value 303 304	0
+T54	Value 484 493	3.198(4)Å
+T55	Value 499 509	18.543(9)Å
+T61	Value 918 922	8.6K
+T62	Value 1132 1139	0.098 T
+T40	Property 1116 1124	H c2 (0)
+T41	Property 1144 1149	ξ (0)
+T63	Value 1156 1162	58.0nm
+T27	Material 660 668	ab-plane
+T2	Doping 8 20	intercalates
+T9	Doping 140 152	intercalated
+T13	Doping 240 252	intercalated
+T36	Doping 1019 1024	doped
+T42	Value 695 697	2H
+T43	Value 701 703	1T
+T48	Value 761 765	0.10
+T49	Value 769 773	0.35
+R1	Equivalent Arg1:T33 Arg2:T61
+R2	Target Arg1:T61 Arg2:T34
+R3	Target Arg1:E1 Arg2:T5
+R4	Target Arg1:E3 Arg2:T15
+R5	Target Arg1:E4 Arg2:T37
+R6	Target Arg1:E4 Arg2:T34
+E1	Doping:T2 Site:T3 Dopant:T1
+E2	Doping:T9 Dopant:T7 Site:T10
+E3	Doping:T13
+E4	Doping:T36
+E5	Doping:T9 Dopant:T11 Site:T10

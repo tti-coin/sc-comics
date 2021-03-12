@@ -1,0 +1,40 @@
+T1	Element 17 21	MgB2
+T2	SC 32 47	superconducting
+T3	Main 56 78	(SiC)4wt.%(MgB2)96wt.%
+T4	Main 81 91	SiC)4–MgB2
+T6	Property 156 164	magnetic
+T7	Property 165 177	flux pinning
+T8	Property 241 254	magnetization
+T9	Material 275 281	powder
+T10	Process 286 294	sintered
+T11	Element 306 317	(SiC)4–MgB2
+T12	Property 409 417	magnetic
+T13	Element 454 465	(SiC)4–MgB2
+T14	Material 514 520	powder
+T15	Process 525 533	sintered
+T16	Material 534 538	bulk
+T17	Element 539 543	MgB2
+T18	Property 575 589	magnetic field
+T19	Element 675 686	(SiC)4–MgB2
+T20	SC 697 711	superconductor
+T21	Property 730 742	flux pinning
+T22	Material 776 792	grain boundaries
+T23	Material 801 813	point defect
+T24	Property 819 834	pinning centers
+T25	Material 923 929	powder
+T26	Process 934 942	sintered
+T27	Material 943 947	bulk
+T28	Element 948 952	MgB2
+T29	Material 977 993	grain boundaries
+T30	Property 994 1001	pinning
+T31	Value 399 403	8.5T
+T32	Element 327 331	MgB2
+T34	Element 270 274	MgB2
+T35	Element 509 513	MgB2
+T36	Element 918 922	MgB2
+T37	Property 600 612	merged field
+T5	Doping 139 148	additions
+T33	Value 373 374	5
+T38	Value 379 382	50K
+R2	Target Arg1:E1 Arg2:T3
+E1	Doping:T5

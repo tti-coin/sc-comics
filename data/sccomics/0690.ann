@@ -1,0 +1,42 @@
+T2	Element 52 69	polyvinyl acetate
+T3	Element 71 74	PVA
+T4	Material 76 92	aqueous solution
+T5	Element 129 138	Y–Ba–Cu–O
+T6	Property 177 198	mechanical properties
+T7	Material 208 212	bulk
+T8	Main 213 223	RE–Ba–Cu–O
+T9	SC 224 239	superconductors
+T10	Property 264 272	cracking
+T11	Element 310 319	YBa2Cu3Oy
+T12	Element 324 332	Y2BaCuO5
+T13	Material 333 340	powders
+T15	Element 352 355	PVA
+T16	Material 356 362	liquid
+T17	Property 385 406	mechanical properties
+T18	Material 450 457	defects
+T19	Property 490 495	holes
+T20	Process 574 589	melt-processing
+T21	Element 594 600	oxygen
+T22	Process 601 610	annealing
+T24	Property 676 689	magnetization
+T25	Material 728 734	liquid
+T29	Process 799 813	melt-processed
+T30	Element 814 823	Y–Ba–Cu–O
+T31	SC 824 839	superconductors
+T33	Material 292 306	green compacts
+T34	Material 521 534	green compact
+T23	Characterization 643 671	microstructural observations
+T35	Value 487 489	17
+T36	Value 499 502	1mm
+T28	Property 773 788	reducing cracks
+T1	Doping 35 48	incorporation
+T14	Doping 341 346	added
+T27	Doping 742 750	addition
+T32	Characterization 690 702	measurements
+R2	Target Arg1:E2 Arg2:T12
+R3	Target Arg1:E1 Arg2:T5
+R4	Target Arg1:E2 Arg2:T11
+R5	Target Arg1:E4 Arg2:T30
+E1	Doping:T1 Dopant:T2
+E2	Doping:T14 Dopant:T15
+E4	Doping:T27

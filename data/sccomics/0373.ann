@@ -1,0 +1,114 @@
+T2	Process 73 94	annealing temperature
+T3	Property 130 140	electrical
+T4	SC 142 157	superconducting
+T5	Material 162 177	microstructural
+T7	Main 215 222	Bi-2212
+T8	Material 223 238	polycrystalline
+T10	Property 308 320	bulk density
+T13	Property 344 353	transport
+T14	Property 354 378	critical current density
+T15	Property 380 383	J c
+T16	Characterization 387 411	X-ray powder diffraction
+T17	Characterization 413 416	XRD
+T18	Characterization 419 447	scanning electron microscopy
+T19	Characterization 449 452	SEM
+T20	Property 458 466	electron
+T21	Characterization 478 483	X-ray
+T22	Characterization 485 488	EDX
+T24	Property 537 562	dc electrical resistivity
+T25	Characterization 567 570	XRD
+T26	Element 603 605	Au
+T27	Material 606 616	impurities
+T28	Material 650 671	crystalline structure
+T29	Element 679 686	Bi-2212
+T30	Characterization 708 711	EDX
+T31	Element 742 744	Au
+T32	Material 745 755	impurities
+T35	Element 806 813	Bi-2212
+T36	Material 814 821	crystal
+T37	Material 822 828	matrix
+T39	Element 931 933	Au
+T40	Material 934 944	impurities
+T41	Material 1010 1020	nucleation
+T44	Property 1088 1100	flux pinning
+T45	Property 1108 1116	vortices
+T46	Element 1124 1131	Bi-2212
+T47	Material 1132 1149	crystal structure
+T48	Property 1345 1354	diffusion
+T49	Process 1355 1376	annealing temperature
+T50	Material 1448 1457	disorders
+T51	Material 1459 1471	dislocations
+T52	Material 1473 1480	defects
+T53	Material 1482 1489	lattice
+T54	Property 1490 1497	strains
+T55	Material 1499 1514	misorientations
+T56	Material 1525 1547	structural distortions
+T57	Element 1555 1560	Cu-O2
+T58	Material 1583 1589	layers
+T59	Property 1659 1668	hole trap
+T60	SC 1694 1709	superconducting
+T61	Material 1710 1719	materials
+T62	Property 1748 1768	critical temperature
+T63	Element 1848 1850	Au
+T64	Material 1859 1869	impurities
+T65	Element 1877 1884	Bi-2212
+T66	Material 1885 1902	crystal structure
+T67	Characterization 1925 1940	XRD measurement
+T68	Property 1967 1976	diffusion
+T69	Process 1977 1998	annealing temperature
+T70	Material 2112 2125	c-axis length
+T71	Material 2189 2194	solid
+T72	Process 2220 2241	annealing temperature
+T73	Material 2282 2295	c-axis length
+T74	Material 2328 2333	grain
+T75	Material 2413 2420	surface
+T76	Material 2421 2431	morphology
+T77	SC 2470 2485	superconducting
+T78	Material 2486 2492	grains
+T79	Material 2505 2516	crystalline
+T81	SC 2570 2585	T c o f f s e t
+T82	Element 2690 2692	Au
+T83	Material 2693 2706	nanoparticles
+T85	Element 2766 2773	Bi-2212
+T87	Process 2824 2845	annealing temperature
+T88	Element 2867 2874	Bi-2212
+T89	SC 2875 2890	superconducting
+T90	Material 2891 2899	ceramics
+T11	Property 322 336	dc resistivity
+T12	Property 852 869	electronegativity
+T93	Material 1041 1052	intra-grain
+T42	Material 1057 1079	inter-grain boundaries
+T43	Value 1396 1402	800 °C
+T95	Value 2615 2622	89.78 K
+T96	Value 2627 2634	89.01 K
+T97	SC 2552 2565	T c o n s e t
+T80	Value 2849 2855	800 °C
+T98	Value 2299 2306	35.43 Å
+T99	Value 2308 2314	5.32 Å
+T100	Value 2342 2349	68.7 nm
+T6	Element 196 198	Au
+T23	Property 957 974	electronegativity
+T1	Material 2155 2166	parameter a
+T92	Material 2091 2107	crystallite size
+T94	Value 2245 2251	800 °C
+T9	Characterization 490 502	measurements
+T33	Doping 209 214	doped
+T84	Doping 770 781	substituted
+T86	Doping 2742 2751	overdoped
+T101	Doping 2796 2801	doped
+T91	Value 109 115	600 °C
+T102	Value 116 122	850 °C
+T103	Property 338 341	ρ-T
+T34	Element 790 792	Sr
+T38	Property 884 887	J c
+T104	Characterization 888 900	measurements
+R1	Equivalent Arg1:T97 Arg2:T95
+R2	Equivalent Arg1:T81 Arg2:T96
+R3	Target Arg1:E1 Arg2:T7
+R4	Target Arg1:E3 Arg2:T85
+R5	Target Arg1:E4 Arg2:T85
+R6	Target Arg1:E2 Arg2:T35
+E1	Doping:T33 Dopant:T6
+E2	Doping:T84 Dopant:T31 Site:T34
+E3	Doping:T86 Dopant:T82
+E4	Doping:T101 Dopant:T82

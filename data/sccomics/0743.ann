@@ -1,0 +1,25 @@
+T1	Material 43 47	flat
+T2	Main 56 88	carbon-fiber-reinforced polymers
+T6	Element 146 150	CNFs
+T7	Property 209 230	mechanical properties
+T8	SC 378 409	high-temperature superconductor
+T9	SC 410 425	superconducting
+T10	Characterization 426 446	quantum interference
+T11	Property 514 535	electrical properties
+T12	Property 582 603	electrical properties
+T13	Property 747 768	electrical properties
+T14	Element 837 841	CNFs
+T16	Element 938 942	CNFs
+T17	Property 978 988	electrical
+T18	Material 1013 1025	carbon fiber
+T5	Element 127 144	carbon nanofibers
+T20	Characterization 0 26	Step-by-step tensile tests
+T21	Property 294 307	stress–strain
+T22	Property 619 631	current maps
+T23	Property 654 674	ac current injection
+T24	Characterization 325 358	ex situ nondestructive evaluation
+T3	Doping 926 934	addition
+T4	Doping 106 111	added
+T15	Characterization 308 320	measurements
+E1	Doping:T3 Dopant:T16
+E2	Doping:T4 Dopant:T5

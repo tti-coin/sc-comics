@@ -1,0 +1,24 @@
+T1	Property 20 38	optical properties
+T3	Property 68 88	optical conductivity
+T4	Property 89 97	spectrum
+T6	Element 109 117	CaFe2As2
+T10	Property 206 209	T N
+T11	Property 218 228	low-energy
+T12	Property 229 237	spectrum
+T13	Property 244 247	T N
+T14	Property 350 353	T N
+T15	Property 513 521	spectrum
+T16	SC 525 540	superconducting
+T17	Element 541 561	Ba(Fe0.92Co0.08)2As2
+T18	SC 568 583	superconducting
+T19	Property 663 678	spectral weight
+T8	Value 692 697	2770Å
+T20	Property 618 642	London penetration depth
+T21	Property 288 296	coherent
+T22	Property 328 338	incoherent
+T23	Property 426 429	gap
+T24	Property 451 461	incoherent
+T25	Property 584 587	gap
+T27	Property 147 150	gap
+T5	Property 161 203	magnetic/structural transition temperature
+T2	Main 42 46	FeAs

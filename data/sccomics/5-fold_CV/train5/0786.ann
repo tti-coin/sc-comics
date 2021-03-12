@@ -1,0 +1,78 @@
+T1	Property 10 20	high field
+T2	Property 33 50	magneto transport
+T3	Main 62 71	YBa2Cu3O7
+T4	Main 73 77	YBCO
+T5	Element 79 83	Ag x
+T6	Material 106 116	composites
+T7	Property 122 142	transport properties
+T8	Element 173 175	Ag
+T10	Property 190 200	insulating
+T11	Material 201 217	grain boundaries
+T12	Element 221 225	YBCO
+T13	Element 236 238	Ag
+T14	Element 248 252	YBCO
+T15	SC 253 268	superconducting
+T16	Process 301 321	solid state reaction
+T17	Element 343 345	Ag
+T19	Element 352 356	YBCO
+T20	SC 361 376	superconducting
+T21	SC 403 405	Tc
+T22	Element 416 423	YBCO:Ag
+T24	Element 499 503	YBCO
+T25	Property 534 554	upper critical field
+T26	Material 611 619	pristine
+T27	Element 650 652	Ag
+T29	Property 688 708	resistive transition
+T30	Property 723 737	magnetic field
+T31	Element 787 789	Ag
+T33	Material 875 883	pristine
+T34	Element 884 888	YBCO
+T35	Material 958 966	granular
+T37	Property 1027 1044	activation energy
+T38	Property 1086 1100	magnetic field
+T39	Property 1141 1146	order
+T40	Element 1179 1181	Ag
+T42	Element 1238 1240	Ag
+T43	SC 1268 1283	superconducting
+T44	Element 1299 1306	YBCO:Ag
+T46	Material 1307 1317	composites
+T47	Value 386 389	90K
+T48	Value 469 472	65K
+T49	Value 455 458	13T
+T50	Value 486 489	45K
+T51	Value 28 31	13T
+T53	Value 603 606	70T
+T54	Value 641 645	190T
+T55	Property 980 1009	thermally activated flux flow
+T56	Property 1011 1015	TAFF
+T57	Property 1022 1026	TAFF
+T59	Value 88 91	0.0
+T60	Value 93 96	0.1
+T61	Value 101 104	0.2
+T36	Value 410 411	0
+T62	Property 432 451	under applied field
+T23	Property 515 528	applied field
+T63	Property 1333 1352	under applied field
+T9	Doping 176 182	doping
+T18	Doping 346 351	doped
+T28	Doping 653 658	doped
+T32	Doping 790 795	doped
+T41	Doping 1182 1187	doped
+T45	Doping 1225 1234	inclusion
+R1	Coref Arg1:T3 Arg2:T4
+R2	Target Arg1:T47 Arg2:T19
+R3	Equivalent Arg1:T21 Arg2:T48
+R4	Target Arg1:T48 Arg2:T22
+R5	Equivalent Arg1:T21 Arg2:T50
+R6	Target Arg1:T50 Arg2:T24
+R7	Equivalent Arg1:T20 Arg2:T47
+R8	Target Arg1:E1 Arg2:T12
+R9	Target Arg1:E2 Arg2:T19
+R10	Condition Arg1:T47 Arg2:E2
+R11	Target Arg1:E6 Arg2:T44
+E1	Doping:T9 Dopant:T8
+E2	Doping:T18 Dopant:T17
+E3	Doping:T28 Dopant:T27
+E4	Doping:T32 Dopant:T31
+E5	Doping:T41 Dopant:T40
+E6	Doping:T45 Dopant:T42

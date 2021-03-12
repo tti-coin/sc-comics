@@ -1,0 +1,62 @@
+T1	SC 27 44	superconductivity
+T2	Property 45 50	model
+T3	Material 62 69	layered
+T5	Main 97 104	cuprate
+T6	Material 167 184	layered structure
+T8	Property 209 215	paired
+T9	SC 271 286	superconducting
+T10	Property 330 339	zero spin
+T11	Element 414 418	CuO2
+T12	Material 419 425	planes
+T13	Material 570 576	planes
+T14	Property 624 630	paired
+T15	Property 635 653	unpaired electrons
+T16	Property 658 663	holes
+T17	Material 698 704	planes
+T18	Property 737 757	critical temperature
+T19	Property 796 809	specific heat
+T22	SC 896 898	Tc
+T23	Property 907 920	specific heat
+T24	Element 939 951	YBa2Cu3O6.80
+T25	Property 963 968	model
+T26	Material 992 997	plane
+T27	SC 1034 1049	superconducting
+T28	Property 1050 1065	charge carriers
+T29	Property 1112 1122	electronic
+T30	Property 1123 1137	specific heats
+T31	SC 1166 1168	Tc
+T32	SC 1332 1334	Tc
+T33	Process 1378 1394	low temperatures
+T34	Material 1418 1425	lattice
+T35	Property 1426 1439	specific heat
+T36	Property 1455 1470	phonon spectrum
+T38	Property 1490 1500	electronic
+T39	Property 1542 1555	specific heat
+T40	SC 1569 1571	Tc
+T41	Material 1612 1617	cubic
+T42	Process 1634 1650	low temperatures
+T44	Property 1695 1700	model
+T45	Element 1716 1724	cuprates
+T46	Property 1730 1742	anisotropies
+T47	Property 13 26	Boson–Fermion
+T48	Value 1581 1583	5%
+T49	Characterization 1449 1454	ARPES
+T7	Property 229 237	fermions
+T43	Property 220 228	unpaired
+T50	Property 350 356	bosons
+T51	Property 493 501	fermions
+T52	Property 484 492	unpaired
+T53	SC 432 447	superconduction
+T54	Property 716 722	bosons
+T55	Property 1192 1198	bosons
+T56	Property 1216 1224	fermions
+T57	Property 1207 1215	unpaired
+T58	Process 1089 1098	isochoric
+T59	Process 1103 1111	isobaric
+T60	Property 596 616	Dirac comb potential
+T61	Property 371 406	energy–momentum dispersion relation
+T62	Property 287 295	carriers
+T4	Doping 86 96	underdoped
+T20	SC 859 895	superconducting critical temperature
+R1	Target Arg1:E1 Arg2:T5
+E1	Doping:T4

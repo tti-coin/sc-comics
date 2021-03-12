@@ -1,0 +1,64 @@
+T1	Property 0 21	Carrier concentration
+T2	SC 23 40	superconductivity
+T3	Material 46 63	crystal structure
+T4	Characterization 148 165	X-ray diffraction
+T5	Material 179 189	structural
+T6	Property 199 210	simulations
+T10	SC 389 392	T c
+T12	Property 457 478	dopant concentrations
+T13	Property 493 514	dopant concentrations
+T14	Property 595 613	hole concentration
+T15	Property 650 664	oxygen content
+T16	Property 703 723	dopant concentration
+T17	SC 797 814	superconductivity
+T18	Property 851 872	carrier concentration
+T19	SC 894 897	T c
+T20	Property 920 941	dopant concentrations
+T22	Material 1031 1037	planes
+T23	SC 1091 1094	T c
+T24	Property 1103 1124	dopant concentrations
+T26	Main 79 97	YBaSrCu3−x Sn x O3
+T31	Value 107 108	0
+T32	Value 114 119	0.250
+T34	Value 249 253	0.15
+T36	Element 255 257	Sn
+T37	Element 1013 1015	Sn
+T38	Element 1026 1030	CuO2
+T39	Element 1180 1182	Sr
+T41	Element 415 417	Sn
+T42	Element 286 291	Cu(1)
+T43	Element 331 336	Cu(1)
+T44	Element 341 346	Cu(2)
+T45	Element 578 583	Cu(2)
+T46	Element 568 573	Cu(1)
+T47	Property 634 645	Hall effect
+T48	Property 972 991	impurity-scattering
+T7	Doping 273 281	occupies
+T8	Doping 362 368	doping
+T9	Doping 418 424	doping
+T11	Doping 1016 1022	doping
+T21	Doping 1130 1136	doping
+T25	Doping 230 236	doping
+E1	Doping:T7 Dopant:T36 Site:T42
+E2	Doping:T8 
+E3	Doping:T9 Dopant:T41
+E4	Doping:T11 Dopant:T37 Site:T38
+E5	Doping:T21 
+E6	Doping:T25 
+#1	AnnotatorNotes T3	46-63
+#2	AnnotatorNotes T5	179-189
+#3	AnnotatorNotes T22	1031-1037
+#4	AnnotatorNotes T26	79-97
+#5	AnnotatorNotes T31	107-108
+#6	AnnotatorNotes T32	114-119
+#7	AnnotatorNotes T34	249-253
+#8	AnnotatorNotes T36	255-257
+#9	AnnotatorNotes T37	1013-1015
+#10	AnnotatorNotes T38	1026-1030
+#11	AnnotatorNotes T39	1180-1182
+#12	AnnotatorNotes T41	415-417
+#13	AnnotatorNotes T42	286-291
+#14	AnnotatorNotes T43	331-336
+#15	AnnotatorNotes T44	341-346
+#16	AnnotatorNotes T45	578-583
+#17	AnnotatorNotes T46	568-573

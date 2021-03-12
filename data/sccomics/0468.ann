@@ -1,0 +1,31 @@
+T1	Property 59 73	thermodynamics
+T2	Material 82 89	isotope
+T3	Process 103 111	pressure
+T4	Property 123 147	Migdal-Eliashberg theory
+T5	Element 173 191	Palladium hydrides
+T6	Material 216 231	crystal lattice
+T7	Element 238 248	zincblende
+T8	Element 304 307	PdH
+T9	Element 312 315	PdD
+T10	Process 399 407	pressure
+T11	SC 415 435	critical temperature
+T12	SC 437 440	T c
+T13	Property 450 463	specific heat
+T14	SC 472 475	T c
+T15	Property 485 495	energy gap
+T17	Element 562 570	hydrogen
+T18	Element 574 583	deuterium
+T19	Element 587 604	palladium hydride
+T21	Material 673 680	isotope
+T22	Process 724 732	pressure
+T23	Material 740 747	isotope
+T24	SC 818 821	T c
+T25	Property 853 861	electron
+T26	Property 862 868	phonon
+T28	Property 1020 1034	thermodynamics
+T29	Element 1044 1052	hydrides
+T30	Process 1059 1067	pressure
+T32	Value 338 342	55 K
+T16	SC 625 652	superconducting temperature
+T27	Property 877 907	electron-electron interactions
+T34	Value 503 506	0 K

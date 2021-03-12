@@ -1,0 +1,50 @@
+T1	Characterization 20 23	NMR
+T5	Property 120 134	hole densities
+T6	Material 170 175	plane
+T8	Property 276 281	holes
+T9	Property 440 455	spectral weight
+T10	Property 463 479	spin fluctuation
+T13	Property 681 698	spin fluctuations
+T14	SC 709 726	superconductivity
+T15	Property 730 746	spin fluctuation
+T16	SC 761 776	superconducting
+T17	SC 820 844	d-wave superconductivity
+T18	Property 845 850	model
+T19	Property 865 882	density of states
+T20	Property 896 907	Fermi level
+T21	Material 949 954	layer
+T23	SC 1137 1140	T c
+T24	SC 1197 1200	T c
+T25	Main 75 90	Tl2Ba2Ca2Cu3O10
+T26	Element 165 169	CuO2
+T27	Element 138 140	Cu
+T28	Element 145 157	oxygen sites
+T29	Value 109 114	127 K
+T30	Element 942 944	Ca
+T31	Element 945 948	TlO
+T32	Element 524 533	YBa2Cu3O7
+T33	Element 0 4	63Cu
+T34	Element 6 9	17O
+T35	Element 14 19	205Tl
+T37	Element 273 275	Cu
+T38	Element 315 326	oxygen site
+T40	Element 363 365	Cu
+T41	Element 370 376	oxygen
+T42	Element 999 1001	Tl
+T43	Element 1006 1008	Ca
+T44	Property 1071 1074	DOS
+T45	Value 1156 1161	132 K
+T46	Property 884 887	DOS
+T49	Property 573 574	ξ
+T7	Characterization 205 233	nuclear quadrupole frequency
+T2	SC 51 74	high-T c superconductor
+T3	SC 628 638	higher T c
+T12	Doping 983 995	substitution
+T4	SC 97 105	T c(max)
+T11	Property 545 572	magnetic correlation length
+T22	Element 1217 1219	Hg
+R1	Equivalent Arg1:T23 Arg2:T45
+R2	Target Arg1:T29 Arg2:T25
+R3	Equivalent Arg1:T4 Arg2:T29
+E1	Doping:T12 Dopant:T42
+E2	Doping:T12 Dopant:T43

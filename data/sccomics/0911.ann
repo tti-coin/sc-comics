@@ -1,0 +1,43 @@
+T2	Property 29 34	holes
+T3	Material 40 47	lattice
+T4	Property 48 58	vibrations
+T5	Property 65 82	antiferromagnetic
+T6	Property 84 86	AF
+T7	Property 120 141	t − J -Holstein model
+T8	Material 155 162	cluster
+T9	Property 170 175	holes
+T10	Property 200 206	phonon
+T11	Property 241 246	holes
+T12	Property 327 334	kinetic
+T13	Property 343 347	hole
+T14	Property 348 354	phonon
+T15	Property 387 391	hole
+T16	Property 392 406	binding energy
+T17	Property 452 466	quasiparticles
+T18	Property 495 499	hole
+T19	Property 500 506	phonon
+T20	Property 534 539	holes
+T21	Property 559 561	AF
+T22	Property 581 585	spin
+T23	Property 586 594	polarons
+T24	Property 643 648	holes
+T25	Property 668 674	phonon
+T26	Property 695 699	hole
+T27	Property 700 708	polarons
+T28	Property 728 732	hole
+T29	Property 733 741	polarons
+T30	Property 828 841	phonon energy
+T31	Property 875 879	hole
+T32	Property 901 905	hole
+T33	Property 906 914	polarons
+T34	Property 950 954	hole
+T35	SC 995 1010	superconducting
+T36	Property 1129 1134	holes
+T38	SC 1197 1205	high T c
+T39	Element 1206 1214	cuprates
+T37	Property 955 965	bipolarons
+T40	Property 880 890	bipolarons
+T41	Property 359 363	hole
+T42	Property 364 368	hole
+T1	Doping 23 28	doped
+E1	Doping:T1 Dopant:T2

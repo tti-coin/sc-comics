@@ -1,0 +1,59 @@
+T1	Main 0 11	YBa2Cu3O7−δ
+T2	Main 13 18	Y-123
+T3	Material 20 28	ceramics
+T5	Element 73 89	carbon nanotubes
+T9	SC 182 202	critical temperature
+T10	SC 204 207	T c
+T11	Property 211 235	critical current density
+T12	Property 237 240	J c
+T13	Property 263 273	self-field
+T14	Material 275 290	phase formation
+T15	Material 295 309	microstructure
+T19	Element 470 474	CNTs
+T20	Property 475 488	concentration
+T21	Property 554 562	metallic
+T22	Element 576 581	Y-123
+T23	Property 593 607	semiconducting
+T25	Element 639 643	CNTs
+T26	Element 661 665	CNTs
+T27	Property 675 678	J c
+T28	Property 698 701	J c
+T29	Element 752 757	Y-123
+T30	Property 793 796	J c
+T31	SC 883 886	T c
+T32	Material 897 910	crystallinity
+T33	Material 915 930	orthorhombicity
+T35	Property 1002 1005	J c
+T36	Property 1023 1035	flux pinning
+T37	Element 1080 1085	Y-123
+T38	Element 91 95	CNTs
+T6	Process 120 136	co-precipitation
+T40	Element 161 165	CNTs
+T7	Value 255 259	30 K
+T41	Value 499 506	0.6 wt%
+T44	Value 541 548	0.8 wt%
+T45	Value 743 748	96.2%
+T46	Value 762 770	11 A/cm2
+T47	Value 799 808	477 A/cm2
+T48	Value 837 844	0.2 wt%
+T50	Value 857 864	0.8 wt%
+T52	Element 1071 1074	CNT
+T18	SC 434 444	T c-offset
+T53	Property 724 739	volume fraction
+T16	SC 389 398	T c-onset
+T4	Doping 29 34	added
+T8	Doping 166 174	addition
+T24	Doping 627 635	addition
+T34	Doping 948 953	added
+T39	Value 55 58	0.0
+T54	Value 61 68	0.8 wt%
+T17	SC 411 432	critical temperatures
+T55	Doping 1055 1067	introduction
+R4	Target Arg1:E1 Arg2:T1
+R5	Target Arg1:E3 Arg2:T22
+R6	Target Arg1:E5 Arg2:T37
+E1	Doping:T4 Dopant:T5
+E2	Doping:T8 Dopant:T40
+E3	Doping:T24 Dopant:T25
+E4	Doping:T34
+E5	Doping:T55 Dopant:T52

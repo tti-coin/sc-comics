@@ -1,0 +1,76 @@
+T3	Main 45 76	Bi1.8Pb0.3Sr2Ca2(Cu1-xNix)3.3Oy
+T4	SC 77 91	superconductor
+T5	Process 100 108	sintered
+T7	Process 141 160	nitrogen atmosphere
+T8	Element 185 195	2223-phase
+T9	Element 221 223	Ni
+T11	Material 306 316	unit cells
+T14	Material 357 378	tetragonal structures
+T16	Material 397 414	lattice constants
+T17	Property 425 435	resistance
+T18	Process 479 486	cooling
+T19	SC 515 535	critical temperature
+T21	SC 584 586	Tc
+T22	Element 643 645	Ni
+T23	Property 726 738	conductivity
+T26	Property 910 926	coherence length
+T27	Process 1006 1015	sintering
+T28	Process 1059 1075	room temperature
+T30	Process 1127 1141	air atmosphere
+T31	Element 1181 1183	Ni
+T32	Characterization 1203 1205	TG
+T33	Characterization 1210 1213	DSC
+T34	Property 1230 1249	thermal equilibrium
+T36	Property 1350 1357	melting
+T37	Property 1379 1392	decomposition
+T38	Element 1435 1437	Ni
+T40	Property 1473 1486	specific heat
+T41	Characterization 1515 1518	DSC
+T42	Material 1566 1581	crystal lattice
+T43	Property 1599 1612	specific heat
+T45	Property 1669 1689	Einstein temperature
+T46	Element 1716 1718	Ni
+T49	Value 112 118	847 °C
+T50	Value 123 128	322 h
+T52	Value 232 238	78.37%
+T54	Value 247 252	0.002
+T55	Value 254 260	70.29%
+T56	Value 269 275	0.005%
+T58	Value 280 286	51.13%
+T60	Value 295 300	0.015
+T1	Value 490 494	77 K
+T61	Value 674 679	0.002
+T64	Value 687 691	0.03
+T65	Property 757 780	cross-over temperatures
+T25	Property 841 869	short wavelength fluctuation
+T66	Property 836 839	SWF
+T24	Property 789 791	3D
+T67	Property 796 798	2D
+T68	Property 830 832	2D
+T69	Property 886 901	coupling factor
+T70	Value 1084 1091	1000 °C
+T71	Value 1105 1115	10 K min−1
+T72	Value 1143 1156	150 cm3 min−1
+T35	Property 1649 1663	Einstein model
+T44	Process 1077 1079	RT
+T73	Value 1420 1426	869 °C
+T20	SC 562 582	superconductor phase
+T29	Characterization 948 964	Thermal analysis
+T76	Process 1034 1041	heating
+T77	Property 166 181	volume fraction
+T6	Doping 224 230	doping
+T10	Doping 1438 1443	doped
+T15	Element 12 16	2223
+T39	Element 21 25	2212
+T13	Element 320 324	2223
+T47	Element 329 340	2212 phases
+T2	Value 616 622	106.21
+T48	Value 626 633	93.47 K
+T51	Element 1274 1278	2223
+T74	Element 1283 1287	2212
+T12	Value 1295 1301	869 °C
+R2	Target Arg1:E1 Arg2:T8
+R3	Equivalent Arg1:T21 Arg2:T2
+R4	Equivalent Arg1:T21 Arg2:T48
+E1	Doping:T6 Dopant:T9
+E2	Doping:T10 Dopant:T38

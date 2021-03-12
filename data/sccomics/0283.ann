@@ -1,0 +1,26 @@
+T1	Material 0 15	Polycrystalline
+T2	Main 27 37	FeCr0.05Se
+T3	Process 58 78	solid-state reaction
+T4	Process 98 107	sintering
+T5	Process 147 163	low temperatures
+T6	Material 171 185	microstructure
+T7	SC 190 207	superconductivity
+T9	SC 343 381	superconducting transition temperature
+T12	Process 501 522	sintering temperature
+T14	Element 562 564	Cr
+T15	Element 568 570	Fe
+T16	Material 596 614	lattice parameters
+T18	Element 705 711	β-FeSe
+T19	Value 413 418	10.2K
+T20	Value 422 427	450°C
+T21	Value 662 667	550°C
+T22	Value 676 681	400°C
+T11	Element 431 443	β-FeSe phase
+T23	Process 230 252	synthesis temperatures
+T17	SC 633 642	T c onset
+T10	SC 382 391	T c onset
+T13	Doping 546 558	substitution
+T8	Property 292 314	Electrical resistivity
+T24	Characterization 315 327	measurements
+R2	Equivalent Arg1:T10 Arg2:T19
+E1	Doping:T13 Site:T14 Dopant:T15

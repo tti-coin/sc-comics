@@ -1,0 +1,51 @@
+T2	Element 60 64	Ag2O
+T3	Element 69 73	BaO2
+T4	Material 114 126	single-grain
+T5	Main 127 137	SmBa2Cu3Oy
+T6	Main 139 145	Sm-123
+T7	Material 147 155	material
+T8	Process 159 162	air
+T9	SC 191 206	superconducting
+T10	Characterization 226 231	SQUID
+T11	Element 265 271	Sm-123
+T12	Material 272 280	material
+T13	Element 314 318	Ag2O
+T14	Property 349 362	Magnetization
+T15	SC 395 406	T c (onset)
+T16	Element 422 426	Ag2O
+T17	Property 427 440	concentration
+T18	Element 466 470	Ag2O
+T20	Property 513 537	critical current density
+T21	Property 572 582	self-field
+T22	Material 630 634	bulk
+T23	Element 635 641	Sm-123
+T24	Material 642 651	materials
+T25	Process 678 681	air
+T26	Element 707 711	BaO2
+T27	Element 716 722	silver
+T29	Value 567 570	0 T
+T30	Value 541 550	10 kA/cm2
+T35	Value 504 507	77K
+T19	Doping 471 479	addition
+T28	Doping 726 731	added
+T1	Doping 47 56	additions
+T31	Value 332 337	0 wt%
+T32	Value 341 347	20 wt%
+T36	Characterization 363 375	measurements
+T33	Value 451 454	86K
+T37	Value 458 461	92K
+T34	Value 483 489	10 wt%
+T38	Value 493 499	20 wt%
+R2	Target Arg1:E3 Arg2:T23
+R3	Target Arg1:E1 Arg2:T5
+R4	Equivalent Arg1:T15 Arg2:T33
+R5	Equivalent Arg1:T15 Arg2:T37
+R6	Condition Arg1:T33 Arg2:E2
+R7	Condition Arg1:T37 Arg2:E2
+R8	Target Arg1:E4 Arg2:T5
+R9	Target Arg1:E5 Arg2:T23
+E2	Doping:T19 Dopant:T18
+E3	Doping:T28 Dopant:T26
+E1	Doping:T1 Dopant:T2
+E4	Doping:T1 Dopant:T3
+E5	Doping:T28 Dopant:T27

@@ -1,0 +1,32 @@
+T1	Process 24 33	annealing
+T2	Material 49 57	ceramics
+T4	SC 97 112	superconducting
+T5	Characterization 154 159	X-ray
+T6	Characterization 164 184	electron diffraction
+T7	Characterization 186 189	TEM
+T8	Property 200 210	electrical
+T9	Property 215 223	magnetic
+T10	Process 308 317	annealing
+T14	Process 488 509	annealing temperature
+T15	Property 525 538	decomposition
+T16	Property 670 678	kinetics
+T17	Material 694 710	grain boundaries
+T19	SC 805 820	superconducting
+T20	Process 873 882	annealing
+T22	Material 1139 1147	ceramics
+T23	Property 1155 1168	decomposition
+T24	Value 637 642	630°C
+T26	Element 464 468	2212
+T18	Main 37 48	2223 BPSCCO
+T27	Element 321 329	nitrogen
+T28	Element 554 564	2223 phase
+T29	Element 771 775	2223
+T31	Element 15 23	nitrogen
+T3	Material 77 92	microstructural
+T32	Characterization 191 195	EDAX
+T12	Element 426 430	lead
+T13	Material 776 782	grains
+T21	Material 1040 1050	intergrain
+T11	Value 362 365	400
+T30	Value 366 371	500°C
+T25	Value 516 521	600°C

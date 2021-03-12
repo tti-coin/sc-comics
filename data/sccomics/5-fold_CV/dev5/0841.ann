@@ -1,0 +1,26 @@
+T1	SC 0 17	Superconductivity
+T2	SC 92 100	high-T c
+T3	Element 101 109	cuprates
+T5	Property 290 298	electron
+T7	Main 305 313	cuprates
+T8	Property 333 343	electrical
+T9	Property 344 353	transport
+T10	Property 383 400	thermal transport
+T11	Property 448 456	electron
+T13	Material 488 493	metal
+T14	Property 504 521	magnetoresistance
+T15	Property 580 586	Nernst
+T16	Property 672 680	theories
+T17	Property 756 764	electron
+T19	Element 771 779	cuprates
+T20	Property 550 554	Hall
+T6	Doping 299 304	doped
+T12	Doping 457 462	doped
+T18	Doping 765 770	doped
+T4	Property 152 161	transport
+T21	Characterization 162 174	measurements
+R1	Target Arg1:E1 Arg2:T7
+R2	Target Arg1:E3 Arg2:T19
+E1	Doping:T6 Dopant:T5
+E2	Doping:T12 Dopant:T11
+E3	Doping:T18 Dopant:T17

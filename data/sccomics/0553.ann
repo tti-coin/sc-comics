@@ -1,0 +1,50 @@
+T1	Main 0 5	IrTe2
+T2	Material 12 20	trigonal
+T3	Material 21 30	CdI2-type
+T4	Material 31 40	structure
+T5	Material 67 73	layers
+T6	Element 88 90	Ir
+T7	Material 91 99	lattices
+T8	Element 119 121	Te
+T9	Material 122 128	layers
+T10	Material 145 157	coordination
+T12	Property 180 191	first-order
+T13	Material 192 219	structural phase transition
+T15	Material 225 245	monoclinic structure
+T16	SC 267 284	superconductivity
+T17	SC 299 316	superconductivity
+T18	Material 352 379	structural phase transition
+T19	Material 394 408	single-crystal
+T20	Characterization 409 426	X-ray diffraction
+T21	SC 467 484	superconductivity
+T22	Material 493 503	structural
+T24	Element 525 527	Pt
+T26	Element 551 553	Ir
+T28	Element 610 612	Te
+T29	Material 613 619	layers
+T32	Material 675 685	distortion
+T34	Material 728 737	thickness
+T35	Element 745 750	IrTe2
+T36	Material 751 756	layer
+T37	Element 780 785	Ir-Te
+T38	Material 77 87	triangular
+T39	Material 134 144	octahedral
+T40	Value 288 292	2.8K
+T41	Value 249 253	250K
+T30	Material 699 709	octahedron
+T42	Element 693 698	IrTe6
+T31	Element 637 639	Pt
+T23	Element 514 516	Pt
+T11	Element 159 161	Pt
+T14	Doping 162 168	doping
+T25	Doping 517 523	doping
+T27	Doping 532 543	substituted
+T33	Doping 585 597	intercalated
+T43	Doping 641 647	doping
+R1	Condition Arg1:T40 Arg2:E1
+R2	Equivalent Arg1:T16 Arg2:T40
+E1	Doping:T14 Dopant:T11
+E2	Doping:T25 Dopant:T23
+E3	Doping:T27 Dopant:T24 Site:T26
+E4	Doping:T33 Site:T28
+E5	Doping:T43 Dopant:T31

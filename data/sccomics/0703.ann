@@ -1,0 +1,78 @@
+T2	Element 74 88	iron telluride
+T3	Main 94 106	FeTe1− x S x
+T4	Process 152 167	low temperature
+T5	Element 168 174	oxygen
+T6	Process 180 189	annealing
+T7	Process 220 236	room temperature
+T8	Characterization 237 254	X-ray diffraction
+T9	Characterization 256 259	XRD
+T10	Process 303 315	crystallized
+T11	Material 321 341	tetragonal structure
+T13	Material 343 354	space group
+T14	Material 355 361	P4/nmm
+T15	Material 370 386	secondary phases
+T16	Material 401 418	Lattice constants
+T17	Element 449 450	S
+T18	Property 451 464	concentration
+T20	SC 527 544	superconductivity
+T22	Material 635 662	structural phase transition
+T23	Material 715 742	structural phase transition
+T24	SC 761 778	Superconductivity
+T25	Element 790 791	S
+T27	SC 819 857	superconducting transition temperature
+T28	Property 896 916	Thermoelectric power
+T30	SC 950 976	superconducting transition
+T31	Property 1020 1041	upper critical fields
+T32	SC 1195 1210	superconducting
+T33	Process 1245 1260	low temperature
+T34	Element 1269 1271	O2
+T35	Process 1272 1281	annealing
+T36	Process 1292 1300	pressure
+T38	Characterization 1349 1352	XRD
+T39	Property 1355 1364	transport
+T41	Property 1380 1393	magnetization
+T42	Property 1402 1419	DC susceptibility
+T43	Element 1459 1472	FeTe1− x S:O2
+T48	Element 176 178	O2
+T19	Element 505 509	FeTe
+T49	Value 607 610	78K
+T51	Element 746 750	FeTe
+T52	Value 867 869	8K
+T53	Element 874 887	FeTe0.75S0.25
+T54	Value 987 989	7K
+T55	Element 994 1007	FeTe0.75S0.25
+T56	Value 1047 1050	10%
+T57	Value 1058 1061	50%
+T58	Value 1072 1075	90%
+T60	Value 1134 1136	0K
+T61	Property 1149 1164	Ginzburg Landau
+T62	Property 1166 1168	GL
+T63	Value 1262 1267	200°C
+T1	Element 54 61	sulphur
+T64	Characterization 685 696	measurement
+T67	Property 1395 1397	AC
+T68	Material 1337 1347	structural
+T69	Characterization 199 216	Rietveld analysis
+T12	Property 664 677	Heat capacity
+T70	Property 1211 1226	volume fraction
+T21	Doping 62 73	substituted
+T26	Doping 792 804	substitution
+T40	Value 113 114	0
+T44	Value 115 119	30 %
+T45	Property 573 584	resistivity
+T47	Characterization 585 596	measurement
+T50	Characterization 917 929	measurements
+T29	Value 1097 1100	400
+T59	Value 1102 1105	650
+T65	Value 1110 1117	900 kOe
+T37	Property 1425 1432	thermal
+T66	Characterization 1442 1454	measurements
+R2	Target Arg1:T52 Arg2:T53
+R3	Target Arg1:T54 Arg2:T55
+R4	Equivalent Arg1:T27 Arg2:T52
+R5	Equivalent Arg1:T30 Arg2:T54
+R6	Target Arg1:E1 Arg2:T2
+R7	Target Arg1:E2 Arg2:T53
+R8	Condition Arg1:T52 Arg2:E2
+E1	Doping:T21 Dopant:T1
+E2	Doping:T26 Dopant:T25

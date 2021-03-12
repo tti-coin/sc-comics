@@ -1,0 +1,31 @@
+T2	Main 68 72	MgB2
+T3	Material 73 78	wires
+T4	Element 107 109	Nb
+T5	Element 110 112	Cu
+T8	Element 263 267	MgB2
+T9	Material 268 273	wires
+T10	SC 298 315	superconductivity
+T11	Process 319 327	quenched
+T12	Element 328 332	MgB2
+T13	Material 333 338	wires
+T14	Process 410 419	annealing
+T15	Material 483 500	phase composition
+T16	Element 522 526	MgB2
+T17	Material 603 613	impurities
+T18	Property 654 678	critical current density
+T19	Element 847 851	MgB2
+T20	Material 852 858	grains
+T22	Element 988 992	MgB2
+T1	Process 128 157	in-situ powder-in-tube method
+T6	Process 207 236	rapidly heating and quenching
+T7	Process 238 241	RHQ
+T25	Value 567 572	350 A
+T26	Property 548 563	heating current
+T27	Value 636 639	5 T
+T28	Value 644 648	20 K
+T29	Value 699 716	1.34 × 103 A cm−2
+T24	Process 533 542	treatment
+T30	Material 113 122	composite
+T31	Material 56 67	filamentary
+T21	Doping 896 903	replace
+E1	Doping:T21

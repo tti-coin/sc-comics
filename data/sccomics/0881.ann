@@ -1,0 +1,41 @@
+T1	Property 20 36	first-principles
+T2	Property 37 49	calculations
+T4	Element 126 142	hydrogen sulfide
+T5	Element 152 162	phosphorus
+T7	SC 193 213	critical temperature
+T8	Element 258 261	H3S
+T10	SC 377 392	superconducting
+T11	Main 407 415	H3S1-xPx
+T12	Property 440 464	electron-phonon coupling
+T13	SC 479 518	superconducting transition temperatures
+T14	SC 520 522	Tc
+T16	SC 707 709	Tc
+T17	Element 788 791	H3S
+T18	SC 840 842	Tc
+T19	Element 846 862	hydrogen sulfide
+T20	Element 879 889	phosphorus
+T22	SC 936 956	critical temperature
+T23	Process 974 982	pressure
+T24	Value 215 220	280 K
+T25	Value 263 268	203 K
+T26	Property 289 305	supercell method
+T29	Property 63 92	virtual crystal approximation
+T3	Property 94 97	VCA
+T15	Property 629 658	virtual crystal approximation
+T30	Property 999 1011	VCA approach
+T31	Characterization 772 784	measurements
+T32	Property 542 560	supercell approach
+T33	Property 675 691	supercell method
+T6	Doping 163 175	substitution
+T9	Doping 310 316	doping
+T21	Doping 890 902	substitution
+R2	Target Arg1:T25 Arg2:T8
+R3	Target Arg1:T24 Arg2:T4
+R4	Target Arg1:E1 Arg2:T4
+R5	Target Arg1:E3 Arg2:T19
+R6	Equivalent Arg1:T7 Arg2:T24
+R7	Equivalent Arg1:T7 Arg2:T25
+R8	Condition Arg1:T24 Arg2:E1
+E1	Doping:T6 Dopant:T5
+E2	Doping:T9
+E3	Doping:T21 Dopant:T20

@@ -1,0 +1,36 @@
+T1	SC 36 53	superconductivity
+T2	Process 87 95	pressure
+T4	Main 120 137	LaFeAsO 1 − x F x
+T5	Property 152 169	spin density wave
+T6	Property 171 174	SDW
+T7	Process 185 201	ambient pressure
+T8	Property 231 247	DC magnetization
+T10	Property 252 274	electrical resistivity
+T11	Process 281 289	pressure
+T13	Process 320 323	PCS
+T14	Property 330 337	density
+T15	Material 338 353	polycrystalline
+T16	SC 427 444	superconductivity
+T17	SC 450 453	T c
+T18	Process 471 479	pressure
+T19	Process 500 508	pressure
+T20	SC 517 534	superconductivity
+T21	Material 559 566	lattice
+T22	Material 585 591	c-axis
+T23	Property 612 620	electron
+T25	Element 633 636	LaO
+T26	Material 637 643	layers
+T27	Element 647 651	FeAs
+T28	Material 652 658	layers
+T9	Process 296 318	pulse current sintered
+T32	Value 460 464	15 K
+T31	Value 415 420	0.025
+T3	Element 112 113	F
+T24	Doping 114 119	doped
+T34	Doping 621 627	doping
+T29	Value 488 494	1.3GPa
+R1	Equivalent Arg1:T17 Arg2:T32
+R2	Target Arg1:E1 Arg2:T4
+E1	Doping:T24 Dopant:T3
+E2	Doping:T34 Dopant:T23 Site:T25
+E3	Doping:T34 Dopant:T23 Site:T27

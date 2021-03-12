@@ -1,0 +1,37 @@
+T2	Main 63 78	PbTi1−x Hf x O3
+T3	Material 79 94	polycrystalline
+T4	Material 134 141	Powders
+T5	Characterization 204 221	X-ray diffraction
+T7	Element 341 346	181Ta
+T8	Property 372 385	ferroelectric
+T10	Property 497 506	frequency
+T11	Property 643 646	T C
+T12	Element 697 702	Ti–Hf
+T13	Material 758 764	defect
+T14	Property 880 893	phase diagram
+T15	Material 914 922	disorder
+T16	Property 939 942	T C
+T18	Property 1091 1107	phase transition
+T19	Property 1143 1152	frequency
+T20	Material 1183 1191	disorder
+T21	Property 1199 1209	electronic
+T22	Property 18 50	hyperfine quadrupole interaction
+T27	Characterization 232 261	Perturbed Angular Correlation
+T28	Characterization 263 266	PAC
+T6	Property 390 409	paraelectric phases
+T9	Property 486 496	quadrupole
+T29	Property 786 806	hyperfine parameters
+T17	Property 995 1015	hyperfine parameters
+T30	Property 1276 1297	hyperfine interaction
+T24	Value 164 168	0.75
+T25	Property 624 641	Curie temperature
+T32	Element 54 56	Ta
+T33	Property 347 353	nuclei
+T34	Value 155 159	0.50
+T35	Value 149 153	0.25
+T36	Property 292 315	function of temperature
+T37	Property 812 835	function of temperature
+T38	Property 1064 1090	ferroelectric–paraelectric
+T1	Doping 57 62	doped
+R1	Target Arg1:E1 Arg2:T2
+E1	Doping:T1 Dopant:T32

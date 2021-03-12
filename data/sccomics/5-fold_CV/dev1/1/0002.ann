@@ -1,0 +1,24 @@
+T1	SC 18 33	superconducting
+T2	Property 68 73	model
+T3	Process 77 90	high-pressure
+T4	SC 99 121	transition temperature
+T5	SC 123 126	T c
+T6	SC 141 144	T c
+T7	Property 202 207	model
+T8	SC 265 268	T c
+T9	Process 274 282	pressure
+T10	SC 289 304	superconductors
+T11	SC 410 425	superconductors
+T12	Property 535 540	model
+T13	SC 544 547	T c
+T14	Process 565 573	pressure
+T16	SC 660 677	superconductivity
+T17	Element 34 40	oxides
+T21	Value 407 409	15
+T18	Property 592 633	recent successful phenomenological theory
+T15	Property 643 659	coherence length
+T19	Value 164 168	24 K
+T20	Value 182 187	164 K
+R1	Equivalent Arg1:T6 Arg2:T19
+R2	Equivalent Arg1:T6 Arg2:T20
+R3	Coref Arg1:T4 Arg2:T5

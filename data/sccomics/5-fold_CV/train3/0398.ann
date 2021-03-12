@@ -1,0 +1,182 @@
+T1	Property 74 99	dc electrical resistivity
+T3	SC 101 116	superconducting
+T4	Material 118 136	crystal structural
+T6	Property 141 153	flux pinning
+T8	Element 208 212	Tm+3
+T9	Element 227 231	Bi+3
+T10	Material 232 240	impurity
+T11	Material 248 261	active layers
+T12	Main 265 272	Bi-2212
+T13	SC 273 288	superconducting
+T14	Material 289 297	material
+T15	Material 299 308	Materials
+T16	Element 317 344	Bi2.1-xTmxSr2.0Ca1.1Cu2.0Oy
+T17	Process 418 438	solid-state reaction
+T18	Process 448 468	atmospheric pressure
+T20	Property 514 526	bulk density
+T21	Property 528 553	dc electrical resistivity
+T23	Characterization 561 585	powder X-ray diffraction
+T24	Characterization 587 590	XRD
+T25	Property 593 617	critical current density
+T26	Property 619 622	J c
+T27	Characterization 626 654	scanning electron microscopy
+T28	Characterization 656 659	SEM
+T30	Characterization 665 690	electron dispersive X-ray
+T31	Characterization 692 695	EDX
+T33	Property 783 795	bulk density
+T35	Property 797 822	dc electrical resistivity
+T38	Element 869 871	Tm
+T39	Material 872 890	foreign impurities
+T40	Element 932 939	Bi-2212
+T41	Material 940 955	crystal lattice
+T42	Characterization 970 973	EDX
+T43	Element 1005 1012	thulium
+T44	Material 1013 1023	impurities
+T46	Element 1058 1065	bismuth
+T47	Material 1079 1096	crystal structure
+T48	Element 1212 1214	Tm
+T49	Material 1215 1223	impurity
+T50	Property 1354 1364	electrical
+T51	Property 1365 1375	conductive
+T52	Property 1376 1384	metallic
+T53	Material 1443 1460	crystal structure
+T54	SC 1498 1513	superconducting
+T55	Material 1514 1520	grains
+T57	Property 1539 1551	bulk density
+T58	Material 1619 1627	material
+T60	SC 1649 1693	offset-onset critical transition temperature
+T61	Property 1782 1806	electron-phonon coupling
+T62	Property 1841 1847	mobile
+T64	Property 1848 1875	hole carrier concentrations
+T65	Element 1883 1888	Cu-O2
+T66	Material 1889 1917	consecutively stacked layers
+T70	Element 2092 2099	Bi-2212
+T71	Material 2100 2108	material
+T72	Material 2173 2179	dopant
+T73	Material 2187 2204	crystal structure
+T74	Element 2249 2259	O (1)CuA1g
+T76	Property 2261 2272	B1g phonons
+T78	Property 2288 2294	phonon
+T79	Property 2353 2361	polarons
+T80	Material 2386 2405	polarizable lattice
+T81	Property 2452 2462	self-field
+T82	Property 2463 2466	J c
+T83	Material 2514 2520	dopant
+T84	Material 2544 2554	nucleation
+T85	Material 2588 2610	inter-grain boundaries
+T86	Material 2618 2625	crystal
+T87	Material 2649 2657	material
+T88	Material 2722 2754	average crystalline distribution
+T89	Material 2763 2771	porosity
+T90	Material 2789 2796	surface
+T91	SC 2847 2862	superconducting
+T92	Material 2863 2869	grains
+T93	Characterization 2875 2878	XRD
+T94	Material 2914 2927	c-axis length
+T95	Material 2932 2945	average grain
+T96	Property 3002 3014	dopant level
+T97	Element 3031 3038	Bi-2212
+T98	Material 3039 3046	crystal
+T99	Element 3178 3180	Tm
+T100	Material 3181 3189	impurity
+T101	Element 3197 3204	Bi-2212
+T102	Element 3301 3308	Bi-2212
+T103	SC 3309 3324	superconducting
+T104	Material 3325 3333	ceramics
+T106	Value 1332 1336	0.07
+T107	Value 3022 3026	0.07
+T109	Value 2470 2478	95 A/cm2
+T110	Value 2676 2680	0.07
+T112	Value 1240 1244	0.07
+T115	Value 373 377	0.00
+T116	Value 384 388	0.30
+T2	Property 197 207	homovalent
+T19	Property 555 558	ρ-T
+T32	Property 2407 2423	polaronic effect
+T34	Property 2052 2061	amplitude
+T56	Property 2065 2074	pair wave
+T59	Property 2332 2341	bipolaron
+T63	Element 2277 2287	O (2)SrA1g
+T69	Material 2965 2978	a-axis length
+T75	Characterization 697 722	experimental measurements
+T22	Doping 213 223	inclusions
+T36	Doping 898 909	incorporate
+T45	Doping 1038 1049	substituted
+T67	Doping 1996 2001	doped
+T68	Doping 2024 2029	doped
+T7	Doping 182 193	replacement
+T5	Value 1704 1711	85.61 K
+T29	Value 1712 1719	85.85 K
+T37	Characterization 824 827	XRD
+T77	Characterization 832 848	EDX measurements
+R1	Target Arg1:E2 Arg2:T12
+R2	Target Arg1:E3 Arg2:T40
+R3	Equivalent Arg1:T60 Arg2:T5
+R4	Equivalent Arg1:T60 Arg2:T29
+R5	Target Arg1:E5 Arg2:T70
+R6	Target Arg1:E6 Arg2:T70
+E2	Doping:T22 Dopant:T9
+E3	Doping:T36 Dopant:T38
+E4	Doping:T45 Dopant:T43 Site:T46
+E5	Doping:T67 
+E6	Doping:T68 
+E1	Doping:T7 Dopant:T8
+#1	AnnotatorNotes T4	118-136
+#2	AnnotatorNotes T8	208-212
+#3	AnnotatorNotes T9	227-231
+#4	AnnotatorNotes T10	232-240
+#5	AnnotatorNotes T11	248-261
+#6	AnnotatorNotes T12	265-272
+#7	AnnotatorNotes T14	289-297
+#8	AnnotatorNotes T15	299-308
+#9	AnnotatorNotes T16	317-344
+#10	AnnotatorNotes T38	869-871
+#11	AnnotatorNotes T39	872-890
+#12	AnnotatorNotes T40	932-939
+#13	AnnotatorNotes T41	940-955
+#14	AnnotatorNotes T43	1005-1012
+#15	AnnotatorNotes T44	1013-1023
+#16	AnnotatorNotes T46	1058-1065
+#17	AnnotatorNotes T47	1079-1096
+#18	AnnotatorNotes T48	1212-1214
+#19	AnnotatorNotes T49	1215-1223
+#20	AnnotatorNotes T53	1443-1460
+#21	AnnotatorNotes T55	1514-1520
+#22	AnnotatorNotes T58	1619-1627
+#23	AnnotatorNotes T65	1883-1888
+#24	AnnotatorNotes T66	1889-1917
+#25	AnnotatorNotes T70	2092-2099
+#26	AnnotatorNotes T71	2100-2108
+#27	AnnotatorNotes T72	2173-2179
+#28	AnnotatorNotes T73	2187-2204
+#29	AnnotatorNotes T74	2249-2259
+#30	AnnotatorNotes T80	2386-2405
+#31	AnnotatorNotes T83	2514-2520
+#32	AnnotatorNotes T84	2544-2554
+#33	AnnotatorNotes T85	2588-2610
+#34	AnnotatorNotes T86	2618-2625
+#35	AnnotatorNotes T87	2649-2657
+#36	AnnotatorNotes T88	2722-2754
+#37	AnnotatorNotes T89	2763-2771
+#38	AnnotatorNotes T90	2789-2796
+#39	AnnotatorNotes T92	2863-2869
+#40	AnnotatorNotes T94	2914-2927
+#41	AnnotatorNotes T95	2932-2945
+#42	AnnotatorNotes T97	3031-3038
+#43	AnnotatorNotes T98	3039-3046
+#44	AnnotatorNotes T99	3178-3180
+#45	AnnotatorNotes T100	3181-3189
+#46	AnnotatorNotes T101	3197-3204
+#47	AnnotatorNotes T102	3301-3308
+#48	AnnotatorNotes T104	3325-3333
+#49	AnnotatorNotes T106	1332-1336
+#50	AnnotatorNotes T107	3022-3026
+#51	AnnotatorNotes T109	2470-2478
+#52	AnnotatorNotes T110	2676-2680
+#53	AnnotatorNotes T112	1240-1244
+#54	AnnotatorNotes T115	373-377
+#55	AnnotatorNotes T116	384-388
+#56	AnnotatorNotes T63	2277-2287
+#57	AnnotatorNotes T69	2965-2978
+#58	AnnotatorNotes T5	1704-1711
+#59	AnnotatorNotes T29	1712-1719

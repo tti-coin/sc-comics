@@ -1,0 +1,41 @@
+T1	Process 0 23	Pulsed-laser deposition
+T2	SC 105 120	superconducting
+T3	Material 126 136	thin films
+T4	Material 181 191	thin films
+T6	Process 315 323	pressure
+T7	Material 534 544	thin films
+T8	Material 712 722	thin films
+T9	Material 911 917	liquid
+T10	Process 986 994	sintered
+T11	Material 1019 1033	stoichiometric
+T12	SC 1039 1077	superconducting transition temperature
+T13	SC 1079 1082	T c
+T14	Material 1092 1102	thin films
+T15	Material 1120 1132	liquid phase
+T16	Material 1186 1190	bulk
+T17	SC 1209 1212	T c
+T18	Material 1220 1230	thin films
+T19	SC 1367 1370	T c
+T20	Material 1378 1388	thin films
+T21	Element 176 180	YBCO
+T22	Element 610 614	YBCO
+T23	Element 1181 1185	YBCO
+T24	Element 1087 1091	YBCO
+T25	Element 515 526	YBa2Cu3O7−x
+T27	Element 528 532	YBCO
+T28	Element 707 711	YBCO
+T29	Element 933 936	CuO
+T30	Element 1277 1286	211 phase
+T31	Element 1316 1325	CuO phase
+T32	Element 1333 1337	YBCO
+T33	Main 121 125	YBCO
+T34	Element 308 314	oxygen
+T36	Element 651 655	YBCO
+T37	Material 255 264	substrate
+T38	Material 894 909	impurity phases
+T39	Element 1134 1144	BaCuO2CuO
+T40	Element 1155 1162	yttrium
+T41	Material 1163 1172	deficient
+T35	Element 925 928	211
+R1	Coref Arg1:T25 Arg2:T27
+R2	Coref Arg1:T12 Arg2:T13

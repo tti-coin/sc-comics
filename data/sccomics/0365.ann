@@ -1,0 +1,64 @@
+T1	Element 48 61	silicon oxide
+T2	Material 62 75	nano-particle
+T3	Material 77 79	NP
+T5	Material 151 165	microstructure
+T6	SC 170 185	superconducting
+T7	Material 200 215	polycrystalline
+T8	Main 216 225	YBa2Cu3Oy
+T9	Main 227 231	YBCO
+T10	Main 236 241	Y-123
+T11	Process 288 291	air
+T12	Process 309 329	solid state reaction
+T14	Material 392 406	microstructure
+T15	SC 408 425	superconductivity
+T16	Characterization 471 488	X-ray diffraction
+T17	Characterization 490 493	XRD
+T18	Characterization 496 524	scanning electron microscopy
+T19	Characterization 526 529	SEM
+T20	Characterization 532 564	transmission electron microscopy
+T21	Characterization 566 569	TEM
+T23	Characterization 601 604	TEM
+T24	SC 673 688	superconducting
+T25	Material 689 695	matrix
+T26	Material 732 739	defects
+T27	Element 755 759	SiO2
+T28	Material 760 774	nano-particles
+T31	Material 858 869	inter-grain
+T32	Property 883 907	critical current density
+T33	Property 959 976	ac-susceptibility
+T37	Property 1084 1102	Flux pinning force
+T38	Property 1103 1110	density
+T39	Property 1142 1149	pinning
+T40	Process 1174 1182	sintered
+T41	Material 1211 1215	flux
+T42	Property 1216 1221	creep
+T43	Property 1222 1239	activation energy
+T44	Property 1270 1276	vortex
+T45	Property 1303 1323	frequency dependence
+T46	Property 1331 1348	AC susceptibility
+T48	Element 1424 1437	silicon oxide
+T49	Property 1451 1458	pinning
+T50	Element 1473 1478	Y-123
+T51	SC 1556 1571	superconducting
+T52	Material 85 94	nano-wire
+T53	Material 96 98	NW
+T54	Value 375 382	1 wt. %
+T35	Property 1055 1082	Bean's critical state model
+T36	Characterization 942 957	current–voltage
+T55	Material 350 368	nanosized entities
+T56	Material 790 800	nano-wires
+T57	Material 641 656	inhomogeneities
+T58	Material 1528 1537	nanosized
+T59	Material 1414 1423	nanosized
+T47	Material 38 47	nanosized
+T4	Doping 100 109	additions
+T13	Doping 343 349	adding
+T29	Doping 775 780	added
+T30	Characterization 995 1007	measurements
+T34	Property 981 994	magnetization
+T22	Characterization 587 599	measurements
+T60	Property 576 586	electrical
+R5	Target Arg1:E1 Arg2:T8
+E1	Doping:T4 Dopant:T1
+E2	Doping:T13
+E3	Doping:T29 Dopant:T27

@@ -1,0 +1,30 @@
+T1	Process 42 50	quenched
+T4	Property 204 207	T c
+T6	Process 385 392	anneals
+T7	Process 420 429	quenching
+T8	Characterization 447 464	X-ray diffraction
+T9	Property 506 509	T c
+T11	Process 537 555	quench temperature
+T14	Property 658 661	T c
+T15	Process 696 705	annealing
+T16	Property 741 744	T c
+T17	Property 770 773	T c
+T18	Process 784 792	quenched
+T19	Material 849 858	vacancies
+T20	Property 905 911	mobile
+T21	Property 912 916	hole
+T22	Main 20 30	YBa2Cu3O x
+T24	Element 56 58	Hg
+T27	Value 124 128	90 K
+T28	Value 134 138	60 K
+T3	Property 160 180	critical temperature
+T30	Element 320 326	oxygen
+T31	Characterization 469 485	thermogravimetry
+T32	Element 633 639	oxygen
+T13	Process 640 656	partial pressure
+T34	Material 396 410	porous pellets
+T37	Element 709 711	Ar
+T40	Value 715 724	300–350°C
+T41	Element 842 848	oxygen
+T2	Value 220 222	15
+T5	Value 223 227	25 K

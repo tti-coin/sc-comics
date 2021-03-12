@@ -1,0 +1,62 @@
+T1	SC 150 165	superconducting
+T2	Characterization 178 195	X-ray diffraction
+T3	Characterization 197 200	XRD
+T4	Property 274 295	Electrical-resistance
+T8	SC 578 593	superconducting
+T10	SC 885 888	T c
+T12	Process 961 970	annealing
+T14	SC 1000 1003	T c
+T16	Main 47 74	Y1−x Ca x Ba2Cu3−x M x O7−δ
+T18	Value 482 486	0.20
+T25	Element 80 82	Ni
+T26	Element 86 88	Zn
+T27	Value 90 93	0.0
+T28	Value 96 100	0.30
+T32	Value 268 272	0.20
+T36	Value 375 379	41 K
+T38	Element 401 403	Ni
+T39	Element 408 410	Zn
+T45	Element 607 634	Y1−x Ca x Ba2Cu3−x M x O7−δ
+T46	Element 637 657	Y1−x Ca x Ba2Cu3O7−δ
+T55	Element 780 782	Zn
+T57	Element 662 680	YBa2Cu3−x M x O7−δ
+T63	Element 685 687	Ni
+T64	Element 691 693	Zn
+T65	Element 726 728	Ca
+T66	Element 774 776	Ni
+T67	Material 794 806	single-phase
+T68	Element 868 870	Ni
+T69	Element 875 877	Zn
+T72	Value 902 906	0.20
+T73	Value 1024 1028	0.20
+T74	Material 0 15	Polycrystalline
+T75	Material 27 46	nominal composition
+T11	Property 130 145	phase stability
+T77	Material 225 237	single-phase
+T6	Doping 428 434	doping
+T9	Doping 710 722	substitution
+T13	Doping 974 979	doped
+T15	Doping 1038 1044	doping
+T17	Value 454 457	0.0
+T19	Value 461 465	0.15
+T5	SC 325 336	T c (R = 0)
+T20	Value 358 362	92 K
+T21	Value 366 370	62 K
+T7	SC 492 500	T c(R=0)
+T22	Material 915 932	phase segragation
+R1	Equivalent Arg1:T5 Arg2:T20
+R2	Equivalent Arg1:T5 Arg2:T21
+R3	Equivalent Arg1:T5 Arg2:T36
+R4	Condition Arg1:T20 Arg2:E1
+R5	Condition Arg1:T21 Arg2:E1
+R6	Condition Arg1:T36 Arg2:E1
+R7	Condition Arg1:T20 Arg2:E5
+R8	Condition Arg1:T21 Arg2:E5
+R9	Condition Arg1:T36 Arg2:E1
+R10	Target Arg1:E2 Arg2:T45
+R11	Target Arg1:E2 Arg2:T46
+E1	Doping:T6 Dopant:T39
+E2	Doping:T9 Dopant:T65
+E3	Doping:T13
+E4	Doping:T15
+E5	Doping:T6 Dopant:T38

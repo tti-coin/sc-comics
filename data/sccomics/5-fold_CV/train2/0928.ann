@@ -1,0 +1,31 @@
+T1	Element 28 30	Ni
+T3	Element 62 72	[Ni2M2O]2−
+T4	Element 78 87	chalcogen
+T5	Material 89 95	layers
+T8	Main 170 176	NiM4O2
+T9	SC 195 227	high temperature superconductors
+T10	SC 229 237	high-T c
+T12	Process 263 271	pressure
+T13	Material 277 293	layer structures
+T15	Element 325 343	transitional metal
+T16	Element 362 372	La2B2Se2O3
+T17	Element 378 380	Mn
+T18	Element 382 384	Fe
+T19	Element 386 388	Co
+T20	Element 399 401	Ni
+T21	Property 473 490	antiferromagnetic
+T22	Element 518 522	iron
+T23	SC 529 561	high temperature superconductors
+T24	Property 567 577	electronic
+T25	Property 591 603	Fermi energy
+T26	Material 668 676	in-plane
+T27	SC 709 726	superconductivity
+T28	Property 798 804	s-wave
+T29	Property 809 815	d-wave
+T30	Property 816 834	pairing symmetries
+T35	Property 629 639	d-orbitals
+T11	Doping 244 250	doping
+T7	Element 150 158	anion Ni
+T6	Material 104 128	antiperovskite structure
+R1	Coref Arg1:T9 Arg2:T10
+E1	Doping:T11 

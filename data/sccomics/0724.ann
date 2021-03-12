@@ -1,0 +1,31 @@
+T1	Property 17 27	mean-field
+T2	Property 47 65	antiferromagnetism
+T3	SC 67 84	superconductivity
+T4	Material 89 96	lattice
+T5	Property 97 103	strain
+T6	Property 141 158	density of states
+T7	Main 166 173	cuprate
+T8	Property 186 191	model
+T9	Property 192 203	Hamiltonian
+T11	SC 322 337	superconducting
+T12	Property 339 357	antiferromagnetism
+T13	Material 362 369	lattice
+T14	Property 370 376	strain
+T15	Property 377 393	order parameters
+T16	Property 462 478	order parameters
+T17	Property 522 539	density of states
+T18	Property 541 545	DOSs
+T20	Property 580 583	DOS
+T21	Material 606 616	structures
+T22	Property 663 684	tunneling conductance
+T23	Characterization 708 737	scanning tunneling microscopy
+T24	Characterization 739 742	STM
+T25	Property 791 805	quasi-particle
+T26	Property 806 811	bands
+T27	Property 832 837	model
+T28	Property 838 849	Hamiltonian
+T29	Property 900 916	order parameters
+T30	Property 926 937	conductance
+T31	Property 593 605	multiple gap
+T32	Characterization 744 756	measurements
+T33	Property 554 574	conduction electrons

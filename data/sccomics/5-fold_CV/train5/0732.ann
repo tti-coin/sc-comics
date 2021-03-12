@@ -1,0 +1,33 @@
+T1	SC 66 74	high T c
+T2	Main 75 83	cuprates
+T3	Property 99 113	band structure
+T4	Element 117 121	CuO2
+T5	Material 122 128	layers
+T6	Property 170 175	holes
+T7	Property 221 235	Brillouin zone
+T8	Property 246 260	Fermi surfaces
+T10	Property 324 329	holes
+T12	Material 444 451	crystal
+T13	Property 463 476	Fermi surface
+T15	Property 582 590	metallic
+T16	Element 606 614	cuprates
+T17	Property 682 695	saddle points
+T18	Material 715 719	flat
+T19	Property 733 740	polaron
+T20	Property 768 777	insulator
+T23	Property 778 781	gap
+T24	Property 571 577	gapped
+T25	Property 410 418	carriers
+T26	Characterization 633 638	ARPES
+T27	Characterization 10 15	ARPES
+T28	Property 17 34	Shubnikov–de Haas
+T29	Property 39 57	de Haas–van Alphen
+T9	Doping 318 323	doped
+T11	Doping 385 391	doping
+T14	Doping 522 527	doped
+T21	Value 309 310	4
+T30	Value 311 314	10%
+T22	Property 528 536	carriers
+E1	Doping:T9 
+E2	Doping:T11 
+E3	Doping:T14 

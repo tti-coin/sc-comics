@@ -1,0 +1,23 @@
+T1	Element 14 27	iron pnictide
+T2	SC 28 43	superconductors
+T3	Material 90 99	materials
+T5	Property 167 175	critical
+T6	Property 176 191	magnetic fields
+T7	SC 222 237	superconductors
+T8	Material 372 387	polycrystalline
+T9	Element 388 401	iron arsenide
+T10	SC 402 417	superconductors
+T12	Main 488 495	NdFeAsO
+T13	Main 500 515	NdFe0.9Co0.1AsO
+T14	Material 644 653	Structure
+T15	SC 725 740	superconducting
+T16	Element 746 748	Co
+T19	Value 529 531	1h
+T20	Characterization 590 609	microwave susceptor
+T21	Material 658 666	property
+T22	Characterization 667 679	measurements
+T23	Element 428 454	transition metal pnictides
+T11	Process 550 569	microwave radiation
+T17	Doping 749 754	doped
+E1	Doping:T17 Dopant:T16
+T4	SC 136 162	high critical temperatures

@@ -1,0 +1,41 @@
+T2	Element 57 65	Ce4+ ion
+T3	Element 70 72	La
+T4	SC 85 102	superconductivity
+T5	Material 111 138	structural phase transition
+T7	Material 151 178	high-temperature tetragonal
+T9	Material 193 221	low-temperature orthorhombic
+T10	Main 238 253	La2−x Sr x CuO4
+T11	Element 259 274	La2−x Sr x CuO4
+T13	Element 299 305	Ce ion
+T14	SC 327 347	critical temperature
+T15	SC 348 351	T c
+T16	Material 411 420	structure
+T17	SC 448 451	T c
+T18	Element 482 506	La1.99−x Sr x Ce0.01CuO4
+T21	Element 619 621	Ce
+T23	Element 668 670	Ce
+T25	Element 692 694	La
+T26	Element 743 747	CuO2
+T27	Material 748 754	planes
+T28	Property 781 802	carrier concentration
+T6	Material 180 183	HTT
+T8	Material 223 226	LTO
+T35	Value 371 376	0.115
+T37	Value 397 401	0.15
+T39	Value 434 439	0.125
+T41	Value 473 477	0.16
+T19	SC 547 586	structural phase transition temperature
+T20	SC 587 591	T d1
+T1	Doping 41 53	substitution
+T12	Doping 283 295	substitution
+T22	Doping 622 634	substitution
+T24	Doping 671 683	substitution
+R1	Coref Arg1:T7 Arg2:T6
+R2	Coref Arg1:T9 Arg2:T8
+R3	Coref Arg1:T19 Arg2:T20
+R4	Target Arg1:E1 Arg2:T10
+R5	Coref Arg1:T14 Arg2:T15
+E1	Doping:T1 Dopant:T2 Site:T3
+E2	Doping:T12 Dopant:T13
+E3	Doping:T22 Dopant:T21
+E4	Doping:T24 Dopant:T23 Site:T25

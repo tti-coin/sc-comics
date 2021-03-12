@@ -1,0 +1,28 @@
+T1	Property 0 14	Thermoelectric
+T3	Main 63 69	Bi2Te3
+T4	Element 75 77	Se
+T6	Property 107 154	full potential linearized augmented plane waves
+T12	Element 340 346	Bi2Te3
+T16	Property 546 554	metallic
+T17	Property 581 593	energy range
+T18	Property 671 685	thermoelectric
+T19	Material 719 728	materials
+T20	Element 738 744	Bi2Te3
+T21	Property 19 33	optoelectronic
+T22	Property 156 164	FP-LAPWs
+T5	Property 316 336	fundamental band gap
+T7	Value 350 356	0.12eV
+T9	Property 373 402	Pauli magnetic susceptibility
+T11	Value 467 469	5K
+T8	Property 171 205	generalized gradient approximation
+T23	Property 211 230	spin orbit coupling
+T24	Property 232 235	GGA
+T25	Property 236 239	SOC
+T10	Property 249 290	semi-classical Boltzmann transport theory
+T2	Doping 57 62	doped
+T13	SC 417 457	superconductivity transition temperature
+T14	Value 594 598	1.60
+T15	Value 599 605	6.35eV
+R1	Target Arg1:E1 Arg2:T3
+R2	Equivalent Arg1:T13 Arg2:T11
+E1	Doping:T2 Dopant:T4

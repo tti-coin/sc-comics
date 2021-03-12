@@ -1,0 +1,62 @@
+T1	Characterization 149 154	X-ray
+T2	Characterization 170 190	electron-diffraction
+T3	Material 243 248	atoms
+T5	Material 286 291	atoms
+T6	Material 322 327	atoms
+T7	Material 354 359	atoms
+T10	Material 592 597	plane
+T11	Characterization 733 754	electron- diffraction
+T13	Material 1135 1147	orthorhombic
+T14	Material 1218 1223	atoms
+T15	Material 1280 1288	twinning
+T16	Material 1294 1307	bond-distance
+T17	Material 1355 1360	plane
+T18	Material 1364 1369	atoms
+T19	Property 1422 1425	T c
+T20	Material 1459 1464	atoms
+T23	Main 17 40	YBa2(Cu1-y )Co y )3O6+x
+T28	Value 59 63	0.05
+T30	Process 72 80	oxidized
+T31	Characterization 156 163	neutron
+T32	Element 240 242	Co
+T34	Characterization 200 219	Neutron experiments
+T36	Value 300 303	0.2
+T37	Element 315 321	oxygen
+T38	Element 351 353	Co
+T39	Element 511 517	oxygen
+T40	Element 436 438	Cu
+T41	Element 439 440	O
+T42	Element 533 535	Co
+T43	Element 688 690	Cu
+T44	Element 598 600	Cu
+T45	Material 609 615	apical
+T46	Element 616 622	oxygen
+T47	Element 704 710	oxygen
+T48	Value 716 721	0.025
+T49	Value 724 728	0.10
+T53	Property 837 858	two superposed fields
+T55	Element 1215 1217	Co
+T56	Element 1456 1458	Cu
+T57	Element 1361 1363	Cu
+T58	Element 1180 1182	Co
+T59	Element 1556 1558	Fe
+T60	Characterization 127 143	thermogravimetry
+T61	Value 425 426	5
+T8	Element 1565 1568	123
+T52	Characterization 790 808	diffuse scattering
+T54	Characterization 988 1006	diffuse scattering
+T63	Characterization 1100 1118	diffuse scattering
+T4	Doping 249 259	substitute
+T9	Doping 536 542	doping
+T21	Doping 1469 1480	substituted
+T22	Doping 1559 1564	doped
+T24	Element 280 285	Cu(1)
+R1	Target Arg1:E4 Arg2:T8
+E1	Doping:T4 Dopant:T32 Site:T24
+E2	Doping:T9 Dopant:T42
+E3	Doping:T21 Site:T56
+E4	Doping:T22 Dopant:T59
+T25	Element 486 488	Co
+T26	Property 489 502	concentration
+T12	Element 971 973	Co
+T27	Property 974 987	concentration

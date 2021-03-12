@@ -1,0 +1,32 @@
+T2	Main 34 46	2H-Mn x TaS2
+T3	Material 55 70	single crystals
+T4	Process 89 94	grown
+T5	Element 103 109	iodine
+T6	Process 110 134	chemical vapor transport
+T7	Property 150 160	electrical
+T8	Property 165 184	magnetic properties
+T9	Property 236 255	charge density wave
+T10	SC 260 289	superconductivity transitions
+T11	Property 340 351	resistivity
+T12	Process 384 399	low-temperature
+T13	Element 411 420	Mn x TaS2
+T14	Property 463 473	anisotropy
+T15	Element 494 496	Mn
+T16	Property 497 513	magnetic moments
+T19	Material 555 560	glass
+T20	Process 590 605	low-temperature
+T22	Material 681 686	glass
+T23	Property 723 734	resistivity
+T25	Element 8 10	Mn
+T26	Value 305 307	2K
+T28	Material 444 462	magnetocrystalline
+T29	Material 541 549	ab-plane
+T32	Value 50 53	0.1
+T35	Value 320 324	0.02
+T27	Property 630 647	ac susceptibility
+T1	Doping 11 23	intercalated
+T17	Characterization 648 659	measurement
+R1	Equivalent Arg1:T10 Arg2:T26
+R2	Target Arg1:T26 Arg2:T13
+R3	Target Arg1:E1 Arg2:T2
+E1	Doping:T1 Dopant:T25

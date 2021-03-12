@@ -1,0 +1,55 @@
+T1	Element 4 6	Si
+T3	Main 13 47	(Cu0.5Tl0.5)Ba2Ca2Cu3−y Si y O10−δ
+T4	SC 82 96	superconductor
+T5	Property 156 171	mobile carriers
+T6	SC 179 199	critical temperature
+T7	Element 248 256	cuprates
+T8	Element 262 264	Si
+T10	Material 284 294	tetragonal
+T11	Material 295 304	structure
+T12	Characterization 326 351	X-ray diffraction spectra
+T13	Material 357 370	c-axis length
+T14	Material 378 387	unit cell
+T15	Element 391 425	(Cu0.5Tl0.5)Ba2Ca2Cu3−y Si y O10−δ
+T16	Element 462 464	Si
+T17	Property 465 478	concentration
+T18	SC 492 512	critical temperature
+T19	SC 584 590	T c(0)
+T21	Element 670 674	CuO2
+T22	Element 675 679	SiO2
+T23	Material 680 686	planes
+T24	Element 713 715	Si
+T25	Material 716 721	atoms
+T27	Element 771 777	oxygen
+T28	Process 778 788	atmosphere
+T29	SC 807 827	critical temperature
+T31	Element 899 933	(Cu0.5Tl0.5)Ba2Ca2Cu3−y Si y O10−δ
+T32	Element 979 985	oxygen
+T33	Element 1003 1017	Cu(1)OACu(2)
+T34	Element 1022 1033	TlOACu(2)
+T35	Property 1049 1062	concentration
+T36	Element 1066 1068	Si
+T37	Material 1076 1085	unit cell
+T38	Material 1158 1172	c-axis lattice
+T40	Element 1190 1224	(Cu0.5Tl0.5)Ba2Ca2Cu3−y Si y O10−δ
+T41	SC 1225 1239	superconductor
+T51	Property 204 229	magnitude of diamagnetism
+T55	Property 521 546	magnitude of diamagnetism
+T20	Process 644 666	deficiency of carriers
+T43	Value 51 52	0
+T45	Value 54 58	0.25
+T46	Value 60 63	0.5
+T47	Value 65 69	0.75
+T48	Value 71 74	1.0
+T49	Value 76 80	1.25
+T26	Process 736 750	post-annealing
+T50	Property 849 861	diamagnetism
+T54	Property 595 620	magnitude of diamagnetism
+T56	Value 701 703	+4
+T30	Characterization 867 895	FTIR absorption measurements
+T66	Material 972 978	apical
+T2	Doping 7 12	doped
+T9	Doping 265 270	doped
+R1	Target Arg1:E1 Arg2:T3
+E1	Doping:T2 Dopant:T1
+E2	Doping:T9 Dopant:T8

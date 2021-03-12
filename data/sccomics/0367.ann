@@ -1,0 +1,57 @@
+T2	Element 38 40	Si
+T3	Element 45 47	Sb
+T4	Element 55 57	Se
+T5	Element 66 73	FeSe0.9
+T8	Property 253 265	calculations
+T9	Property 280 292	ground state
+T10	Element 296 303	FeSe0.9
+T11	Element 325 342	FeSe0.9−x(Si/Sb)x
+T14	Material 343 349	alloys
+T15	Property 361 369	magnetic
+T16	Property 413 427	spin-polarized
+T17	Property 429 435	charge
+T18	Property 453 465	calculations
+T22	Material 488 494	alloys
+T23	Property 507 524	density of states
+T24	Property 526 529	DOS
+T25	Property 532 546	band structure
+T26	Property 551 564	Fermi surface
+T28	Element 609 616	FeSe0.9
+T29	Element 665 669	FeSe
+T30	Property 739 751	calculations
+T31	Property 767 771	spin
+T32	Property 782 794	calculations
+T33	Element 850 854	FeSe
+T34	Property 893 908	electron–phonon
+T35	Property 956 980	electron–phonon coupling
+T36	SC 1053 1091	superconducting transition temperature
+T37	SC 1092 1094	Tc
+T41	Material 1121 1127	alloys
+T42	SC 1157 1159	Tc
+T43	Property 146 168	Korringa-Kohn-Rostoker
+T47	Value 107 108	0
+T48	Value 110 114	0.05
+T49	Value 116 120	0.10
+T50	Value 121 125	0.15
+T51	Value 130 134	0.20
+T56	Property 566 568	FS
+T57	Property 651 653	FS
+T58	Property 696 698	FS
+T59	Property 816 818	FS
+T60	Property 800 808	topology
+T64	Property 1005 1034	electron–electron interaction
+T19	Element 470 487	FeSe0.9−x(Si/Sb)x
+T20	Element 1103 1120	FeSe0.9−x(Si/Sb)x
+T6	Main 81 98	FeSe0.9−x(Si/Sb)x
+T7	Property 215 247	coherent-potential approximation
+T12	Property 169 203	Atomic Sphere Approximation method
+T13	Property 307 318	nonmagnetic
+T21	Property 630 643	same topology
+T1	Doping 31 37	doping
+T27	Doping 603 608	doped
+R2	Target Arg1:E1 Arg2:T5
+R3	Target Arg1:E2 Arg2:T5
+R4	Target Arg1:E3 Arg2:T28
+E1	Doping:T1 Dopant:T3 Site:T4
+E2	Doping:T1 Dopant:T2 Site:T4
+E3	Doping:T27

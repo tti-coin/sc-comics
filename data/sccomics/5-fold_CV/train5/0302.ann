@@ -1,0 +1,67 @@
+T1	Element 25 33	hydrogen
+T2	Process 42 59	electrochemically
+T3	Material 74 83	materials
+T4	SC 110 127	superconductivity
+T7	Material 201 209	Surfaces
+T8	Material 285 296	composition
+T9	Material 302 312	material's
+T10	Material 323 336	atomic layers
+T11	Property 349 364	electrochemical
+T12	Element 378 386	hydrogen
+T13	Element 422 424	Pb
+T17	Process 471 480	deposited
+T18	Element 486 488	Pd
+T19	Material 489 497	cathodes
+T21	Element 565 567	Pb
+T22	Element 643 645	Pd
+T23	Material 646 653	cathode
+T24	Material 667 674	surface
+T26	Element 701 703	Pb
+T27	Element 792 800	hydrogen
+T28	Element 882 889	PdH0.75
+T29	Element 893 900	PdH0.86
+T30	Element 917 919	Pb
+T31	Element 1017 1025	hydrogen
+T32	Element 1104 1112	hydrogen
+T33	Element 1193 1201	hydrogen
+T34	Element 1234 1236	Pb
+T35	Element 1337 1345	hydrogen
+T36	Material 1346 1353	surface
+T37	Element 1402 1410	hydrogen
+T39	Element 1451 1453	Pb
+T40	Element 1488 1496	hydrogen
+T41	Material 1572 1577	metal
+T42	Material 1578 1586	surfaces
+T43	Property 1605 1620	electrochemical
+T44	Element 1621 1629	hydrogen
+T45	Element 1643 1645	Pd
+T46	Element 1656 1664	hydrogen
+T47	Material 1675 1684	materials
+T50	Value 688 697	2.9μgcm−2
+T53	Value 934 943	2.9μgcm−2
+T54	Value 969 980	−14.5mAcm−2
+T56	Property 1354 1373	chemical potential,
+T57	Property 1202 1220	chemical potential
+T15	Element 443 452	0.1M LiOH
+T16	Process 1274 1311	Volmer, Heyrovsky, and Tafel reaction
+T58	Property 949 965	constant current
+T60	Element 850 858	hydrogen
+T20	Doping 430 435	added
+T25	Doping 559 564	added
+T38	Doping 675 681	doping
+T59	Doping 1439 1447	addition
+T5	Property 141 154	embrittlement
+T63	Element 132 140	hydrogen
+T6	Property 179 186	storage
+T64	Element 170 178	hydrogen
+T49	Value 580 587	1μgcm−2
+T65	Value 592 600	23μgcm−2
+T51	Value 706 709	1.4
+T52	Value 819 823	0.5V
+T14	Value 1133 1134	6
+T48	Value 1138 1146	1420 atm
+R1	Target Arg1:E2 Arg2:T15
+E2	Doping:T20 Dopant:T13
+E3	Doping:T25 Dopant:T21 Site:T22
+E4	Doping:T38 Dopant:T26
+E6	Doping:T59 Dopant:T39

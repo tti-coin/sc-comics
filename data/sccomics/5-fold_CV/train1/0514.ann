@@ -1,0 +1,37 @@
+T1	Property 8 29	temperature dependent
+T2	Property 30 41	resistivity
+T3	Material 57 63	c-axis
+T4	Main 73 85	YBa2Cu3O7− y
+T5	Material 86 96	thin films
+T6	Process 97 107	irradiated
+T7	Element 120 127	Ag ions
+T8	Material 154 167	point defects
+T10	Material 183 192	amorphous
+T11	Process 205 214	Annealing
+T12	Material 240 247	defects
+T13	Material 266 279	point defects
+T14	Element 294 300	oxygen
+T15	Material 301 309	disorder
+T16	Element 337 340	CuO
+T17	Material 347 353	planes
+T18	Element 357 369	YBa2Cu3O7− y
+T19	Material 370 379	structure
+T20	Property 383 402	secondary electrons
+T21	Element 437 444	Ag ions
+T22	Property 452 461	electrons
+T23	Material 482 489	defects
+T24	SC 578 616	superconducting transition temperature
+T25	SC 618 621	T c
+T27	Property 866 877	resistivity
+T28	SC 948 974	superconducting transition
+T29	SC 1029 1044	superconducting
+T30	SC 1079 1083	T cs
+T31	Value 113 119	200MeV
+T32	Value 131 134	79K
+T33	Property 43 47	ρ(T)
+T36	Value 430 436	200MeV
+T37	Material 709 719	ion tracks
+T35	Material 193 203	ion tracks
+T34	Property 403 412	emanating
+T39	Property 493 514	inelastic interaction
+R1	Coref Arg1:T24 Arg2:T25

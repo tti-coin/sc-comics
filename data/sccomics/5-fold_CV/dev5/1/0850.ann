@@ -1,0 +1,37 @@
+T3	Element 66 70	MgB2
+T4	Material 71 76	wires
+T7	Material 98 104	sheath
+T8	Element 146 148	Mg
+T11	Element 165 167	Sc
+T12	Element 175 179	MgB2
+T13	SC 224 262	superconducting transition temperature
+T14	Element 275 277	Sc
+T16	Property 278 292	concentrations
+T17	Material 300 319	nominal composition
+T18	Element 338 340	Sc
+T19	Material 346 361	impurity phases
+T20	Characterization 379 382	SEM
+T21	Characterization 383 386	EDS
+T22	Property 405 429	critical current density
+T23	Material 461 466	wires
+T25	Element 495 497	Sc
+T26	Material 617 624	powders
+T27	Characterization 637 653	DTA measurements
+T29	Element 726 728	Mg
+T31	Element 729 731	Sc
+T1	Element 46 54	scandium
+T32	Element 56 58	Sc
+T33	Value 124 129	700°C
+T34	Value 139 145	1 at.%
+T2	Doping 60 65	doped
+T9	Doping 153 161	replaced
+T5	Element 92 97	Cu–Nb
+T6	Doping 669 675	doping
+T10	Value 732 737	0.995
+T15	Value 738 743	0.005
+R1	Coref Arg1:T1 Arg2:T32
+R2	Target Arg1:E1 Arg2:T3
+R3	Target Arg1:E2 Arg2:T12
+E1	Doping:T2 Dopant:T1
+E2	Doping:T9 Site:T8 Dopant:T11
+E3	Doping:T6 

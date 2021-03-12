@@ -1,0 +1,19 @@
+T1	Main 0 5	Nb3Al
+T2	SC 35 50	superconductors
+T4	Element 62 67	Nb3Sn
+T5	Property 84 94	high field
+T6	SC 95 110	superconducting
+T7	Element 190 195	Nb3Al
+T9	Element 278 283	Nb–Al
+T10	Element 334 339	Nb3Al
+T11	Process 364 379	low temperature
+T12	Property 380 389	diffusion
+T13	Process 390 404	heat treatment
+T14	Element 466 471	Nb3Al
+T15	Material 141 150	conductor
+T16	Material 196 205	conductor
+T17	Value 264 267	70m
+T3	Property 553 569	background field
+T8	Material 294 303	conductor
+T18	Value 575 577	7T
+T19	Value 581 584	15T

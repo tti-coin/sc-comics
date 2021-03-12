@@ -1,0 +1,85 @@
+T2	Element 76 79	Y3+
+T3	Element 89 91	Ca
+T4	Element 110 112	Sr
+T5	Element 123 127	CuO2
+T6	Material 128 134	planes
+T7	Main 138 149	Bi(Pb)-2212
+T8	Material 170 178	Ceramics
+T9	Element 182 212	Bi1.6Pb0.4Sr2Ca1−x Y x Cu2O8+d
+T10	Element 236 265	Bi1.6Pb0.4Sr2−x Y x CaCu2O8+d
+T11	Process 340 343	air
+T12	Process 360 380	solid state reaction
+T13	Characterization 408 425	X-ray diffraction
+T14	Characterization 427 430	XRD
+T16	Characterization 465 468	SEM
+T17	Property 471 478	density
+T18	Property 480 501	Vickers microhardness
+T20	Material 550 565	cell parameters
+T21	Material 593 614	structural modulation
+T23	Material 665 680	cell parameters
+T26	Property 841 853	bulk density
+T27	Property 862 883	Vickers microhardness
+T28	Characterization 925 928	SEM
+T30	Material 985 990	grain
+T32	Property 1043 1054	resistivity
+T33	Property 1105 1113	metallic
+T34	Property 1136 1148	normal state
+T36	Element 1177 1179	CY
+T40	Element 1329 1331	SY
+T42	Element 1457 1459	CY
+T43	Element 1464 1466	SY
+T45	Property 1576 1587	resistivity
+T46	Element 1656 1659	Y3+
+T47	Property 1705 1716	resistivity
+T51	Element 221 223	CY
+T55	Element 274 276	SY
+T62	Characterization 433 463	Scanning Electronic Microscopy
+T63	Value 657 658	0
+T65	Value 1436 1441	92.15
+T66	Value 1446 1452	79.96K
+T68	Value 1627 1632	0.075
+T70	Value 1794 1797	0.1
+T72	Value 1396 1401	0.075
+T73	Value 1292 1298	85.43K
+T50	Value 292 293	0
+T54	Value 295 300	0.025
+T57	Value 302 306	0.05
+T58	Value 308 313	0.075
+T59	Value 318 321	0.1
+T74	Value 1739 1744	0.025
+T75	Material 681 682	a
+T76	Material 690 691	c
+T77	Material 684 685	b
+T25	Property 763 780	modulation vector
+T19	Property 506 517	resistivity
+T64	Characterization 518 530	measurements
+T1	Doping 51 57	doping
+T22	Doping 711 717	doping
+T24	Doping 953 958	doped
+T29	Doping 1158 1164	doping
+T31	Doping 1409 1414	doped
+T37	SC 1203 1240	onset critical transition temperature
+T38	SC 1361 1377	this temperature
+T35	Doping 1537 1542	doped
+T39	Doping 1663 1673	introduced
+R3	Target Arg1:T65 Arg2:T42
+R4	Target Arg1:T66 Arg2:T43
+R5	Target Arg1:E2 Arg2:T7
+R6	Target Arg1:E1 Arg2:T7
+R7	Equivalent Arg1:T37 Arg2:T73
+R8	Target Arg1:E5 Arg2:T36
+R9	Condition Arg1:T73 Arg2:E5
+R10	Equivalent Arg1:T38 Arg2:T65
+R11	Equivalent Arg1:T38 Arg2:T66
+R12	Condition Arg1:T65 Arg2:E6
+R13	Condition Arg1:T66 Arg2:E6
+R14	Target Arg1:E6 Arg2:T42
+R15	Target Arg1:E6 Arg2:T43
+E1	Doping:T1 Dopant:T2 Site:T3
+E2	Doping:T1 Dopant:T2 Site:T4
+E3	Doping:T22
+E4	Doping:T24
+E5	Doping:T29
+E6	Doping:T31
+E7	Doping:T35
+E8	Doping:T39 Dopant:T46

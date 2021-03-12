@@ -1,0 +1,64 @@
+T2	Element 56 58	Sn
+T3	Element 63 65	Cu
+T5	Property 81 91	electrical
+T6	Property 96 115	magnetic properties
+T7	SC 123 138	superconducting
+T8	Material 139 146	ceramic
+T9	Material 147 152	glass
+T10	Main 153 184	Bi1.75Pb0.25Sr2Ca2Cu3-xSnxO10+y
+T12	Material 282 287	glass
+T13	Material 288 295	ceramic
+T14	Characterization 319 336	X-ray diffraction
+T15	Characterization 338 341	XRD
+T16	Characterization 347 375	scanning electron microscopy
+T17	Characterization 377 380	SEM
+T18	Property 400 410	electrical
+T19	Property 415 434	magnetic properties
+T20	Property 454 476	resistance-temperature
+T23	Process 553 568	low temperature
+T24	SC 679 699	critical temperature
+T26	Element 765 767	Sn
+T27	Property 769 782	concentration
+T28	Property 788 812	critical current density
+T29	Property 853 867	magnetic field
+T30	Property 1038 1054	hysteresis curve
+T37	Property 478 481	R-T
+T38	Characterization 578 607	vibrating sample magnetometer
+T39	Characterization 609 612	VSM
+T22	Property 541 544	M-H
+T34	Value 195 196	0
+T11	Characterization 231 258	structural characterization
+T35	Characterization 382 394	measurements
+T36	Characterization 483 494	measurement
+T42	Property 905 908	M-H
+T44	Property 1001 1004	M-H
+T45	Value 203 206	0.5
+T46	Value 198 201	0.1
+T25	SC 701 710	Tc offset
+T47	Material 69 79	structural
+T1	Doping 40 52	substitution
+T4	Value 736 740	98 K
+T31	Value 744 748	73 K
+T21	Property 499 527	magnetization-magnetic field
+T32	Characterization 528 539	measurement
+T40	Characterization 653 664	measurement
+T41	Property 649 652	R-T
+R1	Coref Arg1:T24 Arg2:T25
+R2	Target Arg1:E1 Arg2:T10
+R3	Equivalent Arg1:T24 Arg2:T4
+R4	Equivalent Arg1:T24 Arg2:T31
+E1	Doping:T1 Dopant:T2 Site:T3
+#1	AnnotatorNotes T2	56-58
+#2	AnnotatorNotes T3	63-65
+#3	AnnotatorNotes T8	139-146
+#4	AnnotatorNotes T9	147-152
+#5	AnnotatorNotes T10	153-184
+#6	AnnotatorNotes T12	282-287
+#7	AnnotatorNotes T13	288-295
+#8	AnnotatorNotes T26	765-767
+#9	AnnotatorNotes T34	195-196
+#10	AnnotatorNotes T45	203-206
+#11	AnnotatorNotes T46	198-201
+#12	AnnotatorNotes T47	69-79
+#13	AnnotatorNotes T4	736-740
+#14	AnnotatorNotes T31	744-748

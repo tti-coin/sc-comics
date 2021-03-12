@@ -1,0 +1,24 @@
+T1	Element 46 48	Nb
+T3	Property 59 76	thermal expansion
+T4	Main 80 94	Pr0.7Sr0.3MnO3
+T5	Property 96 113	Thermal expansion
+T6	Property 236 258	transition temperature
+T7	Element 269 271	Nb
+T9	Property 328 345	thermal expansion
+T10	Material 351 355	bulk
+T11	Material 389 396	dopants
+T12	Material 426 434	clusters
+T13	Process 640 648	Pressure
+T14	Property 667 689	transition temperature
+T15	Property 522 537	Gruniesen ratio
+T16	Property 578 592	I–M transition
+T17	Property 214 229	insulator–metal
+T18	Property 231 234	I-M
+T19	Property 786 805	Ehrenfest equations
+T21	Property 149 169	terminal capacitance
+T2	Doping 49 55	doping
+T8	Doping 272 278	doping
+T20	Characterization 114 126	measurements
+R1	Target Arg1:E1 Arg2:T4
+E1	Doping:T2 Dopant:T1
+E2	Doping:T8 Dopant:T7

@@ -1,0 +1,35 @@
+T1	Element 42 44	Cu
+T2	Property 46 48	3d
+T3	Element 51 67	transition metal
+T5	Element 90 92	Ir
+T6	Material 107 116	structure
+T7	Main 144 151	Sr2IrO4
+T8	Property 172 180	critical
+T9	Element 235 237	Ir
+T10	Element 240 241	O
+T11	Element 244 246	Ir
+T12	Element 259 261	Cu
+T15	Element 344 346	Cu
+T17	Property 377 391	semiconducting
+T24	Element 552 554	Cu
+T25	Material 583 592	structure
+T26	Material 609 620	composition
+T27	Material 623 632	structure
+T28	Property 689 691	3d
+T29	Property 694 696	5d
+T31	Material 181 191	octahedral
+T33	Property 494 509	magnetic moment
+T21	Element 514 523	metal ion
+T18	Element 697 713	transition metal
+T4	Doping 69 81	substitution
+T13	Doping 262 274	substitution
+T16	Doping 347 359	substitution
+T22	Property 280 291	resistivity
+T23	Characterization 292 304	measurements
+T14	Property 404 412	Magnetic
+T30	Characterization 413 425	measurements
+R1	Target Arg1:E1 Arg2:T7
+E1	Doping:T4 Dopant:T1 Site:T5
+E2	Doping:T13 Dopant:T12
+E3	Doping:T16 Dopant:T15
+T19	Property 451 483	magnetic transition temperatures

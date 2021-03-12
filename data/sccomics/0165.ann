@@ -1,0 +1,63 @@
+T1	SC 0 14	superconductor
+T2	Characterization 67 93	neutron powder diffraction
+T5	Property 320 333	dopant levels
+T6	Material 347 359	orthorhombic
+T7	Property 606 624	hole concentration
+T9	Material 760 765	plane
+T10	Property 889 901	dopant level
+T11	Material 955 960	plane
+T13	Material 1044 1055	plane sites
+T14	Property 1110 1114	hole
+T16	Material 1136 1142	planes
+T18	Material 1236 1242	planes
+T19	SC 1268 1271	T c
+T23	Element 42 44	Cu
+T24	Element 57 59	Li
+T25	Value 193 197	60 K
+T26	Value 201 206	1.90%
+T27	Element 207 209	Li
+T29	Value 244 248	5.3%
+T30	Value 253 257	6.5%
+T31	Element 258 260	Li
+T32	Element 381 387	oxygen
+T35	Value 456 460	0.82
+T36	Element 468 470	Li
+T37	Value 495 499	6.5%
+T38	Element 527 529	O2
+T39	Element 545 549	Li1+
+T40	Element 766 771	Cu(2)
+T41	Element 695 700	Cu(1)
+T42	Element 652 654	Li
+T43	Element 825 827	Li
+T44	Value 861 863	5%
+T45	Element 943 945	Li
+T46	Element 1131 1135	CuO2
+T47	Element 1167 1177	Cu(1)-O(1)
+T49	Element 995 997	Li
+T50	Value 426 430	0.97
+T48	Element 1204 1213	O(4) ions
+T21	Value 523 526	one
+T34	Value 541 544	two
+T54	Property 811 821	solubility
+T33	Material 1014 1025	chain sites
+T3	SC 104 142	superconducting transition temperature
+T4	Doping 45 53	replaced
+T8	Doping 167 173	doping
+T15	Doping 633 639	doping
+T20	Doping 985 991	doping
+T51	Doping 1115 1121	doping
+T12	Value 21 26	1.90%
+T22	Value 30 34	6.5%
+T28	Value 224 228	10 K
+T17	Property 1178 1194	charge reservoir
+R1	Equivalent Arg1:T3 Arg2:T25
+R2	Condition Arg1:T25 Arg2:E2
+R3	Equivalent Arg1:T3 Arg2:T28
+R4	Condition Arg1:T28 Arg2:E3
+E1	Doping:T4 Site:T23 Dopant:T24
+E2	Doping:T8 Dopant:T27
+E4	Doping:T15
+E5	Doping:T20 Dopant:T49 Site:T33
+E6	Doping:T51 Dopant:T14 Site:T46
+E3	Doping:T8 Dopant:T31
+E7	Doping:T20 Dopant:T49 Site:T13

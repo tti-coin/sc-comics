@@ -1,0 +1,44 @@
+T3	Material 102 123	structural modulation
+T4	Characterization 432 452	electron diffraction
+T6	Material 547 564	crystal structure
+T7	Material 614 628	single crystal
+T8	Characterization 629 646	X-ray diffraction
+T9	Material 717 726	unit cell
+T10	Material 808 814	layers
+T11	SC 906 923	superconductivity
+T12	SC 951 954	T c
+T13	SC 1024 1041	superconductivity
+T14	Material 1057 1067	structural
+T15	Property 1093 1095	AF
+T16	Property 1166 1172	charge
+T18	Material 1256 1262	layers
+T19	Element 346 382	Bi 2-x Pb x Sr 2 Y 1-y Ca y Cu 2 O z
+T27	Element 212 237	(Bi, Pb)2Sr2(Ca, Y)Cu2O z
+T28	Element 850 886	Bi 2-x Pb x Sr 2 Y 1-y Ca y Cu 2 O z
+T29	Element 698 711	Bi2Sr2CaCu2O8
+T36	Main 38 54	bismuth cuprates
+T37	Main 56 61	BSCCO
+T41	Element 473 486	Bi2Sr2CaCu2O8
+T42	Material 518 541	orthorhombic distortion
+T43	Element 804 807	BiO
+T44	Element 1145 1147	Ca
+T45	Element 1143 1144	Y
+T46	Element 1082 1087	BSCCO
+T47	Element 982 983	Y
+T48	Element 931 933	Ca
+T49	Element 1194 1196	Pb
+T50	Element 1191 1193	Bi
+T51	Element 1248 1255	Bi(Pb)O
+T52	SC 1096 1098	SC
+T54	Value 385 386	0
+T58	Element 301 311	2212 phase
+T1	SC 4 28	high-T c superconductors
+T2	Doping 1197 1209	substitution
+T17	Value 400 412	(1-y/2)±0.2)
+T5	Material 125 143	quasi-commensurate
+T20	Value 388 391	0.8
+R1	Coref Arg1:T36 Arg2:T37
+R2	Target Arg1:E1 Arg2:T51
+R3	Target Arg1:E2 Arg2:T51
+E1	Doping:T2 Dopant:T44 Site:T45
+E2	Doping:T2 Site:T50 Dopant:T49

@@ -1,0 +1,25 @@
+T1	Property 14 29	magnetic fields
+T3	SC 103 117	superconductor
+T5	SC 171 186	superconducting
+T6	Property 234 249	zero resistance
+T8	Property 313 327	magnetic field
+T9	Process 412 423	temperature
+T11	SC 571 574	T c
+T12	Property 621 634	low frequency
+T14	Process 783 794	temperature
+T16	SC 969 972	T c
+T17	Property 1101 1106	holes
+T18	SC 1222 1225	T c
+T19	SC 1244 1252	high T c
+T20	Value 798 801	4 T
+T21	Value 33 37	15 T
+T23	Value 875 878	90%
+T2	Property 41 62	electrical resistance
+T24	Main 89 102	BiSrCaCuO
+T25	Element 852 869	BiSrCaCu PbO
+T26	Value 373 379	1000/T
+T29	Element 1253 1259	oxides
+T30	Property 1020 1029	Hall data
+T4	Property 476 492	Hall coefficient
+T7	SC 843 851	high T c
+T10	Property 1181 1195	Cooper-pairing

@@ -1,0 +1,50 @@
+T1	Property 0 9	Ab-initio
+T2	Property 10 22	calculations
+T4	Element 108 109	K
+T5	Element 114 116	Ca
+T6	Material 124 134	structural
+T7	Property 139 160	electronic properties
+T8	Main 181 185	YBCO
+T10	Property 288 294	charge
+T11	Material 378 396	structural changes
+T12	Element 413 414	K
+T13	Property 443 450	density
+T14	Property 468 479	Fermi level
+T15	SC 548 568	critical temperature
+T16	SC 570 572	Tc
+T17	Element 592 593	K
+T18	Element 621 622	K
+T20	Element 653 668	YBa2 – xKxCu3O7
+T21	Element 683 690	calcium
+T24	Process 746 755	reduction
+T25	Property 763 778	carrier density
+T26	Element 806 810	CuO2
+T27	Material 811 816	layer
+T29	Element 873 877	YBCO
+T30	Material 966 973	twinned
+T31	Element 978 984	alkali
+T33	SC 997 1012	superconductive
+T34	Element 1031 1035	YBCO
+T35	Element 89 91	Ba
+T38	Property 29 46	GGA approximation
+T39	Element 594 596	Ca
+T23	Property 214 234	twin boundary energy
+T40	Element 416 418	Ca
+T3	Doping 92 104	substitution
+T9	Doping 257 269	substitution
+T19	Doping 623 629	doping
+T22	Doping 691 697	doping
+T28	Doping 825 836	substituted
+T32	Doping 985 996	substituted
+R1	Coref Arg1:T15 Arg2:T16
+R2	Target Arg1:E1 Arg2:T8
+R3	Target Arg1:E2 Arg2:T8
+R4	Target Arg1:E4 Arg2:T20
+R5	Target Arg1:E7 Arg2:T34
+E1	Doping:T3 Dopant:T35 Site:T4
+E2	Doping:T3 Dopant:T35 Site:T5
+E3	Doping:T9 
+E4	Doping:T19 Dopant:T18
+E5	Doping:T22 Dopant:T21
+E6	Doping:T28 
+E7	Doping:T32 Dopant:T31

@@ -1,0 +1,27 @@
+T1	SC 40 74	high temperature superconductivity
+T2	SC 76 80	HTSC
+T3	Element 91 98	cuprate
+T4	Property 166 178	Cooper pairs
+T5	Material 194 200	liquid
+T6	Element 201 209	nitrogen
+T7	SC 297 301	HTSC
+T8	Element 316 320	iron
+T9	SC 327 342	superconductors
+T11	SC 479 483	HTSC
+T12	SC 643 658	superconducting
+T13	Characterization 673 702	scanning tunneling microscopy
+T14	Characterization 704 707	STM
+T15	Characterization 893 903	microscope
+T16	SC 926 930	HTSC
+T17	Characterization 1044 1047	STM
+T18	SC 1067 1071	HTSC
+T22	SC 1280 1295	superconducting
+T23	Property 1296 1308	Cooper pairs
+T10	Element 659 667	aluminum
+T19	Characterization 1114 1165	spectroscopic imaging scanning tunneling microscopy
+T20	Characterization 1167 1173	SI-STM
+T21	Characterization 1203 1242	scanning Josephson tunneling microscopy
+T25	Characterization 1244 1248	SJTM
+T26	Process 210 229	boiling temperature
+T27	Material 1315 1327	atomic scale
+T28	Characterization 844 863	spectroscopic tools

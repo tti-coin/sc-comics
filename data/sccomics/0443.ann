@@ -1,0 +1,50 @@
+T1	SC 26 41	superconducting
+T2	Property 52 69	spin density wave
+T3	Material 70 81	order phase
+T4	Property 109 117	magnetic
+T5	SC 122 137	superconducting
+T6	Property 156 160	hole
+T8	Element 167 171	FeAs
+T9	SC 178 193	superconducting
+T10	Main 203 228	La0.87−x Ln x Sr0.13FeAsO
+T11	Element 233 235	Sm
+T12	Element 237 239	Gd
+T13	Element 241 243	Dy
+T14	Property 261 272	resistivity
+T15	Property 277 300	magnetic susceptibility
+T16	SC 328 366	superconducting transition temperature
+T17	Material 394 405	composition
+T18	Property 409 417	magnetic
+T19	Property 428 443	hysteresis loop
+T20	Element 451 476	La0.87−x Ln x Sr0.13FeAsO
+T21	SC 492 507	superconducting
+T22	Property 508 518	hysteresis
+T24	Property 536 548	paramagnetic
+T25	Property 598 607	magnetism
+T26	SC 612 629	superconductivity
+T27	Property 641 645	hole
+T29	Element 652 656	FeAs
+T30	SC 663 678	superconducting
+T31	Property 708 716	magnetic
+T32	Element 755 759	Dy3+
+T34	SC 770 787	superconductivity
+T35	Element 817 821	Gd3+
+T37	Element 853 857	Sm3+
+T39	Material 931 948	lattice parameter
+T40	Material 955 961	c-axis
+T42	Value 245 246	0
+T43	Value 249 253	0.06
+T48	Element 717 736	rare-earth elements
+T7	Doping 161 166	doped
+T28	Doping 646 651	doped
+T33	Doping 760 766	doping
+T36	Doping 822 828	doping
+T38	Doping 858 864	doping
+T23	Characterization 301 313	measurements
+R1	Target Arg1:E1 Arg2:T8
+R2	Target Arg1:E2 Arg2:T29
+E1	Doping:T7 Dopant:T6
+E2	Doping:T28 Dopant:T27
+E3	Doping:T33 Dopant:T32
+E4	Doping:T36 Dopant:T35
+E5	Doping:T38 Dopant:T37

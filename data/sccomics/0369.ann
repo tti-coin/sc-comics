@@ -1,0 +1,64 @@
+T1	Element 31 47	transition metal
+T3	Element 69 71	Fe
+T4	Material 72 83	sub-lattice
+T5	Main 87 105	Fe1−xTMxSe0.5Te0.5
+T6	Element 112 114	Cr
+T7	Element 116 118	Mn
+T8	Element 120 122	Co
+T9	Element 124 126	Ni
+T10	Property 183 193	electronic
+T11	Property 198 217	magnetic properties
+T12	Property 223 235	calculations
+T13	Property 375 378	CPA
+T14	Property 385 389	spin
+T15	Property 400 412	calculations
+T16	Material 424 430	alloys
+T17	Property 437 445	magnetic
+T18	Property 483 500	density of states
+T19	Property 502 505	DOS
+T20	Property 508 523	band structures
+T21	Property 528 542	Fermi surfaces
+T22	Element 581 590	Fe3d64s 2
+T23	Element 592 600	Cr3d54s1
+T24	Element 602 610	Mn3d54s2
+T25	Element 612 620	Co3d74s2
+T26	Element 622 630	Ni3d84s2
+T27	Element 635 643	Se4s24p4
+T28	Property 655 664	electrons
+T30	Property 721 742	electronic properties
+T31	Element 782 786	FeSe
+T32	Element 791 803	FeSe0.5Te0.5
+T33	SC 804 818	superconductor
+T34	Property 856 864	electron
+T35	Property 865 871	phonon
+T36	Property 919 943	electron–phonon coupling
+T37	Material 1006 1014	material
+T38	SC 1033 1071	superconducting transition temperature
+T39	SC 1072 1074	Tc
+T41	Element 1092 1104	FeSe0.5Te0.5
+T42	Property 1155 1161	charge
+T44	Element 107 109	TM
+T46	Value 135 136	0
+T49	Element 49 51	TM
+T50	Element 1083 1085	TM
+T52	Property 544 546	FS
+T53	Property 260 282	Korringa-Kohn-Rostoker
+T54	Property 284 287	KKR
+T55	Property 289 316	Atomic Sphere Approximation
+T56	Property 318 321	ASA
+T57	Property 1203 1221	KKR-ASA CPA method
+T58	Property 1106 1125	Hopfield parameters
+T61	Property 341 373	coherent-potential approximation
+T62	Value 138 142	0.01
+T63	Value 144 148	0.05
+T64	Value 150 154	0.10
+T2	Doping 53 65	substitution
+T29	Doping 707 713	doping
+T40	Doping 1086 1091	doped
+R3	Target Arg1:E1 Arg2:T5
+R4	Target Arg1:E3 Arg2:T32
+R5	Target Arg1:E4 Arg2:T41
+R6	Target Arg1:E3 Arg2:T31
+E1	Doping:T2 Dopant:T1 Site:T3
+E3	Doping:T29
+E4	Doping:T40 Dopant:T50

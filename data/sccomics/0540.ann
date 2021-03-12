@@ -1,0 +1,61 @@
+T1	Characterization 48 55	neutron
+T3	Main 95 103	cuprates
+T4	SC 133 153	critical temperature
+T5	SC 154 156	Tc
+T6	SC 160 186	superconducting transition
+T7	Property 221 235	Cooper pairing
+T8	Property 239 245	mobile
+T9	Property 246 261	charge carriers
+T10	Property 276 282	charge
+T11	Material 315 323	in-plane
+T12	Property 325 340	charge-transfer
+T13	Property 342 344	CT
+T14	Property 376 386	insulating
+T15	Property 387 391	spin
+T16	Material 432 448	stripe structure
+T17	Property 463 472	pseudogap
+T18	Property 492 500	magnetic
+T19	Property 501 517	phase transition
+T20	Property 523 527	spin
+T21	Material 528 538	disordered
+T22	Property 561 568	ordered
+T23	Material 582 596	incommensurate
+T24	Property 609 612	SDW
+T25	Element 616 620	CuO2
+T26	Material 621 627	planes
+T27	Property 696 699	SDW
+T28	Property 706 709	SDW
+T29	Property 711 720	pseudogap
+T30	Property 750 763	Fermi surface
+T31	Property 775 783	SDWstate
+T32	Material 800 818	incommensurability
+T33	Material 828 835	lattice
+T34	Property 866 876	wavelength
+T35	Material 915 933	lattice distortion
+T36	SC 955 957	Tc
+T37	Element 961 969	cuprates
+T38	SC 1013 1015	Tc
+T39	Property 1023 1030	phonons
+T40	Property 1078 1093	electron energy
+T41	Property 1094 1102	spectrum
+T42	Property 1116 1124	electron
+T43	SC 1156 1173	superconductivity
+T44	Property 1178 1187	magnetism
+T45	SC 1265 1290	high-Tc superconductivity
+T46	Material 1301 1309	geometry
+T48	Property 1335 1344	insulator
+T49	Material 1345 1350	metal
+T50	Property 1351 1360	insulator
+T53	Property 1224 1239	Little-Ginzburg
+T54	Property 1240 1242	LG
+T56	Property 631 638	T onset
+T58	SC 1388 1412	room-Tc supercon–ductors
+T59	SC 1413 1416	RTS
+T60	Property 393 394	S
+T51	Property 700 703	gap
+T55	Material 1478 1486	in-plane
+T57	Property 1313 1333	GinzburgHTS-sandwich
+T52	Element 1428 1446	transitional-metal
+T2	Doping 89 94	doped
+R3	Target Arg1:E1 Arg2:T3
+E1	Doping:T2

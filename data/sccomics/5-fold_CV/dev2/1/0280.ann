@@ -1,0 +1,32 @@
+T1	Property 4 24	transport properties
+T2	Material 32 51	nominal composition
+T3	Main 52 72	Fe(Se1− x Sb x )0.92
+T4	Property 149 160	resistivity
+T5	Property 193 214	structural transition
+T7	Element 246 248	Sb
+T8	SC 266 288	transition temperature
+T10	SC 355 393	superconducting transition temperature
+T11	Property 445 466	structural transition
+T12	SC 471 488	superconductivity
+T14	SC 536 551	superconductors
+T15	Property 570 579	transport
+T16	Material 614 623	structure
+T17	Element 657 665	cuprates
+T18	Material 667 675	organics
+T20	SC 702 717	superconductors
+T21	Property 744 758	magnetic order
+T22	Process 812 828	high temperature
+T23	Property 850 874	electron–phonon coupling
+T9	Material 292 312	structure transition
+T31	SC 313 316	T s
+T32	Element 681 690	122-phase
+T33	Property 772 798	insulator–metal transition
+T27	Value 77 78	0
+T28	Value 80 84	0.05
+T29	Value 86 89	0.1
+T30	Value 91 94	0.2
+T13	Element 525 529	iron
+T19	Element 691 695	iron
+T6	Doping 234 240	doping
+R1	Coref Arg1:T8 Arg2:T31
+E1	Doping:T6 Dopant:T7

@@ -1,0 +1,82 @@
+T1	Material 34 38	bulk
+T2	Main 39 43	MgB2
+T3	SC 44 59	superconductors
+T4	Element 80 82	Ti
+T5	Element 83 87	MgB2
+T6	Material 88 93	wires
+T7	Element 114 119	boron
+T8	Material 120 126	powder
+T9	Material 143 151	particle
+T10	Element 160 169	magnesium
+T11	Process 175 191	applied pressure
+T12	Material 197 207	structural
+T13	Property 212 238	magnetic characterizations
+T15	Characterization 286 289	XRD
+T17	Process 358 374	applied pressure
+T23	Element 670 675	boron
+T24	Material 676 683	powders
+T25	Element 745 747	Mg
+T26	Element 763 766	Mg1
+T27	Material 781 787	powder
+T29	Material 852 858	powder
+T31	Element 950 952	Mg
+T32	Material 953 961	particle
+T33	SC 1006 1032	superconducting transition
+T34	Element 1057 1062	boron
+T35	Material 1063 1069	powder
+T37	Property 1128 1152	critical current density
+T38	Element 1156 1158	Ti
+T39	Element 1159 1163	MgB2
+T40	Element 1193 1195	Mg
+T41	Material 1196 1202	powder
+T42	Element 1243 1244	B
+T43	Material 1245 1251	powder
+T44	Material 1253 1262	amorphous
+T46	Material 1328 1334	powder
+T47	Element 1378 1379	B
+T48	Material 1380 1386	powder
+T49	Material 1388 1397	amorphous
+T51	Element 1325 1327	Mg
+T52	Property 1584 1597	pinning force
+T53	Property 64 79	monofilamentary
+T14	Material 246 250	bulk
+T20	Material 529 547	lattice parameters
+T61	Value 824 829	99.8%
+T63	Value 897 900	98%
+T65	Value 1270 1274	⩾95%
+T68	Value 1435 1438	98%
+T69	Value 1443 1456	2.6×105 A/cm2
+T70	Value 1461 1474	1.4×105 A/cm2
+T71	Value 1481 1484	10K
+T72	Value 1496 1500	0.5T
+T21	Value 602 607	37.3K
+T54	Value 609 614	38.0K
+T55	Value 620 625	38.6K
+T56	Value 701 706	95.2%
+T57	Value 709 712	95%
+T58	Value 718 721	98%
+T50	Element 1542 1544	Mg
+T59	Element 1558 1559	B
+T73	Element 778 780	Mg
+T74	Material 816 822	purity
+T18	SC 419 447	onset transition temperature
+T22	SC 568 577	T c,onset
+T60	Value 806 814	325 mesh
+T28	Element 831 834	Mg2
+T76	Element 849 851	Mg
+T62	Value 876 878	20
+T77	Value 879 887	230 mesh
+T30	SC 921 930	T c,onset
+T19	SC 448 457	T c,onset
+T36	Value 1221 1229	325 mesh
+T45	Value 1352 1354	20
+T64	Value 1355 1363	230 mesh
+T66	Value 1415 1420	0,3μm
+T16	Property 294 311	AC susceptibility
+T67	Characterization 312 324	measurements
+T75	Property 1085 1098	Magnetization
+T78	Characterization 1099 1111	measurements
+R1	Equivalent Arg1:T22 Arg2:T21
+R2	Equivalent Arg1:T22 Arg2:T54
+R3	Equivalent Arg1:T22 Arg2:T55
+R4	Coref Arg1:T18 Arg2:T19

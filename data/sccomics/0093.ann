@@ -1,0 +1,74 @@
+T1	Material 64 71	surface
+T2	Material 72 86	microstructure
+T3	Material 119 129	thin films
+T4	Material 159 163	film
+T5	Process 178 196	growth temperature
+T6	Material 202 207	films
+T7	Process 277 297	magnetron sputtering
+T8	Characterization 368 396	scanning electron microscopy
+T9	Characterization 398 401	SEM
+T10	Characterization 404 433	scanning tunneling microscopy
+T11	Characterization 435 438	STM
+T12	Characterization 441 464	atomic force microscopy
+T13	Characterization 466 469	AFM
+T14	Characterization 472 489	X-ray diffraction
+T15	Property 495 513	transport-property
+T16	Material 545 560	ultrathin films
+T17	Material 573 583	unit cells
+T18	Material 590 599	unit cell
+T19	Material 679 690	dislocation
+T23	Material 995 1013	screw dislocations
+T24	Characterization 1039 1042	STM
+T25	Material 1057 1061	film
+T26	Material 1062 1069	surface
+T27	Material 1115 1120	films
+T28	Process 1129 1147	growth temperature
+T29	Process 1161 1180	growth temperatures
+T33	Material 1368 1378	unit-cells
+T34	Material 1379 1384	films
+T35	Process 1393 1412	growth temperatures
+T36	Material 1430 1435	films
+T37	Material 1464 1476	dislocations
+T39	Material 1516 1526	unit-cells
+T40	Material 1527 1532	films
+T41	Material 1650 1655	films
+T42	SC 1679 1696	superconductivity
+T43	Material 1756 1760	film
+T44	Material 1801 1811	unit-cells
+T45	Material 1812 1816	film
+T22	Value 965 977	2×1011 cm −2
+T46	Value 318 326	3 nm/min
+T47	Material 90 99	epitaxial
+T48	Material 100 106	c-axis
+T49	Material 4 14	nucleation
+T50	Main 107 118	YBa2Cu3O7−x
+T52	Element 239 248	MgO (100)
+T53	Material 249 259	substrates
+T55	Value 562 571	3 to 50 c
+T56	Value 585 588	1 c
+T57	Value 607 614	1.17 nm
+T58	Property 700 717	three-dimensional
+T32	Value 1310 1325	(3–9)×109 cm −2
+T59	Value 1341 1356	(2–3)×109 cm −2
+T60	Value 1361 1366	200 c
+T38	Value 1483 1496	0.3×109 cm −2
+T61	Value 1500 1505	850°C
+T62	Value 1510 1514	200c
+T63	Property 1610 1634	critical current density
+T64	Value 1785 1789	55 K
+T65	Value 1796 1799	3 c
+T66	Process 303 314	growth rate
+T67	Process 35 41	growth
+T54	Material 630 646	epitaxial growth
+T68	Process 718 731	island growth
+T69	Material 911 928	adatom clustering
+T70	Process 1238 1251	island growth
+T71	Process 748 760	island grows
+T20	Doping 798 811	incorporation
+T31	Value 1182 1185	720
+T51	Value 1186 1191	760°C
+T72	SC 1780 1784	T c0
+T21	Material 879 897	screw dislocations
+T30	Material 1290 1308	screw dislocations
+R1	Equivalent Arg1:T72 Arg2:T64
+E1	Doping:T20

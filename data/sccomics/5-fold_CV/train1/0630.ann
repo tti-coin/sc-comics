@@ -1,0 +1,36 @@
+T2	Property 35 44	transport
+T3	Property 49 68	magnetic properties
+T4	Element 72 74	Co
+T5	Main 81 92	BaFe 2 As 2
+T6	Element 111 113	Co
+T7	Property 114 127	concentration
+T9	Property 146 166	magnetic transitions
+T10	SC 186 203	superconductivity
+T11	Property 254 265	resistivity
+T13	Material 301 312	composition
+T14	Property 359 370	resistivity
+T15	Property 389 413	Critical current density
+T16	Property 414 417	J c
+T17	Process 421 437	low temperatures
+T18	Property 442 452	low fields
+T20	Property 467 485	bulk magnetization
+T22	SC 571 574	T c
+T23	Property 591 594	J c
+T24	Process 598 614	low temperatures
+T27	Value 317 322	0.075
+T28	Value 627 644	1 × 10 6 A / cm 2
+T25	Value 555 559	0.07
+T32	Value 228 231	0.3
+T33	Value 238 242	0.15
+T8	Material 131 141	structural
+T1	Doping 14 20	doping
+T12	Doping 75 80	doped
+T21	Doping 514 520	doping
+T19	Doping 295 300	doped
+T26	Doping 666 671	doped
+R1	Target Arg1:E2 Arg2:T5
+E1	Doping:T1 
+E2	Doping:T12 Dopant:T4
+E4	Doping:T21 
+E3	Doping:T19 
+E5	Doping:T26 

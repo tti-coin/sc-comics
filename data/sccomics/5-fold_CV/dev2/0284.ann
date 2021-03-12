@@ -1,0 +1,43 @@
+T1	Process 17 36	mechanical alloying
+T2	Process 46 66	solid-state reaction
+T3	Material 93 97	bulk
+T4	Main 98 110	FeSe0.5Te0.5
+T5	SC 111 125	superconductor
+T6	Material 160 175	microstructures
+T7	SC 180 195	superconducting
+T8	Material 269 274	grain
+T9	Element 298 304	β-FeSe
+T10	Process 318 326	sintered
+T12	Material 389 407	lattice parameters
+T13	Process 515 532	chemical pressure
+T14	SC 562 579	superconductivity
+T15	Element 583 599	Fe chalcogenides
+T16	Property 638 649	resistivity
+T17	Process 671 679	sintered
+T18	SC 697 714	superconductivity
+T19	SC 721 730	T c onset
+T20	SC 735 740	T c 0
+T21	SC 813 830	superconductivity
+T22	Process 38 40	MA
+T23	Element 419 425	β-FeSe
+T25	Value 751 754	14K
+T26	Value 759 762	10K
+T11	Material 414 415	c
+T27	Material 408 409	a
+T24	Process 664 670	milled
+T28	Value 660 663	20h
+R1	Equivalent Arg1:T20 Arg2:T26
+R2	Equivalent Arg1:T19 Arg2:T25
+#1	AnnotatorNotes T3	93-97
+#2	AnnotatorNotes T4	98-110
+#3	AnnotatorNotes T6	160-175
+#4	AnnotatorNotes T8	269-274
+#5	AnnotatorNotes T9	298-304
+#6	AnnotatorNotes T12	389-407
+#7	AnnotatorNotes T15	583-599
+#8	AnnotatorNotes T23	419-425
+#9	AnnotatorNotes T25	751-754
+#10	AnnotatorNotes T26	759-762
+#11	AnnotatorNotes T11	414-415
+#12	AnnotatorNotes T27	408-409
+#13	AnnotatorNotes T28	660-663

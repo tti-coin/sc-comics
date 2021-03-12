@@ -1,0 +1,40 @@
+T1	Property 4 24	transport properties
+T2	Property 26 48	electrical resistivity
+T3	Property 59 78	Seebeck coefficient
+T4	Property 84 104	thermal conductivity
+T5	Element 109 113	iron
+T6	SC 120 135	superconductors
+T7	Material 141 146	thick
+T9	Element 163 168	oxide
+T10	Material 169 184	blocking layers
+T13	Property 265 279	thermoelectric
+T14	Property 298 318	thermal conductivity
+T15	Property 369 375	phonon
+T16	SC 418 421	T c
+T18	Property 464 471	phonons
+T19	Property 482 501	Seebeck coefficient
+T20	Property 510 526	Hall coefficient
+T21	Property 652 664	normal state
+T22	Property 665 677	conductivity
+T23	Property 684 693	electrons
+T25	Property 723 727	S(T)
+T26	Property 811 815	band
+T27	SC 816 831	superconductors
+T28	Property 856 886	thermoelectric figure of merit
+T29	Property 962 976	thermoelectric
+T30	Material 977 986	materials
+T31	Material 1042 1056	microstructure
+T32	Material 1064 1089	polycrystalline materials
+T34	Material 1117 1122	grain
+T35	Material 1123 1134	orientation
+T36	Property 50 54	Hall
+T37	Element 189 197	fluorine
+T38	Main 204 211	SmFeAsO
+T11	Property 503 504	S
+T39	Property 528 531	R H
+T40	Value 600 604	300K
+T41	Property 732 738	R H(T)
+T17	Doping 198 203	doped
+T8	Material 147 162	perovskite-type
+R1	Target Arg1:E2 Arg2:T38
+E2	Doping:T17 Dopant:T37

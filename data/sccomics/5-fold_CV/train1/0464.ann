@@ -1,0 +1,87 @@
+T1	SC 29 46	superconductivity
+T2	Element 50 59	potassium
+T3	Element 61 62	K
+T5	SC 152 167	superconducting
+T7	Element 205 213	chrysene
+T8	SC 234 248	superconductor
+T9	Element 250 258	Chrysene
+T10	SC 301 318	superconductivity
+T11	Element 334 335	K
+T14	Property 381 410	first-principles calculations
+T15	Property 494 515	electronic structures
+T18	Element 530 538	chrysene
+T19	Element 576 577	K
+T21	Property 600 616	phase transition
+T22	Material 622 626	C2/c
+T23	Material 634 642	symmetry
+T25	Element 701 709	chrysene
+T27	Material 781 794	semiconductor
+T29	Property 822 840	charge fluctuation
+T30	Material 857 862	metal
+T32	Element 968 976	chrysene
+T33	Property 982 990	metallic
+T6	Element 197 198	K
+T37	Property 420 455	Van der Waals functional correction
+T24	Element 692 694	K2
+T31	Element 960 961	K
+T41	Main 70 102	polycyclic aromatic hydrocarbons
+T42	Main 104 108	PAHs
+T43	Property 870 894	thermodynamically stable
+T36	Value 542 543	1
+T44	Value 545 546	2
+T45	Value 548 549	3
+T46	Value 554 555	4
+T47	Material 273 286	benzene rings
+T48	Material 630 633	P21
+T4	Doping 64 69	doped
+T12	Doping 199 204	doped
+T17	Doping 336 342	doping
+T20	Doping 524 529	doped
+T34	Doping 578 584	doping
+T39	Doping 695 700	doped
+T40	Doping 962 967	doped
+T16	Element 519 520	K
+T28	Element 800 810	K2chrysene
+T13	Element 759 769	K2chrysene
+R1	Coref Arg1:T2 Arg2:T3
+R2	Coref Arg1:T41 Arg2:T42
+R3	Target Arg1:E1 Arg2:T41
+R4	Target Arg1:E2 Arg2:T7
+R5	Target Arg1:E3 Arg2:T9
+R6	Target Arg1:E4 Arg2:T18
+R7	Target Arg1:E6 Arg2:T25
+R8	Target Arg1:E7 Arg2:T32
+E1	Doping:T4 Dopant:T2
+E2	Doping:T12 Dopant:T6
+E3	Doping:T17 Dopant:T11
+E4	Doping:T20 Dopant:T16
+E5	Doping:T34 Dopant:T19
+E6	Doping:T39 Dopant:T24
+E7	Doping:T40 Dopant:T31
+#1	AnnotatorNotes T2	50-59
+#2	AnnotatorNotes T3	61-62
+#3	AnnotatorNotes T7	205-213
+#4	AnnotatorNotes T9	250-258
+#5	AnnotatorNotes T11	334-335
+#6	AnnotatorNotes T18	530-538
+#7	AnnotatorNotes T19	576-577
+#8	AnnotatorNotes T22	622-626
+#9	AnnotatorNotes T23	634-642
+#10	AnnotatorNotes T25	701-709
+#11	AnnotatorNotes T27	781-794
+#12	AnnotatorNotes T30	857-862
+#13	AnnotatorNotes T32	968-976
+#14	AnnotatorNotes T6	197-198
+#15	AnnotatorNotes T24	692-694
+#16	AnnotatorNotes T31	960-961
+#17	AnnotatorNotes T41	70-102
+#18	AnnotatorNotes T42	104-108
+#19	AnnotatorNotes T36	542-543
+#20	AnnotatorNotes T44	545-546
+#21	AnnotatorNotes T45	548-549
+#22	AnnotatorNotes T46	554-555
+#23	AnnotatorNotes T47	273-286
+#24	AnnotatorNotes T48	630-633
+#25	AnnotatorNotes T16	519-520
+#26	AnnotatorNotes T28	800-810
+#27	AnnotatorNotes T13	759-769

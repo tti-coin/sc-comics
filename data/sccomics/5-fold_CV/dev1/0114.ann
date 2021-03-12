@@ -1,0 +1,35 @@
+T1	Material 4 18	microstructure
+T2	Process 22 44	molecular beam epitaxy
+T3	Process 46 49	MBE
+T4	Material 72 77	films
+T5	Characterization 98 141	reflection high-energy electron diffraction
+T6	Characterization 143 148	RHEED
+T7	Characterization 151 186	high-resolution electron microscopy
+T8	Characterization 188 192	HREM
+T9	Characterization 198 215	X-ray diffraction
+T10	Characterization 217 220	XRD
+T11	Characterization 240 245	RHEED
+T12	Material 265 270	films
+T13	Property 313 320	domains
+T14	Property 328 335	domains
+T15	Material 344 358	incommensurate
+T16	Material 439 445	faults
+T17	Material 464 474	thin films
+T18	Material 500 510	structural
+T19	Material 511 518	defects
+T20	Characterization 555 558	XRD
+T21	Material 603 608	films
+T22	Characterization 651 654	XRD
+T23	Property 655 660	model
+T24	Characterization 692 695	XRD
+T25	Property 706 711	model
+T26	Material 832 842	structural
+T29	Material 886 896	thin films
+T30	Element 416 420	2201
+T31	Element 57 71	Bi2Sr2CaCu2O x
+T33	Element 425 429	2223
+T34	Main 449 463	Bi2Sr2CaCu2O x
+T36	Value 300 303	90°
+T37	Material 276 291	two-dimensional
+T38	Process 259 264	grown
+T27	SC 861 885	high-T c superconducting

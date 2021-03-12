@@ -1,0 +1,28 @@
+T1	Process 14 36	annealing temperatures
+T2	Material 44 54	structural
+T3	SC 59 74	superconducting
+T4	Main 89 96	Bi-2223
+T5	Material 97 105	ceramics
+T6	Process 122 142	solid state reaction
+T7	Process 173 195	Annealing temperatures
+T8	Property 263 285	Electrical resistivity
+T9	Process 314 322	annealed
+T10	Property 356 367	resistivity
+T11	Process 378 394	room temperature
+T14	Characterization 453 456	XRD
+T15	Element 498 505	Bi-2223
+T17	Property 618 621	J c
+T18	Property 665 681	hysteresis loops
+T20	Process 732 754	annealing temperatures
+T21	Process 796 817	annealing temperature
+T23	Value 258 261	50h
+T24	Value 326 331	830°C
+T25	Value 336 339	50h
+T26	Property 536 548	diamagnetism
+T27	Value 598 603	830°C
+T16	Property 692 704	Bean's model
+T19	Value 761 766	780°C
+T28	Value 827 832	830°C
+T22	Value 213 216	730
+T29	Value 220 225	830°C
+T12	SC 401 432	critical transition temperature

@@ -1,0 +1,22 @@
+T1	Element 4 18	Bismuth-family
+T2	SC 22 54	high temperature superconductors
+T3	SC 103 137	high temperature superconductivity
+T4	Material 156 165	tri-layer
+T5	Main 166 194	Bi 2 Sr 2 Ca 2 Cu 3 O 10 + δ
+T7	Process 278 294	vacuum annealing
+T10	Material 350 359	tri-layer
+T11	Element 360 368	cuprates
+T12	Element 369 397	Bi 2 Sr 2 Ca 2 Cu 3 O 10 + δ
+T13	SC 427 450	transition temperatures
+T14	SC 487 514	superconducting transitions
+T15	Material 547 555	crystals
+T16	SC 627 661	high temperature superconductivity
+T19	Value 459 462	18K
+T6	Doping 207 217	underdoped
+T8	Doping 339 349	underdoped
+R1	Equivalent Arg1:T13 Arg2:T19
+R2	Target Arg1:T19 Arg2:T12
+R3	Target Arg1:E1 Arg2:T5
+R4	Target Arg1:E2 Arg2:T11
+E1	Doping:T6
+E2	Doping:T8

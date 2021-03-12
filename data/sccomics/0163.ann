@@ -1,0 +1,60 @@
+T1	Material 19 26	surface
+T2	Material 46 61	single crystals
+T3	Material 76 82	layers
+T4	SC 98 119	critical temperatures
+T5	Material 148 156	crystals
+T6	SC 182 184	Tc
+T7	Material 202 209	surface
+T8	Material 271 276	layer
+T9	Material 382 397	single crystals
+T10	Material 415 423	crystals
+T11	Material 431 435	bulk
+T12	SC 436 439	T c
+T13	Material 469 474	layer
+T14	SC 507 510	T c
+T16	SC 576 579	T c
+T17	SC 605 608	T c
+T18	Material 622 627	layer
+T19	Material 645 649	bulk
+T21	Material 684 688	bulk
+T22	SC 689 692	T c
+T23	Material 713 725	double layer
+T24	SC 742 757	superconducting
+T25	Material 834 840	layers
+T26	Element 0 6	Oxygen
+T27	Main 30 45	Bi2Sr2CaCu2O8+x
+T29	Element 71 75	CuO2
+T30	Element 255 261	oxygen
+T31	Element 320 322	Pb
+T32	Element 326 328	Ag
+T33	Element 366 381	Bi2Sr2CaCu2O8+x
+T37	Element 708 712	CuO2
+T38	Element 829 833	CuO2
+T39	Value 519 523	30 K
+T44	Process 303 314	evaporating
+T45	Material 329 339	electrodes
+T20	Property 806 818	current flow
+T15	Doping 564 570	doping
+T35	Doping 405 414	overdoped
+T41	Doping 491 501	underdoped
+T28	Value 443 445	55
+T36	Value 449 453	60 K
+T40	Value 588 590	80
+T46	Value 595 599	90 K
+T43	Property 224 233	transport
+T47	Characterization 234 246	measurements
+T42	Property 778 787	transport
+T48	Characterization 788 800	measurements
+R1	Equivalent Arg1:T12 Arg2:T28
+R2	Equivalent Arg1:T12 Arg2:T36
+R3	Equivalent Arg1:T14 Arg2:T39
+R4	Equivalent Arg1:T16 Arg2:T40
+R5	Equivalent Arg1:T16 Arg2:T46
+R6	Condition Arg1:T39 Arg2:E3
+R7	Condition Arg1:T40 Arg2:E1
+R8	Condition Arg1:T46 Arg2:E1
+R9	Condition Arg1:T36 Arg2:E2
+R10	Condition Arg1:T28 Arg2:E2
+E1	Doping:T15
+E2	Doping:T35
+E3	Doping:T41

@@ -1,0 +1,33 @@
+T1	Process 0 15	Low-temperature
+T3	Characterization 65 68	STM
+T4	Characterization 69 72	STS
+T5	Main 112 124	α-Na x TiNCl
+T6	SC 136 151	superconductors
+T7	SC 157 160	T c
+T8	Characterization 173 176	STM
+T9	Material 242 249	spacing
+T10	Material 315 334	rectangular lattice
+T11	Property 363 374	conductance
+T12	SC 427 442	superconducting
+T13	SC 495 498	T c
+T14	SC 512 515	T c
+T15	Property 698 717	charge density wave
+T17	Element 755 757	Na
+T18	Property 827 840	Fermi surface
+T19	Characterization 16 63	scanning tunnelling microscopy and spectroscopy
+T20	Value 130 134	0.16
+T22	Value 164 167	18K
+T23	Material 225 232	b -axis
+T24	Value 265 271	0.39nm
+T26	Value 518 520	12
+T27	Value 460 467	9.5 meV
+T28	Value 621 626	1.6nm
+T31	Value 760 763	0.2
+T21	Property 443 446	gap
+T33	Characterization 74 86	measurements
+T25	Property 488 491	gap
+T29	Value 643 650	5 times
+T16	Doping 738 744	doping
+R1	Equivalent Arg1:T7 Arg2:T22
+R2	Target Arg1:T22 Arg2:T5
+E1	Doping:T16 Dopant:T17

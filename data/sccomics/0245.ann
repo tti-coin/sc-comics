@@ -1,0 +1,64 @@
+T1	Main 0 47	Tl0.9Bi0.1Sr1.8Yb0.2Ca1−x Cd x Cu1.99Fe0.01O7−δ
+T2	Material 58 66	ceramics
+T4	Element 163 167	Cd2+
+T6	SC 185 221	superconducting fluctuation behavior
+T7	Material 231 241	structural
+T8	Element 260 266	Tl1212
+T9	Material 267 278	derivatives
+T11	Property 347 355	metallic
+T12	Property 356 368	normal-state
+T16	Element 527 531	Cd2+
+T17	Characterization 567 570	XRD
+T18	Material 598 609	inter-plane
+T19	Material 662 675	c-axis length
+T20	Element 704 710	oxygen
+T21	Element 721 723	Cd
+T22	Property 724 737	concentration
+T24	Element 785 787	Cd
+T26	Property 817 829	conductivity
+T27	SC 845 848	T c
+T28	Property 894 899	model
+T29	Property 945 950	model
+T30	Property 990 1005	two-dimensional
+T31	Property 1013 1030	three-dimensional
+T32	Property 1032 1034	3D
+T33	SC 1115 1145	highest transition temperature
+T34	Property 1207 1223	coherence length
+T36	Material 1249 1260	inter-plane
+T37	Property 1360 1370	anisotropy
+T38	SC 1401 1418	superconductivity
+T42	Value 51 56	0–0.4
+T3	Process 104 132	solid-state synthesis method
+T15	SC 422 430	T c zero
+T43	Value 447 452	40.0K
+T45	Value 456 457	0
+T46	Value 462 467	76.4K
+T47	Value 471 474	0.3
+T49	Value 497 502	74.8K
+T50	Value 506 509	0.4
+T53	Property 924 940	Lawrence–Doniach
+T54	Property 942 944	LD
+T55	Property 873 889	Aslamazov–Larkin
+T56	Property 891 893	AL
+T52	Characterization 533 546	FTIR analysis
+T62	Value 1173 1176	0.3
+T63	Property 1007 1009	2D
+T59	SC 223 226	SFB
+T64	SC 1035 1038	SFB
+T65	SC 805 808	SFB
+T5	Doping 168 181	substitutions
+T25	Doping 788 801	substitutions
+T10	SC 383 420	zero resistivity critical temperature
+T13	Value 1073 1076	0.1
+T14	Value 1077 1080	0.4
+T35	Property 1225 1232	ξ c (0)
+T58	Property 1372 1373	γ
+T39	Property 1149 1154	2D–3D
+T23	Property 280 302	Electrical resistivity
+T40	Characterization 303 315	measurements
+R1	Equivalent Arg1:T15 Arg2:T43
+R2	Equivalent Arg1:T15 Arg2:T46
+R3	Equivalent Arg1:T15 Arg2:T49
+R4	Target Arg1:E1 Arg2:T1
+E1	Doping:T5 Dopant:T4
+E2	Doping:T25 Dopant:T24

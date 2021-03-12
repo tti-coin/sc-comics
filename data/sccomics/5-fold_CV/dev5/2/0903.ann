@@ -1,0 +1,33 @@
+T1	SC 82 97	superconducting
+T2	Element 98 108	Fe(Te, Se)
+T3	SC 149 164	superconducting
+T4	Element 182 184	Fe
+T5	SC 191 206	superconductors
+T6	Property 227 236	transport
+T8	Element 283 285	Cu
+T10	Main 331 339	Fe1.05Te
+T12	Property 390 407	antiferromagnetic
+T13	Property 409 412	AFM
+T14	Element 508 510	Cu
+T17	Property 611 619	metallic
+T18	Property 644 647	AFM
+T19	Property 648 656	ordering
+T20	Property 681 691	spin-glass
+T21	Process 709 725	low temperatures
+T22	Property 748 757	transport
+T23	Property 766 785	magnetic properties
+T24	Element 795 797	Cu
+T25	Property 828 841	phase diagram
+T26	Property 883 893	local spin
+T27	Property 934 949	itinerant model
+T28	Element 958 966	Fe1.05Te
+T30	Value 595 599	0.05
+T34	Value 481 485	70 K
+T36	Element 52 56	FeTe
+T7	Doping 286 292	doping
+T9	Property 526 552	AFM transition temperature
+T11	Property 440 470	semiconductor–metal transition
+T15	Property 241 254	magnetization
+T16	Characterization 255 267	measurements
+R1	Target Arg1:E1 Arg2:T10
+E1	Doping:T7 Dopant:T8

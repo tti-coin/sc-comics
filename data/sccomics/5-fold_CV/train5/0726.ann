@@ -1,0 +1,81 @@
+T1	Main 0 22	SmBa2Cu3− x Fe x O7− δ
+T2	Main 24 29	SBCFO
+T3	Process 78 98	solid-state reaction
+T4	Element 124 126	Fe
+T6	Material 141 150	structure
+T7	Property 152 172	electronic transport
+T9	Characterization 188 201	Raman spectra
+T10	Element 205 210	SBCFO
+T11	Characterization 247 264	X-ray measurement
+T12	Element 280 287	Fe ions
+T13	Material 326 347	crystalline structure
+T14	Element 352 357	SBCFO
+T17	Material 402 414	orthorhombic
+T18	Material 418 428	tetragonal
+T19	SC 458 473	superconducting
+T20	SC 475 477	SC
+T21	SC 479 501	transition temperature
+T22	SC 502 505	T c
+T24	Property 559 579	insulator transition
+T26	Characterization 651 663	Raman shifts
+T27	Property 697 703	phonon
+T28	Element 767 773	oxygen
+T29	Material 774 784	deficiency
+T30	Material 792 797	chain
+T31	Material 798 807	structure
+T32	Property 846 856	electrical
+T33	Property 857 877	transport properties
+T34	Characterization 882 895	Raman spectra
+T35	Element 899 921	SmBa2Cu3− x Fe x O7− δ
+T36	Material 922 932	composites
+T38	Element 983 985	Fe
+T45	Value 440 444	0.05
+T46	Element 537 539	Fe
+T51	Value 449 452	0.1
+T53	Value 623 626	0.3
+T8	Material 370 396	structure phase transition
+T15	Material 953 967	O–T transition
+T5	Doping 127 133	doping
+T16	Doping 540 546	doping
+T25	Doping 986 992	doping
+T37	Value 35 38	0.0
+T39	Value 39 42	0.4
+T23	Doping 596 602	doping
+T40	Value 733 736	229
+T41	Value 741 748	589cm−1
+R1	Coref Arg1:T1 Arg2:T2
+R2	Coref Arg1:T19 Arg2:T20
+R3	Coref Arg1:T21 Arg2:T22
+R4	Target Arg1:E1 Arg2:T10
+R5	Target Arg1:E4 Arg2:T35
+E1	Doping:T5 Dopant:T4
+E2	Doping:T16 Dopant:T46
+E4	Doping:T25 Dopant:T38
+E3	Doping:T23 
+#1	AnnotatorNotes T1	0-22
+#2	AnnotatorNotes T2	24-29
+#3	AnnotatorNotes T4	124-126
+#4	AnnotatorNotes T6	141-150
+#5	AnnotatorNotes T10	205-210
+#6	AnnotatorNotes T12	280-287
+#7	AnnotatorNotes T13	326-347
+#8	AnnotatorNotes T14	352-357
+#9	AnnotatorNotes T17	402-414
+#10	AnnotatorNotes T18	418-428
+#11	AnnotatorNotes T28	767-773
+#12	AnnotatorNotes T29	774-784
+#13	AnnotatorNotes T30	792-797
+#14	AnnotatorNotes T31	798-807
+#15	AnnotatorNotes T35	899-921
+#16	AnnotatorNotes T36	922-932
+#17	AnnotatorNotes T38	983-985
+#18	AnnotatorNotes T45	440-444
+#19	AnnotatorNotes T46	537-539
+#20	AnnotatorNotes T51	449-452
+#21	AnnotatorNotes T53	623-626
+#22	AnnotatorNotes T8	370-396
+#23	AnnotatorNotes T15	953-967
+#24	AnnotatorNotes T37	35-38
+#25	AnnotatorNotes T39	39-42
+#26	AnnotatorNotes T40	733-736
+#27	AnnotatorNotes T41	741-748

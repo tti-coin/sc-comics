@@ -1,0 +1,41 @@
+T1	Property 4 14	electronic
+T2	Property 15 28	phase diagram
+T3	Main 36 44	cuprates
+T4	SC 124 150	high-T c superconductivity
+T5	Element 214 222	cuprates
+T6	Property 240 257	antiferromagnetic
+T7	Property 258 273	Mott insulators
+T8	Property 275 290	charge-transfer
+T9	Property 291 301	insulators
+T10	SC 312 338	high-T c superconductivity
+T12	Property 365 370	holes
+T13	Property 374 383	electrons
+T15	Property 420 434	Mott-insulator
+T16	SC 480 497	superconductivity
+T17	Material 525 531	square
+T18	Element 539 547	cuprates
+T19	Element 557 564	Nd2CuO4
+T20	Material 570 579	structure
+T21	Property 596 606	electronic
+T22	Property 607 620	phase diagram
+T23	Element 627 635	cuprates
+T24	Element 781 789	cuprates
+T27	Material 859 867	material
+T28	Material 902 910	material
+T30	Element 941 952	oxygen ions
+T31	Element 992 998	oxygen
+T32	Material 999 1008	vacancies
+T33	Element 1016 1020	CuO2
+T34	Material 1021 1027	planes
+T36	Property 1096 1107	solid-state
+T37	Element 1124 1132	cuprates
+T38	Property 389 411	Mott–Hubbard insulator
+T29	Material 960 971	apical site
+T40	Material 778 780	T’
+T14	Material 624 626	T’
+T41	Material 1121 1123	T’
+T11	Doping 414 419	doped
+T25	Doping 358 364	doping
+E1	Doping:T11
+E2	Doping:T25 Dopant:T13
+E3	Doping:T25 Dopant:T12

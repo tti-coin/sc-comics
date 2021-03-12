@@ -1,0 +1,45 @@
+T1	Property 4 24	transport properties
+T2	Property 26 47	upper critical fields
+T3	SC 49 64	superconducting
+T4	Property 65 75	anisotropy
+T5	Property 81 105	critical current density
+T6	Element 123 133	phosphorus
+T7	Main 140 148	BaFe2As2
+T8	Material 149 163	single crystal
+T10	Property 221 242	Temperature dependent
+T11	Property 243 254	resistivity
+T12	Property 259 273	susceptibility
+T13	SC 281 319	superconducting transition temperature
+T14	SC 321 324	T c
+T15	Property 376 396	upper critical field
+T16	Material 413 421	ab-plane
+T17	Material 470 477	c -axis
+T18	SC 534 549	superconducting
+T19	Property 550 560	anisotropy
+T20	Material 587 598	inter-plane
+T21	Property 599 615	coherence length
+T22	Property 629 644	Ginzburg–Landau
+T23	Element 668 687	BaFe2(As0.68P0.32)2
+T24	SC 755 770	superconducting
+T25	Material 771 777	layers
+T26	Property 821 845	critical current density
+T27	Property 867 886	magnetization loops
+T28	Property 913 916	J c
+T30	Value 849 852	5 K
+T31	Value 928 937	105 A/cm2
+T33	Value 569 570	2
+T36	Characterization 887 898	measurement
+T37	Property 112 122	iso-valent
+T38	Property 646 649	G-L
+T39	Property 651 657	theory
+T40	Property 719 740	dimensional crossover
+T9	Doping 134 139	doped
+T35	Doping 181 187	doping
+T34	Value 338 342	31 K
+T29	Value 444 448	77 T
+T32	Value 513 517	36 T
+R1	Coref Arg1:T13 Arg2:T14
+R2	Target Arg1:E1 Arg2:T7
+R3	Equivalent Arg1:T14 Arg2:T34
+E1	Doping:T9 Dopant:T6
+E2	Doping:T35 

@@ -1,0 +1,87 @@
+T1	SC 49 87	superconducting transition temperature
+T2	SC 88 91	T c
+T3	Property 95 107	non-magnetic
+T4	Element 108 110	Zn
+T5	Material 111 119	impurity
+T6	Element 121 123	Zn
+T8	Property 145 165	electronic structure
+T11	SC 205 219	superconductor
+T12	Main 220 243	LaFe1−x−y Co x Zn y AsO
+T16	Characterization 301 304	XAS
+T17	Element 307 309	Fe
+T18	Element 314 316	As
+T22	Characterization 365 370	XANES
+T24	Element 414 416	Fe
+T25	Element 421 423	As
+T26	Material 424 429	atoms
+T27	Element 449 451	Zn
+T28	Material 452 462	impurities
+T30	Element 484 486	Zn
+T31	Material 487 497	impurities
+T34	Element 556 558	Fe
+T35	Characterization 573 604	X-ray absorption fine structure
+T36	Characterization 606 611	EXAFS
+T37	Element 619 621	Zn
+T39	Element 633 637	FeAs
+T40	Material 638 642	bond
+T41	Element 675 679	FeFe
+T42	Property 680 685	pairs
+T43	Element 728 733	FeAs4
+T44	Element 765 767	Zn
+T45	Material 768 778	impurities
+T46	Element 794 815	LaFe1−x Co x Zn y AsO
+T47	SC 849 852	T c
+T48	Element 856 858	Zn
+T49	Material 859 867	impurity
+T50	Element 913 918	FeAs4
+T9	Material 176 196	structure distortion
+T13	Characterization 270 299	X-ray absorption spectroscopy
+T14	Property 317 323	K-edge
+T15	Characterization 324 363	X-ray absorption near-edge spectroscopy
+T19	Material 502 525	local lattice structure
+T20	Element 563 565	As
+T21	Material 718 727	distorted
+T55	Material 734 745	tetrahedron
+T56	Material 919 930	tetrahedron
+T57	Material 903 912	distorted
+T23	Property 386 405	charge distribution
+T7	Doping 124 130	doping
+T29	Doping 474 480	doping
+T38	Doping 622 628	doping
+R1	Coref Arg1:T1 Arg2:T2
+R2	Target Arg1:E1 Arg2:T12
+E1	Doping:T7 Dopant:T6
+E2	Doping:T29 Dopant:T30
+E3	Doping:T38 Dopant:T37 Site:T39
+#1	AnnotatorNotes T4	108-110
+#2	AnnotatorNotes T5	111-119
+#3	AnnotatorNotes T6	121-123
+#4	AnnotatorNotes T12	220-243
+#5	AnnotatorNotes T17	307-309
+#6	AnnotatorNotes T18	314-316
+#7	AnnotatorNotes T24	414-416
+#8	AnnotatorNotes T25	421-423
+#9	AnnotatorNotes T26	424-429
+#10	AnnotatorNotes T27	449-451
+#11	AnnotatorNotes T28	452-462
+#12	AnnotatorNotes T30	484-486
+#13	AnnotatorNotes T31	487-497
+#14	AnnotatorNotes T34	556-558
+#15	AnnotatorNotes T37	619-621
+#16	AnnotatorNotes T39	633-637
+#17	AnnotatorNotes T40	638-642
+#18	AnnotatorNotes T41	675-679
+#19	AnnotatorNotes T43	728-733
+#20	AnnotatorNotes T44	765-767
+#21	AnnotatorNotes T45	768-778
+#22	AnnotatorNotes T46	794-815
+#23	AnnotatorNotes T48	856-858
+#24	AnnotatorNotes T49	859-867
+#25	AnnotatorNotes T50	913-918
+#26	AnnotatorNotes T9	176-196
+#27	AnnotatorNotes T19	502-525
+#28	AnnotatorNotes T20	563-565
+#29	AnnotatorNotes T21	718-727
+#30	AnnotatorNotes T55	734-745
+#31	AnnotatorNotes T56	919-930
+#32	AnnotatorNotes T57	903-912

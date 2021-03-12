@@ -1,0 +1,51 @@
+T1	Property 3 7	hole
+T4	Property 45 67	carrier concentrations
+T5	SC 106 121	superconducting
+T6	Property 122 132	energy gap
+T7	Property 141 150	pseudogap
+T8	Property 252 262	energy gap
+T9	Property 297 312	order parameter
+T10	Property 321 329	electron
+T12	Element 336 344	cuprates
+T13	Property 349 358	pseudogap
+T15	SC 380 395	superconducting
+T16	SC 421 436	superconducting
+T17	SC 522 536	superconductor
+T18	Property 537 546	insulator
+T19	SC 547 561	superconductor
+T20	Material 569 585	tunnel junctions
+T22	Property 675 688	phase diagram
+T23	Property 696 704	electron
+T26	Element 734 757	Pr 2 - x Ce x CuO 4 - δ
+T27	SC 764 779	superconducting
+T28	Property 797 800	BCS
+T29	Property 806 828	temperature dependence
+T30	Property 852 874	carrier concentrations
+T32	SC 921 924	T c
+T33	SC 976 991	superconducting
+T34	Property 1012 1020	electron
+T36	Element 1027 1035	cuprates
+T39	Property 625 638	gap amplitude
+T38	Property 780 783	gap
+T40	Property 437 440	gap
+T41	Characterization 233 244	measurement
+T2	Doping 8 13	doped
+T3	SC 22 37	superconductors
+T11	Main 14 21	cuprate
+T21	Doping 330 335	doped
+T24	Doping 655 661	doping
+T31	Doping 705 710	doped
+T35	Doping 900 906	doping
+T42	Doping 1021 1026	doped
+T14	Element 711 718	cuprate
+T25	SC 719 733	superconductor
+R1	Target Arg1:E1 Arg2:T11
+R2	Target Arg1:E2 Arg2:T12
+R3	Target Arg1:E6 Arg2:T36
+R4	Target Arg1:E4 Arg2:T14
+E1	Doping:T2 Dopant:T1
+E2	Doping:T21 Dopant:T10
+E3	Doping:T24 
+E4	Doping:T31 Dopant:T23
+E5	Doping:T35 
+E6	Doping:T42 Dopant:T34

@@ -1,0 +1,62 @@
+T1	Material 27 31	film
+T3	SC 78 93	superconducting
+T4	Material 133 143	thin films
+T5	Characterization 183 186	RBS
+T6	Material 221 226	films
+T7	Process 244 254	deposition
+T8	Process 330 352	ultrasonic excitations
+T9	Material 374 388	single crystal
+T10	Material 457 462	films
+T11	SC 529 543	superconductor
+T13	SC 578 581	T c
+T14	SC 590 605	superconducting
+T15	Material 606 611	films
+T16	SC 744 759	superconducting
+T17	Material 760 765	films
+T18	Material 866 870	bulk
+T19	Material 878 882	film
+T20	Material 890 897	surface
+T21	SC 1048 1063	superconducting
+T22	Material 1078 1083	films
+T23	Material 1223 1228	films
+T29	Main 94 107	TlBaCaCuO
+T33	Element 122 132	BaCaCuO
+T34	Element 389 392	MgO
+T38	Element 210 220	BaCaCuO
+T40	Element 426 429	YSZ
+T44	Element 446 456	BaCaCuO
+T46	Value 676 684	95 vol.%
+T47	Element 692 712	Tl2Ba2CaCu2O x phase
+T49	Element 800 808	thallium
+T50	Element 829 831	Tl
+T51	Element 1019 1025	carbon
+T52	Element 1156 1162	carbon
+T53	Element 1217 1222	oxide
+T54	Element 1454 1456	Tl
+T55	Element 1480 1485	pTl2O
+T56	Element 1490 1493	pO2
+T57	Element 1329 1337	thallium
+T58	Process 1384 1414	dynamical thallination process
+T59	Characterization 160 163	IBA
+T60	Characterization 191 194	NRA
+T61	Characterization 714 717	IBA
+T62	Characterization 984 987	IBA
+T25	Element 397 424	yttrium-stabilized zirconia
+T2	Process 261 268	aerosol
+T26	Process 270 285	spray pyrolysis
+T27	Process 301 326	aqueous nitrate solutions
+T28	Process 776 786	oxygenated
+T30	Material 809 818	deficient
+T31	Characterization 1085 1102	Thermogravimetric
+T32	Process 1268 1280	thallination
+T35	Process 1507 1519	thallination
+T36	Value 624 627	101
+T37	Value 631 636	103 K
+T12	SC 549 576	critical temperature values
+T24	Process 1462 1479	partial pressures
+R1	Coref Arg1:T25 Arg2:T40
+R2	Coref Arg1:T12 Arg2:T13
+R3	Target Arg1:T36 Arg2:T47
+R4	Target Arg1:T37 Arg2:T47
+R5	Equivalent Arg1:T13 Arg2:T36
+R6	Equivalent Arg1:T13 Arg2:T37

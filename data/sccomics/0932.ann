@@ -1,0 +1,27 @@
+T1	Property 68 85	electronic states
+T2	Element 106 114	graphene
+T4	Material 115 128	superlattices
+T5	Property 139 152	Hubbard model
+T6	Material 158 170	double-layer
+T8	Property 242 263	antiferromagnetically
+T9	Property 264 271	ordered
+T10	Property 272 286	Mott insulator
+T11	Property 304 312	critical
+T13	Property 363 370	pairing
+T14	Material 384 392	symmetry
+T15	Property 414 422	pairings
+T16	Process 426 441	low temperature
+T17	Property 457 472	d + i d pairing
+T18	Property 519 538	Coulomb interaction
+T19	SC 570 587	superconductivity
+T20	Property 601 630	electron-electron correlation
+T21	Material 694 701	bilayer
+T22	Element 702 710	graphene
+T23	SC 730 745	superconducting
+T24	SC 759 791	high temperature superconductors
+T26	Value 215 221	1.08 °
+T27	Material 171 188	honeycomb lattice
+T28	Property 12 38	quantum Monte Carlo method
+T3	Material 94 105	magic-angle
+T7	Doping 351 357	doping
+E1	Doping:T7

@@ -1,0 +1,48 @@
+T1	Material 64 70	liquid
+T3	SC 138 153	superconductors
+T4	Material 197 202	metal
+T5	Material 310 317	Powders
+T6	Material 338 347	molecular
+T7	Material 381 388	ternary
+T8	Process 487 495	annealed
+T9	SC 546 560	superconductor
+T11	SC 589 592	T c
+T12	Process 708 717	annealing
+T13	Property 719 729	Electrical
+T14	Property 734 753	magnetic properties
+T15	SC 814 829	superconducting
+T16	SC 841 844	T c
+T17	SC 857 860	T c
+T18	SC 867 870	T c
+T19	SC 961 964	T c
+T20	Process 1093 1102	annealing
+T22	Element 0 5	Bi2O3
+T23	Element 7 10	PbO
+T24	Element 12 17	SrCO3
+T25	Element 19 22	CaO
+T26	Element 27 30	CuO
+T28	Element 540 545	BSCCO
+T29	Value 499 505	845 °C
+T10	SC 568 588	critical temperature
+T30	Value 595 600	110 K
+T31	Value 618 626	3 g cm−3
+T32	Value 929 933	20 K
+T34	Value 1118 1123	100 h
+T27	Main 108 130	Bi1.8Pb0.2Sr2Ca2Cu3O10
+T2	Element 71 87	ammonium nitrate
+T21	Property 1047 1071	critical current density
+T35	Element 203 210	nitrate
+T37	Element 215 222	nitrate
+T39	Material 370 376	binary
+T40	Element 389 395	oxides
+T41	Main 132 136	2223
+T36	Value 510 512	25
+T42	Value 513 518	125 h
+T33	Value 694 697	25%
+T43	Value 698 701	40%
+T38	Process 289 308	exothermic reaction
+T44	Material 157 171	honeycomb-type
+T45	Material 172 181	structure
+T46	Material 525 539	honeycomb-type
+R1	Equivalent Arg1:T11 Arg2:T30
+R4	Target Arg1:T30 Arg2:T28

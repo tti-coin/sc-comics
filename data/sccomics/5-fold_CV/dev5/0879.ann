@@ -1,0 +1,62 @@
+T1	Main 0 4	MgB2
+T2	Material 5 17	bulk samples
+T3	Element 23 42	potassium carbonate
+T5	Element 94 96	Mg
+T6	Element 101 102	B
+T7	Material 103 110	powders
+T8	Element 141 146	K2CO3
+T9	SC 152 154	Tc
+T10	SC 162 177	superconducting
+T11	Element 246 252	carbon
+T13	Element 261 270	Potassium
+T14	Property 312 336	critical current density
+T15	Element 340 344	MgB2
+T16	Property 366 376	self field
+T17	Property 395 409	magnetic field
+T18	Element 456 461	K2CO3
+T20	Property 487 505	flux pinning force
+T21	Property 528 540	flux pinning
+T22	Property 554 563	low field
+T24	Property 631 644	pinning model
+T25	Element 747 752	K2CO3
+T27	Material 780 787	surface
+T28	Property 788 795	pinning
+T29	Element 815 821	carbon
+T30	Element 841 846	K2CO3
+T31	Material 894 906	liquid phase
+T32	Material 935 948	crystallinity
+T33	Property 962 986	critical current density
+T34	Property 990 999	low field
+T35	Value 418 422	30 K
+T36	Value 449 455	1 mol%
+T39	Material 199 215	a-axis parameter
+T4	Doping 43 49	doping
+T12	Doping 253 259	doping
+T19	Doping 462 470	addition
+T23	Doping 753 762	additions
+R1	Target Arg1:E1 Arg2:T1
+R2	Target Arg1:E3 Arg2:T15
+E1	Doping:T4 Dopant:T3
+E2	Doping:T12 Dopant:T11
+E3	Doping:T19 Dopant:T18
+E4	Doping:T23 Dopant:T25
+#1	AnnotatorNotes T1	0-4
+#2	AnnotatorNotes T2	5-17
+#3	AnnotatorNotes T3	23-42
+#4	AnnotatorNotes T5	94-96
+#5	AnnotatorNotes T6	101-102
+#6	AnnotatorNotes T7	103-110
+#7	AnnotatorNotes T8	141-146
+#8	AnnotatorNotes T11	246-252
+#9	AnnotatorNotes T13	261-270
+#10	AnnotatorNotes T15	340-344
+#11	AnnotatorNotes T18	456-461
+#12	AnnotatorNotes T25	747-752
+#13	AnnotatorNotes T27	780-787
+#14	AnnotatorNotes T29	815-821
+#15	AnnotatorNotes T30	841-846
+#16	AnnotatorNotes T31	894-906
+#17	AnnotatorNotes T32	935-948
+#18	AnnotatorNotes T35	418-422
+#19	AnnotatorNotes T36	449-455
+#20	AnnotatorNotes T39	199-215

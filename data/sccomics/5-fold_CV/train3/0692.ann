@@ -1,0 +1,68 @@
+T1	Element 31 34	PAN
+T2	Element 36 45	–[C3H3N]–
+T3	Element 53 54	O
+T4	Material 60 67	organic
+T5	Material 68 74	dopant
+T7	Main 98 102	MgB2
+T8	Material 103 108	wires
+T9	Material 124 130	powder
+T10	Element 160 163	PAN
+T11	Material 164 171	powders
+T12	Element 198 199	B
+T13	Material 200 206	powder
+T15	Material 251 258	powders
+T16	Element 275 277	Mg
+T17	Material 278 284	powder
+T18	Element 298 300	Fe
+T19	Material 301 306	tubes
+T20	Material 328 333	wires
+T21	Process 335 344	Sintering
+T22	Element 388 390	Ar
+T23	Element 400 403	PAN
+T25	Property 425 445	critical temperature
+T26	Property 447 450	T c
+T27	Material 463 480	lattice parameter
+T28	Property 513 537	critical current density
+T29	Property 539 542	J c
+T30	Property 547 558	high fields
+T31	Property 560 580	upper critical field
+T33	Property 593 614	irreversibility field
+T35	Element 688 689	B
+T36	Element 701 702	C
+T37	Element 710 713	PAN
+T39	Element 752 755	MgO
+T41	Property 817 820	J c
+T43	Element 838 842	MgB2
+T44	Material 843 848	wires
+T45	Property 867 872	order
+T47	Element 918 922	MgB2
+T48	Element 828 831	PAN
+T49	Element 12 29	polyacrylonitrile
+T50	Element 90 91	C
+T14	Process 215 235	liquid mixing method
+T52	Value 362 367	900°C
+T53	Value 372 374	1h
+T54	Value 931 933	5K
+T55	Value 938 942	6.6T
+T57	Value 964 974	0.11kA/cm2
+T58	Material 456 462	a-axis
+T6	Doping 92 97	doped
+T24	Doping 404 410	doping
+T32	Doping 673 684	replacement
+T34	Doping 714 720	doping
+T38	Doping 787 793	doping
+T40	Doping 832 837	doped
+T42	Value 151 152	0
+T46	Value 153 159	5 wt.%
+T51	Value 944 948	1.46
+T56	Value 949 959	3.82kA/cm2
+R1	Coref Arg1:T49 Arg2:T1
+R2	Coref Arg1:T49 Arg2:T2
+R4	Target Arg1:E1 Arg2:T7
+R5	Target Arg1:E6 Arg2:T43
+E1	Doping:T6 Dopant:T50
+E2	Doping:T24 Dopant:T23
+E3	Doping:T32 Site:T35 Dopant:T36
+E4	Doping:T34 Dopant:T37
+E5	Doping:T38 
+E6	Doping:T40 Dopant:T48

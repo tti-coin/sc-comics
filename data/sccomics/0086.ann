@@ -1,0 +1,56 @@
+T1	Process 49 60	temperature
+T2	Process 69 88	O2 partial pressure
+T4	SC 144 147	T c
+T5	SC 226 229	T c
+T6	SC 310 313	T c
+T7	SC 397 400	T c
+T8	Material 475 487	orthorhombic
+T9	Material 491 501	tetragonal
+T10	SC 556 573	superconductivity
+T12	Process 662 668	anneal
+T13	Property 710 724	oxygen content
+T14	SC 989 992	T c
+T15	SC 1154 1157	T c
+T16	Main 171 189	La1+z Ba2-z Cu3O y
+T20	Element 1119 1121	Cu
+T21	Element 1123 1125	La
+T22	Element 1126 1128	Ba
+T23	Value 1132 1133	1
+T24	Process 90 94	p O2
+T25	Process 62 63	T
+T26	Value 232 237	100 K
+T28	Value 272 273	0
+T30	Element 358 364	yttria
+T33	Value 454 457	0.2
+T35	Value 580 583	0.5
+T39	Value 670 676	1065°C
+T41	Value 681 688	0.1 MPa
+T42	Value 728 733	950°C
+T44	Process 788 801	reoxygenation
+T46	Value 854 859	150°C
+T47	Element 964 970	yttria
+T50	Value 1049 1053	0.08
+T51	Element 1061 1063	La
+T52	Value 1074 1077	0.2
+T53	Element 1082 1084	Cu
+T54	Element 780 782	O2
+T45	Value 805 812	0.1 MPa
+T55	Element 813 815	O2
+T57	Process 738 745	cooling
+T58	Process 823 835	slow cooling
+T59	Element 689 691	O2
+T11	Property 906 936	intragranular critical current
+T3	SC 104 142	superconducting transition temperature
+T17	Value 325 327	93
+T18	Value 328 331	94K
+T19	Value 749 752	300
+T29	Value 753 758	400°C
+T36	Value 768 771	100
+T37	Value 772 779	1000 Pa
+T38	Value 837 838	5
+T43	Value 839 847	20°C/min
+T56	Process 28 43	processing time
+T60	Process 45 46	t
+R1	Equivalent Arg1:T5 Arg2:T26
+R2	Equivalent Arg1:T6 Arg2:T17
+R3	Equivalent Arg1:T6 Arg2:T18

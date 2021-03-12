@@ -1,0 +1,36 @@
+T3	SC 43 45	Tc
+T4	Main 55 77	Ru1− x Sn x Sr2GdCu2O8
+T5	Element 152 156	Gd3+
+T7	Element 185 189	Ca2+
+T8	SC 200 202	Tc
+T9	Element 222 234	RuSr2GdCu2O8
+T10	Process 251 272	annealing temperature
+T11	Element 319 349	Ru0.8Sn0.2Sr2Gd1− y Ca y Cu2O8
+T12	Element 354 358	Ca y
+T13	Element 441 463	Ru1− x Sn x Sr2GdCu2O8
+T14	Property 493 505	normal state
+T15	Property 506 517	resistivity
+T16	Characterization 524 527	XRD
+T17	Property 532 545	magnetization
+T18	Property 636 650	semiconducting
+T19	SC 666 681	superconducting
+T20	SC 706 712	T c ON
+T24	Value 608 609	0
+T25	Value 721 724	43K
+T26	Value 623 627	0.03
+T27	Value 746 750	0.03
+T32	Value 96 99	48K
+T33	Value 107 110	0.2
+T36	Value 366 370	0.01
+T37	Value 363 364	0
+T38	Value 372 376	0.03
+T41	Value 611 615	0.01
+T42	Process 284 298	mixing process
+T1	SC 4 40	superconducting critical temperature
+T2	Doping 171 179	replaced
+R1	Equivalent Arg1:T20 Arg2:T25
+R2	Target Arg1:T32 Arg2:T4
+R3	Coref Arg1:T1 Arg2:T3
+R4	Equivalent Arg1:T1 Arg2:T32
+R5	Target Arg1:E1 Arg2:T9
+E1	Doping:T2 Site:T5 Dopant:T7

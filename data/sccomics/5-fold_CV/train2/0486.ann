@@ -1,0 +1,92 @@
+T1	Material 4 18	microstructure
+T2	Property 23 44	electrical properties
+T3	Element 52 62	rare-earth
+T4	Element 63 65	Lu
+T6	Main 72 85	(Bi, Pb)-2212
+T7	SC 86 100	superconductor
+T8	Element 129 131	Lu
+T9	Property 132 145	concentration
+T10	Material 192 205	stoichiometry
+T11	Element 209 244	Bi1.6Pb0.5Sr2−x Lu x Ca1.1Cu2.1O8+δ
+T13	Characterization 276 312	energy dispersive X-ray spectroscopy
+T14	Element 332 334	Lu
+T17	Element 379 392	(Bi, Pb)-2212
+T18	Material 443 457	microstructure
+T19	Property 459 477	hole concentration
+T20	SC 479 499	critical temperature
+T21	Property 520 544	critical current density
+T22	Property 564 582	flux pinning force
+T23	Property 625 628	J C
+T24	Element 685 687	Lu
+T26	Element 700 713	(Bi, Pb)-2212
+T27	Element 780 782	Lu
+T28	Material 783 796	stoichiometry
+T29	Property 923 941	hole concentration
+T30	SC 979 999	critical temperature
+T31	SC 1001 1004	T C
+T32	Property 1007 1017	self-field
+T33	Property 1018 1021	J C
+T34	Property 1023 1026	J C
+T35	Element 1061 1063	Lu
+T37	Material 1178 1193	microstructural
+T38	Element 1220 1222	Lu
+T39	Material 1223 1236	stoichiometry
+T40	Property 1238 1242	hole
+T41	Material 1273 1286	point defects
+T43	Element 1308 1310	Lu
+T44	Material 1311 1316	atoms
+T45	Element 1320 1355	Bi1.6Pb0.5Sr2−x Lu x Ca1.1Cu2.1O8+δ
+T12	Characterization 251 271	X-ray diffractometer
+T15	Property 584 587	F P
+T50	Property 651 672	irreversibility lines
+T51	Property 674 676	IL
+T53	Value 818 823	0.100
+T54	Property 839 842	F P
+T56	Value 873 886	30±1×103 Nm−3
+T59	Material 335 340	atoms
+T5	Doping 66 71	doped
+T16	Doping 358 369	substituted
+T25	Doping 688 699	substituted
+T36	Doping 1064 1076	substitution
+T42	Doping 1298 1304	doping
+T47	Value 164 169	0.000
+T60	Value 173 178	0.150
+T48	Value 846 861	1395±1×103 Nm−3
+R1	Coref Arg1:T30 Arg2:T31
+R2	Target Arg1:E1 Arg2:T6
+R3	Target Arg1:E2 Arg2:T17
+R4	Target Arg1:E3 Arg2:T26
+R5	Target Arg1:E5 Arg2:T45
+E1	Doping:T5 Dopant:T4
+E2	Doping:T16 Dopant:T14
+E3	Doping:T25 Dopant:T24
+E4	Doping:T36 Dopant:T35
+E5	Doping:T42 Dopant:T43
+#1	AnnotatorNotes T1	4-18
+#2	AnnotatorNotes T3	52-62
+#3	AnnotatorNotes T4	63-65
+#4	AnnotatorNotes T6	72-85
+#5	AnnotatorNotes T8	129-131
+#6	AnnotatorNotes T10	192-205
+#7	AnnotatorNotes T11	209-244
+#8	AnnotatorNotes T14	332-334
+#9	AnnotatorNotes T17	379-392
+#10	AnnotatorNotes T18	443-457
+#11	AnnotatorNotes T24	685-687
+#12	AnnotatorNotes T26	700-713
+#13	AnnotatorNotes T27	780-782
+#14	AnnotatorNotes T28	783-796
+#15	AnnotatorNotes T35	1061-1063
+#16	AnnotatorNotes T37	1178-1193
+#17	AnnotatorNotes T38	1220-1222
+#18	AnnotatorNotes T39	1223-1236
+#19	AnnotatorNotes T41	1273-1286
+#20	AnnotatorNotes T43	1308-1310
+#21	AnnotatorNotes T44	1311-1316
+#22	AnnotatorNotes T45	1320-1355
+#23	AnnotatorNotes T53	818-823
+#24	AnnotatorNotes T56	873-886
+#25	AnnotatorNotes T59	335-340
+#26	AnnotatorNotes T47	164-169
+#27	AnnotatorNotes T60	173-178
+#28	AnnotatorNotes T48	846-861

@@ -1,0 +1,37 @@
+T2	Element 54 60	copper
+T3	Main 73 94	TlBa2Ca2 Cu3xNix O9-δ
+T4	SC 95 109	superconductor
+T5	Process 173 193	solid state reaction
+T7	Process 215 236	sintering temperature
+T9	Characterization 299 304	X-ray
+T10	Material 305 311	powder
+T11	Characterization 317 320	XRD
+T12	Material 344 354	tetragonal
+T13	Material 367 382	polycrystalline
+T15	Element 410 420	phase 1223
+T16	Element 436 442	nickel
+T17	Property 443 457	concentrations
+T18	Material 500 518	lattice parameters
+T20	Property 539 551	mass density
+T21	Property 615 637	electrical resistivity
+T24	SC 695 705	Tc(offset)
+T25	Element 759 781	TlBa2Ca2Cu2.4Ni0.6O9-δ
+T26	Value 208 214	850 Co
+T27	Value 808 820	134.6 Kelvin
+T28	Value 241 249	24 hours
+T14	Property 556 571	Volume fraction
+T31	Value 120 123	0.2
+T32	Value 132 135	0.8
+T33	Value 124 127	0.4
+T34	Value 128 131	0.6
+T35	Value 118 119	0
+T36	Value 136 139	1.0
+T38	Element 66 72	nickel
+T39	Property 716 736	transfer temperature
+T6	Material 519 537	a, b, c axis c / a
+T8	Material 251 261	Structural
+T19	Characterization 573 592	Four prop technique
+T1	Doping 39 50	replacement
+T22	SC 655 694	critical temperature at zero resistance
+R1	Target Arg1:E1 Arg2:T3
+E1	Doping:T1 Site:T2 Dopant:T38

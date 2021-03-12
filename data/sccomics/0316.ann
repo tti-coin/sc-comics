@@ -1,0 +1,50 @@
+T1	Element 37 39	Pr
+T4	Property 69 90	electrical properties
+T5	Main 94 116	La0.9−x Pr x Sn0.1MnO3
+T6	Characterization 145 162	X-ray diffraction
+T7	Characterization 164 167	XRD
+T8	Characterization 228 247	Rietveld refinement
+T9	Element 300 304	ABO3
+T10	Element 306 321	La1−x Pr x MnO3
+T12	Property 379 401	transition temperature
+T13	Material 422 430	pristine
+T14	Element 431 445	La0.9Sn0.1MnO3
+T15	Process 468 484	low temperatures
+T16	Property 493 504	resistivity
+T17	Element 520 522	Pr
+T19	Property 541 562	electrical conduction
+T20	Property 600 607	polaron
+T21	Property 621 629	metallic
+T22	Element 712 714	Pr
+T24	Property 741 749	metallic
+T25	Process 873 889	low temperatures
+T26	Material 922 932	disordered
+T27	Property 933 941	metallic
+T28	Material 942 950	material
+T29	Property 955 972	antiferromagnetic
+T30	Element 983 989	PrMnO3
+T32	Material 1054 1064	structural
+T11	Element 336 351	La2Sn2O7 phases
+T40	Property 357 372	insulator–metal
+T41	Property 374 377	I–M
+T42	Property 403 407	T IM
+T43	Value 409 413	237K
+T44	Property 569 573	T IM
+T45	Property 643 647	T IM
+T46	Property 608 615	hopping
+T47	Property 669 695	electron–magnon scattering
+T48	Property 780 795	electron–magnon
+T49	Property 799 827	electron–electron scattering
+T50	Property 844 859	metal–insulator
+T31	Material 1015 1025	multiphase
+T51	Property 1069 1079	conduction
+T34	Value 118 119	0
+T36	Value 124 127	0.2
+T52	Material 54 64	structural
+T2	Doping 40 46	doping
+T18	Doping 523 529	doping
+T23	Doping 715 721	doping
+R4	Target Arg1:E1 Arg2:T5
+E1	Doping:T2 Dopant:T1
+E2	Doping:T18 Dopant:T17
+E3	Doping:T23 Dopant:T22

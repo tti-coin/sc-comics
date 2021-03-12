@@ -1,0 +1,74 @@
+T3	Property 90 107	three dimensional
+T4	Property 109 111	3D
+T5	Property 114 129	two dimensional
+T7	Main 194 230	(Cu0.5Tl0.5)Ba2Ca3(Cu3−y Cd y )O10−δ
+T8	SC 252 267	superconductors
+T12	Property 312 326	Fermi velocity
+T13	Property 337 349	Fermi energy
+T14	Property 450 458	critical
+T15	Property 462 464	3D
+T16	Property 527 540	thermodynamic
+T17	Property 541 555	critical field
+T18	Property 575 589	critical field
+T19	Property 604 628	critical current density
+T21	Property 701 709	critical
+T22	Property 714 716	3D
+T24	Element 767 769	Cd
+T26	Element 868 870	Cd
+T28	SC 905 922	superconductivity
+T29	Element 1015 1017	Cd
+T30	Material 1018 1023	atoms
+T32	Element 1033 1035	Cu
+T33	Property 1076 1083	density
+T34	Property 1099 1106	phonons
+T35	SC 1128 1143	superconducting
+T39	Element 1270 1272	Cd
+T40	Property 1273 1286	concentration
+T41	Property 1334 1353	magnetic properties
+T42	Property 1381 1385	spin
+T43	Element 1391 1393	Cd
+T44	Material 1394 1399	atoms
+T45	Property 1415 1429	magnetic field
+T46	Property 1470 1485	pinning centers
+T49	Property 418 440	cross-over temperature
+T50	Property 476 491	Ginzberg number
+T51	Property 493 496	N G
+T52	Property 522 525	N G
+T6	Element 185 187	Cd
+T55	Value 234 235	0
+T56	Value 237 240	0.5
+T57	Value 242 245	1.0
+T58	Value 247 250	1.5
+T1	Property 0 32	Fluctuation induced conductivity
+T59	Property 34 37	FIC
+T60	Property 139 155	zero dimensional
+T61	Property 131 133	2D
+T62	Property 157 159	0D
+T63	Property 442 445	T G
+T64	Property 328 331	V F
+T65	Property 367 370	E F
+T66	Property 806 809	V F
+T67	Property 968 991	anharmonic oscillations
+T68	Property 1192 1216	critical magnetic fields
+T11	Property 357 365	carriers
+T23	Doping 188 193	doped
+T27	Doping 757 763	doping
+T31	Doping 1024 1029	doped
+T37	Doping 871 877	doping
+T2	Property 55 83	critical fluctuations region
+T47	Property 85 87	cr
+T10	Property 304 310	ξ c(0)
+T25	Property 557 563	B c(0)
+T48	Property 591 598	B c1(0)
+T20	Property 630 636	J c(0)
+T36	Property 798 804	ξ c(0)
+T53	Property 1218 1224	B c(0)
+T69	Property 1226 1233	B c1(0)
+T38	Property 1239 1245	J c(0)
+T9	Property 273 289	coherence length
+T70	Material 296 302	c-axis
+R1	Target Arg1:E1 Arg2:T7
+E1	Doping:T23 Dopant:T6
+E2	Doping:T27 Dopant:T24
+E3	Doping:T31 Dopant:T29 Site:T32
+E4	Doping:T37 Dopant:T26

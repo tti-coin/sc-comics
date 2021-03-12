@@ -1,0 +1,22 @@
+T1	SC 36 51	superconductors
+T3	Element 84 88	iron
+T5	Property 133 142	magnetism
+T6	SC 147 164	superconductivity
+T8	SC 353 368	superconductors
+T10	SC 431 446	superconductors
+T11	SC 627 642	superconducting
+T13	Process 737 752	low temperature
+T14	Property 771 784	pair-breaking
+T15	Property 800 814	gap anisotropy
+T17	Property 837 854	three-dimensional
+T19	Property 288 312	London penetration depth
+T20	Value 680 681	2
+T21	Property 579 603	London penetration depth
+T2	Property 855 869	gap structures
+T4	Property 643 647	gaps
+T12	Property 709 733	thermodynamic quantities
+T9	Element 422 424	Fe
+T7	Element 342 346	iron
+T18	Material 98 107	structure
+T16	Doping 820 826	doping
+E1	Doping:T16 

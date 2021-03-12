@@ -1,0 +1,32 @@
+T1	Element 27 29	In
+T3	SC 44 59	superconducting
+T4	Main 74 89	ZrNi2Ga1−x In x
+T6	Material 176 188	single phase
+T7	Material 190 195	cubic
+T10	Property 217 231	concentrations
+T11	Material 235 245	ZrGa2-type
+T12	Material 246 258	orthorhombic
+T13	Material 259 275	secondary phases
+T14	Property 312 334	Electrical resistivity
+T16	Property 339 355	dc magnetization
+T17	SC 385 423	superconducting transition temperature
+T18	Element 467 469	In
+T19	Property 470 483	concentration
+T20	Property 504 516	paramagnetic
+T21	Property 517 525	ordering
+T22	SC 549 587	superconducting transition temperature
+T23	Element 635 650	ZrNi2Ga1−x In x
+T24	Property 684 700	phase transition
+T30	Value 103 107	0.10
+T31	Value 626 630	0.45
+T33	Value 158 161	0.1
+T36	Value 307 310	0.1
+T15	Value 109 113	0.15
+T5	Material 123 129	alloys
+T41	Material 115 122	Heusler
+T42	Characterization 356 368	measurements
+T2	Doping 30 36	doping
+T8	Material 196 209	L21 structure
+T9	Value 95 101	0.0.05
+R1	Target Arg1:E1 Arg2:T4
+E1	Doping:T2 Dopant:T1

@@ -1,0 +1,49 @@
+T1	Characterization 17 41	X-ray powder diffraction
+T2	Material 47 57	tetragonal
+T3	Material 58 67	structure
+T4	Element 91 97	LaPtSi
+T6	Process 105 117	crystallizes
+T8	Material 137 146	structure
+T9	Material 152 163	space group
+T10	Main 186 204	(La1− x Th x )PtSi
+T11	Property 215 231	solubility limit
+T12	Property 279 298	Hume–Rothery theory
+T13	Material 302 307	alloy
+T14	Material 308 323	phase formation
+T15	Material 364 369	solid
+T16	Material 370 379	solutions
+T17	Element 409 427	(La1− x Th x )PtSi
+T18	Process 444 460	room temperature
+T19	Characterization 461 485	powder X-ray diffraction
+T20	Process 500 516	room temperature
+T21	Material 517 535	lattice parameters
+T22	Property 544 570	dc magnetic susceptibility
+T23	Material 602 614	single phase
+T24	Material 615 630	polycrystalline
+T25	Element 642 660	(La1− x Th x )PtSi
+T26	Material 699 717	lattice parameters
+T27	Material 766 775	unit cell
+T28	Material 807 813	c-axis
+T30	Element 867 874	thorium
+T31	SC 907 909	Tc
+T32	Material 949 966	lattice parameter
+T33	Material 1018 1025	lattice
+T34	Process 1032 1040	pressure
+T35	SC 1082 1084	Tc
+T5	Material 164 169	I41md
+T39	Value 240 243	0.5
+T46	Value 579 582	1.8
+T47	Value 587 591	4.0K
+T48	Process 1000 1010	stiffening
+T49	Property 838 847	expansion
+T7	Material 125 136	LaPtSi-type
+T51	Material 737 743	a-axis
+T52	Material 752 758	volume
+T53	Material 776 777	v
+T54	Material 972 973	v
+T55	Material 967 968	a
+T29	Doping 855 861	doping
+T36	Value 669 670	0
+T37	Value 672 676	0.25
+T40	Value 681 685	0.50
+E1	Doping:T29 Dopant:T30

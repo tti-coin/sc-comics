@@ -1,0 +1,31 @@
+T1	SC 36 51	superconducting
+T2	Property 91 100	cryogenic
+T4	Material 181 187	liquid
+T5	Element 188 194	helium
+T6	Material 201 207	sensor
+T7	Material 208 217	interface
+T9	Property 248 257	cryogenic
+T10	Property 434 443	cryogenic
+T11	Material 515 520	tubes
+T12	Property 604 612	critical
+T13	Property 628 635	damping
+T15	Property 762 771	cryogenic
+T18	Element 966 972	helium
+T19	Process 973 985	gas pressure
+T20	Process 1025 1033	pressure
+T21	Property 1080 1089	frequency
+T22	Material 1148 1154	liquid
+T23	Element 1155 1161	helium
+T25	Property 1304 1313	cryogenic
+T3	Property 131 160	thermal acoustic oscillations
+T26	Property 162 165	TAO
+T8	Process 223 234	pre-cooling
+T27	Property 321 344	Rott’s stability curves
+T28	Property 639 642	TAO
+T14	Property 850 853	TAO
+T29	Process 934 938	cold
+T31	Property 1122 1125	TAO
+T32	Process 1177 1181	cold
+T33	Property 1191 1194	TAO
+T16	Value 1096 1100	0.25
+T17	Value 1101 1105	47Hz

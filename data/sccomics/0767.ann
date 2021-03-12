@@ -1,0 +1,45 @@
+T1	Property 16 29	Hubbard model
+T2	Property 128 137	electrons
+T3	Property 156 161	spins
+T4	Property 176 181	order
+T5	Material 298 305	layered
+T7	Property 322 338	long-range order
+T8	Property 339 357	antiferromagnetism
+T9	Property 382 402	Van Hove singularity
+T10	Element 427 436	pnictides
+T11	Property 441 459	antiferromagnetism
+T12	Property 587 607	Van Hove singularity
+T13	Property 612 620	electron
+T14	Property 642 659	antiferromagnetic
+T15	Property 660 676	phase transition
+T16	Property 696 711	order parameter
+T17	Property 722 732	insulating
+T18	Property 753 771	antiferromagnetism
+T20	Property 831 851	Van Hove singularity
+T21	Property 861 878	antiferromagnetic
+T22	SC 985 1002	superconductivity
+T23	Element 1006 1014	cuprates
+T24	Element 1045 1054	pnictides
+T25	Property 1059 1077	antiferromagnetism
+T26	Property 1122 1135	Fermi surface
+T29	Property 1207 1225	antiferromagnetism
+T30	SC 1230 1247	superconductivity
+T31	Element 1284 1293	pnictides
+T32	Property 1329 1347	antiferromagnetism
+T33	SC 1352 1369	superconductivity
+T34	Property 1412 1421	electrons
+T35	Property 1459 1473	quasiparticles
+T36	Property 1592 1604	Fermi Liquid
+T37	Property 1618 1626	Electron
+T38	Property 1627 1633	Phonon
+T39	SC 1656 1673	superconductivity
+T40	Property 1688 1705	antiferromagnetic
+T41	Property 1706 1718	Fermi liquid
+T42	Property 733 736	gap
+T43	Property 928 957	Coulomb repulsive interaction
+T19	Doping 810 816	doping
+T27	Doping 1155 1161	doping
+T6	Main 309 317	cuprates
+T28	Material 306 308	2D
+E1	Doping:T19
+E2	Doping:T27

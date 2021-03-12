@@ -1,0 +1,35 @@
+T1	Process 17 37	hydrostatic pressure
+T3	Property 98 107	pseudogap
+T5	Main 141 160	HoBa 2 Cu 3 O 7 - δ
+T6	Material 161 176	single crystals
+T7	SC 182 185	T c
+T8	SC 302 305	T c
+T9	Property 310 322	conductivity
+T10	Property 405 413	theories
+T11	Material 611 625	single crystal
+T12	Process 627 635	Pressure
+T13	Process 724 741	high temperatures
+T14	Process 776 784	pressure
+T15	Element 864 882	YBa 2 Cu 3 O 7 - δ
+T16	Property 915 923	magnetic
+T17	SC 941 965	high-T c superconductors
+T18	Value 44 51	0.48GPa
+T19	Value 188 191	62K
+T20	Value 200 204	0.35
+T22	Property 109 111	PG
+T23	Value 536 541	219 K
+T24	Value 556 561	241 K
+T25	Value 252 255	45°
+T28	Property 358 374	Aslamasov–Larkin
+T29	Property 379 404	Hikami–Larkin fluctuation
+T2	Property 59 83	fluctuation conductivity
+T30	Property 84 93	σ ′ ( T )
+T32	Property 323 332	σ ′ ( T )
+T38	Material 263 278	twin boundaries
+T39	Property 428 443	3D–2D crossover
+T4	Doping 135 140	doped
+R1	Equivalent Arg1:T7 Arg2:T19
+R2	Target Arg1:T19 Arg2:T5
+R3	Target Arg1:E1 Arg2:T5
+R4	Condition Arg1:T19 Arg2:E1
+E1	Doping:T4 

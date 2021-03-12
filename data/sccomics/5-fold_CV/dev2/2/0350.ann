@@ -1,0 +1,31 @@
+T1	Property 0 23	Leakage current density
+T3	Main 27 45	BiFeO3/YBa2Cu3O7-δ
+T4	SC 59 73	superconductor
+T5	Material 74 82	bilayers
+T6	Element 86 92	SrTiO3
+T7	Material 93 102	substrate
+T8	Property 168 183	magnetic fields
+T9	Property 211 225	magnetic field
+T10	Property 247 254	density
+T11	SC 316 354	superconducting transition temperature
+T12	SC 355 357	Tc
+T13	Element 361 372	YBa2Cu3O7-δ
+T14	Property 400 426	model of Schottky emission
+T16	Element 475 493	BiFeO3/YBa2Cu3O7-δ
+T17	Material 494 503	interface
+T18	Property 530 544	magnetic field
+T19	SC 548 550	Tc
+T21	Property 570 584	magnetic field
+T22	SC 696 711	superconducting
+T23	Property 723 737	magnetic field
+T24	Property 769 792	leakage current density
+T25	SC 800 817	superconductivity
+T26	SC 879 894	superconducting
+T27	Property 958 969	spintronics
+T30	Property 46 58	multiferroic
+T20	Value 190 193	11T
+T31	Property 624 647	Schottky barrier height
+T32	Property 444 467	Schottky barrier height
+T2	Value 154 156	30
+T15	Value 157 161	160K
+R1	Coref Arg1:T11 Arg2:T12

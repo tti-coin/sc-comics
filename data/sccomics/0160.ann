@@ -1,0 +1,48 @@
+T1	Property 142 154	hole density
+T2	Property 185 197	hole density
+T3	SC 218 226	high-T c
+T4	Material 227 234	layered
+T6	SC 325 342	superconductivity
+T7	SC 362 384	transition temperature
+T9	Property 633 645	hole density
+T10	Process 780 788	annealed
+T11	Process 794 819	high-pressure oxidization
+T13	Property 863 868	holes
+T15	Material 964 969	layer
+T17	Material 1048 1054	planes
+T18	Property 1099 1104	holes
+T19	Property 1123 1129	charge
+T20	SC 1221 1224	T c
+T26	SC 1560 1563	T c
+T27	Main 98 109	Hg-12(n−1)n
+T29	Value 82 83	2
+T30	Element 679 703	HgBa2(Ca1−x Y x )Cu2O6+δ
+T35	Value 705 706	0
+T37	Value 709 712	0.5
+T38	Element 899 900	Y
+T40	Element 958 961	HgO
+T41	Element 1043 1047	CuO2
+T43	Element 1459 1466	yttrium
+T44	Element 1471 1477	oxygen
+T45	Element 1505 1506	H
+T46	Element 1206 1207	H
+T50	Process 821 824	HPO
+T52	Element 235 248	copper oxides
+T5	Doping 857 862	doped
+T8	Doping 901 913	substitution
+T12	Doping 1275 1281	doping
+T14	Doping 1305 1311	doping
+T21	Doping 1338 1343	doped
+T22	Doping 1426 1431	doped
+T23	Element 918 924	Ca (x)
+T25	Element 944 950	oxygen
+T31	Element 1268 1274	oxygen
+T24	SC 1356 1361	T c's
+T16	Property 1003 1015	hole density
+E1	Doping:T5 Dopant:T13
+E2	Doping:T8 Dopant:T38 Site:T23
+E3	Doping:T12 Dopant:T31
+E4	Doping:T14
+E5	Doping:T21
+E6	Doping:T22 Dopant:T43
+E7	Doping:T22 Dopant:T44

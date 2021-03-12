@@ -1,0 +1,14 @@
+T1	SC 45 76	high-temperature superconductor
+T2	SC 78 81	HTS
+T3	SC 175 178	HTS
+T4	SC 299 302	HTS
+T5	SC 366 369	HTS
+T6	SC 468 471	HTS
+T8	Property 894 897	FEM
+T13	Property 209 219	robustness
+T10	Element 225 231	copper
+T11	Property 20 40	short-circuit forces
+T12	Property 1283 1305	electromagnetic forces
+T15	Property 555 577	electromagnetic forces
+T7	Property 585 604	short-circuit fault
+R1	Coref Arg1:T1 Arg2:T2

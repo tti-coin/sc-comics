@@ -1,0 +1,36 @@
+T1	Property 4 27	temperature dependences
+T3	Main 55 66	YBa2Cu3O7−x
+T4	SC 68 70	Tc
+T6	Property 188 199	resistivity
+T7	Property 201 214	Nernst effect
+T8	Characterization 216 235	neutron diffraction
+T9	Element 267 271	YBCO
+T10	Property 272 285	phase diagram
+T11	Property 345 354	pseudogap
+T12	Element 429 433	YBCO
+T13	Element 481 488	Cu2+(1)
+T15	Material 568 584	local structures
+T16	Property 592 604	paramagnetic
+T17	Element 605 615	copper (1)
+T18	Property 695 704	pseudogap
+T20	SC 719 742	high Tc superconductors
+T21	Element 791 795	YBCO
+T22	Property 31 40	g factors
+T24	Value 73 79	86.5 K
+T25	Value 132 137	190 K
+T26	Property 331 340	g factors
+T27	Material 419 428	Ortho-III
+T28	Property 657 680	potential spectroscopic
+T30	Characterization 439 442	EPR
+T31	Characterization 761 764	EPR
+T32	Characterization 240 263	ultrasound measurements
+T33	Property 508 533	quantitative calculations
+T2	Doping 44 54	underdoped
+T14	Doping 708 718	underdoped
+R1	Equivalent Arg1:T4 Arg2:T24
+R2	Target Arg1:T24 Arg2:T3
+R3	Target Arg1:E1 Arg2:T3
+R4	Condition Arg1:T24 Arg2:E1
+E1	Doping:T2 
+E2	Doping:T14 
+T5	Property 99 126	pseudogap onset temperature

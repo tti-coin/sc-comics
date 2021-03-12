@@ -1,0 +1,31 @@
+T1	Property 12 26	magnetic field
+T2	SC 41 56	superconducting
+T3	Main 57 61	MgB2
+T4	Material 62 74	bulk magnets
+T5	Material 146 150	bulk
+T6	Property 198 201	FEM
+T7	Material 257 262	bulks
+T8	Material 337 349	bulk surface
+T10	Material 372 376	bulk
+T12	Property 410 423	magnetization
+T16	Property 527 541	magnetic field
+T17	Property 571 574	FEM
+T18	Property 600 614	magnetic field
+T19	Material 634 638	bulk
+T20	Property 642 645	FEM
+T21	Property 792 806	magnetic field
+T22	Property 888 902	magnetic field
+T23	Material 939 950	multi-bulks
+T24	Property 986 1000	magnetic field
+T25	Material 1008 1019	multi-bulks
+T26	Material 1055 1059	bulk
+T27	Property 1073 1087	magnetic field
+T28	Material 1132 1137	bulks
+T29	Material 119 131	quadrangular
+T30	Material 135 145	hexangular
+T31	Material 105 115	triangular
+T32	Property 174 196	Finite Elements Method
+T33	Property 827 844	cylindrical shape
+T9	Process 448 472	field-cool magnetization
+T11	Doping 432 440	replaced
+E1	Doping:T11 

@@ -1,0 +1,36 @@
+T1	Property 0 21	Temperature dependent
+T3	Property 22 42	electrical transport
+T4	Property 51 53	dc
+T6	Main 108 124	SrFe x Ti(1−x)O3
+T7	Material 155 162	ceramic
+T11	Property 231 244	concentration
+T13	Property 251 265	dc resistivity
+T16	Property 348 362	dc resistivity
+T18	Property 522 528	charge
+T19	Property 529 538	transport
+T20	Property 585 597	conductivity
+T21	Property 602 612	dielectric
+T22	Property 621 629	spectrum
+T23	Property 685 692	polaron
+T25	Property 729 745	polaron ordering
+T26	Property 814 843	universal dielectric response
+T27	Property 936 958	transition temperature
+T28	Property 44 46	ac
+T33	Value 130 133	1.0
+T34	Value 126 127	0
+T35	Property 170 201	Metal-insulator like transition
+T8	Property 406 435	Mott's variable range hopping
+T9	Property 747 749	PO
+T12	Property 764 768	T PO
+T15	Value 853 859	105 Hz
+T36	Value 892 898	105 Hz
+T38	Property 845 848	UDR
+T39	Property 864 883	second universality
+T40	Property 885 887	SU
+T41	Property 314 339	polaronic charge carriers
+T42	Property 437 467	Arrhenius conduction mechanism
+T43	Property 477 486	power law
+T2	Doping 224 230	doping
+T5	Property 59 69	dielectric
+T10	Characterization 70 82	measurements
+E1	Doping:T2

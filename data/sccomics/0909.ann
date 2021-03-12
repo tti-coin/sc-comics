@@ -1,0 +1,35 @@
+T1	Material 16 25	structure
+T3	SC 104 121	superconductivity
+T4	Property 150 175	composite fermions theory
+T6	Material 217 229	superlattice
+T7	Material 230 240	structures
+T8	Material 280 293	semiconductor
+T9	Material 294 306	superlattice
+T12	SC 359 362	T c
+T13	Material 387 399	superlattice
+T14	Material 400 410	structures
+T15	SC 418 432	superconductor
+T17	Element 460 464	CuO2
+T18	Material 465 470	layer
+T20	Element 509 513	CuO2
+T21	Material 514 520	layers
+T22	Material 544 554	structures
+T24	Element 609 624	Bi2Sr2Ca2Cu3O10
+T25	Element 628 641	HgBa2Ca2Cu3O9
+T26	SC 655 658	T c
+T27	Process 694 714	atmospheric pressure
+T28	Value 685 690	300 K
+T5	Doping 211 216	doped
+T19	Doping 503 508	doped
+T2	Main 32 39	cuprate
+T29	SC 40 54	superconductor
+T10	SC 320 356	superconductive critical temperature
+T11	Doping 454 459	doped
+T16	Element 578 585	cuprate
+T23	SC 586 600	superconductor
+R2	Equivalent Arg1:T26 Arg2:T28
+R3	Target Arg1:T28 Arg2:T24
+R4	Target Arg1:T28 Arg2:T25
+E1	Doping:T5
+E3	Doping:T19 Site:T20
+E2	Doping:T11 Site:T17

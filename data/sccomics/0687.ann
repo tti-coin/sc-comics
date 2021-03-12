@@ -1,0 +1,25 @@
+T1	Property 22 40	antiferromagnetism
+T2	Property 42 44	AF
+T3	SC 50 67	superconductivity
+T4	SC 69 71	SC
+T5	Main 76 84	cuprates
+T6	Property 104 119	two-dimensional
+T7	Property 120 133	Hubbard model
+T8	Property 239 258	strongly correlated
+T9	Property 287 301	phase diagrams
+T11	Property 400 405	model
+T13	Property 588 590	AF
+T14	SC 595 597	SC
+T16	Property 704 706	AF
+T17	Property 848 852	hole
+T19	Element 859 867	cuprates
+T21	Property 902 915	Hubbard model
+T23	Property 171 201	variational Monte Carlo method
+T10	Property 887 896	t–J model
+T12	Value 582 586	−0.3
+T15	Value 809 814	−0.15
+T24	Value 824 826	12
+T20	Value 498 503	−0.15
+T18	Doping 853 858	doped
+R2	Target Arg1:E1 Arg2:T19
+E1	Doping:T18 Dopant:T17

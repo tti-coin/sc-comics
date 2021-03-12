@@ -1,0 +1,27 @@
+T1	Element 140 142	Pr
+T2	Element 144 146	Nd
+T3	Element 148 150	Sm
+T4	Element 152 154	Eu
+T5	Element 160 162	Gd
+T8	SC 209 226	superconductivity
+T9	SC 232 234	Tc
+T10	SC 400 415	superconducting
+T11	Material 416 421	films
+T12	Process 439 442	MBE
+T13	Process 450 472	post-reduction process
+T14	Process 484 487	MBE
+T15	Process 488 493	grown
+T16	Material 494 499	films
+T17	Characterization 519 532	photoemission
+T18	SC 579 594	superconducting
+T20	Property 690 698	metallic
+T22	Element 137 139	RE
+T23	Value 250 253	30K
+T6	Process 176 203	metal–organic decomposition
+T26	Property 595 603	carriers
+T19	Doping 654 660	doping
+T7	Element 125 135	T′-RE2CuO4
+T21	Main 425 435	T′-RE2CuO4
+R1	Equivalent Arg1:T9 Arg2:T23
+R2	Target Arg1:T23 Arg2:T7
+E1	Doping:T19

@@ -1,0 +1,80 @@
+T2	Property 44 53	isovalent
+T4	Element 70 71	P
+T5	Element 76 78	As
+T6	SC 86 101	superconducting
+T8	Main 124 140	SmFeAsO0.88F0.12
+T9	Main 142 148	Sm1111
+T10	Property 183 191	magnetic
+T11	Material 210 221	cell volume
+T12	Element 241 242	P
+T14	Property 258 269	anisotropic
+T15	Process 270 287	chemical pressure
+T16	SC 319 357	superconducting transition temperature
+T17	SC 359 362	T c
+T18	Property 372 392	upper critical field
+T20	Property 416 436	Thermoelectric power
+T21	Property 467 475	electron
+T22	Property 481 496	charge carriers
+T24	Element 587 588	P
+T25	Property 589 603	concentrations
+T26	Property 644 653	isovalent
+T28	Element 675 679	FeAs
+T29	Material 680 685	layer
+T30	SC 711 726	superconducting
+T31	Element 741 747	Sm1111
+T32	Process 775 792	chemical pressure
+T33	Property 800 809	isovalent
+T35	Property 864 868	hole
+T36	Element 870 872	Mn
+T37	Property 878 886	electron
+T38	Element 888 890	Ni
+T40	SC 918 933	superconducting
+T41	Material 934 939	layer
+T42	Element 943 949	Sm1111
+T44	Element 116 117	F
+T47	Property 394 398	H c2
+T7	Characterization 192 204	measurements
+T23	Property 438 439	S
+T1	Doping 15 21	doping
+T3	Doping 54 66	substitution
+T13	Doping 118 123	doped
+T27	Doping 243 249	doping
+T34	Doping 654 667	substitutions
+T39	Doping 810 822	substitution
+T43	Doping 897 910	substitutions
+T19	Property 511 515	Hall
+T45	Characterization 516 528	measurements
+R1	Coref Arg1:T16 Arg2:T17
+R2	Coref Arg1:T8 Arg2:T9
+R3	Target Arg1:E2 Arg2:T8
+R4	Target Arg1:E3 Arg2:T8
+R5	Target Arg1:E5 Arg2:T31
+R6	Target Arg1:E7 Arg2:T42
+R7	Target Arg1:E8 Arg2:T42
+R8	Target Arg1:E9 Arg2:T42
+R9	Target Arg1:E10 Arg2:T42
+E1	Doping:T1 
+E2	Doping:T3 Dopant:T4 Site:T5
+E3	Doping:T13 Dopant:T44
+E4	Doping:T27 Dopant:T12
+E5	Doping:T34 Site:T28
+E6	Doping:T39 
+E7	Doping:T43 Dopant:T38
+E8	Doping:T43 Dopant:T37
+E9	Doping:T43 Dopant:T36
+E10	Doping:T43 Dopant:T35
+#1	AnnotatorNotes T4	70-71
+#2	AnnotatorNotes T5	76-78
+#3	AnnotatorNotes T8	124-140
+#4	AnnotatorNotes T9	142-148
+#5	AnnotatorNotes T11	210-221
+#6	AnnotatorNotes T12	241-242
+#7	AnnotatorNotes T24	587-588
+#8	AnnotatorNotes T28	675-679
+#9	AnnotatorNotes T29	680-685
+#10	AnnotatorNotes T31	741-747
+#11	AnnotatorNotes T36	870-872
+#12	AnnotatorNotes T38	888-890
+#13	AnnotatorNotes T41	934-939
+#14	AnnotatorNotes T42	943-949
+#15	AnnotatorNotes T44	116-117

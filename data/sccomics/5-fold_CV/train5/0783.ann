@@ -1,0 +1,44 @@
+T1	Material 12 27	polycrystalline
+T2	Main 28 43	SmFeAsO1− x F x
+T3	Process 104 120	ambient pressure
+T4	Element 137 142	oxide
+T5	Element 162 167	As2O3
+T6	Element 169 174	Fe2O3
+T7	Material 190 196	powder
+T9	Characterization 237 254	X-ray diffraction
+T10	Property 259 267	magnetic
+T12	Element 304 310	oxides
+T13	Material 324 339	phase formation
+T14	SC 344 359	superconducting
+T15	Element 374 389	SmFeAsO1− x F x
+T16	Element 392 397	As2O3
+T17	Element 401 406	oxide
+T18	SC 454 469	superconducting
+T19	Process 498 507	sintering
+T20	Element 541 546	As2O3
+T21	SC 559 597	superconducting transition temperature
+T22	SC 598 601	T c
+T24	Element 655 660	Fe2O3
+T25	Element 682 690	fluorine
+T27	Element 707 708	O
+T28	Element 727 732	Fe2O3
+T29	Element 758 760	Fe
+T30	Element 765 769	SmOF
+T31	Material 770 780	impurities
+T32	Property 786 810	critical current density
+T34	Property 834 859	magnetic hysteresis loops
+T36	Element 883 888	As2O3
+T38	Process 910 925	low temperature
+T39	Property 935 950	magnetic fields
+T42	Element 179 189	nano-Fe2O3
+T45	Element 618 626	fluorine
+T23	Doping 627 633	doping
+T26	Doping 691 697	doping
+T8	Element 223 224	O
+T11	Characterization 268 280	measurements
+T33	Material 662 666	nano
+T35	Element 667 672	Fe2O3
+R1	Coref Arg1:T21 Arg2:T22
+R2	Target Arg1:E2 Arg2:T35
+E1	Doping:T23 Dopant:T45
+E2	Doping:T26 Dopant:T25 Site:T27

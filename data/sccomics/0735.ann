@@ -1,0 +1,47 @@
+T1	Element 0 2	Ag
+T3	Material 9 13	bulk
+T4	Element 14 26	FeSe0.5Te0.5
+T5	Main 35 58	Ag x (FeSe0.5Te0.5)1− x
+T6	Process 76 96	solid-state reaction
+T7	Property 113 126	concentration
+T8	Element 130 132	Ag
+T9	Material 175 181	powder
+T10	Material 244 255	quartz tube
+T11	Process 311 317	cooled
+T12	Process 330 338	annealed
+T13	SC 365 380	superconductive
+T14	Material 381 387	layers
+T15	Element 398 400	Ag
+T16	Element 404 406	Ag
+T17	Characterization 440 457	X-ray diffraction
+T18	Element 470 472	Ag
+T20	Element 510 512	Ag
+T22	Material 531 538	lattice
+T23	Element 547 559	FeSe0.5Te0.5
+T24	SC 565 568	T c
+T25	SC 605 608	T c
+T26	Property 655 668	magnetization
+T27	Property 761 780	magnetic hysteresis
+T34	Element 204 211	alumina
+T35	Value 275 280	1323K
+T36	Value 285 288	20h
+T37	Value 321 325	673K
+T38	Value 343 347	200h
+T39	Value 578 580	14
+T41	Value 591 595	0.04
+T42	Value 632 635	11K
+T44	Value 645 649	0.05
+T47	Value 744 748	0.05
+T49	Value 787 791	0.05
+T51	Value 825 826	0
+T2	Doping 3 8	added
+T19	Doping 516 521	doped
+T21	Value 153 154	0
+T28	Value 159 163	0.08
+T29	Value 840 842	2T
+R1	Equivalent Arg1:T24 Arg2:T39
+R2	Equivalent Arg1:T25 Arg2:T42
+R3	Target Arg1:E2 Arg2:T23
+R4	Target Arg1:E1 Arg2:T4
+E1	Doping:T2 Dopant:T1
+E2	Doping:T19 Dopant:T20 Site:T22

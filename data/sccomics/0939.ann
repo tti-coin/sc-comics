@@ -1,0 +1,91 @@
+T1	Material 0 4	Bulk
+T2	Material 5 20	polycrystalline
+T3	Element 21 23	Ni
+T4	Main 36 52	SmFe1−x Ni x AsO
+T5	Process 94 114	solid state reaction
+T6	Process 127 155	evacuated sealed quartz tube
+T7	Material 161 172	cell volume
+T8	Element 200 202	Ni
+T9	Element 214 230	SmFe1−x Ni x AsO
+T11	Element 283 289	ion Ni
+T12	Element 293 295	Fe
+T14	Property 347 364	spin density wave
+T15	Property 366 369	SDW
+T16	Element 413 415	Ni
+T18	SC 440 457	superconductivity
+T19	SC 524 526	Tc
+T20	Element 568 570	Ni
+T21	Property 602 610	metallic
+T22	SC 615 632	superconductivity
+T23	Property 665 682	magneto-transport
+T24	Property 718 738	upper critical field
+T26	Property 780 797	activation energy
+T27	Property 842 865	Magnetic susceptibility
+T28	Material 892 896	bulk
+T29	SC 897 914	superconductivity
+T30	Property 962 976	critical field
+T31	Property 1107 1110	SDW
+T32	Element 1114 1116	Fe
+T33	Material 1117 1123	planes
+T34	Characterization 1146 1149	AFM
+T35	Property 1150 1158	ordering
+T36	Element 1162 1164	Sm
+T37	Property 1165 1170	spins
+T38	Property 1201 1208	ordered
+T39	Element 1209 1211	Sm
+T40	Property 1212 1217	spins
+T41	Property 1219 1221	TN
+T42	Element 1222 1224	Sm
+T43	Property 1240 1243	SDW
+T44	Element 1253 1255	Fe
+T45	Property 1256 1261	spins
+T46	Element 1277 1279	Ni
+T48	Property 1299 1301	TN
+T49	Property 1412 1425	phase diagram
+T50	Element 1429 1445	SmFe1−x Ni x AsO
+T52	Property 1499 1509	electrical
+T53	Property 1511 1519	magnetic
+T61	Value 530 532	9K
+T62	Value 540 544	0.06
+T63	Value 757 764	300 kOe
+T64	Value 657 659	2K
+T66	Value 1014 1018	0.06
+T68	Value 923 927	0.04
+T69	Value 929 933	0.06
+T70	Value 938 942	0.08
+T72	Value 1192 1196	5.4K
+T73	Value 993 999	100 Oe
+T74	Value 1003 1005	2K
+T75	Value 819 825	98.37K
+T76	Value 830 834	0.1T
+T81	Element 1303 1305	Sm
+T82	Value 1134 1138	150K
+T84	Value 576 580	0.10
+T86	Property 1379 1386	entropy
+T87	Property 1027 1040	Heat capacity
+T90	Material 1487 1497	structural
+T91	Characterization 691 703	measurements
+T93	Characterization 1047 1059	measurements
+T10	Doping 24 35	substituted
+T13	Doping 259 271	substitution
+T17	Doping 416 422	doping
+T47	Doping 1280 1285	doped
+T54	Value 58 61	0.0
+T55	Value 62 65	1.0
+T51	Property 306 317	resistivity
+T56	Characterization 318 330	measurements
+T58	Value 498 502	0.04
+T59	Value 506 510	0.10
+T85	Characterization 866 878	measurements
+T77	Value 1451 1454	0.0
+T79	Value 1455 1458	1.0
+T25	Material 770 779	flux flow
+R1	Equivalent Arg1:T19 Arg2:T61
+R2	Equivalent Arg1:T22 Arg2:T64
+R3	Target Arg1:E1 Arg2:T4
+R4	Target Arg1:E2 Arg2:T9
+R5	Condition Arg1:T61 Arg2:E3
+E1	Doping:T10 Dopant:T3
+E2	Doping:T13 Dopant:T11 Site:T12
+E3	Doping:T17 Dopant:T16
+E4	Doping:T47 Dopant:T46

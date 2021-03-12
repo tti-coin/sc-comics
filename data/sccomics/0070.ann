@@ -1,0 +1,51 @@
+T2	Material 187 197	tetragonal
+T3	Material 201 213	orthorhombic
+T7	SC 337 375	superconducting transition temperature
+T10	Material 500 510	structural
+T11	SC 515 530	superconducting
+T13	Material 604 616	orthorhombic
+T14	Material 621 631	tetragonal
+T15	SC 647 662	superconducting
+T17	SC 705 720	superconducting
+T18	SC 745 748	T c
+T19	Material 797 802	plane
+T20	SC 808 811	T c
+T21	Material 857 862	plane
+T22	SC 906 909	T c
+T23	Main 38 53	La2-x Ca x CuO4
+T25	Element 554 556	Sr
+T26	Element 792 796	CuO2
+T27	Value 921 925	0.15
+T28	Value 163 170	600 atm
+T29	Value 175 181	1110°C
+T30	Value 118 121	0.2
+T32	Value 79 83	0.10
+T1	Value 401 405	34 K
+T35	Value 411 415	0.15
+T36	Element 308 310	Sr
+T24	Element 546 548	Ca
+T38	Element 852 856	CuO2
+T39	Value 440 444	0.15
+T42	Material 776 780	flat
+T43	Material 785 791	square
+T44	Process 144 159	oxygen pressure
+T47	Element 461 463	Sr
+T48	Element 4 11	calcium
+T49	Material 294 307	isostructural
+T50	Property 18 28	solubility
+T51	Process 88 103	air-synthesized
+T4	Doping 266 272	doping
+T5	Doping 311 322	substituted
+T6	Doping 391 397	doping
+T8	Doping 464 475	substituted
+T9	Doping 557 568	substituted
+T12	Doping 679 685	doping
+R1	Equivalent Arg1:T7 Arg2:T1
+R2	Condition Arg1:T1 Arg2:E3
+E1	Doping:T4
+E2	Doping:T5 Dopant:T36
+E3	Doping:T6
+E4	Doping:T8 Dopant:T47
+E5	Doping:T9 Dopant:T25
+E6	Doping:T12
+E7	Doping:T9 Dopant:T24

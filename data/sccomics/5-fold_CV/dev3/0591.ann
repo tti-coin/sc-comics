@@ -1,0 +1,67 @@
+T1	Material 0 10	Structural
+T2	SC 27 42	superconducting
+T3	Main 57 78	Bi2Sr2Ca1−x Y x Cu2Oy
+T4	SC 79 94	superconductors
+T5	Characterization 151 168	X-ray diffraction
+T6	Characterization 170 198	scanning electron microscopy
+T10	Element 283 287	Ca2+
+T11	Element 291 294	Y3+
+T13	Material 318 330	phase purity
+T14	Element 334 341	Bi:2212
+T15	Material 348 366	lattice parameters
+T16	Material 368 391	orthorhombic distortion
+T17	Material 393 400	surface
+T18	Material 401 411	morphology
+T19	Property 413 427	oxygen content
+T20	Property 432 444	hole carrier
+T21	Element 449 455	Cu ion
+T22	SC 491 512	critical temperatures
+T23	SC 513 516	T c
+T24	Element 545 546	Y
+T25	Element 615 616	Y
+T26	SC 651 654	T c
+T27	Property 800 808	hardness
+T28	Property 817 831	surface energy
+T29	Element 842 843	Y
+T30	Property 900 912	hole carrier
+T31	Element 917 923	Cu ion
+T32	SC 942 945	T c
+T33	Element 962 963	Y
+T34	Property 1034 1042	hardness
+T35	Property 1051 1065	surface energy
+T36	Element 1076 1077	Y
+T37	SC 1163 1180	superconductivity
+T38	Element 1184 1185	Y
+T40	Element 1206 1208	Ca
+T41	Element 1221 1228	Bi:2212
+T42	SC 1229 1244	superconducting
+T47	Value 125 129	0.50
+T48	Value 118 122	0.00
+T7	Value 561 565	0.30
+T12	Value 631 635	0.50
+T52	Value 659 661	88
+T54	Value 691 695	0.00
+T55	Property 809 812	H t
+T56	Value 663 665	94
+T57	Value 667 670	101
+T58	Value 672 675	104
+T59	Value 697 702	0.075
+T60	Value 704 708	0.15
+T61	Value 710 714	0.30
+T62	Value 719 723	0.50
+T63	Value 680 684	50°K
+T9	Doping 268 279	replacement
+T39	Doping 1186 1198	substitution
+T8	Property 200 216	Vickers hardness
+T43	Property 221 232	resistivity
+T44	Characterization 233 245	measurements
+R1	Equivalent Arg1:T26 Arg2:T52
+R2	Equivalent Arg1:T26 Arg2:T56
+R3	Equivalent Arg1:T26 Arg2:T57
+R4	Equivalent Arg1:T26 Arg2:T58
+R5	Equivalent Arg1:T26 Arg2:T63
+R6	Target Arg1:E2 Arg2:T41
+R7	Target Arg1:E1 Arg2:T14
+E1	Doping:T9 Site:T10 Dopant:T11
+E2	Doping:T39 Dopant:T38 Site:T40
+R8	Coref Arg1:T22 Arg2:T23	

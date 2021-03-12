@@ -1,0 +1,40 @@
+T2	Material 25 42	glass transitions
+T3	Material 46 52	binary
+T4	Main 64 82	1,2-propanediamine
+T5	Main 84 89	12PDA
+T7	Characterization 139 155	Raman scattering
+T8	Characterization 160 193	differential scanning calorimetry
+T9	Element 199 202	NH2
+T11	Element 257 262	12PDA
+T13	Element 334 339	12PDA
+T14	Property 348 367	salt concentrations
+T15	Property 453 471	salt concentration
+T18	Element 522 544	(NaClO4) x (12PDA)1− x
+T20	Material 623 632	structure
+T21	Property 637 655	molecular dynamics
+T22	Element 663 685	(NaClO4) x (12PDA)1− x
+T25	Material 773 779	bonded
+T26	Material 791 808	solvent molecules
+T27	Material 833 850	solvent molecules
+T29	Property 1007 1026	salt concentrations
+T10	Characterization 239 253	Raman spectrum
+T33	Property 509 512	T g
+T38	Property 964 987	interionic interactions
+T39	Property 1046 1049	T g
+T23	Property 704 719	two-state model
+T19	Property 203 231	stretching vibrational modes
+T31	Element 764 772	hydrogen
+T43	Material 854 858	ions
+T24	Element 733 736	NH2
+T30	Material 274 279	salts
+T16	Property 479 507	glass transition temperature
+T36	Element 606 614	hydrogen
+T17	Material 950 955	bonds
+T28	Element 941 949	hydrogen
+T32	Material 0 20	Solvation structures
+T1	Material 100 115	inorganic salts
+T6	Material 615 622	bonding
+T12	Doping 268 273	added
+R1	Coref Arg1:T4 Arg2:T5
+R2	Target Arg1:E1 Arg2:T11
+E1	Doping:T12 Dopant:T30

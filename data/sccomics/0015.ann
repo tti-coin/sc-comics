@@ -1,0 +1,42 @@
+T1	Material 63 68	films
+T2	Process 79 95	laser deposition
+T4	Material 187 192	films
+T5	SC 372 387	superconducting
+T6	Material 425 440	single crystals
+T7	Material 482 487	films
+T9	Characterization 544 572	scanning electron microscopy
+T10	Characterization 577 606	scanning tunneling microscopy
+T11	Characterization 654 659	X-ray
+T12	Material 674 679	films
+T13	SC 772 800	zero resistance temperatures
+T16	Property 815 828	resistivities
+T18	Process 894 901	epitaxy
+T21	Material 1028 1032	film
+T22	Material 1084 1094	multilayer
+T23	Value 760 770	106 A cm−2
+T24	Value 809 813	89 K
+T25	Value 840 849	100 μω cm
+T17	Value 871 876	300 K
+T26	Value 880 885	100 K
+T27	Main 53 62	YBa2Cu3O7
+T29	Element 2 5	KrF
+T30	Process 6 19	excimer laser
+T31	Element 416 424	MgO(100)
+T32	Element 400 411	SrTiO3(100)
+T33	Material 457 476	substrate materials
+T34	Value 831 836	100 K
+T35	Value 752 756	77 K
+T42	Value 1007 1016	1000 cm−2
+T19	Material 922 943	substrate orientation
+T44	Material 945 963	c-axis orientation
+T28	Property 748 751	j c
+T20	Value 889 892	3.0
+T38	Material 1033 1044	thicknesses
+T39	Property 721 747	critical current densities
+T3	Characterization 636 649	Raman spectra
+T8	SC 801 806	T c,0
+T14	Property 829 830	ϱ
+T15	Value 1051 1057	100 nm
+T36	Property 509 529	electrical transport
+T37	Characterization 530 542	measurements
+R2	Equivalent Arg1:T8 Arg2:T24

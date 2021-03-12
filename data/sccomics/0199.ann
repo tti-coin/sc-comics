@@ -1,0 +1,100 @@
+T1	SC 23 37	superconductor
+T2	SC 51 82	high-temperature superconductor
+T4	Material 145 151	liquid
+T6	SC 197 211	superconductor
+T8	Material 280 286	planes
+T10	SC 434 448	superconductor
+T12	SC 543 557	superconductor
+T13	SC 565 580	superconductors
+T15	Process 617 637	solid state reaction
+T16	Process 643 655	calcinations
+T17	Process 660 681	sintering temperature
+T19	Process 701 722	annealing temperature
+T24	SC 846 866	critical temperature
+T26	Material 974 981	surface
+T27	SC 999 1013	superconductor
+T32	Element 4 8	Y123
+T33	Element 10 21	YBa2Cu3O7-y
+T34	Element 275 279	CuO2
+T35	Element 257 263	oxygen
+T36	Element 190 196	YBaCuO
+T37	Element 345 349	Cu2+
+T38	Element 353 357	Cu3+
+T39	Main 391 395	Y134
+T40	Main 397 408	YBa3Cu4O9-y
+T41	Main 414 418	Y145
+T42	Main 420 432	YBa4Cu5O11-y
+T43	Element 493 497	Ag2O
+T44	Element 529 533	Y134
+T45	Element 538 542	Y145
+T46	Element 592 596	Ag2O
+T48	Value 690 696	920 °C
+T49	Value 820 824	97 K
+T50	Value 730 736	550 °C
+T51	Value 829 833	96 K
+T52	Value 909 913	91 K
+T53	Value 918 922	95 K
+T54	Element 927 931	Y134
+T55	Element 936 940	Y145
+T56	Element 1030 1032	Ag
+T57	Element 1089 1093	Y134
+T58	Element 985 989	Y134
+T59	Element 994 998	Y145
+T63	Element 152 160	nitrogen
+T64	Material 1047 1063	porous structure
+T68	Value 1114 1118	0.15
+T69	Value 1123 1127	0.14
+T70	Value 1131 1135	0.15
+T71	Value 1146 1149	0.1
+T72	Element 1188 1192	Y145
+T3	SC 90 110	critical temperature
+T5	SC 166 186	critical temperature
+T31	SC 1314 1334	critical temperature
+T73	Value 1213 1217	0.10
+T74	Value 1246 1250	0.10
+T61	Element 1069 1073	Cu3+
+T75	Element 1075 1079	Cu2+
+T60	Element 1168 1172	Cu3+
+T76	Element 1174 1178	Cu2+
+T62	Element 1285 1289	Cu3+
+T77	Element 1291 1295	Cu2+
+T20	Property 128 141	boiling point
+T7	Element 297 303	oxygen
+T9	Doping 498 506	addition
+T11	Doping 581 586	doped
+T14	Doping 784 789	doped
+T18	Doping 1033 1039	adding
+T22	Doping 1136 1141	doped
+T28	Doping 1150 1155	doped
+T29	Doping 1218 1223	doped
+T23	SC 808 816	Tc onset
+T21	SC 750 770	critical temperature
+T25	SC 897 905	Tc onset
+T30	Element 790 795	0.1Ag
+R1	Target Arg1:T52 Arg2:T54
+R2	Target Arg1:T53 Arg2:T55
+R6	Equivalent Arg1:T23 Arg2:T49
+R7	Equivalent Arg1:T23 Arg2:T51
+R8	Equivalent Arg1:T25 Arg2:T52
+R9	Equivalent Arg1:T25 Arg2:T53
+R10	Target Arg1:T49 Arg2:T54
+R11	Target Arg1:T51 Arg2:T55
+R12	Target Arg1:E3 Arg2:T54
+R13	Target Arg1:E3 Arg2:T55
+R14	Target Arg1:E1 Arg2:T44
+R15	Target Arg1:E4 Arg2:T58
+R16	Target Arg1:E8 Arg2:T45
+R17	Target Arg1:E9 Arg2:T59
+R18	Condition Arg1:T49 Arg2:E3
+R19	Condition Arg1:T51 Arg2:E3
+R20	Condition Arg1:T52 Arg2:E3
+R21	Condition Arg1:T53 Arg2:E3
+E1	Doping:T9 Dopant:T43
+E2	Doping:T11 Dopant:T46
+E3	Doping:T14 Dopant:T30
+E4	Doping:T18 Dopant:T56
+E5	Doping:T22
+E6	Doping:T28
+E7	Doping:T29
+E8	Doping:T9 Dopant:T43
+E9	Doping:T18 Dopant:T56

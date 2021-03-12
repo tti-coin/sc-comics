@@ -1,0 +1,78 @@
+T1	Element 0 6	Copper
+T2	Element 8 10	Cu
+T3	Material 12 25	nanoparticles
+T4	Main 30 54	Cu0.5Tl0.5Ba2Ca2Cu3O10−δ
+T5	SC 67 82	superconducting
+T6	Process 109 116	sol-gel
+T7	Process 121 141	solid-state reaction
+T8	Property 163 171	metallic
+T9	Element 172 174	Cu
+T10	Material 175 188	nanoparticles
+T12	SC 213 228	superconducting
+T13	Material 229 235	matrix
+T16	Material 274 287	nanoparticles
+T17	SC 288 302	superconductor
+T18	Material 303 313	composites
+T19	Property 324 345	temperature dependent
+T20	Property 346 374	magneto-transport properties
+T24	Process 435 437	FC
+T29	SC 543 565	transition temperature
+T30	Property 586 604	diamagnetic signal
+T31	Element 628 630	Cu
+T32	Material 631 644	nanoparticles
+T33	Element 657 666	CuTl-1223
+T34	Material 667 673	matrix
+T35	Property 700 728	magneto-transport properties
+T37	Element 805 814	CuTl-1223
+T38	Material 815 821	matrix
+T40	Element 840 842	Cu
+T41	Material 843 856	nanoparticles
+T44	Property 958 971	magnetization
+T45	Property 972 996	critical current density
+T46	Property 998 1000	Jc
+T49	SC 1084 1099	superconducting
+T50	Property 1104 1117	ferromagnetic
+T53	Property 1186 1188	Jc
+T56	Element 1265 1267	Cu
+T57	Material 1268 1281	nanoparticles
+T58	Element 1285 1294	CuTl-1223
+T63	Element 1461 1463	Cu
+T64	Material 1464 1477	nanoparticles
+T66	Main 56 65	CuTl-1223
+T67	Element 203 212	CuTl-1223
+T21	Process 393 410	zero-field-cooled
+T22	Process 412 415	ZFC
+T23	Process 421 433	field-cooled
+T25	Property 858 882	Magnetization hysteresis
+T42	Property 883 894	(M-H) loops
+T43	Property 1022 1049	Bean's critical state model
+T47	Property 1051 1060	M-H loops
+T48	Value 1134 1138	90 K
+T36	Property 786 801	pinning centres
+T54	Property 1232 1247	pinning centres
+T59	Property 1326 1354	magneto-transport properties
+T73	Value 1403 1410	1.0 wt%
+T74	Element 1481 1496	CuTl-1223 phase
+T65	Material 1295 1301	matrix
+T77	Characterization 481 493	measurements
+T78	Property 476 479	M-T
+T79	Property 439 474	temperature dependent magnetization
+T11	Doping 194 199	added
+T39	Doping 828 836	addition
+T55	Doping 1253 1261	addition
+T14	Element 243 258	(Cu)x/CuTl-1223
+T15	Value 264 265	0
+T68	Value 266 273	4.0 wt%
+T26	Element 497 512	(Cu)x/CuTl-1223
+T27	Element 1146 1161	(Cu)x/CuTl-1223
+T28	Element 1358 1373	(Cu)x/CuTl-1223
+R1	Coref Arg1:T1 Arg2:T2
+R2	Coref Arg1:T4 Arg2:T66
+R3	Target Arg1:E1 Arg2:T67
+R4	Target Arg1:E2 Arg2:T37
+R5	Target Arg1:E3 Arg2:T58
+R6	Equivalent Arg1:T49 Arg2:T48
+R7	Target Arg1:T48 Arg2:T27
+E1	Doping:T11 Dopant:T9
+E2	Doping:T39 Dopant:T40
+E3	Doping:T55 Dopant:T56

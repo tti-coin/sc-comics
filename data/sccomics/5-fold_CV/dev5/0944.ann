@@ -1,0 +1,34 @@
+T1	SC 23 38	superconducting
+T2	Element 65 72	lithium
+T4	Element 80 91	borocarbide
+T5	Main 93 99	Li2B3C
+T6	Property 106 123	Eliashberg theory
+T7	SC 167 182	superconducting
+T8	Property 183 193	energy gap
+T9	SC 195 215	critical temperature
+T10	Property 217 240	electron effective mass
+T11	Property 242 253	free energy
+T12	Property 272 294	thermodynamic function
+T13	Property 402 434	Bardeen-Cooper-Schrieffer theory
+T15	SC 438 455	superconductivity
+T16	Element 503 509	Li2B3C
+T17	SC 528 559	high-temperature superconductor
+T18	SC 569 589	critical temperature
+T19	Property 696 709	thermodynamic
+T20	Property 754 775	electron correlations
+T21	Property 794 817	electron effective mass
+T22	SC 825 845	critical temperature
+T14	Value 679 682	0.1
+T24	Value 683 686	0.3
+T25	Property 888 911	Coulomb pseudopotential
+T26	Property 647 670	Coulomb pseudopotential
+T27	Property 744 753	depairing
+T3	Doping 73 79	doping
+T23	Value 608 615	76.72 K
+T28	Value 619 626	45.07 K
+R1	Target Arg1:E1 Arg2:T4
+R2	Equivalent Arg1:T18 Arg2:T23
+R3	Equivalent Arg1:T18 Arg2:T28
+R4	Target Arg1:T23 Arg2:T16
+R5	Target Arg1:T28 Arg2:T16
+E1	Doping:T3 Dopant:T2

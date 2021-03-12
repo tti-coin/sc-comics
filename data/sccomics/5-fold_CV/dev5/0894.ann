@@ -1,0 +1,47 @@
+T2	Element 15 29	iron arsenides
+T3	Element 34 48	iron selenides
+T4	Main 50 54	FeB4
+T6	SC 77 91	superconductor
+T7	SC 99 137	superconducting transition temperature
+T8	SC 138 140	Tc
+T9	SC 186 188	Tc
+T10	Element 192 196	FeB4
+T11	Element 224 228	iron
+T12	SC 235 250	superconductors
+T13	Property 271 295	electron-phonon coupling
+T14	SC 309 326	superconductivity
+T15	Element 330 334	FeB4
+T16	Main 385 389	FeB4
+T17	Property 427 443	first-principles
+T18	Property 444 476	electronic structure calculation
+T19	Element 556 560	FeB4
+T20	SC 595 597	Tc
+T21	Property 712 725	low-frequency
+T22	Element 726 730	Fe-B
+T23	Property 737 744	phonons
+T24	Property 753 770	electronic states
+T25	Element 783 784	B
+T27	SC 871 873	Tc
+T28	Property 880 892	calculations
+T29	Element 920 924	FeB4
+T30	Property 944 950	phonon
+T31	SC 960 974	superconductor
+T32	Value 150 155	2.9 K
+T33	Property 297 300	EPC
+T34	Property 378 381	EPC
+T35	Property 538 541	EPC
+T36	Value 601 607	50.0 K
+T37	Property 667 670	EPC
+T26	Element 793 795	Fe
+T38	Property 839 842	gap
+T39	Property 625 654	McMillian-Allen-Dynes formula
+T40	Property 796 818	3 d x 2 − y 2 orbitals
+T41	Property 785 788	2py
+T42	Value 564 568	1.41
+T1	Property 498 519	Wannier interpolation
+T5	Element 66 70	iron
+R1	Equivalent Arg1:T8 Arg2:T32
+R2	Target Arg1:T32 Arg2:T4
+R3	Equivalent Arg1:T20 Arg2:T36
+R4	Target Arg1:T36 Arg2:T19
+R5	Coref Arg1:T7 Arg2:T8	

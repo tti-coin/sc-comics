@@ -1,0 +1,71 @@
+T1	Main 0 3	U–T
+T2	Element 7 9	Mo
+T3	Element 11 13	Pd
+T4	Element 15 17	Pt
+T5	Material 19 25	alloys
+T6	Process 49 56	cooling
+T7	Characterization 88 105	X-ray diffraction
+T10	SC 197 214	superconductivity
+T11	SC 220 246	superconducting transition
+T12	Material 254 259	alloy
+T13	Element 271 273	Mo
+T15	Property 356 367	resistivity
+T16	SC 411 414	T c
+T17	Element 442 444	Pd
+T18	Element 449 451	Pt
+T23	Property 494 509	magnetic fields
+T24	Property 515 526	resistivity
+T25	Process 541 559	lower temperatures
+T26	SC 565 582	superconductivity
+T27	SC 635 638	T c
+T31	Value 177 181	0.3K
+T32	Value 265 270	6at.%
+T33	Value 319 323	1.5K
+T34	Value 344 348	0.6K
+T35	Value 436 441	5at.%
+T36	Value 416 420	0.8K
+T37	Property 646 657	C(T) curves
+T38	Value 462 464	5%
+T39	Value 473 475	5%
+T40	Value 277 279	6%
+T8	Doping 452 458	doping
+T9	Element 275 276	U
+T14	Element 279 281	Mo
+T19	Element 460 461	U
+T20	Element 464 466	Pd
+T21	Element 471 472	U
+T22	Element 475 477	Pt
+T28	Property 127 140	specific heat
+T30	Property 111 122	resistivity
+T41	Characterization 141 153	measurements
+R1	Equivalent Arg1:T16 Arg2:T36
+R2	Equivalent Arg1:T11 Arg2:T33
+R3	Equivalent Arg1:T11 Arg2:T34
+R4	Condition Arg1:T36 Arg2:E2
+R5	Condition Arg1:T36 Arg2:E1
+E1	Doping:T8 Dopant:T18
+E2	Doping:T8 Dopant:T17
+#1	AnnotatorNotes T1	0-3
+#2	AnnotatorNotes T2	7-9
+#3	AnnotatorNotes T3	11-13
+#4	AnnotatorNotes T4	15-17
+#5	AnnotatorNotes T5	19-25
+#6	AnnotatorNotes T12	254-259
+#7	AnnotatorNotes T13	271-273
+#8	AnnotatorNotes T17	442-444
+#9	AnnotatorNotes T18	449-451
+#10	AnnotatorNotes T31	177-181
+#11	AnnotatorNotes T32	265-270
+#12	AnnotatorNotes T33	319-323
+#13	AnnotatorNotes T34	344-348
+#14	AnnotatorNotes T35	436-441
+#15	AnnotatorNotes T36	416-420
+#16	AnnotatorNotes T38	462-464
+#17	AnnotatorNotes T39	473-475
+#18	AnnotatorNotes T40	277-279
+#19	AnnotatorNotes T9	275-276
+#20	AnnotatorNotes T14	279-281
+#21	AnnotatorNotes T19	460-461
+#22	AnnotatorNotes T20	464-466
+#23	AnnotatorNotes T21	471-472
+#24	AnnotatorNotes T22	475-477

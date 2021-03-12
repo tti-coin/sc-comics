@@ -1,0 +1,38 @@
+T1	SC 10 27	superconductivity
+T2	Material 31 46	polycrystalline
+T3	Element 62 81	1038-type compounds
+T4	Main 82 126	( Ca 1 − x RE x ) 10 ( FeAs ) 10 ( Pt 3 As 8
+T5	SC 135 138	T c
+T6	Element 152 153	Y
+T8	Element 162 164	Sm
+T9	Element 166 168	Gd
+T10	Element 169 171	Lu
+T11	Property 177 198	critical temperatures
+T12	Element 239 257	rare earth element
+T13	SC 282 285	T c
+T14	Property 295 308	phase diagram
+T15	Property 313 321	electron
+T17	SC 366 383	superconductivity
+T18	Element 387 391	Eu2+
+T20	Element 443 489	( Ca 1 − x RE x ) 10 ( FeAs ) 10 ( Pt 3 As 8 )
+T21	Element 497 510	1048 compound
+T22	Property 533 541	electron
+T24	Element 565 572	RE-1038
+T26	Element 611 615	iron
+T27	SC 622 637	superconductors
+T28	Material 651 669	crystal structures
+T33	Element 149 151	RE
+T39	Value 140 143	35K
+T25	Element 577 588	1048 phases
+T16	Doping 322 328	doping
+T19	Doping 392 397	doped
+T23	Doping 542 548	doping
+T7	Element 155 157	La
+T30	Element 158 160	Nd
+R1	Equivalent Arg1:T5 Arg2:T39
+R2	Target Arg1:T39 Arg2:T4
+R3	Target Arg1:E3 Arg2:T25
+R4	Target Arg1:E3 Arg2:T24
+E1	Doping:T16 Dopant:T15
+E2	Doping:T19 Dopant:T18
+E3	Doping:T23 Dopant:T22

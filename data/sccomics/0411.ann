@@ -1,0 +1,48 @@
+T3	SC 87 102	superconducting
+T4	Material 103 118	single crystals
+T5	Process 124 129	grown
+T6	Process 181 196	oxygen pressure
+T8	Material 240 255	single crystals
+T9	Characterization 284 302	optical microscopy
+T10	Characterization 304 323	neutron diffraction
+T11	Characterization 328 345	X-ray diffraction
+T12	Material 366 378	compositions
+T15	Material 458 476	lattice parameters
+T16	Property 541 561	oxygen stoichiometry
+T17	Element 599 607	hydrogen
+T18	Process 608 617	reduction
+T19	Characterization 618 634	thermogravimetry
+T20	Material 694 703	deficient
+T21	Process 721 736	oxygen pressure
+T22	Process 756 762	growth
+T23	Process 773 788	oxygen pressure
+T24	Process 810 817	growing
+T26	Element 834 853	Sr14−x Ca x Cu24O41
+T27	Material 854 869	single crystals
+T28	Property 875 889	susceptibility
+T29	Material 909 915	c-axis
+T30	Material 930 942	compositions
+T33	Element 1042 1053	Sr14Cu24O41
+T35	Process 147 175	mirror floating zone furnace
+T36	Value 203 208	35bar
+T37	Property 383 394	homogeneity
+T13	Characterization 415 452	micro-X-ray fluorescence spectroscopy
+T14	Characterization 520 535	Rietveld method
+T31	Property 982 993	dimer model
+T40	Value 56 60	12.2
+T41	Value 62 66	12.6
+T42	Value 71 73	13
+T25	Element 825 827	Ca
+T45	Element 24 26	Ca
+T46	Main 33 52	Sr14−x Ca x Cu24O41
+T47	Process 234 239	grown
+T48	Element 687 693	oxygen
+T49	Property 966 981	one dimensional
+T50	Property 75 86	spin ladder
+T1	Doping 27 32	doped
+T32	Doping 828 833	doped
+T2	Characterization 562 574	measurements
+R1	Target Arg1:E1 Arg2:T46
+R2	Target Arg1:E2 Arg2:T26
+E1	Doping:T1 Dopant:T45
+E2	Doping:T32 Dopant:T25

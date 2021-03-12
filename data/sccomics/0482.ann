@@ -1,0 +1,48 @@
+T1	Material 57 61	bulk
+T2	SC 62 79	superconductivity
+T3	Main 87 103	CsPb x Bi4−x Te6
+T4	Material 116 125	materials
+T5	Property 156 170	thermoelectric
+T6	Element 181 199	Cs[Pb m Bi3Te5+m ]
+T7	Material 207 216	materials
+T8	Material 226 233	layered
+T9	Material 234 246	orthorhombic
+T10	Material 247 256	structure
+T11	Property 277 284	anionic
+T12	Element 286 294	PbBi3Te6
+T13	Element 318 329	Cs+ cations
+T14	Property 331 354	Temperature dependences
+T15	Property 358 380	electrical resistivity
+T16	Property 382 405	magnetic susceptibility
+T17	Property 411 424	specific heat
+T18	SC 465 491	superconducting transition
+T19	Element 495 519	Cs0.96Pb0.25Bi3.75Te6.04
+T20	SC 530 533	T c
+T21	SC 547 562	superconducting
+T22	Material 602 612	Structural
+T23	Characterization 646 650	STEM
+T24	Characterization 651 654	TEM
+T25	Material 681 696	microstructural
+T26	Element 731 742	Pb-ordering
+T27	SC 775 790	superconducting
+T28	Material 791 799	material
+T29	Element 800 824	Cs0.96Pb0.25Bi3.75Te6.04
+T30	SC 842 845	T c
+T31	Property 860 867	ordered
+T32	Material 868 877	structure
+T33	Material 937 942	plane
+T34	SC 982 999	superconductivity
+T36	Material 1035 1048	semiconductor
+T37	SC 1095 1110	superconductors
+T42	Value 111 114	1.0
+T43	Value 105 108	0.3
+T46	Value 534 538	3.1K
+T47	Value 596 600	1.8K
+T48	Characterization 625 645	aberration-corrected
+T49	Property 1031 1034	gap
+T50	Value 588 592	100%
+T51	Characterization 0 25	Experimental measurements
+T35	Doping 1014 1020	doping
+R1	Equivalent Arg1:T20 Arg2:T46
+R2	Target Arg1:T46 Arg2:T19
+E1	Doping:T35

@@ -1,0 +1,37 @@
+T1	Process 10 13	MBE
+T3	Material 147 152	layer
+T5	Material 200 209	unit cell
+T6	SC 222 237	superconducting
+T7	Property 252 262	insulating
+T8	Material 263 276	barrier layer
+T9	SC 309 324	superconducting
+T10	SC 441 449	high-T C
+T11	SC 499 522	Josephson supercurrents
+T12	Material 589 603	single-crystal
+T13	Material 604 614	thin films
+T14	Process 642 645	MBE
+T15	Property 668 678	anisotropy
+T16	Property 682 708	colossal magnetoresistance
+T17	Property 710 713	CMR
+T18	Material 748 761	superlattices
+T19	Material 891 899	in-plane
+T20	Property 900 910	anisotropy
+T21	Property 914 934	transport properties
+T22	Main 91 115	BiSr2Ca7−x Dy x Cu8O19+y
+T26	Element 144 146	Ca
+T27	Element 165 167	Dy
+T28	Main 803 818	La1−x Ca x MnO3
+T31	Main 823 838	La1−x Sr x MnO3
+T34	Element 1039 1054	La1−x Sr x MnO3
+T37	Element 1065 1078	Bi2Sr2CaCu2O8
+T38	Property 963 972	low-field
+T39	Property 973 984	sensitivity
+T40	Material 379 397	Josephson junction
+T41	Material 450 472	tunnel (SIS) junctions
+T42	Characterization 552 561	tunneling
+T43	Characterization 562 565	I-V
+T4	Doping 156 161	doped
+T2	Element 67 74	cuprate
+T23	SC 75 89	superconductor
+R1	Target Arg1:E1 Arg2:T22
+E1	Doping:T4 Dopant:T27 Site:T26

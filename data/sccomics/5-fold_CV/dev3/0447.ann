@@ -1,0 +1,91 @@
+T1	Material 0 15	Polycrystalline
+T2	Element 16 18	Sr
+T3	Element 23 25	Co
+T4	SC 35 50	superconducting
+T5	Main 64 89	Pr1−y Sr y Fe1−x Co x AsO
+T6	Process 110 130	solid state reaction
+T7	SC 143 160	superconductivity
+T8	Property 191 202	resistivity
+T9	Property 204 227	magnetic susceptibility
+T10	Property 232 243	thermopower
+T11	Element 252 268	PrFe1−x Co x AsO
+T12	Element 287 289	Co
+T14	SC 298 301	T c
+T15	SC 364 367	T c
+T16	Element 373 375	Co
+T17	Element 430 432	Co
+T18	Element 439 449	1111 phase
+T19	Element 466 482	LaFe1−x Co x AsO
+T20	Element 487 503	SmFe1−x Co x AsO
+T21	Element 512 514	Co
+T22	Element 519 521	Sr
+T23	Element 531 555	Pr0.8Sr0.2Fe1−x Co x AsO
+T24	SC 564 567	T c
+T25	SC 618 621	T c
+T26	Element 647 649	Co
+T27	Property 665 678	phase diagram
+T28	SC 682 685	T c
+T29	Element 693 695	Co
+T30	Element 735 737	Sr
+T32	Property 765 769	hole
+T33	Property 775 790	charge carriers
+T34	Element 798 805	PrFeAsO
+T35	Material 821 829	disorder
+T36	Element 840 842	Sr
+T37	Element 847 849	Co
+T38	Material 850 857	dopants
+T39	SC 879 882	T c
+T40	Property 889 900	thermopower
+T41	Element 920 922	Sr
+T42	Material 923 929	dopant
+T43	Property 933 937	hole
+T44	Element 947 949	Co
+T45	Material 950 956	dopant
+T46	Property 960 968	electron
+T47	SC 988 991	T c
+T48	Element 1010 1012	Co
+T49	Element 1031 1033	Sr
+T51	Element 1058 1060	Sr
+T52	Material 1061 1067	dopant
+T53	Element 1091 1093	Co
+T55	SC 1175 1178	T c
+T56	Property 1182 1204	charge carrier density
+T58	Property 1213 1217	hole
+T59	Property 1227 1235	electron
+T60	Element 1241 1252	oxypnictide
+T61	SC 1253 1268	superconductors
+T65	Value 323 326	16K
+T80	Value 595 598	16K
+T81	Value 604 608	0.15
+T13	Doping 29 34	doped
+T31	Doping 290 296	doping
+T50	Doping 433 438	doped
+T54	Doping 525 530	doped
+T67	Doping 738 744	doping
+T73	Doping 1034 1040	doping
+T77	Doping 1094 1100	doping
+T62	Value 332 337	0.075
+T66	Value 338 341	0.1
+R1	Equivalent Arg1:T14 Arg2:T65
+R2	Target Arg1:T65 Arg2:T11
+R3	Target Arg1:T80 Arg2:T23
+R4	Equivalent Arg1:T24 Arg2:T80
+R5	Target Arg1:E1 Arg2:T5
+R6	Target Arg1:E2 Arg2:T11
+R7	Target Arg1:E3 Arg2:T18
+R8	Target Arg1:E6 Arg2:T23
+R9	Condition Arg1:T65 Arg2:E2
+R10	Target Arg1:E3 Arg2:T19
+R11	Target Arg1:E3 Arg2:T20
+R12	Target Arg1:E7 Arg2:T34
+R13	Target Arg1:E4 Arg2:T5
+R14	Target Arg1:E5 Arg2:T23
+E1	Doping:T13 Dopant:T2
+E2	Doping:T31 Dopant:T12
+E3	Doping:T50 Dopant:T17
+E6	Doping:T54 Dopant:T21
+E7	Doping:T67 Dopant:T30
+E8	Doping:T73 Dopant:T49
+E9	Doping:T77 Dopant:T53
+E4	Doping:T13 Dopant:T3
+E5	Doping:T54 Dopant:T22

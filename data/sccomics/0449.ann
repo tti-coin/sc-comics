@@ -1,0 +1,55 @@
+T1	Main 16 30	SmFeAsO1−x F x
+T2	Main 35 49	GdFeAsO1−x F x
+T3	Element 126 130	ReF3
+T4	Element 138 146	fluorine
+T5	Process 172 187	low temperature
+T6	Process 211 219	sintered
+T7	Element 243 257	SmFeAsO1−x F x
+T8	Element 262 276	GdFeAsO1−x F x
+T9	Material 408 418	tetragonal
+T10	Material 419 432	ZrCuSiAs-type
+T11	Material 433 442	structure
+T12	Material 475 493	lattice parameters
+T13	SC 510 513	T c
+T14	Process 531 546	low temperature
+T15	Element 587 595	fluorine
+T16	Element 601 608	REFeAsO
+T17	SC 610 636	Superconducting transition
+T18	Element 659 673	SmFeAsO1−x F x
+T19	Element 701 715	GdFeAsO1−x F x
+T20	SC 740 743	T c
+T21	Element 770 784	SmFeAsO0.8F0.2
+T22	Element 798 814	GdFeAsO0.75F0.25
+T23	Element 843 847	ReF3
+T24	Process 901 916	low temperature
+T26	Element 959 963	iron
+T27	SC 970 985	superconductors
+T33	Value 53 57	0.05
+T34	Value 763 766	54K
+T35	Value 649 654	39.5K
+T39	Value 789 794	40.2K
+T40	Value 693 696	22K
+T44	Value 723 726	0.1
+T45	Value 59 62	0.1
+T46	Value 70 73	0.2
+T47	Value 64 68	0.15
+T48	Value 75 79	0.25
+T49	Value 223 227	1100
+T50	Value 232 238	1120°C
+T55	Value 681 685	0.05
+T56	Element 944 952	fluorine
+T57	Process 927 939	synthesizing
+T60	Material 114 125	nano-scaled
+T25	Doping 953 958	doped
+T28	Value 325 327	50
+T29	Value 328 331	60°
+R1	Equivalent Arg1:T20 Arg2:T34
+R2	Target Arg1:T34 Arg2:T21
+R3	Equivalent Arg1:T20 Arg2:T39
+R4	Target Arg1:T39 Arg2:T22
+R5	Target Arg1:T40 Arg2:T19
+R6	Equivalent Arg1:T17 Arg2:T35
+R7	Equivalent Arg1:T17 Arg2:T40
+R8	Target Arg1:T35 Arg2:T18
+R9	Target Arg1:E1 Arg2:T26
+E1	Doping:T25 Dopant:T56

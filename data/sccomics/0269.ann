@@ -1,0 +1,47 @@
+T1	Property 3 12	ab initio
+T2	Material 30 51	structural parameters
+T3	Property 62 72	electronic
+T4	Property 74 87	thermodynamic
+T5	Property 92 110	optical properties
+T6	Element 114 117	MAX
+T7	Main 125 130	Nb2AC
+T8	Element 134 135	S
+T9	Element 137 139	Sn
+T10	Material 169 174	plane
+T13	Element 294 296	Sn
+T14	Material 297 302	atoms
+T15	Element 319 320	S
+T16	Material 321 326	atoms
+T18	Property 390 415	electronic band structure
+T20	Element 511 513	Nb
+T21	Property 514 516	4d
+T22	Process 545 553	pressure
+T23	Property 568 580	bulk modulus
+T24	Property 582 599	Debye temperature
+T25	Property 601 615	specific heats
+T26	Property 617 646	thermal expansion coefficient
+T28	Property 786 810	electron–phonon coupling
+T29	Element 849 854	Nb2SC
+T30	Element 859 865	Nb2SnC
+T31	SC 889 904	superconductors
+T32	Element 981 986	Nb2SC
+T33	Property 999 1009	dielectric
+T35	Process 1104 1111	coating
+T37	Property 53 60	elastic
+T40	Material 334 346	nanolaminate
+T42	Material 654 667	nanolaminates
+T27	Property 712 738	quasi-harmonic Debye model
+T43	Value 825 829	0.49
+T44	Value 832 836	0.59
+T36	Property 1129 1135	energy
+T11	Property 212 237	density functional theory
+T45	Property 239 242	DFT
+T46	Characterization 1061 1081	reflectivity spectra
+T47	Property 744 760	phononic effects
+T48	Property 822 823	λ
+T49	Material 447 468	electrical conductors
+T19	Property 180 202	pseudopotential method
+T12	Doping 270 282	substitution
+T17	Value 1144 1146	10
+T34	Value 1147 1153	16.5eV
+E1	Doping:T12 Site:T13 Dopant:T15

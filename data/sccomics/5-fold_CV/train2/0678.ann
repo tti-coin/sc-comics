@@ -1,0 +1,97 @@
+T1	Element 14 23	Tellurium
+T2	Element 25 27	Te
+T4	Element 46 54	Selenium
+T5	Element 56 58	Se
+T6	Material 67 83	tetragonal phase
+T7	Element 87 91	FeSe
+T8	SC 115 153	superconducting transition temperature
+T9	SC 155 157	Tc
+T10	Process 183 191	pressure
+T11	Material 199 206	lattice
+T12	Property 221 233	normal state
+T13	Property 234 245	resistivity
+T14	Property 266 279	semi-metallic
+T15	Element 313 315	Te
+T16	Property 316 329	concentration
+T17	Element 347 349	Te
+T18	Property 350 363	concentration
+T19	SC 369 371	Tc
+T20	Element 408 420	FeSe0.5Te0.5
+T21	Element 465 467	Te
+T22	Element 504 510	Cobalt
+T23	Element 512 514	Co
+T24	Element 520 526	Nickel
+T25	Element 528 530	Ni
+T27	Main 542 554	FeSe0.5Te0.5
+T28	Material 562 581	nominal composition
+T29	Element 588 610	Fe1− x TM x Se0.5Te0.5
+T30	Element 615 617	Co
+T31	Element 648 650	Ni
+T32	Element 673 675	Co
+T33	Element 680 682	Ni
+T35	SC 699 701	Tc
+T36	Material 759 767	in-plane
+T37	Material 778 790	out-of-plane
+T38	Material 797 814	lattice constants
+T39	Property 840 860	dopant concentration
+T48	Property 727 753	metal–insulator transition
+T49	Element 93 100	β-FeSe)
+T50	Material 770 771	a
+T51	Material 793 794	c
+T3	Doping 29 41	substitution
+T26	Doping 532 538	doping
+T34	Doping 683 689	doping
+T40	Value 622 626	0.05
+T41	Value 628 631	0.1
+T42	Value 633 637	0.15
+T45	Value 639 642	0.2
+T47	Value 655 659	0.05
+T52	Value 661 664	0.1
+R1	Coref Arg1:T4 Arg2:T5
+R2	Coref Arg1:T1 Arg2:T2
+R3	Coref Arg1:T7 Arg2:T49
+R4	Coref Arg1:T22 Arg2:T23
+R5	Coref Arg1:T24 Arg2:T25
+R6	Coref Arg1:T8 Arg2:T9
+R7	Target Arg1:E1 Arg2:T7
+R8	Target Arg1:E2 Arg2:T27
+R9	Target Arg1:E3 Arg2:T27
+E1	Doping:T3 Dopant:T1 Site:T4
+E2	Doping:T26 Dopant:T22
+E3	Doping:T26 Dopant:T24
+E4	Doping:T34 Dopant:T33
+E5	Doping:T34 Dopant:T32
+#1	AnnotatorNotes T1	14-23
+#2	AnnotatorNotes T2	25-27
+#3	AnnotatorNotes T4	46-54
+#4	AnnotatorNotes T5	56-58
+#5	AnnotatorNotes T6	67-83
+#6	AnnotatorNotes T7	87-91
+#7	AnnotatorNotes T11	199-206
+#8	AnnotatorNotes T15	313-315
+#9	AnnotatorNotes T17	347-349
+#10	AnnotatorNotes T20	408-420
+#11	AnnotatorNotes T21	465-467
+#12	AnnotatorNotes T22	504-510
+#13	AnnotatorNotes T23	512-514
+#14	AnnotatorNotes T24	520-526
+#15	AnnotatorNotes T25	528-530
+#16	AnnotatorNotes T27	542-554
+#17	AnnotatorNotes T28	562-581
+#18	AnnotatorNotes T29	588-610
+#19	AnnotatorNotes T30	615-617
+#20	AnnotatorNotes T31	648-650
+#21	AnnotatorNotes T32	673-675
+#22	AnnotatorNotes T33	680-682
+#23	AnnotatorNotes T36	759-767
+#24	AnnotatorNotes T37	778-790
+#25	AnnotatorNotes T38	797-814
+#26	AnnotatorNotes T49	93-100
+#27	AnnotatorNotes T50	770-771
+#28	AnnotatorNotes T51	793-794
+#29	AnnotatorNotes T40	622-626
+#30	AnnotatorNotes T41	628-631
+#31	AnnotatorNotes T42	633-637
+#32	AnnotatorNotes T45	639-642
+#33	AnnotatorNotes T47	655-659
+#34	AnnotatorNotes T52	661-664

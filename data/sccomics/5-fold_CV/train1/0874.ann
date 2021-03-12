@@ -1,0 +1,59 @@
+T1	SC 18 49	high temperature superconductor
+T2	Main 50 66	YBa2-xPbxCu3O7-δ
+T4	Process 128 148	solid-state reaction
+T5	Element 171 173	Pb
+T7	Element 190 192	Ba
+T8	Element 201 205	YBCO
+T9	SC 206 221	superconducting
+T11	Property 242 252	electrical
+T12	SC 257 272	superconducting
+T13	Element 287 288	Y
+T14	SC 295 309	superconductor
+T15	Property 353 368	dc resisitivity
+T16	Property 428 441	low frequency
+T18	SC 498 500	Tc
+T19	Property 527 538	resistivity
+T20	Element 590 592	Pb
+T22	SC 633 635	Tc
+T23	SC 641 658	superconductivity
+T24	SC 714 716	Tc
+T25	Material 791 800	structure
+T26	Material 805 817	phase purity
+T27	Characterization 850 874	X-ray powder diffraction
+T28	Characterization 886 889	XRD
+T29	Characterization 954 966	kα radiation
+T30	Material 972 977	grain
+T31	Material 978 988	morphology
+T32	Material 992 999	surface
+T34	Characterization 1062 1065	SEM
+T35	Characterization 1068 1071	XRD
+T36	Material 1084 1109	polycrystalline materials
+T38	Material 1113 1124	composition
+T39	Element 1125 1141	YBa2-xPbxCu3O7-δ
+T40	Material 1181 1193	orthorhombic
+T41	Element 1215 1219	YBCO
+T42	Element 1224 1240	YBa2-xPbxCu3O7-δ
+T43	Value 84 88	0.05
+T10	Value 457 461	4 mA
+T17	SC 469 496	superconducting temperature
+T48	SC 612 632	cirtical temperature
+T50	Value 756 760	0.15
+T52	Value 769 772	0.1
+T33	Characterization 1031 1060	sacanning electron microscopy
+T57	Characterization 337 349	measurements
+T58	Value 89 92	0.1
+T59	Value 93 97	0.15
+T60	Material 230 240	structural
+T61	Characterization 404 421	four-probe method
+T62	Element 951 953	Cu
+T37	Property 1278 1294	volume fractions
+T3	Doping 72 78	doping
+T6	Doping 174 186	substitution
+T21	Doping 593 599	doping
+T45	Property 442 455	lowAC current
+R1	Coref Arg1:T17 Arg2:T18
+R2	Coref Arg1:T48 Arg2:T22
+R3	Target Arg1:E2 Arg2:T8
+E1	Doping:T3 
+E2	Doping:T6 Dopant:T5 Site:T7
+E3	Doping:T21 Dopant:T20

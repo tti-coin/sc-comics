@@ -1,0 +1,28 @@
+T1	SC 25 40	superconducting
+T2	Property 41 48	pairing
+T3	SC 52 60	high-T c
+T4	Element 61 69	cuprates
+T6	Property 177 192	magnetic fields
+T7	Main 224 236	Tl2Ba2CuO6+x
+T8	Material 260 265	metal
+T10	Property 295 311	phase transition
+T11	Property 323 332	pseudogap
+T12	Property 353 366	thermodynamic
+T13	Property 420 428	critical
+T15	Property 458 472	magnetic field
+T16	SC 507 510	T c
+T17	Property 531 560	quantum critical fluctuations
+T18	Property 565 573	magnetic
+T19	Property 603 612	pseudogap
+T20	SC 631 648	superconductivity
+T21	SC 654 662	high T c
+T23	Property 397 409	zero entropy
+T24	Property 211 223	pseudogapped
+T5	Doping 156 161	doped
+T9	Doping 275 281	doping
+T14	Doping 429 435	doping
+R1	Target Arg1:E1 Arg2:T4
+R2	Target Arg1:E2 Arg2:T7
+E1	Doping:T5
+E2	Doping:T9
+E3	Doping:T14

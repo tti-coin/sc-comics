@@ -1,0 +1,38 @@
+T2	Property 52 75	magnetic susceptibility
+T3	SC 186 224	superconducting transition temperature
+T4	SC 225 228	T c
+T5	SC 254 257	T c
+T6	SC 280 283	T c
+T8	Property 429 452	magnetic susceptibility
+T9	Property 520 523	BCS
+T10	Property 524 530	theory
+T12	Property 666 675	electrons
+T14	Property 782 805	effective electron mass
+T17	Process 908 924	low temperatures
+T19	Main 92 117	(Bi, Pb, Sb)2Sr2Ca2Cu3O10
+T24	Element 894 903	YBa2Cu3O7
+T25	Value 627 640	40 mJ/mole K2
+T26	Value 716 721	10m 0
+T13	Property 739 757	free electron mass
+T27	Property 728 731	m 0
+T28	Value 975 986	40 mJK/mole
+T29	Value 990 993	0.0
+T30	Value 1000 1015	1.76 mJ/mole K4
+T31	Value 1116 1121	4 3 K
+T32	Value 285 290	109 K
+T20	Value 259 275	6.2±0.2 J/mole K
+T1	Property 34 47	specific heat
+T21	Property 160 173	specific heat
+T22	Property 174 178	C(T)
+T7	Property 453 457	χ(T)
+T11	Property 618 622	χ(T)
+T34	Property 680 697	highly correlated
+T35	Property 705 714	band mass
+T36	Property 765 773	γ-values
+T37	Property 925 929	C(T)
+T38	Property 1078 1082	C(T)
+T15	SC 862 886	high-T c superconductors
+T16	Property 1091 1111	Einstein temperature
+R1	Equivalent Arg1:T6 Arg2:T32
+R2	Equivalent Arg1:T5 Arg2:T20
+R3	Coref Arg1:T3 Arg2:T4

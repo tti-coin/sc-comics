@@ -1,0 +1,56 @@
+T1	SC 178 195	superconductivity
+T2	Property 263 277	magnetic field
+T3	SC 433 448	superconductors
+T4	Property 503 518	magnetic fields
+T5	Property 595 607	normal state
+T6	Property 611 615	hole
+T11	Property 915 936	oscillation frequency
+T13	Property 1050 1070	Seebeck coefficients
+T14	Property 1124 1128	hole
+T17	Material 1334 1356	translational symmetry
+T18	Property 1398 1402	spin
+T19	Property 1404 1410	charge
+T20	Property 1432 1437	order
+T22	Property 1579 1596	spin-density wave
+T23	Property 1602 1609	moments
+T25	Property 1716 1728	charge order
+T28	Property 1738 1748	spin order
+T30	SC 1805 1822	superconductivity
+T31	Property 1855 1869	magnetic field
+T32	SC 1935 1952	superconductivity
+T34	Property 1979 1990	instability
+T35	SC 1994 2002	high T c
+T37	Property 452 462	high field
+T9	Property 768 781	Fermi surface
+T45	Property 1205 1215	high field
+T47	Property 1032 1045	negative Hall
+T48	Property 1386 1396	electronic
+T49	Property 1415 1430	orbital current
+T33	Property 1959 1978	charge-density-wave
+T44	Element 2003 2011	cuprates
+T12	Property 989 1002	Fermi surface
+T15	Property 1134 1147	Fermi surface
+T8	Main 622 629	cuprate
+T50	SC 630 645	superconductors
+T38	Element 699 709	YBa2Cu3O y
+T39	Element 724 737	Tl2Ba2CuO6+ δ
+T10	Element 1774 1786	copper oxide
+T24	Material 1787 1793	planes
+T21	Property 1524 1537	Fermi-surface
+T16	Property 1253 1272	quantum oscillation
+T52	Property 1469 1489	quantum oscillations
+T53	Characterization 1647 1673	nuclear magnetic resonance
+T7	Doping 688 698	underdoped
+T26	Doping 616 621	doped
+T27	Doping 714 723	overdoped
+T29	Doping 1078 1088	underdoped
+T40	Doping 1151 1160	overdoped
+T36	Property 799 812	phase diagram
+R1	Target Arg1:E1 Arg2:T38
+R2	Target Arg1:E2 Arg2:T8
+R3	Target Arg1:E3 Arg2:T39
+E1	Doping:T7 
+E2	Doping:T26 Dopant:T6
+E3	Doping:T27 
+E4	Doping:T29 
+E5	Doping:T40 

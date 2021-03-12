@@ -1,0 +1,46 @@
+T2	Process 45 61	room temperature
+T3	Material 67 81	single crystal
+T6	Property 146 169	Magnetic susceptibility
+T7	Material 224 232	crystals
+T8	SC 254 257	T c
+T9	SC 296 311	superconducting
+T10	SC 337 340	T c
+T11	SC 405 408	T c
+T12	Property 500 511	resistivity
+T13	Property 512 522	anisotropy
+T14	Property 600 610	anisotropy
+T15	Material 675 683	crystals
+T16	Material 760 767	crystal
+T17	SC 773 776	T c
+T18	Property 813 827	magnetic field
+T19	Value 341 343	32
+T20	Element 15 21	oxygen
+T21	Main 82 89	La2CuO4
+T22	Element 214 223	La2CuO4+δ
+T24	Value 258 262	40 K
+T26	Value 348 352	40 K
+T27	Value 409 413	45 K
+T28	Material 435 450	polycrystalline
+T29	Value 557 562	290 K
+T30	Value 575 579	50 K
+T33	Element 660 667	La2CuO4
+T34	Element 750 759	La2CuO4+δ
+T36	Value 779 783	40 K
+T37	Value 846 853	5 × 104
+T38	Value 858 871	9 × 104 A/cm2
+T41	Property 713 737	critical current density
+T31	Value 550 553	100
+T32	Value 568 571	300
+T4	Process 103 128	electrochemical oxidation
+T1	Doping 29 41	intercalated
+T5	Property 738 744	J c(H)
+T23	Property 836 843	J c (0)
+R1	Equivalent Arg1:T8 Arg2:T24
+R2	Equivalent Arg1:T11 Arg2:T27
+R3	Equivalent Arg1:T10 Arg2:T19
+R4	Equivalent Arg1:T10 Arg2:T26
+R5	Equivalent Arg1:T17 Arg2:T36
+R6	Target Arg1:T24 Arg2:T22
+R7	Target Arg1:T36 Arg2:T34
+R8	Target Arg1:E1 Arg2:T21
+E1	Doping:T1 Dopant:T20

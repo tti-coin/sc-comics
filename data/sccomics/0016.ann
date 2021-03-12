@@ -1,0 +1,55 @@
+T1	Process 0 7	Sol-gel
+T2	Material 8 13	films
+T5	Material 136 141	films
+T8	Characterization 278 295	X-ray diffraction
+T9	Material 300 305	plane
+T10	Property 306 323	residual stresses
+T11	Material 331 336	films
+T12	Material 408 417	interface
+T13	Material 486 491	films
+T14	Material 512 520	in-plane
+T15	Property 521 538	residual stresses
+T16	Material 680 689	interface
+T17	Material 751 755	film
+T18	Material 849 857	in-plane
+T25	Material 1048 1052	film
+T26	Main 29 33	YBCO
+T27	Main 17 27	YBa2Cu3O x
+T3	Element 120 123	MgO
+T4	Value 90 97	0.05 cm
+T31	Value 72 77	10 cm
+T32	Value 186 194	5 microm
+T33	Value 160 168	1 microm
+T34	Element 399 407	YBCOMgO
+T35	Element 579 583	YBCO
+T36	Element 588 591	MgO
+T37	Element 593 595	Cu
+T38	Element 614 617	MgO
+T39	Element 650 658	Y2BaCuO5
+T40	Value 722 730	0.96 GPa
+T41	Value 736 744	4 microm
+T42	Element 907 916	211 phase
+T49	Material 98 103	thick
+T50	Material 104 119	polycrystalline
+T51	Characterization 459 480	fluorescence analysis
+T52	Material 124 130	wafers
+T53	Material 804 809	wafer
+T29	Property 78 86	diameter
+T30	Property 703 717	tensile stress
+T7	Characterization 241 272	optical and electron microscopy
+T43	Property 858 866	stresses
+T44	Property 874 880	cracks
+T28	Value 985 987	78
+T46	Value 991 995	92 K
+T45	Value 1027 1029	15
+T54	Value 1030 1034	65 K
+T19	SC 928 939	T c (onset)
+T20	SC 944 965	T c (zero resistance)
+T21	SC 971 980	T c onset
+T22	SC 1001 1022	T c (zero resistance)
+T6	Property 216 226	electrical
+T23	Characterization 227 239	measurements
+R1	Equivalent Arg1:T21 Arg2:T28
+R2	Equivalent Arg1:T21 Arg2:T46
+R3	Equivalent Arg1:T22 Arg2:T45
+R4	Equivalent Arg1:T22 Arg2:T54

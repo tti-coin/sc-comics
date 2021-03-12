@@ -1,0 +1,72 @@
+T1	Property 17 41	critical current density
+T2	Property 43 46	J c
+T7	Main 155 159	YBCO
+T8	SC 160 175	superconducting
+T9	Material 176 186	thin films
+T10	Element 188 194	Silver
+T12	Property 226 229	J c
+T14	Element 296 303	ammonia
+T15	Element 305 310	AgNO3
+T16	Element 336 340	YBCO
+T17	Element 377 385	methanol
+T18	Process 387 403	High-temperature
+T20	Element 436 443	YBCO-Ag
+T21	Material 444 451	powders
+T22	Element 466 472	silver
+T24	Process 505 524	melting temperature
+T25	Element 528 532	YBCO
+T26	Material 567 585	surface morphology
+T28	Element 593 597	YBCO
+T29	Material 598 603	films
+T30	Process 638 650	Grain growth
+T31	Material 655 668	intergranular
+T32	Property 669 681	conductivity
+T33	Element 716 722	silver
+T35	Process 737 746	annealing
+T36	Property 782 785	J c
+T37	Element 817 824	YBCO-Ag
+T38	Material 825 834	thin film
+T39	Element 846 848	Ag
+T40	Value 631 636	760°C
+T41	Value 840 845	10wt%
+T42	Value 789 798	4.6MA/cm2
+T43	Value 536 541	760°C
+T44	Process 103 127	metal organic deposition
+T45	Process 129 132	MOD
+T50	Characterization 412 428	XRD measurements
+T52	Element 277 291	propionic acid
+T53	Element 341 363	carboxylate precursors
+T3	Element 89 97	fluorine
+T4	Doping 195 203	addition
+T5	Doping 473 481	addition
+T6	Doping 723 729	doping
+R1	Target Arg1:E2 Arg2:T25
+E1	Doping:T4 Dopant:T10
+E2	Doping:T5 Dopant:T22
+E3	Doping:T6 Dopant:T33
+#1	AnnotatorNotes T7	155-159
+#2	AnnotatorNotes T9	176-186
+#3	AnnotatorNotes T10	188-194
+#4	AnnotatorNotes T14	296-303
+#5	AnnotatorNotes T15	305-310
+#6	AnnotatorNotes T16	336-340
+#7	AnnotatorNotes T17	377-385
+#8	AnnotatorNotes T20	436-443
+#9	AnnotatorNotes T21	444-451
+#10	AnnotatorNotes T22	466-472
+#11	AnnotatorNotes T25	528-532
+#12	AnnotatorNotes T26	567-585
+#13	AnnotatorNotes T28	593-597
+#14	AnnotatorNotes T29	598-603
+#15	AnnotatorNotes T31	655-668
+#16	AnnotatorNotes T33	716-722
+#17	AnnotatorNotes T37	817-824
+#18	AnnotatorNotes T38	825-834
+#19	AnnotatorNotes T39	846-848
+#20	AnnotatorNotes T40	631-636
+#21	AnnotatorNotes T41	840-845
+#22	AnnotatorNotes T42	789-798
+#23	AnnotatorNotes T43	536-541
+#24	AnnotatorNotes T52	277-291
+#25	AnnotatorNotes T53	341-363
+#26	AnnotatorNotes T3	89-97

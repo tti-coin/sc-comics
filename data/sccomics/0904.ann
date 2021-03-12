@@ -1,0 +1,25 @@
+T1	Process 9 16	growing
+T3	SC 87 112	high- T c superconductors
+T4	Property 136 143	pairing
+T5	Property 147 156	electrons
+T6	Property 169 186	phase transitions
+T7	Property 244 258	pairing states
+T8	Material 280 296	phase separation
+T9	Property 297 310	instabilities
+T10	Property 348 356	coherent
+T11	Property 357 378	pairing instabilities
+T12	Material 436 454	pyramid structures
+T13	Property 487 508	interaction strengths
+T15	Material 668 680	out-of-plane
+T17	Characterization 826 868	scanning tunneling microscopy measurements
+T18	Element 888 904	Bi2Sr2CaCu2O8+ δ
+T20	Material 872 884	atomic scale
+T14	Property 209 224	coherent states
+T22	Property 423 435	Hubbard-like
+T23	Material 643 654	apical site
+T24	Property 793 801	coherent
+T25	Characterization 714 732	simple microscopic
+T19	Property 561 564	gap
+T2	Doping 81 86	doped
+T16	Property 810 813	gap
+E1	Doping:T2

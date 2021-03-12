@@ -1,0 +1,37 @@
+T3	SC 70 82	supercurrent
+T4	Property 146 160	magnetic state
+T7	SC 251 263	supercurrent
+T9	SC 426 441	superconducting
+T10	SC 494 509	superconducting
+T12	Property 566 577	quantum dot
+T14	Property 732 757	magnetic state transition
+T16	Property 926 937	quantum dot
+T17	Property 1078 1107	local electronic correlations
+T19	Property 1163 1176	phase diagram
+T20	SC 1452 1467	superconducting
+T21	Property 99 115	Coulomb blockade
+T6	Material 298 309	π -junction
+T22	Property 316 332	0 − π transition
+T8	Property 353 379	singlet-doublet transition
+T23	Property 403 415	gate voltage
+T11	Property 531 549	Kondo correlations
+T13	Material 595 610	carbon nanotube
+T24	Property 612 628	0– π transitions
+T25	Process 661 682	cotunneling processes
+T26	Property 808 824	0– π transitions
+T27	Material 828 847	Josephson junctions
+T15	Material 910 925	carbon nanotube
+T28	Property 1013 1031	orbital degeneracy
+T29	Material 1366 1374	nanotube
+T30	Property 1415 1431	0 − π transition
+T31	Process 1297 1313	zero temperature
+T1	Property 5 16	quantum dot
+T32	Property 1375 1392	Josephson current
+T2	SC 24 39	superconducting
+T5	Property 206 217	quantum dot
+T33	Property 876 889	current-phase
+T34	Property 1184 1199	phase-dependent
+T18	SC 1112 1127	superconducting
+T35	Property 1128 1144	proximity effect
+T36	Characterization 860 872	measurements
+T37	Property 510 526	proximity effect

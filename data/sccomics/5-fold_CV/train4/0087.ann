@@ -1,0 +1,71 @@
+T1	Process 8 30	molecular beam epitaxy
+T2	Process 32 35	MBE
+T4	Material 104 122	layered structures
+T5	Characterization 185 228	reflection high-energy electron diffraction
+T6	Characterization 230 235	RHEED
+T7	Characterization 269 274	X-ray
+T8	Characterization 290 295	X-ray
+T9	Material 355 362	layered
+T10	Characterization 438 461	atomic force microscopy
+T11	Characterization 463 466	AFM
+T12	Material 490 497	surface
+T13	Material 525 529	film
+T15	Material 637 654	surface roughness
+T16	Process 785 788	MBE
+T17	Material 813 820	surface
+T18	Material 842 849	layered
+T19	SC 872 875	T c
+T20	Material 888 894	layers
+T21	Material 1034 1040	layers
+T23	Material 1115 1133	layered structures
+T24	SC 1144 1159	superconducting
+T25	Element 150 156	SrTiO3
+T27	Main 81 92	YBa2Cu3O7−x
+T28	Main 48 54	PrGaO3
+T29	Main 56 59	PGO
+T30	Main 94 98	YBCO
+T31	Element 100 103	PGO
+T35	Material 169 179	substrates
+T36	Element 346 350	YBCO
+T37	Element 351 354	PGO
+T38	Element 380 389	STO (100)
+T39	Material 390 399	substrate
+T40	Element 404 414	YBCO [001]
+T41	Element 415 423	PGO[110]
+T42	Element 424 432	STO[100]
+T43	Value 296 300	θ–2θ
+T44	Material 320 329	epitaxial
+T45	Element 610 614	YBCO
+T46	Element 618 621	STO
+T47	Material 622 631	substrate
+T48	Element 521 524	PGO
+T49	Value 544 548	1 nm
+T50	Element 668 671	PGO
+T51	Element 672 676	YBCO
+T52	Element 677 680	PGO
+T53	Value 701 705	2 nm
+T54	Element 729 732	PGO
+T55	Element 733 737	YBCO
+T56	Element 738 741	PGO
+T57	Element 883 887	YBCO
+T58	Element 898 901	PGO
+T59	Element 902 906	YBCO
+T60	Element 907 910	PGO
+T61	Value 932 936	20 K
+T62	Element 956 968	PrBa2Cu3O7−x
+T63	Element 970 974	PBCO
+T65	Element 976 980	YBCO
+T66	Element 981 985	PBCO
+T67	Value 1017 1022	12 nm
+T68	Element 1029 1033	YBCO
+T69	Element 1106 1110	YBCO
+T22	Element 1111 1114	PGO
+T33	Element 157 168	(STO) (100)
+T34	Process 141 146	grown
+T14	Material 593 605	buffer layer
+T70	Process 763 772	deposited
+R1	Equivalent Arg1:T19 Arg2:T61
+R2	Target Arg1:T61 Arg2:T57
+R3	Coref Arg1:T28 Arg2:T29
+R4	Coref Arg1:T27 Arg2:T30
+T3	Material 61 76	epitaxial films

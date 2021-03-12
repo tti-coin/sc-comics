@@ -1,0 +1,52 @@
+T1	Material 3 16	precipitation
+T2	Process 28 48	solid-state reaction
+T3	Element 83 89	BaSnO3
+T4	Material 90 103	nanoparticles
+T7	Characterization 223 247	X-ray powder diffraction
+T8	Characterization 249 252	XRD
+T11	Property 315 333	DC magnetic fields
+T12	SC 392 430	superconducting transition temperature
+T13	SC 432 434	Tc
+T14	Property 441 454	hole carriers
+T15	Property 455 468	concentration
+T17	Element 591 597	BaSnO3
+T18	Material 598 611	nanoparticles
+T19	Property 638 648	flux creep
+T23	Property 727 744	magnetoresistance
+T26	Property 813 821	magnetic
+T27	SC 822 837	superconducting
+T28	Property 864 883	flux pinning energy
+T29	Property 888 912	critical current density
+T30	Property 914 916	Jc
+T32	Property 932 955	critical magnetic field
+T33	Property 996 1012	coherence length
+T36	Element 1049 1055	BaSnO3
+T37	Material 1056 1069	nanoparticles
+T39	Element 1138 1144	BaSnO3
+T40	Material 1145 1158	nanoparticles
+T42	Property 1164 1195	electronic thermal conductivity
+T43	Property 1239 1254	magnetic fields
+T44	SC 1261 1263	Tc
+T47	Element 0 2	Co
+T48	Value 156 160	0.00
+T49	Value 163 170	1.50wt%
+T53	Value 509 516	0.25wt%
+T54	Property 375 390	volume fraction
+T56	Value 1076 1083	0.25wt%
+T57	Value 1016 1018	0K
+T31	Property 666 689	Ambegaokar and Halperin
+T20	Property 618 637	thermally activated
+T21	Property 691 693	AH
+T22	Property 695 701	theory
+T9	Main 108 146	(BaSnO3)x/Cu0 . 5Tl0 . 5Ba2Ca2Cu3O10−δ
+T16	Doping 579 587	addition
+T35	Doping 1126 1134	addition
+T5	Value 346 350	0.29
+T6	Value 354 360	4.40kG
+T38	Property 258 280	electrical resistivity
+T41	Characterization 281 293	measurements
+T24	Element 754 773	(BaSnO3)x/CuTl-1223
+T25	Property 1020 1024	ξ(0)
+R1	Coref Arg1:T12 Arg2:T13
+E1	Doping:T16 Dopant:T17
+E2	Doping:T35 Dopant:T39

@@ -1,0 +1,34 @@
+T1	SC 52 69	superconductivity
+T2	Element 73 80	cuprate
+T3	Material 81 92	perovskites
+T5	Element 140 147	Pr ions
+T6	Element 155 156	Y
+T7	Element 161 163	Ba
+T8	Main 173 184	YBa2Cu3O7−δ
+T10	Property 210 219	transport
+T11	Characterization 237 250	photoemission
+T12	SC 272 274	Tc
+T13	Element 303 305	Pr
+T15	Element 322 324	Ba
+T17	Element 383 384	Y
+T18	Property 474 489	itinerant holes
+T19	Property 514 528	oxygen content
+T20	Element 534 536	Pr
+T21	Element 540 541	O
+T22	Property 542 544	2p
+T23	Material 574 580	c-axis
+T26	Material 627 642	orthorhombicity
+T27	Characterization 221 231	iodometric
+T28	Property 545 558	hybridization
+T24	Property 589 609	Cooper pair-breaking
+T9	Material 198 208	structural
+T25	Property 537 539	4f
+T4	Doping 127 139	substituting
+T14	Doping 306 317	substitutes
+T16	Doping 367 378	substitutes
+R1	Target Arg1:E1 Arg2:T8
+R2	Target Arg1:E4 Arg2:T8
+E1	Doping:T4 Dopant:T5 Site:T6
+E2	Doping:T14 Dopant:T13 Site:T15
+E3	Doping:T16 Site:T17
+E4	Doping:T4 Dopant:T5 Site:T7

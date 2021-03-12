@@ -1,0 +1,35 @@
+T1	SC 22 46	high- T c superconductor
+T2	Main 47 75	La 1.6 - x Nd 0.4 Sr x CuO 4
+T3	Main 77 84	Nd-LSCO
+T4	Material 108 116	in-plane
+T5	Property 117 128	resistivity
+T6	Property 152 174	temperature dependence
+T7	Property 182 193	thermopower
+T8	Property 205 209	hole
+T10	Property 232 245	Fermi-surface
+T12	Property 322 344	quantum critical point
+T13	Material 379 385	c-axis
+T14	Property 386 397	resistivity
+T15	Element 411 418	Nd-LSCO
+T16	Property 477 491	magnetic field
+T17	SC 526 543	superconductivity
+T18	Process 580 595	low temperature
+T19	Property 612 625	Fermi surface
+T21	Property 658 663	order
+T23	Property 795 800	order
+T24	Property 921 930	pseudogap
+T26	Material 1015 1023	material
+T29	Value 221 225	0.24
+T32	Value 276 280	0.24
+T33	Property 346 349	QCP
+T34	Property 467 470	QCP
+T35	Property 778 781	QCP
+T11	Value 816 829	0.235 ± 0.005
+T20	Property 433 456	function of temperature
+T9	Doping 720 726	doping
+T22	Doping 210 216	doping
+T25	Property 979 1006	stripe-ordering temperature
+R1	Coref Arg1:T2 Arg2:T3
+R2	Target Arg1:E2 Arg2:T2
+E1	Doping:T9 
+E2	Doping:T22 Dopant:T8

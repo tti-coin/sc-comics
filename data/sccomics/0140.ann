@@ -1,0 +1,85 @@
+T4	Property 278 291	decomposition
+T5	Process 336 345	oxidation
+T6	Process 347 366	selective oxidation
+T7	Process 392 409	partial oxidation
+T8	Process 462 471	oxidation
+T9	Material 530 540	structural
+T10	SC 570 585	superconductors
+T12	SC 752 769	superconductivity
+T13	Material 914 923	vacancies
+T14	Property 924 937	concentration
+T15	SC 1056 1071	superconducting
+T17	SC 1217 1220	T c
+T18	Material 1242 1249	surface
+T19	Material 1254 1258	bulk
+T21	Characterization 1350 1382	X-ray photoelectron spectroscopy
+T22	Characterization 1387 1404	X-ray diffraction
+T23	Material 1451 1458	surface
+T24	Material 1459 1465	layers
+T25	Material 1467 1479	orthorhombic
+T26	Material 1480 1490	tetragonal
+T27	Property 1529 1542	decomposition
+T28	Material 1547 1564	phase segregation
+T29	Process 1632 1651	oxidation reactions
+T32	Process 1789 1808	selective oxidation
+T33	Property 2005 2024	non-superconducting
+T34	Process 2077 2096	oxidation reactions
+T37	Element 222 234	iso-propanol
+T38	Element 265 277	nitric oxide
+T39	Element 311 326	carbon monoxide
+T40	Element 558 569	YBa2Cu3O7−x
+T42	Element 599 605	oxygen
+T43	Element 413 420	methane
+T44	Element 428 435	toluene
+T45	Element 453 460	toluene
+T46	Element 475 490	carbon monoxide
+T47	Element 656 662	oxygen
+T48	Element 685 691	oxygen
+T49	Element 773 784	YBa2Cu3O7−x
+T51	Element 201 209	hydrogen
+T52	Element 239 247	methanol
+T53	Element 328 335	ammonia
+T54	Element 370 378	methanol
+T55	Element 383 390	ethanol
+T56	Element 826 834	hydrogen
+T57	Element 907 913	oxygen
+T58	Material 947 953	solids
+T59	Element 1425 1428	Cu+
+T60	Element 1433 1436	Cu0
+T61	Element 1597 1603	oxygen
+T63	Element 1892 1907	carbon monoxide
+T62	Element 1866 1878	nitric oxide
+T64	Element 1931 1938	toluene
+T65	Element 2201 2203	Pt
+T66	Element 2205 2210	Co3O4
+T67	Material 190 200	ortho-para
+T68	Main 133 141	cuprates
+T69	Material 155 168	heterogeneous
+T70	Process 210 220	conversion
+T71	Process 248 263	dehydrogenation
+T72	Process 437 449	ammoxidation
+T73	Property 663 671	isotopic
+T74	Process 692 702	desorption
+T75	Material 815 825	ortho-para
+T76	Material 1812 1821	aliphatic
+T77	Element 1822 1830	alcohols
+T78	Element 1852 1861	aldehydes
+T79	Process 1915 1927	ammoxidation
+T80	Element 2025 2033	cuprates
+T81	Element 2310 2318	cuprates
+T82	Element 1942 1954	benzonitrile
+T83	Process 835 845	conversion
+T1	Property 169 188	catalytic reactions
+T84	Process 296 305	reduction
+T11	Process 645 654	reduction
+T85	Property 793 811	catalytic activity
+T86	Property 1091 1109	catalytic activity
+T87	Property 1311 1330	catalytic reactions
+T88	Property 1604 1618	binding energy
+T89	Process 1879 1888	reduction
+T90	Property 2112 2132	catalytic activities
+T91	Property 2249 2269	catalytic properties
+T2	SC 77 115	high-temperature (T c) superconductors
+T3	SC 1274 1299	high-T c super-conductors
+T16	SC 1761 1785	high-T c superconductors
+T20	SC 2273 2297	high-T c superconductors

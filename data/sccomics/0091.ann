@@ -1,0 +1,33 @@
+T1	Property 0 22	Electrical resistivity
+T2	Property 27 40	magnetization
+T3	SC 150 188	superconducting transition temperature
+T4	SC 190 193	T c
+T5	SC 240 257	superconductivity
+T7	SC 420 437	superconductivity
+T8	Property 474 478	hole
+T10	SC 596 611	superconducting
+T12	Property 756 778	variable range hopping
+T14	SC 821 836	superconducting
+T15	SC 859 862	T c
+T16	Property 936 944	metallic
+T17	SC 962 977	superconducting
+T18	SC 1020 1035	superconducting
+T20	Property 1156 1171	normal metallic
+T22	Property 1273 1286	phase diagram
+T25	Main 83 107	La2−x Sr x Cu1−y Ni y O4
+T30	Value 120 124	0.05
+T31	Value 127 131	0.25
+T34	Value 140 144	0.08
+T35	Value 136 137	0
+T39	Material 213 224	composition
+T40	Element 210 212	Sr
+T43	Element 910 912	Ni
+T46	Element 314 316	Ni
+T47	Element 359 361	Ni
+T48	Element 667 669	Sr
+T49	Element 470 472	Sr
+T51	Property 1343 1364	carrier concentration
+T53	Property 1084 1105	carrier concentration
+T6	SC 1408 1446	superconducting transition temperature
+T9	Value 702 706	0.05
+T11	Value 710 714	0.25

@@ -1,0 +1,48 @@
+T1	Material 0 4	Bulk
+T2	Main 5 38	Cu0.5Tl0.5Ba2(Ca2−x Y x )Cu3O10−δ
+T3	SC 39 53	superconductor
+T4	Material 54 61	ceramic
+T6	Characterization 147 164	X-ray diffraction
+T9	Property 182 199	ac-susceptibility
+T11	Property 307 322	charge carriers
+T12	Element 341 342	Y
+T14	Element 359 361	Ca
+T15	Element 383 387	CuO2
+T16	Material 388 394	planes
+T17	SC 398 415	superconductivity
+T18	SC 421 436	superconducting
+T19	Element 466 467	Y
+T21	Element 484 486	Ca
+T22	Element 508 512	CuO2
+T23	Material 513 519	planes
+T24	Element 523 556	Cu0.5Tl0.5Ba2(Ca2−x Y x )Cu3O10−δ
+T25	Element 589 592	Y3+
+T26	Property 615 622	domains
+T27	Element 638 642	CuO2
+T28	Material 643 649	planes
+T29	Property 695 706	diamagnetic
+T30	SC 736 753	superconductivity
+T31	Material 766 774	cationic
+T34	Property 800 817	three dimensional
+T35	Property 819 821	3D
+T36	Property 823 831	mobility
+T37	Process 862 871	reduction
+T38	SC 951 966	superconducting
+T39	Material 985 993	material
+T5	Process 107 125	solid-state method
+T7	Property 166 180	dc-resistivity
+T8	Characterization 204 243	Fourier Transform Infrared spectroscopy
+T32	Property 879 904	Fermi vector and velocity
+T43	Property 668 676	carriers
+T44	Property 835 843	carriers
+T45	Property 912 920	carriers
+T13	Doping 343 355	substitution
+T20	Doping 468 480	substitution
+T33	Doping 775 787	substitution
+R1	Target Arg1:E2 Arg2:T24
+R2	Target Arg1:E5 Arg2:T24
+E1	Doping:T13 Dopant:T12 Site:T14
+E2	Doping:T20 Dopant:T19 Site:T21
+E3	Doping:T33 Dopant:T31
+E4	Doping:T13 Dopant:T12 Site:T15
+E5	Doping:T20 Dopant:T19 Site:T22

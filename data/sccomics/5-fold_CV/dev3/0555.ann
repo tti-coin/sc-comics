@@ -1,0 +1,51 @@
+T2	Element 40 42	Gd
+T3	Element 43 45	Ba
+T6	Main 64 81	Gd1+x Ba2-x Cu3Oy
+T7	Main 83 88	GdBCO
+T8	SC 93 108	superconducting
+T9	Material 124 139	microstructures
+T10	Element 143 149	BaHfO3
+T11	Element 151 154	BHO
+T12	Element 159 164	GdBCO
+T13	Material 165 170	films
+T14	Material 190 195	films
+T15	Element 204 207	MgO
+T16	Material 208 217	substrate
+T17	Process 221 244	pulsed laser deposition
+T18	Process 246 249	PLD
+T19	Property 283 290	density
+T20	Element 294 297	BHO
+T21	Property 395 402	density
+T22	Element 406 412	BaHfO3
+T23	SC 458 462	T cs
+T24	Element 470 476	BaHfO3
+T26	Material 483 488	films
+T28	Material 559 564	films
+T29	Property 602 615	pinning force
+T30	Property 616 623	density
+T31	Material 653 658	films
+T40	Value 448 456	2000/μm2
+T42	Value 385 389	0.07
+T45	Value 648 652	0.10
+T48	Value 676 686	23.0 GN/m3
+T49	Value 690 694	77 K
+T35	Value 372 376	0.07
+T52	Material 413 421	nanorods
+T43	Process 199 203	IBAD
+T1	Doping 46 58	substitution
+T4	Doping 477 482	doped
+T25	Value 327 331	2000
+T32	Value 335 343	1100/μm2
+T33	Value 508 512	88.0
+T34	Value 516 522	90.6 K
+T36	Value 577 581	0.07
+T38	Value 585 589	0.12
+R1	Coref Arg1:T6 Arg2:T7
+R2	Coref Arg1:T10 Arg2:T11
+R3	Target Arg1:E1 Arg2:T6
+R4	Equivalent Arg1:T23 Arg2:T33
+R5	Equivalent Arg1:T23 Arg2:T34
+R6	Condition Arg1:T33 Arg2:E2
+R7	Condition Arg1:T34 Arg2:E2
+E1	Doping:T1 Dopant:T2 Site:T3
+E2	Doping:T4 Dopant:T24

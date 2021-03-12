@@ -1,0 +1,34 @@
+T1	Property 26 30	band
+T2	Property 31 50	tight binding model
+T4	Property 81 98	electronic states
+T5	Material 110 122	interstitial
+T6	Element 130 137	Fe ions
+T7	Element 145 149	iron
+T8	SC 156 171	superconductors
+T9	Material 183 189	matrix
+T10	Property 227 244	density of states
+T11	Material 252 264	interstitial
+T12	Element 265 267	Fe
+T13	Material 268 276	impurity
+T15	Property 380 387	pairing
+T16	Material 388 396	symmetry
+T19	Material 410 415	plane
+T20	Element 489 491	Fe
+T21	Property 583 590	pairing
+T22	Material 616 619	IFI
+T23	Element 631 633	Fe
+T24	Property 721 734	quasiparticle
+T25	SC 808 823	superconducting
+T26	Property 824 839	order parameter
+T27	Characterization 946 975	scanning tunneling microscopy
+T28	Property 323 326	gap
+T29	Property 650 653	gap
+T30	Property 687 709	Andreev’s bound states
+T31	Property 883 906	zero-energy bound state
+T3	Material 916 919	IFI
+T32	Material 757 760	IFI
+T33	Material 278 281	IFI
+T35	Property 530 545	resonance peaks
+T14	Doping 365 371	doping
+T17	Element 404 409	Fe–Fe
+E1	Doping:T14

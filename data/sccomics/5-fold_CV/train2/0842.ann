@@ -1,0 +1,25 @@
+T1	Property 4 19	current flowing
+T2	SC 83 114	high-temperature superconductor
+T3	SC 115 130	superconducting
+T4	Characterization 131 151	quantum interference
+T5	SC 160 163	HTS
+T6	Characterization 164 169	SQUID
+T7	Property 177 185	magnetic
+T8	Property 407 421	magnetic field
+T9	SC 470 473	HTS
+T10	Characterization 474 480	SQUIDs
+T11	Property 529 539	electrical
+T12	Property 578 592	magnetic field
+T14	Property 790 805	current flowing
+T15	Element 813 816	ITO
+T16	Material 817 822	layer
+T17	Element 830 833	ITO
+T18	Material 834 839	glass
+T19	Material 840 849	substrate
+T20	Property 997 1007	electrical
+T22	Property 1085 1099	magnetic field
+T23	Property 540 547	current
+T13	Property 1008 1015	current
+T21	Property 706 713	current
+T24	Property 956 963	current
+T25	Property 675 682	current

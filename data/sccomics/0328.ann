@@ -1,0 +1,109 @@
+T1	Element 0 16	Carbon nanotubes
+T3	Material 30 45	polycrystalline
+T4	Main 46 80	(CNT) y (Cu0.5Tl0.5)Ba2Ca2Cu3O10−δ
+T5	SC 108 122	superconductor
+T6	Process 156 171	normal pressure
+T7	Characterization 177 194	X-ray diffraction
+T8	Characterization 196 199	XRD
+T9	Material 240 252	orthorhombic
+T12	Material 281 285	PMMM
+T13	Material 286 297	space group
+T15	Element 309 313	CNTs
+T16	Material 348 359	inter-grain
+T17	Material 377 395	cementing material
+T19	Characterization 397 400	SEM
+T20	Element 418 422	CNTs
+T22	Material 465 471	grains
+T23	Element 509 512	CNT
+T25	Element 529 538	CuTl-1223
+T26	Property 561 571	electrical
+T27	SC 591 606	superconducting
+T28	Material 607 613	grains
+T29	Property 641 644	J c
+T30	Process 672 688	room temperature
+T31	Property 689 700	resistivity
+T33	SC 764 802	onset temperature of superconductivity
+T34	SC 804 814	T c(onset)
+T36	SC 820 857	zero resistivity critical temperature
+T37	SC 859 868	T c(R =0)
+T38	Element 901 904	CNT
+T41	Property 972 979	density
+T44	Element 1111 1114	CNT
+T45	Element 1143 1149	carbon
+T46	Material 1150 1155	atoms
+T47	Material 1173 1183	unit cells
+T48	Material 1191 1202	intra-grain
+T49	SC 1214 1223	T c(R =0)
+T50	Process 1251 1265	post-annealing
+T51	Element 1269 1275	oxygen
+T52	Process 1276 1286	atmosphere
+T53	SC 1292 1301	T c(R =0)
+T54	Material 1331 1346	polycrystalline
+T55	Element 1347 1381	(CNT) y (Cu0.5Tl0.5)Ba2Ca2Cu3O10−δ
+T56	Property 1448 1471	magnetic susceptibility
+T57	Process 1568 1577	annealing
+T58	Element 1596 1602	oxygen
+T59	Process 1603 1613	atmosphere
+T60	Element 1631 1637	oxygen
+T61	Property 1638 1647	diffusion
+T62	Material 1661 1672	inter-grain
+T63	Material 1673 1681	material
+T65	Element 1696 1702	oxides
+T66	Element 1707 1717	carbonates
+T67	Material 1736 1743	surface
+T68	Property 1757 1769	current flow
+T69	Material 1777 1788	inter-grain
+T70	Property 1811 1821	hysteresis
+T71	Characterization 1834 1853	electron-microscopy
+T72	Material 1886 1897	inter-grain
+T74	Element 1950 1954	CNTs
+T77	Element 2087 2093	oxygen
+T78	Element 944 947	CNT
+T79	Value 961 966	0.25%
+T80	Element 1018 1021	CNT
+T84	Value 1386 1387	0
+T85	Value 1389 1394	0.25%
+T86	Value 1396 1400	1.0%
+T87	Value 1405 1407	7%
+T64	Element 755 758	CNT
+T90	Value 2027 2028	0
+T91	Value 2030 2035	0.25%
+T92	Value 2037 2041	1.0%
+T93	Value 2046 2048	7%
+T94	Element 18 22	CNTs
+T98	Value 85 86	0
+T99	Value 88 93	0.25%
+T100	Value 95 99	1.0%
+T101	Value 104 106	7%
+T21	Property 438 456	electrical-network
+T105	Characterization 1956 1960	FTIR
+T111	Property 1058 1070	diamagnetism
+T10	Material 253 270	crystal structure
+T110	Element 1988 2022	(CNT) y (Cu0.5Tl0.5)Ba2Ca2Cu3O10−δ
+T11	Characterization 1961 1984	absorption measurements
+T2	Doping 24 29	added
+T14	Doping 303 308	added
+T18	Doping 513 521	addition
+T24	Doping 743 751	addition
+T32	Doping 905 914	additions
+T35	Doping 948 957	additions
+T39	Doping 1022 1030	addition
+T40	Doping 1099 1107	addition
+T42	Doping 1938 1946	addition
+T43	Value 1317 1319	98
+T73	Value 1324 1327	96K
+R4	Target Arg1:E1 Arg2:T4
+R5	Target Arg1:E3 Arg2:T25
+R6	Equivalent Arg1:T53 Arg2:T43
+R7	Equivalent Arg1:T53 Arg2:T73
+R8	Target Arg1:T43 Arg2:T55
+R9	Target Arg1:T73 Arg2:T55
+E1	Doping:T2 Dopant:T1
+E2	Doping:T14 Dopant:T15
+E3	Doping:T18 Dopant:T23
+E4	Doping:T24 Dopant:T64
+E5	Doping:T32 Dopant:T38
+E6	Doping:T35 Dopant:T78
+E7	Doping:T39 Dopant:T80
+E8	Doping:T40 Dopant:T44
+E9	Doping:T42 Dopant:T74

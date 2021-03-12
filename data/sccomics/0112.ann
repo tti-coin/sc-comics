@@ -1,0 +1,42 @@
+T2	Material 140 156	tetragonal phase
+T3	Material 162 173	space group
+T4	Material 174 180	P4/mmm
+T5	Property 306 325	non-superconducting
+T6	Material 326 331	metal
+T7	SC 335 349	superconductor
+T8	Property 353 362	insulator
+T9	Material 492 509	lattice-parameter
+T10	SC 520 523	T c
+T11	SC 538 553	superconducting
+T13	SC 632 635	T c
+T14	Property 667 677	insulating
+T16	Property 690 722	metal-insulator (M-I) transition
+T17	Property 772 783	resistivity
+T18	Property 861 883	variable-range-hopping
+T22	Value 626 630	0.35
+T23	Value 638 642	62 K
+T24	Value 807 810	0.6
+T25	Value 818 821	0.7
+T28	Value 928 933	100 K
+T30	Property 885 888	VRH
+T31	Element 389 411	Tl(Sr2−x Ce x )CaCu2O7
+T34	Element 426 452	TlSr2(Ca1−y Ce y )Cu2O7−δ)
+T40	Value 454 455	0
+T41	Value 458 461	0.7
+T42	Value 417 420	0.6
+T43	Value 413 414	0
+T46	Element 595 597	Ce
+T49	Value 763 766	0.6
+T15	Element 28 30	Sr
+T50	Element 34 36	Ca
+T51	Main 40 54	TlSr2CaCu2O7−δ
+T53	Main 56 72	Tl 1 : 2 : 1 : 2
+T1	Doping 12 24	substitution
+T12	Element 102 104	Ce
+T19	Element 83 93	rare-earth
+T29	Property 598 611	concentration
+R1	Equivalent Arg1:T13 Arg2:T23
+R4	Target Arg1:E1 Arg2:T51
+R5	Target Arg1:E2 Arg2:T51
+E1	Doping:T1 Site:T15 Dopant:T12
+E2	Doping:T1 Site:T50 Dopant:T12

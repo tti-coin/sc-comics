@@ -1,0 +1,41 @@
+T1	Material 0 19	Structural disorder
+T2	Material 75 85	thin films
+T4	Process 95 131	radio-frequency magnetron sputtering
+T5	Characterization 191 196	X-ray
+T7	Material 511 515	bulk
+T8	Material 563 568	films
+T9	Process 588 597	pressures
+T10	Process 602 614	temperatures
+T11	Material 639 644	films
+T12	SC 687 702	superconducting
+T13	Material 840 845	films
+T14	Material 882 887	films
+T15	Material 968 977	vacancies
+T16	Material 1118 1123	films
+T17	Material 1135 1145	structural
+T18	Material 1146 1155	vacancies
+T19	SC 1183 1186	T c
+T20	Property 1201 1206	model
+T21	Property 1262 1269	kinetic
+T22	Property 1274 1287	thermodynamic
+T23	Main 46 58	ReBa2Cu3O7−x
+T27	Element 63 73	rare earth
+T28	Element 870 881	YBa2Cu3O7−x
+T29	Element 551 562	YBa2Cu3O7−x
+T31	Element 361 375	rare-earth ion
+T32	Element 1105 1117	YbBa2Cu3O7−x
+T34	Element 1321 1332	YBa2Cu3O7−x
+T36	Element 1371 1388	Re0.33Ba0.66CuO y
+T39	Value 900 903	14%
+T40	Element 904 905	Y
+T41	Element 910 919	Ba cation
+T6	Element 574 580	oxygen
+T43	Material 954 960	apical
+T44	Element 961 967	oxygen
+T45	Element 1017 1032	rare-earth ions
+T47	Element 1163 1173	rare-earth
+T3	Characterization 167 187	Rietveld refinements
+T48	Process 342 359	growth conditions
+T49	Process 487 493	growth
+T50	Process 581 587	growth
+T24	Material 1062 1077	cation disorder

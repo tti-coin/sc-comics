@@ -1,0 +1,52 @@
+T1	SC 26 43	superconductivity
+T2	Property 48 60	normal state
+T3	SC 73 76	T c
+T4	Property 78 87	magnetism
+T5	SC 115 129	superconductor
+T7	Characterization 146 170	powder X-ray diffraction
+T11	SC 286 289	T c
+T12	Material 298 306	pristine
+T15	Property 398 410	normal state
+T16	Property 433 442	magnetism
+T20	Property 666 682	localized moment
+T22	Property 739 745	moment
+T24	Property 813 820	moments
+T25	Property 932 938	moment
+T28	Main 95 114	CaLaBaCu3−n Fe x O7
+T31	Characterization 177 182	SQUID
+T8	Characterization 184 224	superconducting quantum interface device
+T9	Element 376 378	Fe
+T32	Value 423 428	5 kOe
+T34	Value 554 557	0.0
+T35	Element 580 582	Fe
+T36	Element 703 710	Fe ions
+T37	Element 749 751	Fe
+T38	Element 942 944	Fe
+T39	Element 1070 1072	Fe
+T41	Value 885 889	0.03
+T42	Value 891 895	0.06
+T43	Value 897 901	0.12
+T44	Value 906 910	0.24
+T45	Element 803 807	Fe2+
+T46	Element 808 812	Fe3+
+T19	Property 616 627	Curie-Weiss
+T10	SC 264 284	critical temperature
+T47	Value 835 839	5.09
+T48	Value 855 863	3.37 μ B
+T49	Value 841 845	4.53
+T50	Value 846 850	2.79
+T51	Property 411 421	high field
+T52	Property 527 541	susceptibility
+T53	Property 726 738	paramagnetic
+T6	Doping 697 702	doped
+T17	Doping 583 588	doped
+T18	Doping 759 764	doped
+T14	Property 379 392	concentration
+T21	Property 1073 1086	concentration
+T13	Property 330 347	ac susceptibility
+T23	Characterization 348 360	measurements
+T26	Property 980 1001	crystal field effects
+R1	Coref Arg1:T10 Arg2:T11
+E1	Doping:T6 Dopant:T36
+E2	Doping:T17 Dopant:T35
+E3	Doping:T18 Dopant:T37

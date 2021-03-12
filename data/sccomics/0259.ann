@@ -1,0 +1,56 @@
+T1	Element 0 12	Cobalt oxide
+T2	Element 14 19	Co3O4
+T3	Material 21 34	nanoparticles
+T4	Main 39 63	Cu0.5Tl0.5Ba2Ca2Cu3O10-δ
+T5	Main 65 75	CuTl-1223)
+T6	SC 76 91	superconducting
+T7	Process 115 122	sol-gel
+T8	Process 127 155	solid-state reaction methods
+T9	Element 171 176	Co3O4
+T10	Material 177 190	nanoparticles
+T12	SC 215 230	superconducting
+T13	Material 231 237	matrix
+T14	Element 245 263	(Co3O4)x/CuTl-1223
+T16	Material 278 288	composites
+T17	Characterization 329 346	X-ray diffraction
+T21	Characterization 388 410	impedance spectroscopy
+T22	Material 451 461	composites
+T23	Material 463 480	Crystal structure
+T24	Element 484 493	CuTl-1223
+T25	SC 494 509	superconducting
+T27	Element 553 558	Co3O4
+T28	Material 559 572	nanoparticles
+T29	Material 601 614	nanoparticles
+T30	Material 631 647	grain-boundaries
+T31	SC 649 664	Superconducting
+T32	Property 665 685	transport properties
+T33	Element 720 725	Co3O4
+T34	Material 726 739	nanoparticles
+T35	Element 749 754	Co3O4
+T36	Material 755 768	nanoparticles
+T38	Material 785 801	grain-boundaries
+T39	Element 814 829	CuTl-1223 phase
+T40	Property 924 933	impedance
+T41	Element 993 998	Co3O4
+T42	Material 999 1012	nanoparticles
+T43	Property 1044 1056	conductivity
+T44	Material 1060 1076	grain-boundaries
+T45	Property 1082 1105	impedance master curves
+T46	Property 1165 1201	non-Debye type relaxation phenomenon
+T48	Property 1229 1244	ac-conductivity
+T49	Element 1279 1284	Co3O4
+T50	Material 1285 1298	nanoparticles
+T51	Element 205 214	CuTl-1223
+T11	Doping 196 201	added
+T20	Doping 541 549	addition
+T26	Doping 769 777	addition
+T15	Value 269 270	0
+T37	Value 271 277	2.0wt%
+T18	Property 348 362	dc-resistivity
+T19	Characterization 363 375	measurements
+R3	Target Arg1:E1 Arg2:T51
+R4	Target Arg1:E3 Arg2:T39
+R5	Target Arg1:E2 Arg2:T24
+E1	Doping:T11 Dopant:T9
+E2	Doping:T20 Dopant:T27
+E3	Doping:T26 Dopant:T35

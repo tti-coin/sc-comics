@@ -1,0 +1,79 @@
+T1	Material 6 11	grain
+T2	Material 13 17	bulk
+T3	Element 18 27	Y–Ba–Cu–O
+T4	Element 29 33	YBCO
+T5	SC 35 67	high temperature superconductors
+T6	SC 69 72	HTS
+T7	Material 174 197	quasi-permanent magnets
+T8	Material 302 306	bulk
+T9	Main 307 311	YBCO
+T10	Element 324 328	FeNi
+T11	Property 330 343	ferromagnetic
+T12	Material 344 349	alloy
+T13	Material 379 384	alloy
+T14	Material 492 499	surface
+T15	Material 505 510	solid
+T16	Material 512 516	bulk
+T17	SC 517 520	HTS
+T18	Property 572 580	magnetic
+T19	Property 581 591	hysteresis
+T20	Material 623 627	bulk
+T21	SC 628 642	superconductor
+T22	Property 785 793	magnetic
+T23	Material 794 798	flux
+T24	Material 936 940	bulk
+T25	SC 941 955	superconductor
+T26	Property 970 978	magnetic
+T27	Property 979 989	hysteresis
+T28	Property 1091 1104	magnetization
+T30	Material 1195 1205	structures
+T31	Property 1265 1270	model
+T32	Material 1287 1291	flux
+T33	Property 1370 1378	magnetic
+T34	Property 1394 1402	Magnetic
+T35	Property 1403 1413	hysteresis
+T36	SC 1450 1464	superconductor
+T38	Material 1590 1599	structure
+T39	SC 1634 1648	superconductor
+T40	Material 1873 1880	surface
+T41	SC 1888 1902	superconductor
+T42	Property 1917 1930	ferromagnetic
+T43	Value 646 649	77K
+T29	SC 1162 1188	ferromagnet/superconductor
+T44	SC 1190 1193	F/S
+T46	Property 818 838	Campbell’s algorithm
+T47	Property 1505 1516	ferromagnet
+T48	Property 1325 1336	ferromagnet
+T49	Property 1843 1854	ferromagnet
+T50	Property 1473 1484	ferromagnet
+T51	Property 1562 1575	trapped field
+T37	Material 903 916	pick-up coils
+T52	Property 753 777	finite element modelling
+T53	Characterization 1207 1230	Hall probe measurements
+T45	Characterization 690 713	Hall probe measurements
+R1	Coref Arg1:T29 Arg2:T44
+R2	Coref Arg1:T3 Arg2:T4
+R3	Coref Arg1:T5 Arg2:T6
+R4	Equivalent Arg1:T21 Arg2:T43
+#1	AnnotatorNotes T1	6-11
+#2	AnnotatorNotes T2	13-17
+#3	AnnotatorNotes T3	18-27
+#4	AnnotatorNotes T4	29-33
+#5	AnnotatorNotes T7	174-197
+#6	AnnotatorNotes T8	302-306
+#7	AnnotatorNotes T9	307-311
+#8	AnnotatorNotes T10	324-328
+#9	AnnotatorNotes T12	344-349
+#10	AnnotatorNotes T13	379-384
+#11	AnnotatorNotes T14	492-499
+#12	AnnotatorNotes T15	505-510
+#13	AnnotatorNotes T16	512-516
+#14	AnnotatorNotes T20	623-627
+#15	AnnotatorNotes T23	794-798
+#16	AnnotatorNotes T24	936-940
+#17	AnnotatorNotes T30	1195-1205
+#18	AnnotatorNotes T32	1287-1291
+#19	AnnotatorNotes T38	1590-1599
+#20	AnnotatorNotes T40	1873-1880
+#21	AnnotatorNotes T43	646-649
+#22	AnnotatorNotes T37	903-916

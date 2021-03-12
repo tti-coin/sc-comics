@@ -1,0 +1,42 @@
+T1	Main 12 36	SmFe1− x Zn x AsO0.8F0.2
+T4	Element 203 205	Zn
+T6	SC 226 243	superconductivity
+T7	Element 278 280	Zn
+T9	Element 291 293	Fe
+T10	SC 308 330	transition temperature
+T11	SC 331 334	T c
+T12	SC 468 494	superconducting transition
+T13	Property 531 548	spin-density-wave
+T14	Material 579 584	metal
+T15	Material 588 601	semiconductor
+T16	Element 637 661	SmFe1− x Zn x AsO0.8F0.2
+T17	Element 686 710	SmFe1− x Zn x AsO0.8F0.2
+T18	Element 742 749	REFeAsO
+T20	Property 802 810	electron
+T21	Element 826 850	SmFe1− x Zn x AsO0.8F0.2
+T25	Value 53 54	0
+T3	Material 146 164	lattice parameters
+T29	Value 390 394	0.05
+T30	Value 403 408	18.2K
+T32	Value 430 433	0.1
+T34	Value 569 573	140K
+T43	Value 56 60	0.05
+T44	Value 62 65	0.1
+T45	Value 67 70	0.2
+T46	Value 75 78	0.4
+T48	Value 459 462	0.1
+T49	Element 755 771	rare earth metal
+T2	Process 122 140	solid state method
+T5	Doping 206 212	doping
+T8	Doping 281 287	doping
+T19	Value 354 359	52.5K
+T22	Value 363 368	23.3K
+R1	Coref Arg1:T10 Arg2:T11
+R2	Equivalent Arg1:T11 Arg2:T19
+R3	Equivalent Arg1:T11 Arg2:T22
+R4	Equivalent Arg1:T11 Arg2:T30
+R5	Condition Arg1:T19 Arg2:E2
+R6	Condition Arg1:T22 Arg2:E2
+R7	Condition Arg1:T30 Arg2:E2
+E1	Doping:T5 Dopant:T4
+E2	Doping:T8 Dopant:T7 Site:T9

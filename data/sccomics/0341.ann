@@ -1,0 +1,65 @@
+T1	Characterization 137 159	Mössbauer spectroscopy
+T2	Main 22 36	U34Fe4− x Ge33
+T3	Material 88 102	single crystal
+T4	Characterization 103 120	X-ray diffraction
+T5	Property 122 135	magnetization
+T8	Property 161 174	specific heat
+T9	Property 176 198	electrical resistivity
+T12	Process 252 264	crystallizes
+T13	Material 276 296	tetragonal structure
+T15	Material 356 362	binary
+T16	Element 363 366	USi
+T17	Element 368 377	U34Si34.5
+T19	Material 394 405	space group
+T20	Material 406 412	I4/mmm
+T21	Material 420 438	lattice parameters
+T22	Process 442 458	room temperature
+T23	Characterization 493 513	Structure refinement
+T24	Element 541 542	U
+T25	Material 543 548	atoms
+T27	Material 582 594	coordination
+T28	Element 600 602	Ge
+T29	Material 603 608	atoms
+T30	Element 640 642	Fe
+T31	Element 672 674	Fe
+T32	Material 713 724	sub-lattice
+T33	Material 758 771	square cupola
+T35	Material 799 819	square orthobicupola
+T36	Element 821 835	U34Fe4− x Ge33
+T37	Property 861 879	ferromagnetic-type
+T38	Characterization 902 924	Mössbauer spectroscopy
+T40	Property 940 949	magnetism
+T41	Element 966 967	U
+T42	Material 968 979	sub-lattice
+T43	Element 984 986	Fe
+T44	Material 987 992	atoms
+T45	Property 1001 1016	ordered moments
+T48	Property 1052 1076	electronic specific heat
+T49	Property 1122 1138	magnetic entropy
+T50	Property 1142 1144	TC
+T51	Property 1160 1180	residual resistivity
+T52	Property 1198 1215	resistivity ratio
+T53	Property 1241 1269	electrical resistivity curve
+T54	Property 1307 1309	TC
+T55	Property 1367 1381	magnetic field
+T56	Material 1420 1428	disorder
+T57	Property 1436 1456	non-magnetic lattice
+T60	Property 1488 1504	magnetic lattice
+T64	Value 844 848	0.68
+T65	Value 1083 1098	131mJ/(molU K2)
+T67	Value 481 491	25.274(3)Å
+T68	Value 1184 1191	314μΩcm
+T69	Value 1219 1222	1.1
+T70	Value 1148 1156	0.22Rln2
+T71	Value 463 473	10.873(5)Å
+T6	Property 200 218	magnetoresistivity
+T7	Element 711 712	U
+T18	Property 1022 1044	Sommerfeld coefficient
+T26	Material 8 21	ternary phase
+T34	Value 524 527	six
+T39	Value 620 625	seven
+T10	Property 223 234	thermopower
+T47	Characterization 235 247	measurements
+T11	Doping 696 705	occupancy
+T14	Value 897 900	28K
+E1	Doping:T11 Dopant:T31

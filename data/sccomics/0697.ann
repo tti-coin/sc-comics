@@ -1,0 +1,28 @@
+T1	Property 23 43	electronic structure
+T2	Main 47 49	Eu
+T3	Material 76 94	crystal structures
+T4	Process 149 157	pressure
+T5	Property 168 195	augmented-plane-wave method
+T6	Property 203 230	local-density approximation
+T8	Property 380 382	4f
+T9	Property 383 397	valence states
+T10	Element 501 509	europium
+T11	Property 516 524	ordering
+T12	Material 530 548	lattice parameters
+T13	Material 553 557	bulk
+T14	SC 622 639	superconductivity
+T15	Process 657 665	pressure
+T16	Material 686 696	structures
+T17	SC 739 742	T c
+T18	Material 58 61	bcc
+T19	Material 63 66	hcp
+T20	Material 72 75	fcc
+T21	Value 143 148	90GPa
+T22	Property 306 323	f-states energies
+T23	Property 331 358	radial Schrödinger equation
+T24	Property 408 418	Γ 1 energy
+T25	Property 473 481	f-states
+T26	Property 236 261	frozen-core approximation
+T27	Material 682 685	hcp
+T28	Material 674 677	bcc
+T29	Characterization 767 778	measurement

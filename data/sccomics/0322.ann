@@ -1,0 +1,55 @@
+T2	SC 49 69	critical temperature
+T3	SC 71 74	T c
+T4	Element 92 94	Cd
+T6	Main 101 137	(Cu0.5Tl0.5)Ba2Ca3(Cu4−y Cd y )O12−δ
+T7	Element 178 184	oxygen
+T9	SC 199 214	superconductors
+T10	Property 270 276	models
+T11	Property 305 321	coherence length
+T13	Material 339 345	c-axis
+T14	Material 347 358	inter-plane
+T16	Property 435 449	Fermi velocity
+T17	Property 517 519	3D
+T18	SC 550 553	T c
+T19	Property 588 599	resistivity
+T20	Process 655 673	lower temperatures
+T21	Element 690 692	Cd
+T22	Property 693 706	concentration
+T23	Element 765 767	Cd
+T25	Property 780 801	crossover temperature
+T26	Element 860 862	Cd
+T28	Element 940 942	Cu
+T29	Material 943 948	atoms
+T30	Element 964 966	Cd
+T31	Material 967 972	atoms
+T32	Property 1045 1052	density
+T33	Property 1056 1063	phonons
+T34	Property 4 36	fluctuation-induced conductivity
+T35	Property 38 41	FIC
+T39	Value 142 143	0
+T40	Value 145 149	0.25
+T41	Value 151 154	0.5
+T42	Property 225 241	Aslamazov–Larkin
+T43	Property 243 245	AL
+T44	Property 251 264	Maki–Thompson
+T45	Property 266 268	MT
+T46	Property 405 426	phase relaxation time
+T47	Property 427 430	τ φ
+T48	Property 450 453	V F
+T49	Value 156 160	0.75
+T51	Property 802 805	T o
+T54	SC 555 557	T*
+T12	Property 322 328	ξ c(0)
+T55	Property 288 291	FIC
+T1	Property 521 523	2D
+T15	Property 528 530	0D
+T8	Process 185 198	post-annealed
+T56	Property 369 399	dimensionality of fluctuations
+T52	Property 461 469	carriers
+T5	Doping 95 100	doped
+T24	Doping 768 774	doping
+T27	Doping 925 936	replacement
+R2	Target Arg1:E1 Arg2:T6
+E1	Doping:T5 Dopant:T4
+E2	Doping:T24 Dopant:T23
+E3	Doping:T27 Site:T28 Dopant:T30

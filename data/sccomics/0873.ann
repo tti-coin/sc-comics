@@ -1,0 +1,59 @@
+T1	Element 4 6	Ni
+T3	Main 20 37	Y1−xNixBa2Cu3O7−δ
+T4	SC 38 70	high temperature superconducting
+T5	Process 130 150	solid-state reaction
+T6	Property 156 177	temperature dependent
+T7	Property 178 189	resistivity
+T8	Property 224 239	magnetic fields
+T9	Property 333 350	magnetoresistance
+T10	Material 404 417	intergranular
+T11	SC 428 443	superconducting
+T12	Material 444 453	materials
+T13	Property 459 479	resistive transition
+T14	Property 535 549	magnetic field
+T15	SC 582 599	superconductivity
+T16	SC 623 640	superconductivity
+T17	Material 644 650	grains
+T18	Material 722 728	grains
+T19	SC 755 760	T c 0
+T20	Property 785 800	magnetic fields
+T21	Property 834 842	vortices
+T22	Material 878 891	intergranular
+T23	Property 964 986	electrical resistivity
+T24	Material 1005 1015	derivative
+T25	Property 1023 1045	electrical resistivity
+T26	Element 1090 1092	Ni
+T28	SC 1125 1130	T c 0
+T29	Property 1162 1176	magnetic field
+T30	Element 1326 1328	Ni
+T32	Property 1336 1349	concentration
+T33	Material 1385 1391	grains
+T34	Property 1399 1407	vortices
+T35	Property 1421 1427	pinned
+T36	Element 1465 1467	Ni
+T38	Property 1524 1526	Jc
+T39	SC 1543 1558	superconductors
+T44	Value 1142 1146	90 K
+T45	Value 1181 1186	0.3 T
+T46	Value 1201 1205	40 K
+T50	Value 1249 1254	0.002
+T54	Value 1282 1287	0.004
+T52	Value 92 96	0.01
+T55	Value 84 85	0
+T2	Doping 8 19	substituted
+T27	Doping 1093 1098	doped
+T31	Doping 1329 1335	doping
+T37	Doping 1468 1480	substitution
+T40	Value 256 260	zero
+T41	Value 264 271	1 Tesla
+T42	Value 1226 1232	91.4 K
+T43	Value 1236 1240	80 K
+T47	Value 1259 1265	91.7 K
+T48	Value 1269 1273	85 K
+R1	Equivalent Arg1:T28 Arg2:T44
+R2	Equivalent Arg1:T28 Arg2:T46
+R3	Target Arg1:E1 Arg2:T3
+E1	Doping:T2 Dopant:T1
+E2	Doping:T27 Dopant:T26
+E3	Doping:T31 Dopant:T30
+E4	Doping:T37 Dopant:T36

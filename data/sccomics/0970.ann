@@ -1,0 +1,39 @@
+T1	SC 0 15	Superconducting
+T2	Main 16 38	Ba(Fe0.943Co0.057)2As2
+T3	Material 39 54	single crystals
+T5	Property 81 100	non-superconducting
+T6	Main 101 109	BaFe2As2
+T7	Material 110 125	single crystals
+T8	Characterization 181 202	positron annihilation
+T10	SC 334 348	superconductor
+T11	SC 354 369	superconducting
+T12	Process 387 394	cooling
+T13	SC 418 421	T c
+T14	Property 522 540	momentum electrons
+T15	Property 599 618	non-superconducting
+T16	SC 664 681	superconductivity
+T17	SC 763 778	superconducting
+T20	Element 846 848	Fe
+T21	Element 853 855	Co
+T22	Property 881 893	4d electrons
+T24	Element 897 899	Ba
+T27	Material 985 991	planes
+T29	Material 1023 1041	single crystalline
+T30	Property 1100 1108	electron
+T31	Element 1126 1128	Fe
+T32	SC 1135 1149	superconductor
+T35	Value 70 75	19.5K
+T36	Value 254 257	14K
+T18	Property 830 842	3d electrons
+T19	Property 874 876	5s
+T23	Material 1064 1086	isotropic distribution
+T25	Property 159 177	Doppler broadening
+T37	Material 789 798	positrons
+T38	Material 558 567	positrons
+T9	Element 325 327	Fe
+T26	Material 971 980	a–b plane
+T28	Material 1006 1015	a–b plane
+T4	SC 60 69	T c (R=0)
+T33	Value 402 405	40K
+R1	Target Arg1:T35 Arg2:T2
+R2	Equivalent Arg1:T4 Arg2:T35

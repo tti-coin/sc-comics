@@ -1,0 +1,60 @@
+T1	Element 26 33	CoFe2O4
+T2	Material 34 43	particles
+T4	Material 67 77	structural
+T5	Property 86 98	normal state
+T6	Property 99 110	resistivity
+T7	Main 114 123	YBa2Cu3O7
+T8	Element 131 136	Y-123
+T9	Main 142 153	Y3Ba5Cu8O18
+T10	Element 161 166	Y-358
+T11	Material 168 183	polycrystalline
+T12	Element 241 247	oxygen
+T13	Process 248 258	atmosphere
+T14	Process 276 296	solid state reaction
+T16	Element 317 324	CoFe2O4
+T17	Material 345 359	microstructure
+T18	SC 364 381	superconductivity
+T19	Characterization 426 443	X-ray diffraction
+T20	Characterization 445 448	XRD
+T21	Characterization 451 479	scanning electron microscopy
+T22	Characterization 481 484	SEM
+T24	Characterization 524 527	XRD
+T25	Material 552 570	lattice parameters
+T26	Element 587 592	Y-123
+T27	Element 597 609	Y-358 phases
+T28	Characterization 611 614	SEM
+T29	Material 644 649	grain
+T30	Element 697 704	CoFe2O4
+T31	Property 731 742	resistivity
+T32	SC 797 812	superconducting
+T33	Element 848 855	CoFe2O4
+T35	Element 868 873	Y-358
+T36	Element 891 900	Y-123 one
+T37	Material 964 972	disorder
+T38	Element 1000 1002	Cu
+T40	Element 1030 1032	Fe
+T41	Element 1037 1039	Co
+T42	Element 1043 1048	Y-358
+T43	Element 1061 1066	Y-123
+T44	Material 15 25	nano-sized
+T45	Value 45 49	10nm
+T46	Value 331 335	2wt%
+T3	Doping 51 59	addition
+T15	Doping 310 316	adding
+T34	Doping 856 864	addition
+T39	Doping 1015 1026	substituted
+T23	Property 490 500	electrical
+T47	Characterization 501 513	measurements
+R3	Target Arg1:E4 Arg2:T35
+R4	Target Arg1:E6 Arg2:T42
+R5	Target Arg1:E2 Arg2:T7
+R6	Target Arg1:E2 Arg2:T9
+R7	Target Arg1:E4 Arg2:T36
+R8	Target Arg1:E5 Arg2:T42
+R9	Target Arg1:E5 Arg2:T43
+R10	Target Arg1:E6 Arg2:T43
+E2	Doping:T3 Dopant:T1
+E3	Doping:T15 Dopant:T16
+E4	Doping:T34 Dopant:T33
+E5	Doping:T39 Site:T38 Dopant:T41
+E6	Doping:T39 Site:T38 Dopant:T40

@@ -1,0 +1,67 @@
+T1	Property 36 52	susceptibilities
+T2	Material 126 137	inter-grain
+T3	SC 138 153	superconducting
+T4	Material 168 183	polycrystalline
+T5	Main 184 198	FeSr2YCu2O6+ y
+T10	Material 388 394	grains
+T11	SC 403 420	superconductivity
+T12	Material 428 444	grain boundaries
+T13	Property 480 496	susceptibilities
+T15	Property 585 601	susceptibilities
+T16	Property 635 648	magnetization
+T17	Property 663 671	magnetic
+T18	Property 672 688	flux penetration
+T19	Material 697 713	grain boundaries
+T20	Material 719 730	inter-grain
+T21	Property 731 744	magnetization
+T23	Property 817 839	temperature dependence
+T24	Property 899 913	critical-state
+T25	Property 914 919	model
+T27	Property 994 1018	critical-current density
+T28	Property 1031 1050	zero magnetic field
+T29	Property 1133 1147	critical-state
+T30	Property 1148 1153	model
+T31	Property 1159 1172	magnetization
+T32	Material 1216 1227	inter-grain
+T33	Property 1228 1252	critical-current density
+T34	Property 1278 1292	magnetic field
+T38	Value 265 268	56K
+T39	Value 279 282	45K
+T40	Value 1022 1024	0K
+T41	Value 1074 1084	2×104 A/m2
+T42	Value 1299 1304	0.1mT
+T43	Property 1120 1132	Kim–Anderson
+T44	Property 886 898	Kim–Anderson
+T22	Doping 769 781	substituting
+T6	SC 259 263	T c1
+T35	SC 273 277	T c2
+T36	SC 307 311	T c2
+T7	SC 298 302	T c1
+T8	SC 330 373	onset temperatures of the superconductivity
+T9	Property 497 499	χn
+T14	SC 534 538	T c2
+T37	Value 504 505	2
+T47	Value 507 508	3
+T50	Value 510 511	5
+T51	Value 516 518	7)
+T48	Property 843 845	χn
+T52	Value 850 851	1
+T53	Value 853 854	2
+T54	Value 856 857	3
+T55	Value 859 860	5
+T56	Value 865 866	7
+T49	Property 973 975	χn
+T26	Material 982 993	inter-grain
+T57	Value 81 82	1
+T58	Value 84 85	2
+T59	Value 87 88	3
+T60	Value 90 91	5
+T61	Value 96 97	7
+T62	Property 53 56	χ n
+T45	Property 215 219	χ 1′
+T46	Property 239 243	χ 1″
+T63	Property 59 64	χ n ′
+T64	Property 67 76	i χ n ′ ′
+R1	Equivalent Arg1:T6 Arg2:T38
+R2	Equivalent Arg1:T35 Arg2:T39
+E1	Doping:T22 

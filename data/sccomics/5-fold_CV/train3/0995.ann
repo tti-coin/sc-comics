@@ -1,0 +1,48 @@
+T1	Element 0 4	MgB2
+T2	SC 34 51	superconductivity
+T3	Property 80 88	metallic
+T4	Material 111 120	structure
+T5	Element 139 144	oxide
+T7	SC 145 160	superconductors
+T8	Process 170 179	deposited
+T9	Main 180 184	MgB2
+T10	Material 185 195	thin films
+T11	Element 203 206	SiC
+T13	Process 242 283	hybrid physical–chemical vapor deposition
+T14	Element 300 303	SiC
+T15	Material 304 317	buffer layers
+T16	Material 329 340	thicknesses
+T17	Process 346 351	grown
+T19	Process 385 408	pulsed laser deposition
+T20	Process 410 413	PLD
+T21	Element 433 436	SiC
+T22	Material 437 450	buffer layers
+T23	Material 464 474	grain size
+T24	Element 478 482	MgB2
+T25	Material 483 488	films
+T26	Material 521 527	grains
+T27	Element 548 552	MgB2
+T28	Material 553 557	film
+T29	Process 558 567	deposited
+T30	Material 630 639	interface
+T31	Element 707 710	SiC
+T32	Material 711 724	buffer layers
+T33	Material 734 743	thickness
+T35	Element 781 785	MgB2
+T36	Element 811 814	SiC
+T37	Material 815 828	buffer layers
+T38	Element 902 906	MgB2
+T39	Material 917 926	interface
+T6	Process 285 290	HPCVD
+T40	Material 207 236	buffered-Hastelloy substrates
+T12	Material 359 379	Hastelloy substrates
+T18	Material 576 585	Hastelloy
+T41	Material 610 622	delamination
+T42	Material 660 672	delamination
+T43	Value 747 750	170
+T44	Value 755 760	250nm
+T45	Material 907 916	Hastelloy
+T46	Material 946 958	delamination
+T34	Doping 766 771	added
+R1	Target Arg1:E1 Arg2:T35
+E1	Doping:T34 Dopant:T31

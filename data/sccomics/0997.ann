@@ -1,0 +1,44 @@
+T1	Element 21 23	Sr
+T2	Element 27 39	La2-xSrxCuO4
+T3	Property 65 86	electrical properties
+T4	Property 97 105	metallic
+T5	Property 107 121	semiconducting
+T6	Property 123 133	insulating
+T7	SC 139 154	superconducting
+T8	Material 203 218	ultrathin films
+T9	Element 229 231	Sr
+T10	Element 270 275	oxide
+T11	Process 276 298	molecular beam epitaxy
+T12	Main 310 322	La2-xSrxCuO4
+T13	Material 323 328	films
+T14	Process 346 351	grown
+T15	Element 393 395	Sr
+T16	Material 412 417	films
+T17	Material 433 446	crystallinity
+T18	Material 448 465	surface roughness
+T19	Property 471 492	electrical properties
+T20	Material 525 530	films
+T21	Material 535 553	single crystalline
+T22	Material 563 580	surface roughness
+T23	Element 597 599	Sr
+T26	Material 721 738	surface roughness
+T28	Material 768 773	films
+T29	Property 792 813	electrical properties
+T30	Material 823 827	bulk
+T31	Material 840 844	film
+T32	Element 891 903	La2-xSrxCuO4
+T33	Material 904 909	films
+T34	Element 918 920	Sr
+T35	Property 966 985	electric properties
+T36	Material 994 1000	dopant
+T37	Material 1029 1035	cation
+T38	Property 1036 1044	ordering
+T41	Material 1092 1102	interfaces
+T43	Value 330 331	0
+T44	Value 338 339	1
+T50	Value 617 618	0
+T51	Value 626 629	1.0
+T24	Material 688 712	c-axis lattice parameter
+T39	Material 1054 1067	superlattices
+T27	Doping 756 762	doping
+E1	Doping:T27

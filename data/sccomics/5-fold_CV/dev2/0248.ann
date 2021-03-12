@@ -1,0 +1,69 @@
+T1	Main 12 22	YBa2Cu3O y
+T2	Main 24 28	YBCO
+T3	Main 30 35	Y-123
+T4	Element 86 90	SiO2
+T5	Material 91 100	particles
+T6	Process 127 130	air
+T7	Process 139 159	solid-state reaction
+T8	Material 171 185	microstructure
+T12	Property 291 305	magnetic field
+T13	Property 310 333	temperature dependences
+T14	Property 341 365	critical current density
+T15	Property 367 370	J c
+T17	Property 487 505	Flux pinning force
+T18	Property 506 513	density
+T19	Property 558 565	pinning
+T20	SC 590 613	type II superconductors
+T21	Characterization 632 649	X-ray diffraction
+T22	Material 674 696	orthorhombic structure
+T24	Element 700 704	YBCO
+T26	Characterization 746 749	SEM
+T27	Material 772 777	grain
+T28	Element 788 792	SiO2
+T30	SC 808 835	zero resistance temperature
+T31	SC 836 840	T co
+T32	Element 878 882	YBCO
+T33	Element 888 892	SiO2
+T34	Property 893 906	concentration
+T36	Property 958 984	critical current densities
+T37	Element 1007 1011	YBCO
+T38	Process 1012 1020	sintered
+T39	Property 1030 1043	concentration
+T40	Element 1044 1048	SiO2
+T41	Property 1072 1086	magnetic field
+T42	Characterization 1088 1091	TEM
+T43	Material 1126 1142	columnar defects
+T44	Material 1173 1179	c-axis
+T45	Element 1183 1187	YBCO
+T47	SC 1226 1241	superconducting
+T48	Material 1242 1248	matrix
+T49	Material 1256 1263	defects
+T50	Property 1284 1310	critical current densities
+T51	Property 1330 1344	magnetic field
+T52	Element 1348 1352	YBCO
+T54	Value 102 106	30nm
+T9	Characterization 212 257	transmission and scanning electron microscopy
+T10	Characterization 267 270	SEM
+T11	Characterization 444 461	four-probe method
+T55	Value 909 917	0.2 wt %
+T35	Value 856 859	90K
+T58	Value 1053 1059	0.1wt%
+T60	Characterization 259 262	TEM
+T62	Material 76 85	nanosized
+T23	Characterization 720 742	Morphology examination
+T25	Doping 793 801	addition
+T29	Doping 937 942	added
+T16	Property 515 518	F p
+T57	Value 1144 1145	2
+T59	Value 1146 1149	3nm
+T46	Element 1192 1194	Si
+T53	Value 65 66	0
+T61	Value 67 71	1wt%
+T56	Property 397 410	magnetization
+T63	Characterization 411 423	measurements
+R1	Coref Arg1:T1 Arg2:T2
+R2	Coref Arg1:T1 Arg2:T3
+R3	Equivalent Arg1:T31 Arg2:T35
+R4	Target Arg1:T35 Arg2:T32
+E1	Doping:T25 Dopant:T28
+E2	Doping:T29 

@@ -1,0 +1,75 @@
+T1	Element 13 29	transition-metal
+T3	Property 55 75	electronic structure
+T5	SC 94 108	superconductor
+T6	Main 109 116	LaFeAsO
+T7	Property 162 171	ab initio
+T8	Property 172 179	density
+T9	Property 180 202	functional calculation
+T11	Material 261 269	impurity
+T13	Element 296 298	Mn
+T14	Element 300 302	Co
+T15	Element 304 306	Ni
+T16	Element 308 310	Zn
+T17	Element 316 318	Ru
+T18	Property 341 361	tight-binding models
+T20	Property 431 436	bands
+T21	Property 448 459	Fermi level
+T22	Property 471 491	electronic structure
+T23	Material 503 511	impurity
+T24	Material 636 646	impurities
+T25	Element 721 723	Mn
+T26	Element 725 727	Co
+T27	Element 733 735	Ni
+T28	Material 743 751	impurity
+T29	Property 752 754	3d
+T30	Element 780 782	Fe
+T31	Property 783 785	3d
+T32	Element 850 852	Zn
+T33	Element 907 909	Ru
+T35	Element 1124 1126	Ru
+T36	Property 1127 1138	4d orbitals
+T38	Property 1195 1206	d electrons
+T39	Material 1230 1242	impurity ion
+T40	Property 1269 1283	Brillouin zone
+T41	Element 1388 1390	Co
+T42	Element 1395 1397	Ni
+T44	Property 1416 1422	charge
+T45	Element 1458 1460	Co
+T46	Element 1465 1467	Ni
+T47	Material 1468 1478	impurities
+T49	Property 1507 1522	mobile carriers
+T50	Property 1589 1602	Fermi-surface
+T51	Element 1628 1630	Co
+T52	Element 1635 1637	Ni
+T54	Property 1694 1698	band
+T55	Value 802 806	−0.3
+T56	Value 812 819	−0.8 eV
+T57	Value 797 800	0.3
+T10	Element 244 260	transition-metal
+T19	Property 402 419	Wannier functions
+T58	Value 893 897	8 eV
+T60	Value 971 980	O(0.1) eV
+T61	Property 1285 1287	BZ
+T62	Property 1349 1351	BZ
+T63	Property 1324 1341	spectral function
+T4	Element 83 87	iron
+T64	Property 1542 1556	momentum-space
+T65	Property 1162 1181	charge distribution
+T34	Material 1017 1029	impurity ion
+T2	Doping 30 42	substitution
+T37	Doping 283 294	substitutes
+T43	Doping 1398 1404	doping
+T48	Doping 1638 1651	substitutions
+T12	Value 1074 1077	20%
+T53	Value 1080 1083	30%
+R1	Target Arg1:E1 Arg2:T4
+E1	Doping:T2 Dopant:T1
+E2	Doping:T37 Dopant:T13
+E3	Doping:T37 Dopant:T17
+E4	Doping:T37 Dopant:T16
+E5	Doping:T37 Dopant:T15
+E6	Doping:T37 Dopant:T14
+E7	Doping:T43 Dopant:T42
+E8	Doping:T43 Dopant:T41
+E9	Doping:T48 Dopant:T51
+E10	Doping:T48 Dopant:T52

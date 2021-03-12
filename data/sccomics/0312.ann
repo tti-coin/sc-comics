@@ -1,0 +1,55 @@
+T1	Property 4 21	ac-susceptibility
+T4	Main 102 106	MgB2
+T6	Property 268 285	ac-susceptibility
+T7	Property 321 329	ac-field
+T8	SC 379 401	transition temperature
+T9	SC 403 406	T c
+T15	Characterization 571 574	XRD
+T16	Material 607 612	grain
+T19	Property 669 682	pinning model
+T20	Property 723 740	activation energy
+T23	Property 779 796	activation energy
+T24	Property 839 852	concentration
+T26	Element 865 869	MgB2
+T27	Property 887 904	activation energy
+T29	Property 959 967	ac-field
+T30	Element 78 89	nano-carbon
+T31	Property 165 181	ac-applied field
+T32	Property 183 187	H ac
+T42	Process 349 366	lower temperature
+T10	Value 443 448	3 wt%
+T11	Value 455 460	4 wt%
+T43	Element 494 505	nano-carbon
+T21	Property 745 760	current density
+T44	Element 832 838	nano-C
+T28	Property 921 936	current density
+T33	Value 190 193	0.5
+T34	Element 532 536	MgB2
+T36	Value 195 198	1.0
+T37	Value 200 203	2.5
+T38	Value 205 208	5.0
+T39	Value 210 212	10
+T40	Value 214 216	15
+T41	Value 218 220	25
+T47	Value 222 224	35
+T48	Value 226 231	50 Oe
+T3	Property 549 553	FWHM
+T13	Property 27 50	function of temperature
+T17	Element 453 454	C
+T18	Element 441 442	C
+T5	Doping 96 101	doped
+T12	Doping 122 128	doping
+T14	Doping 506 518	substitution
+T22	Doping 526 531	doped
+T25	Doping 646 652	doping
+T35	Doping 859 864	doped
+R2	Target Arg1:E2 Arg2:T4
+R3	Target Arg1:E4 Arg2:T34
+R4	Target Arg1:E5 Arg2:T34
+R5	Target Arg1:E7 Arg2:T26
+E2	Doping:T5 Dopant:T30
+E3	Doping:T12
+E4	Doping:T14 Dopant:T43
+E5	Doping:T22
+E6	Doping:T25
+E7	Doping:T35

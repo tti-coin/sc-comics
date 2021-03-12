@@ -1,0 +1,44 @@
+T1	Element 36 40	MnO2
+T2	Material 41 48	powders
+T4	Element 72 81	Fe cation
+T6	Element 100 106	copper
+T7	Material 120 134	microstructure
+T8	SC 139 154	superconductive
+T9	Main 169 181	YBa2Cu3O7− δ
+T10	Main 183 187	Y123
+T11	Process 189 204	melt-solidified
+T12	Material 205 210	bulks
+T13	Element 267 275	Y2BaCuO5
+T14	Element 277 281	Y211
+T15	Material 283 291	particle
+T17	Material 329 348	bulk microstructure
+T18	Element 374 378	MnO2
+T20	Element 473 477	MnO2
+T21	Material 478 485	powders
+T22	Property 542 549	pinning
+T23	Element 574 576	Fe
+T25	Property 613 627	magnetic field
+T26	Element 644 648	Y211
+T27	Material 649 657	particle
+T28	Material 674 682	textured
+T30	Material 792 800	particle
+T31	Material 837 851	microstructure
+T32	SC 856 871	superconductive
+T33	Material 886 899	single-domain
+T34	Material 900 904	bulk
+T35	SC 905 920	superconductors
+T16	Property 408 426	interfacial energy
+T3	Doping 49 57	addition
+T5	Doping 82 95	substitutions
+T19	Doping 461 469	addition
+T24	Doping 577 585	addition
+T29	Doping 760 772	substitution
+R1	Coref Arg1:T9 Arg2:T10
+R2	Coref Arg1:T13 Arg2:T14
+R3	Target Arg1:E1 Arg2:T9
+R4	Target Arg1:E2 Arg2:T9
+E1	Doping:T3 Site:T6 Dopant:T1
+E2	Doping:T5 Dopant:T4 Site:T6
+E3	Doping:T19 Dopant:T20
+E4	Doping:T24 Dopant:T23
+E5	Doping:T29 

@@ -1,0 +1,27 @@
+T1	Property 0 20	Landau-type theories
+T2	Element 81 89	minerals
+T4	Property 221 243	transition temperature
+T5	Property 245 248	T c
+T8	Property 406 421	order parameter
+T10	Property 503 511	ordering
+T11	Property 562 568	theory
+T12	Property 577 592	order parameter
+T13	Property 610 616	strain
+T14	Material 638 645	defects
+T15	Material 647 654	lattice
+T16	Property 725 739	phase diagrams
+T17	Property 789 805	order parameters
+T18	Element 819 827	minerals
+T19	Property 901 908	kinetic
+T20	Property 935 951	order parameters
+T21	Property 1060 1075	order parameter
+T22	Property 1111 1117	theory
+T23	Process 1125 1130	draws
+T24	Property 1168 1188	Landau-type theories
+T25	Property 1193 1200	kinetic
+T26	Property 1206 1214	theories
+T34	Value 442 449	1 2 θ s
+T9	Property 452 463	Pseudo-spin
+T3	Property 258 280	saturation temperature
+T6	Material 496 502	cation
+T7	Property 364 367	T c

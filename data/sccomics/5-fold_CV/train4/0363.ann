@@ -1,0 +1,39 @@
+T1	Material 4 22	lattice parameters
+T2	Property 24 45	electronic structures
+T3	Material 66 83	Vicker's hardness
+T5	Main 117 124	SrAuSi3
+T6	Property 167 183	first-principles
+T8	Material 235 253	lattice parameters
+T9	Element 359 366	SrAuSi3
+T10	Property 394 405	anisotropic
+T11	Property 419 429	anisotropy
+T12	Property 460 477	three-dimensional
+T13	Property 479 481	3D
+T14	Property 486 498	bulk modulus
+T15	Property 503 518	Young's modulus
+T16	Material 524 539	polycrystalline
+T17	Property 572 587	Young's modulus
+T18	Property 589 604	Poisson's ratio
+T19	Material 635 649	single-crystal
+T21	Property 686 708	temperature dependence
+T22	Property 739 752	specific heat
+T23	Property 757 774	Debye temperature
+T25	SC 871 874	T c
+T26	SC 957 960	T c
+T27	Material 1093 1101	symmetry
+T28	Value 932 938	1.54 K
+T29	Value 877 883	9.94 K
+T30	Property 1010 1043	antisymmetric spin–orbit coupling
+T31	Property 1045 1049	ASOC
+T32	Property 850 866	McMillan formula
+T33	Property 961 983	suppression phenomenon
+T7	Property 192 218	quasi-harmonic Debye model
+T36	Property 324 341	elastic constants
+T37	Property 342 346	C ij
+T35	Property 540 555	elastic modulus
+T38	Property 557 570	shear modulus
+T24	Property 804 829	quasiharmonic Debye model
+T20	Property 650 667	elastic constants
+T4	Property 88 102	thermodynamics
+R1	Equivalent Arg1:T25 Arg2:T29
+R2	Equivalent Arg1:T25 Arg2:T28

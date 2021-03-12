@@ -1,0 +1,73 @@
+T1	Element 44 58	graphene oxide
+T2	Element 60 62	GO
+T5	SC 93 108	superconducting
+T6	Main 123 136	YBa2Cu3O7 − δ
+T7	Main 138 142	YBCO
+T8	SC 144 176	high temperature superconductors
+T9	Element 193 197	YBCO
+T10	Material 198 204	powder
+T11	Process 230 241	calcination
+T12	Material 247 253	powder
+T13	Element 320 322	GO
+T14	Characterization 338 355	X-ray diffraction
+T15	Characterization 357 360	XRD
+T16	Property 381 416	material analysis using diffraction
+T17	Property 418 422	MAUD
+T18	Material 446 467	structural parameters
+T19	Material 476 494	lattice parameters
+T20	Material 496 510	site occupancy
+T21	Material 524 529	atoms
+T22	Material 534 549	orthorhombicity
+T23	Element 595 597	GO
+T26	Material 625 634	structure
+T27	Element 638 642	YBCO
+T28	Element 653 659	Cu (1)
+T29	Element 661 667	Cu (2)
+T30	Element 672 678	oxygen
+T32	Element 710 712	GO
+T33	Material 733 739	grains
+T34	Element 791 793	GO
+T36	Element 806 810	YBCO
+T37	SC 830 852	transition temperature
+T38	SC 854 856	TC
+T39	Property 863 878	oxygen contents
+T40	Element 890 892	GO
+T41	Property 955 961	strain
+T42	Element 1045 1047	GO
+T44	Characterization 1060 1088	scanning electron microscopy
+T45	Characterization 1090 1093	SEM
+T46	Element 1129 1133	YBCO
+T47	Material 1134 1139	grain
+T48	Element 1155 1157	GO
+T50	Value 291 292	0
+T4	Property 995 1017	Williamson–Hall method
+T25	Process 208 215	sol–gel
+T31	Value 294 297	0.1
+T51	Value 299 302	0.3
+T52	Value 304 307	0.7
+T53	Value 309 315	1 wt.%
+T55	Material 78 88	structural
+T3	Doping 64 70	doping
+T24	Doping 598 604	doping
+T35	Doping 794 802	addition
+T43	Doping 893 898	doped
+T49	Doping 1048 1054	doping
+T54	Doping 1158 1164	doping
+T56	Doping 685 694	occupancy
+R4	Target Arg1:E1 Arg2:T6
+R5	Target Arg1:E2 Arg2:T27
+R6	Target Arg1:E3 Arg2:T27
+R7	Target Arg1:E4 Arg2:T27
+R8	Target Arg1:E5 Arg2:T36
+R9	Target Arg1:E8 Arg2:T46
+E1	Doping:T3 Dopant:T1
+E2	Doping:T24 Dopant:T23 Site:T30
+E3	Doping:T24 Dopant:T23 Site:T29
+E4	Doping:T24 Dopant:T23 Site:T28
+E5	Doping:T35 Dopant:T34
+E6	Doping:T43 Dopant:T40
+E7	Doping:T49 Dopant:T42
+E8	Doping:T54 Dopant:T48
+E9	Doping:T56 Site:T30
+E10	Doping:T56 Site:T29
+E11	Doping:T56 Site:T28

@@ -1,0 +1,35 @@
+T1	Material 20 27	surface
+T3	Main 109 113	MgB2
+T4	Element 139 145	carbon
+T5	Element 159 164	boron
+T6	Material 179 183	Bulk
+T7	Element 184 188	MgB2
+T8	Material 224 233	thickness
+T13	Material 373 378	grain
+T14	Property 423 435	flux pinning
+T15	Element 439 443	MgB2
+T17	Property 479 489	self-field
+T18	Property 490 514	critical current density
+T19	Property 515 518	J c
+T20	Property 556 559	T c
+T21	Element 596 602	carbon
+T23	Material 648 656	disorder
+T24	Characterization 764 777	Raman spectra
+T25	Value 522 526	20 K
+T26	Value 535 545	375 kA/cm2
+T27	Characterization 58 77	Raman spectroscopic
+T28	Value 200 205	20 mm
+T29	Value 219 223	7 mm
+T9	Process 271 292	solid state sintering
+T10	Process 254 270	in-situ one-step
+T2	Element 96 102	carbon
+T12	Property 746 756	E 2 g mode
+T11	Doping 103 108	doped
+T16	Doping 330 336	doping
+T22	Doping 461 466	doped
+T30	Doping 603 609	doping
+R1	Target Arg1:E1 Arg2:T3
+E1	Doping:T11 Dopant:T2
+E2	Doping:T16
+E3	Doping:T22
+E4	Doping:T30 Dopant:T21

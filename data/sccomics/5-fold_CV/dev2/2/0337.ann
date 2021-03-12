@@ -1,0 +1,39 @@
+T1	Property 44 54	electrical
+T2	Property 56 64	magnetic
+T4	Main 100 114	Pr0.6Sr0.4MnO3
+T5	Main 116 120	PSMO
+T6	Property 166 188	transition temperature
+T8	Property 241 263	electrical resistivity
+T9	Property 268 288	thermoelectric power
+T12	Process 360 376	high temperature
+T13	Property 377 389	paramagnetic
+T14	Property 417 437	thermal conductivity
+T15	Material 548 558	distortion
+T17	Property 644 657	concentration
+T18	Element 661 663	Bi
+T19	Property 709 717	polarons
+T21	Process 795 804	reduction
+T22	Element 850 857	bismuth
+T24	Element 928 930	Bi
+T26	Element 91 93	Bi
+T28	Property 439 443	κ(T)
+T29	Property 595 599	κ(T)
+T30	Property 531 542	Jahn–Teller
+T31	Property 544 546	JL
+T33	Property 706 708	JT
+T34	Property 890 912	magnetic inhomogeneity
+T10	Property 318 339	polaron hopping model
+T11	Property 818 825	entropy
+T3	Element 204 206	Bi
+T16	Property 69 87	thermal properties
+T35	Characterization 139 151	measurements
+T7	Doping 637 643	doping
+T25	Doping 931 943	substitution
+T27	Doping 94 99	doped
+T20	Property 756 769	specific heat
+T23	Characterization 770 782	measurements
+R1	Coref Arg1:T4 Arg2:T5
+R2	Target Arg1:E3 Arg2:T4
+E1	Doping:T7 Dopant:T18
+E2	Doping:T25 Dopant:T24
+E3	Doping:T27 Dopant:T26

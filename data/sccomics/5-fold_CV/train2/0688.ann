@@ -1,0 +1,100 @@
+T1	Element 17 25	titanium
+T3	Main 45 49	MgB2
+T4	Material 50 64	nanocomposites
+T5	Process 87 107	solid state reaction
+T6	Element 131 137	carbon
+T7	Element 142 144	Ti
+T9	Property 166 171	Jc –H
+T11	Property 185 198	pinning force
+T12	Element 219 223	MgB2
+T13	Property 257 259	Tc
+T14	Property 284 286	Jc
+T15	Element 290 294	MgB2
+T17	Property 374 384	high field
+T18	Property 415 417	Jc
+T19	Property 427 436	low field
+T20	Element 475 477	Ti
+T24	Element 569 577	titanium
+T25	Element 581 585	MgB2
+T26	Material 596 609	nanocomposite
+T27	Element 619 623	TiB2
+T28	Material 637 642	layer
+T29	Element 655 659	MgB2
+T30	Material 660 666	grains
+T31	Material 688 697	particles
+T32	Element 722 726	MgB2
+T33	Material 727 733	grains
+T35	Property 782 789	density
+T36	Property 790 802	stress field
+T37	Element 810 814	MgB2
+T38	Property 865 872	pinning
+T40	Element 902 906	MgB2
+T39	Element 889 895	carbon
+T22	Characterization 486 509	Microstructure analysis
+T16	Doping 348 354	doping
+T21	Doping 478 484	doping
+T34	Doping 757 763	doping
+T44	Doping 896 901	doped
+T2	Doping 39 44	doped
+T8	Doping 156 162	doping
+T41	Element 5 12	diamond
+T46	Material 0 4	Nano
+T23	Material 528 532	nano
+T42	Element 533 540	diamond
+T47	Doping 558 563	doped
+T10	Material 335 339	nano
+T48	Element 340 347	diamond
+T45	Element 680 687	diamond
+T49	Material 675 679	nano
+T43	Material 744 748	nano
+T50	Element 749 756	diamond
+R1	Target Arg1:E7 Arg2:T40
+R2	Target Arg1:E1 Arg2:T3
+R3	Target Arg1:E2 Arg2:T12
+R4	Target Arg1:E5 Arg2:T25
+R5	Target Arg1:E3 Arg2:T15
+R6	Target Arg1:E6 Arg2:T37
+R7	Target Arg1:E8 Arg2:T3
+R8	Target Arg1:E9 Arg2:T12
+R9	Target Arg1:E10 Arg2:T25
+E3	Doping:T16 Dopant:T48
+E4	Doping:T21 Dopant:T20
+E6	Doping:T34 Dopant:T50
+E7	Doping:T44 Dopant:T39
+E1	Doping:T2 Dopant:T41
+E2	Doping:T8 Dopant:T6
+E5	Doping:T47 Dopant:T42
+E8	Doping:T2 Dopant:T1
+E9	Doping:T8 Dopant:T7
+E10	Doping:T47 Dopant:T24
+#1	AnnotatorNotes T1	17-25
+#2	AnnotatorNotes T3	45-49
+#3	AnnotatorNotes T4	50-64
+#4	AnnotatorNotes T6	131-137
+#5	AnnotatorNotes T7	142-144
+#6	AnnotatorNotes T12	219-223
+#7	AnnotatorNotes T15	290-294
+#8	AnnotatorNotes T20	475-477
+#9	AnnotatorNotes T24	569-577
+#10	AnnotatorNotes T25	581-585
+#11	AnnotatorNotes T26	596-609
+#12	AnnotatorNotes T27	619-623
+#13	AnnotatorNotes T28	637-642
+#14	AnnotatorNotes T29	655-659
+#15	AnnotatorNotes T30	660-666
+#16	AnnotatorNotes T31	688-697
+#17	AnnotatorNotes T32	722-726
+#18	AnnotatorNotes T33	727-733
+#19	AnnotatorNotes T37	810-814
+#20	AnnotatorNotes T40	902-906
+#21	AnnotatorNotes T39	889-895
+#22	AnnotatorNotes T41	5-12
+#23	AnnotatorNotes T46	0-4
+#24	AnnotatorNotes T23	528-532
+#25	AnnotatorNotes T42	533-540
+#26	AnnotatorNotes T10	335-339
+#27	AnnotatorNotes T48	340-347
+#28	AnnotatorNotes T45	680-687
+#29	AnnotatorNotes T49	675-679
+#30	AnnotatorNotes T43	744-748
+#31	AnnotatorNotes T50	749-756

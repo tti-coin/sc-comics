@@ -1,0 +1,38 @@
+T1	Property 0 10	Low-energy
+T3	Property 11 27	spin excitations
+T4	Material 49 64	polycrystalline
+T5	Main 65 80	LaFeAsO1− x F x
+T6	Characterization 102 120	neutron scattering
+T7	Property 149 168	spin susceptibility
+T8	SC 182 197	superconducting
+T9	Property 260 267	ordered
+T10	SC 347 385	superconducting transition temperature
+T11	SC 386 389	T c
+T14	Element 449 467	LaFeAsO0.918F0.082
+T15	SC 473 476	T c
+T16	Property 493 507	spin resonance
+T18	SC 616 624	high-T c
+T19	Element 625 629	iron
+T20	SC 636 651	superconductors
+T21	Property 732 751	spin susceptibility
+T22	SC 756 782	high-T c superconductivity
+T23	Element 786 790	iron
+T24	SC 797 812	superconductors
+T25	Property 865 879	Fermi surfaces
+T28	Value 330 335	0.158
+T30	Value 407 409	7K
+T31	Value 478 481	29K
+T32	Value 594 597	4.7
+T33	Property 92 101	inelastic
+T12	Property 518 529	peak energy
+T2	Property 169 174	χ″(ω)
+T26	Property 302 307	χ″(ω)
+T27	Property 424 429	χ″(ω)
+T13	Doping 443 448	doped
+R2	Equivalent Arg1:T15 Arg2:T31
+R3	Target Arg1:T31 Arg2:T14
+R4	Equivalent Arg1:T11 Arg2:T30
+R6	Target Arg1:E1 Arg2:T14
+R7	Condition Arg1:T31 Arg2:E1
+E1	Doping:T13
+T17	SC 557 560	T c

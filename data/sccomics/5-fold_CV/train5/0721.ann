@@ -1,0 +1,28 @@
+T2	SC 68 85	superconductivity
+T3	Property 93 100	phonons
+T6	Main 146 166	Ba(Fe1− x Co x )2As2
+T7	Property 210 217	phonons
+T8	SC 245 260	superconducting
+T9	Property 310 317	phonons
+T10	SC 468 485	superconductivity
+T11	Property 493 500	phonons
+T12	Property 539 550	frequencies
+T13	Property 591 601	low energy
+T14	Property 602 609	phonons
+T15	Property 617 626	electrons
+T16	SC 692 707	superconductors
+T17	SC 715 723	high T c
+T18	Property 762 779	coupling strength
+T21	Property 840 846	phonon
+T23	Value 171 175	0.06
+T25	Value 183 187	0.10
+T28	Property 367 370	gap
+T1	Characterization 0 28	Inelastic neutron scattering
+T19	Property 793 818	density functional theory
+T20	Property 261 271	gap energy
+T5	Doping 114 119	doped
+T4	Doping 136 145	overdoped
+R1	Target Arg1:E2 Arg2:T6
+R2	Target Arg1:E1 Arg2:T6
+E2	Doping:T5 
+E1	Doping:T4 

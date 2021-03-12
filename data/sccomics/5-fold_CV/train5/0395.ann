@@ -1,0 +1,51 @@
+T1	Main 0 14	BaPb1−xBixO3-δ
+T2	Process 51 71	solid-state reaction
+T3	Characterization 80 97	X-ray diffraction
+T4	Material 121 136	cell parameters
+T6	Element 227 241	BaPb1−xBixO3-δ
+T7	Property 242 255	phase diagram
+T8	Material 294 299	metal
+T9	Property 301 315	semiconducting
+T10	SC 320 335	superconducting
+T11	SC 344 359	superconducting
+T13	SC 395 415	critical temperature
+T14	SC 462 464	Tc
+T15	Property 533 546	phase diagram
+T16	Element 558 566	cuprates
+T19	SC 679 699	critical temperature
+T20	SC 754 756	Tc
+T22	Property 818 825	pinning
+T23	Element 848 850	Bi
+T24	Property 862 871	low field
+T25	Property 902 914	flux pinning
+T26	Material 918 928	2D defects
+T27	Material 960 969	nanoscale
+T28	Material 970 979	structure
+T29	Element 987 991	Bi3+
+T30	Element 996 1000	Bi5+
+T31	Material 1014 1026	dislocations
+T32	Property 1058 1065	pinning
+T33	Material 1081 1088	defects
+T34	Material 1096 1109	point defects
+T35	Property 1141 1154	magnetization
+T36	Property 1180 1192	flux pinning
+T44	SC 550 557	high–Tc
+T49	Value 492 498	120.68
+T50	Value 508 513	0.223
+T51	SC 465 471	Tc max
+T12	Doping 372 378	doping
+T17	Doping 602 612	underdoped
+T18	Doping 637 646	overdoped
+T21	Doping 790 796	doping
+T47	Doping 851 857	doping
+T37	Value 24 27	0.1
+T38	Value 28 31	0.3
+T40	Value 586 591	0.223
+T41	Value 628 633	0.223
+T5	Property 188 197	transport
+T42	Characterization 198 209	measurement
+E1	Doping:T12 
+E2	Doping:T17 
+E3	Doping:T18 
+E4	Doping:T21 
+E5	Doping:T47 Dopant:T23

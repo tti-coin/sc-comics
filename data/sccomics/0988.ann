@@ -1,0 +1,40 @@
+T1	Property 11 27	DFT calculations
+T2	Property 67 82	charge transfer
+T3	Material 100 108	geometry
+T4	Main 124 137	(BETS)2-GaCl4
+T6	SC 150 164	superconductor
+T7	Material 215 222	surface
+T9	Element 257 265	halogens
+T10	Property 311 326	charge transfer
+T11	Element 345 360	λ-(BETS)2-GaCl4
+T12	Element 368 375	Ag(111)
+T13	Element 380 387	Ag(100)
+T14	Material 388 396	surfaces
+T15	Material 410 418	surfaces
+T16	Element 472 473	F
+T18	Element 492 494	Cl
+T19	Element 504 506	Ga
+T20	Property 591 606	charge transfer
+T21	Material 624 631	surface
+T22	Property 656 668	net electron
+T24	Element 738 739	F
+T25	Material 740 745	atoms
+T26	Element 753 755	Ga
+T27	Property 796 811	charge transfer
+T30	Element 834 848	GaCl(4 −x )F x
+T31	Property 940 946	charge
+T32	Material 1074 1081	surface
+T33	Material 1127 1151	nanoelectronic materials
+T34	Property 1162 1182	electronic structure
+T35	Material 1236 1256	superhalogenated OSC
+T36	Property 1257 1272	charge transfer
+T37	Material 1273 1282	materials
+T41	Value 652 655	0.5
+T29	Material 182 185	OSC
+T8	Doping 474 487	substitutions
+T17	Doping 701 713	substitution
+T23	Element 819 821	Ga
+T5	Material 165 179	Bechgaard salt
+E1	Doping:T8 Dopant:T16 Site:T18
+E2	Doping:T17 Dopant:T24 Site:T26
+E3	Doping:T8 Site:T19 Dopant:T16

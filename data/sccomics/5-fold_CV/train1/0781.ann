@@ -1,0 +1,38 @@
+T1	SC 4 19	superconducting
+T2	Property 24 36	normal-state
+T3	Property 37 57	transport properties
+T4	Property 59 70	resistivity
+T5	Property 79 90	thermopower
+T6	Material 114 121	ceramic
+T7	Material 135 147	compositions
+T8	Main 151 178	Y1− x Ca x Ba1.5La0.5Cu3O y
+T9	Main 191 220	Y0.85− x Ca0.15Pr x Ba2Cu3O y
+T10	Main 237 266	Y0.85Ca0.15Ba2− x La x Cu3O y
+T11	Property 306 329	temperature dependences
+T12	Property 337 348	thermopower
+T13	Property 393 404	narrow-band
+T14	Property 405 410	model
+T16	Property 476 480	band
+T17	Property 481 489	spectrum
+T18	Property 494 509	charge-carriers
+T19	Property 531 542	Fermi level
+T20	Property 632 643	Fermi level
+T21	Property 739 765	density-of-states function
+T22	Element 772 779	calcium
+T24	Property 809 820	Fermi level
+T26	Property 847 867	critical temperature
+T27	Property 72 73	ρ
+T28	Property 92 93	S
+T33	Property 376 392	phenomenological
+T15	Doping 434 440	doping
+T23	Doping 780 786	doping
+T32	Value 183 184	0
+T37	Value 185 188	0.4
+T29	Value 225 226	0
+T30	Value 227 230	0.3
+T31	Value 271 272	0
+T34	Value 273 276	0.3
+T25	Doping 833 839	doping
+E1	Doping:T15 
+E2	Doping:T23 Dopant:T22
+E3	Doping:T25 

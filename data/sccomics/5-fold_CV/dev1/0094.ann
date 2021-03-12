@@ -1,0 +1,34 @@
+T1	SC 47 73	superconducting transition
+T3	Property 136 140	S(T)
+T4	Characterization 256 273	X-ray diffraction
+T5	SC 329 352	transition temperatures
+T6	Property 403 414	resistivity
+T7	Property 478 482	S(T)
+T8	Process 518 527	annealing
+T9	SC 580 583	T c
+T10	Property 612 616	S(T)
+T11	Property 672 695	effective medium theory
+T12	Property 734 738	S(T)
+T13	SC 750 753	T c
+T14	SC 835 838	T c
+T15	Property 942 956	oxygen content
+T16	Property 1060 1064	S(T)
+T17	Property 1090 1113	electrical conductivity
+T18	SC 1177 1192	superconductors
+T19	SC 1250 1276	superconducting transition
+T20	Property 1309 1313	S(T)
+T21	SC 1345 1348	T c
+T22	Property 1483 1487	S(T)
+T23	SC 1537 1540	T c
+T24	SC 1591 1617	superconducting transition
+T25	Main 165 177	Y1Ba2Cu3O7−δ
+T2	Value 366 370	90 K
+T29	Property 98 109	thermopower
+T30	Element 511 517	oxygen
+T32	Element 1164 1176	copper-oxide
+T33	Process 311 321	oxygenated
+T34	Property 1130 1144	thermoelectric
+T26	Value 230 232	4%
+T28	Value 938 940	4%
+T27	Material 149 164	polycrystalline
+R1	Equivalent Arg1:T5 Arg2:T2

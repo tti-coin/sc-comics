@@ -1,0 +1,28 @@
+T1	SC 2 17	superconductors
+T6	SC 352 355	T c
+T7	Material 368 374	Liquid
+T9	SC 429 432	T c
+T10	Property 460 474	phase diagrams
+T11	Process 523 537	crystal growth
+T12	SC 547 562	superconductors
+T13	Element 137 150	copper oxides
+T16	Element 216 217	Y
+T17	Main 223 236	Bi-Sr-Ca-Cu-O
+T14	Main 159 169	LnBa2Cu3Oy
+T19	Main 171 179	123 type
+T20	Main 238 243	BSCCO
+T21	Element 345 350	BSCCO
+T22	Value 358 363	100 K
+T23	Element 422 427	BSCCO
+T24	Value 435 439	80 K
+T25	Element 541 546	oxide
+T27	Material 381 397	epitaxial growth
+T2	SC 101 125	high T c superconductors
+T8	SC 405 412	low T c
+T5	SC 327 335	high T c
+T3	Material 207 211	atom
+T4	Element 196 206	rare earth
+R1	Equivalent Arg1:T6 Arg2:T22
+R2	Target Arg1:T22 Arg2:T21
+R4	Equivalent Arg1:T9 Arg2:T24
+R5	Target Arg1:T24 Arg2:T23

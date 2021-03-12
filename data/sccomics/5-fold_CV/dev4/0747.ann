@@ -1,0 +1,38 @@
+T1	Property 2 19	spin density-wave
+T2	Property 20 42	quantum critical point
+T3	Material 88 95	organic
+T4	Element 97 110	iron-pnictide
+T5	Property 112 125	heavy-fermion
+T6	Property 130 138	electron
+T8	SC 153 168	superconductors
+T9	SC 190 205	superconducting
+T10	SC 206 209	T c
+T11	Property 224 236	Fermi-liquid
+T12	Property 237 248	resistivity
+T13	Property 258 271	Fermi-surface
+T16	Property 357 364	pairing
+T17	Property 475 487	stripe-order
+T18	Property 530 534	hole
+T20	SC 549 564	superconductors
+T21	Element 584 606	La1.8−x Eu0.2Sr x CuO4
+T22	Element 608 630	La1.6−x Nd0.4Sr x CuO4
+T23	Element 635 645	YBa2Cu3O y
+T25	Property 709 722	Fermi-surface
+T27	Property 752 763	resistivity
+T28	Property 798 807	pseudogap
+T26	Property 44 47	QCP
+T14	Property 337 340	QCP
+T29	Property 420 423	QCP
+T30	Property 488 491	QCP
+T36	Property 704 707	QCP
+T37	Element 145 152	cuprate
+T38	Main 541 548	cuprate
+T39	Property 300 320	magnetically ordered
+T15	Property 679 691	stripe order
+T24	Material 773 780	nematic
+T7	Doping 139 144	doped
+T19	Doping 535 540	doped
+R1	Target Arg1:E1 Arg2:T37
+R2	Target Arg1:E2 Arg2:T38
+E1	Doping:T7 Dopant:T6
+E2	Doping:T19 Dopant:T18

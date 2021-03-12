@@ -1,0 +1,26 @@
+T1	Property 21 35	dielectric gap
+T2	Property 43 62	electronic spectrum
+T3	SC 72 78	high-T
+T4	Property 108 116	ordering
+T5	Property 145 150	holes
+T6	Property 158 178	charge density waves
+T10	Property 318 337	ordered heavy holes
+T12	Material 353 358	metal
+T15	Property 435 445	excitation
+T16	Property 455 470	localized holes
+T17	SC 486 512	high-T c superconductivity
+T20	Property 673 692	magnetic properties
+T22	Element 66 71	oxide
+T23	Material 359 375	apical ion bonds
+T25	SC 824 828	HTSC
+T24	Property 775 777	DM
+T7	Property 180 196	Dielectric-metal
+T8	Property 198 200	DM
+T13	Property 658 671	specific heat
+T18	Property 694 711	thermal expansion
+T19	Property 794 820	negative thermal expansion
+T9	Doping 288 294	doping
+T14	Doping 409 415	doping
+T11	Property 381 394	free carriers
+E1	Doping:T9
+E2	Doping:T14

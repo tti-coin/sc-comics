@@ -1,0 +1,38 @@
+T1	Main 0 22	LaFe1-xZnxAsO0.85F0.15
+T2	Material 23 33	composites
+T3	Process 54 74	solid state reaction
+T5	Property 99 120	mechanical properties
+T6	SC 146 163	superconductivity
+T7	Characterization 165 168	XRD
+T8	Element 191 213	LaFe1-xZnxAsO0.85F0.15
+T9	SC 228 243	superconducting
+T10	Material 244 254	composites
+T11	Element 267 283	LaFeAsO0.85F0.15
+T12	Element 288 304	LaZnAsO0.85F0.15
+T13	Element 306 328	LaFe1-xZnxAsO0.85F0.15
+T14	SC 344 361	superconductivity
+T15	Element 368 370	Zn
+T16	SC 400 420	critical temperature
+T17	SC 421 424	T c
+T18	Element 459 475	LaFeAsO0.85F0.15
+T19	Element 489 513	LaFe0.2Zn0.8AsO0.85F0.15
+T20	SC 536 553	superconductivity
+T21	SC 586 601	superconducting
+T23	Property 650 671	mechanical properties
+T24	Element 675 697	LaFe1-xZnxAsO0.85F0.15
+T25	Property 708 722	micro-hardness
+T26	Property 744 762	fracture toughness
+T27	Element 832 834	Zn
+T28	Property 875 896	mechanical properties
+T29	Element 904 911	LaFeAsO
+T30	SC 1027 1044	superconductivity
+T31	Value 391 394	80%
+T38	Value 449 454	26.2K
+T39	Value 479 484	23.9K
+T40	Value 575 578	20%
+T43	Property 724 739	Young’s modulus
+R1	Coref Arg1:T16 Arg2:T17
+R2	Equivalent Arg1:T17 Arg2:T38
+R3	Equivalent Arg1:T17 Arg2:T39
+R4	Target Arg1:T38 Arg2:T18
+R5	Target Arg1:T39 Arg2:T19

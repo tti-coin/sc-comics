@@ -1,0 +1,31 @@
+T1	Property 12 34	tunneling conductances
+T3	Material 53 61	trilayer
+T4	Element 62 69	cuprate
+T5	Main 70 91	Bi2.1Sr1.9Ca2Cu3O10+≏
+T6	Main 93 99	Bi2223
+T7	SC 106 109	T C
+T8	Element 160 164	CuO2
+T9	Material 165 171	planes
+T10	Material 177 186	unit cell
+T11	Property 192 214	tunneling conductances
+T12	Element 218 224	Bi2223
+T13	Element 285 289	CuO2
+T14	Material 290 295	plane
+T15	SC 331 346	superconducting
+T16	Property 446 468	tunneling conductances
+T17	SC 504 519	superconducting
+T18	Property 565 570	model
+T22	Value 112 116	101K
+T23	Value 367 377	34 ± 6 meV
+T24	Value 403 413	51 ± 5 meV
+T19	Property 248 252	gaps
+T20	Property 347 350	gap
+T21	Property 650 654	gaps
+T25	SC 578 592	superconductor
+T26	Property 593 602	insulator
+T27	Material 603 625	normal metal junctions
+T28	Characterization 122 142	point contact method
+T2	Doping 47 52	doped
+R1	Equivalent Arg1:T7 Arg2:T22
+R2	Target Arg1:T22 Arg2:T5
+E1	Doping:T2

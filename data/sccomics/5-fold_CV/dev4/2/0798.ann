@@ -1,0 +1,92 @@
+T2	SC 44 61	superconductivity
+T3	Main 65 78	(Ca,RE)Fe2As2
+T4	Element 87 89	Pr
+T8	Element 115 123	CaFe2As2
+T9	Material 124 139	single crystals
+T10	Process 145 150	grown
+T11	Element 158 162	FeAs
+T13	SC 206 232	superconducting transition
+T15	Element 283 296	(Ca,RE)Fe2As2
+T16	SC 312 327	superconducting
+T17	Process 340 354	Post-annealing
+T18	Material 375 383	crystals
+T19	Process 451 465	post-annealing
+T20	Material 490 503	c-axis length
+T21	Process 544 549	grown
+T22	Material 550 558	crystals
+T23	Property 583 589	strain
+T24	Process 612 626	post-annealing
+T25	SC 638 653	Superconducting
+T27	Process 716 725	annealing
+T29	SC 778 793	superconducting
+T31	Property 872 875	J c
+T32	Property 909 918	low field
+T33	Material 935 939	bulk
+T34	SC 940 957	superconductivity
+T35	Element 961 974	(Ca,RE)Fe2As2
+T37	SC 1023 1038	superconducting
+T39	SC 1115 1132	superconductivity
+T40	SC 1185 1202	superconductivity
+T41	Material 1210 1217	crystal
+T43	Value 262 265	16K
+T14	SC 238 242	T c1
+T44	SC 256 260	T c2
+T30	SC 858 862	T c2
+T36	SC 996 1000	T c2
+T38	SC 1061 1065	T c2
+T46	Value 903 905	2K
+T47	Value 631 636	400°C
+T49	Value 470 475	400°C
+T6	Element 103 105	Co
+T50	Element 100 102	Pr
+T53	Value 729 734	400°C
+T54	Process 404 412	ampoules
+T55	Property 839 851	diamagnetism
+T12	Process 163 174	flux method
+T26	Process 694 708	post-annealing
+T1	Doping 90 95	doped
+T5	Doping 109 114	doped
+T7	Doping 751 756	doped
+T28	Value 244 246	25
+T42	Value 247 250	42K
+T45	Value 886 889	104
+T51	Value 890 899	105 Acm−2
+T48	Value 1105 1108	40K
+R1	Target Arg1:T43 Arg2:T15
+R2	Equivalent Arg1:T44 Arg2:T43
+R3	Target Arg1:E1 Arg2:T8
+R4	Target Arg1:E2 Arg2:T8
+R5	Equivalent Arg1:T14 Arg2:T28
+R6	Equivalent Arg1:T14 Arg2:T42
+R7	Target Arg1:T28 Arg2:T15
+R8	Target Arg1:T42 Arg2:T15
+R9	Equivalent Arg1:T38 Arg2:T48
+R10	Target Arg1:E4 Arg2:T8
+E1	Doping:T1 Dopant:T4
+E2	Doping:T5 Dopant:T50
+E3	Doping:T7 
+E4	Doping:T5 Dopant:T6
+#1	AnnotatorNotes T3	65-78
+#2	AnnotatorNotes T4	87-89
+#3	AnnotatorNotes T8	115-123
+#4	AnnotatorNotes T9	124-139
+#5	AnnotatorNotes T11	158-162
+#6	AnnotatorNotes T15	283-296
+#7	AnnotatorNotes T18	375-383
+#8	AnnotatorNotes T20	490-503
+#9	AnnotatorNotes T22	550-558
+#10	AnnotatorNotes T33	935-939
+#11	AnnotatorNotes T35	961-974
+#12	AnnotatorNotes T41	1210-1217
+#13	AnnotatorNotes T43	262-265
+#14	AnnotatorNotes T46	903-905
+#15	AnnotatorNotes T47	631-636
+#16	AnnotatorNotes T49	470-475
+#17	AnnotatorNotes T6	103-105
+#18	AnnotatorNotes T50	100-102
+#19	AnnotatorNotes T53	729-734
+#20	AnnotatorNotes T28	244-246
+#21	AnnotatorNotes T42	247-250
+#22	AnnotatorNotes T45	886-889
+#23	AnnotatorNotes T51	890-899
+#24	AnnotatorNotes T48	1105-1108

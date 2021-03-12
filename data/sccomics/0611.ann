@@ -1,0 +1,32 @@
+T1	Property 0 23	Temperature dependences
+T3	Property 43 64	electrical resistance
+T5	Main 79 97	YBa 2 Cu 3 O t − δ
+T6	Material 98 113	single crystals
+T7	SC 172 198	superconducting transition
+T8	Process 254 270	room-temperature
+T9	Process 271 280	annealing
+T10	SC 308 334	superconducting transition
+T11	Process 399 408	Annealing
+T12	SC 457 483	superconducting transition
+T13	Process 490 499	reduction
+T14	Property 513 533	residual resistivity
+T15	Property 542 559	phonon scattering
+T17	Material 671 688	lattice parameter
+T18	Element 740 746	oxygen
+T19	Property 794 816	temperature dependence
+T20	Property 824 845	electrical resistance
+T21	Property 878 891	concentration
+T22	Element 906 912	oxygen
+T23	Material 920 926	layers
+T24	Property 935 943	ordering
+T2	Material 31 42	basal-plane
+T26	Process 136 164	broad temperature range down
+T27	Value 227 234	650 ° C
+T28	Property 369 382	inhomogeneity
+T16	Property 621 638	Debye temperature
+T29	Property 733 739	labile
+T30	Property 899 905	labile
+T25	Process 208 221	fast cooldown
+T4	Doping 68 78	underdoped
+R1	Target Arg1:E1 Arg2:T5
+E1	Doping:T4

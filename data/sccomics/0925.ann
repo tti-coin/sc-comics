@@ -1,0 +1,33 @@
+T1	Main 16 38	cobalt-oxychalcogenide
+T2	Material 39 45	layers
+T3	Element 76 82	CoA2O2
+T4	Element 86 87	S
+T5	Element 89 91	Se
+T6	Element 93 95	Te
+T7	Element 117 123	BaCoAO
+T8	Property 129 148	strongly correlated
+T9	Property 164 172	electron
+T10	SC 245 262	superconductivity
+T11	Element 279 287	cuprates
+T12	Element 292 296	iron
+T13	SC 303 318	superconductors
+T15	Material 352 360	symmetry
+T16	Property 419 436	antiferromagnetic
+T17	Property 438 441	AFM
+T18	Property 443 465	Mott insulating states
+T19	Property 514 524	low energy
+T20	Property 538 552	Fermi surfaces
+T22	Property 632 648	AFM interactions
+T24	Property 662 688	low energy effective model
+T25	Property 726 732	d-wave
+T26	SC 738 753	superconducting
+T27	SC 776 803	high transition temperature
+T28	Property 834 837	AFM
+T29	Property 838 846	ordering
+T30	Property 859 875	pairing symmetry
+T32	Material 916 924	symmetry
+T34	Property 599 613	t 2 g orbitals
+T35	Material 97 107	tetrahedra
+T37	Property 149 163	multi-orbitals
+T21	Doping 558 564	doping
+E1	Doping:T21

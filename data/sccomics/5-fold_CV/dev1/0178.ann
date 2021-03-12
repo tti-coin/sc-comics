@@ -1,0 +1,39 @@
+T1	Material 13 30	crystal structure
+T2	Material 42 57	single crystals
+T3	Characterization 162 183	K α X-ray diffraction
+T4	Process 217 224	anneals
+T5	Property 352 368	charge reservoir
+T6	Material 374 379	layer
+T7	Process 441 450	oxidation
+T8	Process 454 471	reduction anneals
+T11	SC 542 545	T c
+T12	Property 577 595	hole concentration
+T14	Process 627 634	anneals
+T15	Material 693 702	unit cell
+T16	Material 762 770	crystals
+T17	Process 781 790	annealing
+T18	Material 849 857	crystals
+T19	Material 1096 1104	crystals
+T20	Process 1110 1119	annealing
+T21	SC 1125 1128	T c
+T22	Material 1179 1186	powders
+T23	Main 85 97	TlBa2CaCu2O7
+T24	Main 99 106	Tl-1212
+T25	Element 159 161	Mo
+T28	Element 249 255	oxygen
+T29	Element 236 241	argon
+T30	Element 282 296	TlBa2Ca2Cu3O x
+T32	Element 319 323	Tl1+
+T33	Element 328 332	Tl3+
+T34	Element 369 373	Tl-O
+T36	Element 1171 1178	Tl-1212
+T37	Element 754 761	Tl-1212
+T38	Value 1010 1013	95%
+T39	Property 721 738	atomic positional
+T26	Characterization 1032 1040	Meissner
+T27	Process 1090 1095	grown
+T13	Doping 613 619	doping
+T9	SC 507 540	superconducting onset temperature
+R1	Coref Arg1:T23 Arg2:T24
+R2	Coref Arg1:T9 Arg2:T11
+E1	Doping:T13 

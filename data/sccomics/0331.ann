@@ -1,0 +1,40 @@
+T1	Property 4 13	transport
+T2	Property 18 37	magnetic properties
+T4	Element 57 64	yttrium
+T6	Main 71 82	NdFeAs(O,F)
+T7	SC 83 97	superconductor
+T8	SC 149 172	transition temperatures
+T9	Element 180 187	yttrium
+T11	Element 276 283	yttrium
+T14	SC 347 349	TC
+T15	Property 375 396	temperature dependent
+T18	Element 485 492	Yttrium
+T20	Material 525 543	lattice parameters
+T21	Process 576 593	chemical pressure
+T22	SC 622 624	TC
+T24	Element 687 698	yttrium ion
+T25	Element 702 704	Nd
+T26	Material 718 733	lattice defects
+T27	Property 757 772	pinning centers
+T28	Property 795 797	JC
+T29	Value 262 267	53.3K
+T30	Value 272 275	30%
+T31	Value 293 295	4K
+T13	Element 322 329	yttrium
+T3	Doping 65 70	doped
+T10	Doping 188 193	doped
+T12	Doping 284 290	doping
+T19	Doping 493 499	doping
+T23	Doping 652 664	substitution
+T5	Property 397 414	ac susceptibility
+T16	Characterization 415 427	measurements
+T17	Property 459 470	resistivity
+T32	Characterization 471 483	measurements
+R1	Equivalent Arg1:T8 Arg2:T29
+R2	Target Arg1:E1 Arg2:T6
+R3	Condition Arg1:T29 Arg2:E4
+E1	Doping:T3 Dopant:T4
+E3	Doping:T10 Dopant:T9
+E4	Doping:T12 Dopant:T11
+E5	Doping:T19 Dopant:T18
+E6	Doping:T23 Dopant:T24 Site:T25

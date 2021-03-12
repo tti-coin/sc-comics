@@ -1,0 +1,46 @@
+T1	Material 14 24	structural
+T3	Element 75 77	Ga
+T4	Element 79 81	Nb
+T5	Element 83 85	Fe
+T6	Element 87 89	Al
+T7	Element 94 96	Co
+T8	Element 105 107	Eu
+T9	Element 109 110	Y
+T10	Characterization 148 165	X-ray diffraction
+T11	Characterization 167 170	XRD
+T12	Process 210 222	crystallized
+T13	Material 226 238	single phase
+T14	Element 240 242	Nb
+T15	Element 245 247	Fe
+T16	Element 253 260	Al-1212
+T17	Material 269 279	tetragonal
+T18	Material 280 286	P4/mmm
+T19	Material 287 298	space group
+T20	Material 299 308	structure
+T21	Element 319 326	Ga-1212
+T22	Element 331 338	Co-1212
+T23	Process 343 355	crystallized
+T24	Material 359 371	orthorhombic
+T25	Material 372 376	Ima2
+T26	Material 377 388	space group
+T27	Material 404 415	space group
+T28	Material 421 427	P4/mmm
+T29	Material 431 435	Ima2
+T30	Material 471 480	unit cell
+T31	Element 502 518	Cu(2)–O(2)–Cu(2)
+T33	SC 622 639	superconductivity
+T34	Characterization 641 658	Thermogravimetric
+T35	Element 684 690	M-1212
+T36	Value 739 742	90K
+T37	SC 743 757	superconductor
+T38	Element 758 765	Cu-1212
+T39	Element 767 773	RE-123
+T40	Main 36 48	MSr2RECu2O z
+T41	Main 50 56	M-1212
+T43	Characterization 660 663	TGA
+T50	Characterization 125 144	Reitveld refinement
+T2	Doping 583 588	doped
+R2	Target Arg1:T36 Arg2:T38
+R3	Target Arg1:T36 Arg2:T39
+R4	Equivalent Arg1:T37 Arg2:T36
+E1	Doping:T2

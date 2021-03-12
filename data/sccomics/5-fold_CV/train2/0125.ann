@@ -1,0 +1,40 @@
+T1	Process 63 83	solid state reaction
+T2	Process 117 126	annealing
+T5	Material 252 262	tetragonal
+T6	Material 263 271	symmetry
+T7	Process 308 316	annealed
+T11	Process 473 482	annealing
+T12	Material 541 553	orthorhombic
+T13	Material 558 568	tetragonal
+T14	Material 569 579	symmetries
+T15	Material 608 614	powder
+T16	Characterization 615 632	X-ray diffraction
+T17	SC 813 852	Superconducting transition temperatures
+T18	Property 866 887	electrical resistance
+T21	SC 993 1002	lower T c
+T23	Main 15 34	NdBa1.5Sr0.5Cu3O7−δ
+T26	Value 42 45	0.1
+T28	Process 347 357	atmosphere
+T29	Element 340 346	oxygen
+T30	Element 783 789	oxygen
+T32	Value 921 925	83 K
+T34	Element 1078 1087	Cu(2) ion
+T35	Element 1099 1105	oxygen
+T36	Material 1092 1098	apical
+T22	Material 1052 1065	bond distance
+T37	Value 944 948	71 K
+T38	Element 428 433	argon
+T39	Process 434 444	atmosphere
+T40	Element 486 492	oxygen
+T41	Process 493 503	atmosphere
+T50	Element 688 690	Sr
+T51	Element 695 702	Nd ions
+T52	Element 712 725	1 2 , 1 2 , z
+T3	Characterization 171 197	powder neutron diffraction
+T4	Characterization 199 202	PND
+T53	Characterization 148 167	Rietveld refinement
+T8	Element 735 745	rare earth
+T9	SC 907 918	T c (R = 0)
+T10	SC 930 941	T c (R = 0)
+R1	Equivalent Arg1:T9 Arg2:T32
+R2	Equivalent Arg1:T10 Arg2:T37

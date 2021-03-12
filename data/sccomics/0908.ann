@@ -1,0 +1,24 @@
+T1	Material 4 13	structure
+T2	Property 27 40	phase diagram
+T3	SC 55 82	high- T c superconductivity
+T4	Main 86 99	copper oxides
+T5	Property 131 137	theory
+T7	Property 161 171	flat bands
+T8	Property 280 296	non-Fermi-liquid
+T9	Property 319 332	normal states
+T10	Element 336 344	cuprates
+T11	Property 413 435	electrical resistivity
+T12	Property 493 505	normal-state
+T14	Property 572 580	critical
+T15	Property 596 600	hole
+T17	SC 627 644	superconductivity
+T18	Property 744 766	quantum-critical-point
+T19	Property 895 908	phase diagram
+T20	Element 912 920	cuprates
+T21	Property 298 301	NFL
+T26	Property 238 250	Landau state
+T27	Material 205 216	topological
+T13	Doping 553 559	doping
+T16	Doping 601 607	doping
+E1	Doping:T13
+E2	Doping:T16 Dopant:T15

@@ -1,0 +1,27 @@
+T1	SC 29 38	high- T c
+T2	Main 39 51	copper oxide
+T3	SC 52 67	superconductors
+T4	Property 89 98	pseudogap
+T6	Property 139 152	phase diagram
+T7	Characterization 170 189	neutron diffraction
+T8	Property 199 213	magnetic order
+T9	Property 247 262	order parameter
+T10	Property 270 279	pseudogap
+T11	SC 287 309	transition temperature
+T12	Property 350 359	pseudogap
+T13	Property 374 388	magnetic order
+T14	Material 399 421	translational symmetry
+T15	Property 447 454	moments
+T17	Element 528 536	cuprates
+T18	Material 597 614	crystal structure
+T19	Element 628 632	CuO2
+T20	Material 633 638	layer
+T21	Material 642 649	bilayer
+T22	Material 654 663	unit cell
+T23	Property 719 734	order parameter
+T24	Property 754 763	pseudogap
+T25	SC 773 782	high- T c
+T26	Element 783 791	cuprates
+T16	Property 482 488	theory
+T5	Doping 112 122	underdoped
+E1	Doping:T5 

@@ -1,0 +1,36 @@
+T1	SC 45 67	transition temperature
+T2	Element 98 100	Fe
+T7	Property 178 195	spin density wave
+T8	Property 197 200	SDW
+T9	Property 203 223	orbital density wave
+T10	Property 266 274	electron
+T11	Property 279 283	hole
+T12	Property 289 303	Fermi surfaces
+T13	SC 319 336	superconductivity
+T15	Property 350 368	pairing symmetries
+T16	Property 376 384	electron
+T17	Property 389 393	hole
+T18	Property 399 413	Fermi surfaces
+T20	Property 460 472	band pairing
+T21	Property 586 615	electronic specific heat jump
+T25	Element 677 679	Fe
+T26	Material 686 695	materials
+T27	SC 744 747	T c
+T29	Property 947 981	intra–inter band pairing mechanism
+T30	Property 995 1008	specific heat
+T31	SC 1017 1055	superconducting transition temperature
+T32	Material 1078 1084	square
+T33	SC 1092 1114	transition temperature
+T34	Property 1128 1136	electron
+T35	Property 1141 1145	hole
+T37	Material 1186 1194	symmetry
+T40	Property 1215 1231	pairing symmetry
+T41	Property 1292 1316	intra-inter band pairing
+T44	Property 225 228	ODW
+T45	Property 124 138	two band model
+T4	Property 642 660	inter-band pairing
+T3	Property 1337 1354	pairing mechanism
+T5	Doping 1146 1151	doped
+T6	Material 107 116	materials
+E1	Doping:T5 Dopant:T35
+E2	Doping:T5 Dopant:T34

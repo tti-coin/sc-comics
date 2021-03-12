@@ -1,0 +1,40 @@
+T1	Material 86 98	orthorhombic
+T2	Material 102 112	tetragonal
+T3	Property 264 278	oxygen content
+T4	Property 308 330	electrical resistivity
+T5	Property 334 348	magnetic field
+T6	Property 363 389	Hall carrier concentration
+T7	Property 553 573	transport properties
+T8	Property 581 593	normal state
+T10	SC 720 735	superconducting
+T11	Property 740 752	non-metallic
+T12	SC 845 848	T c
+T13	SC 861 881	critical temperature
+T14	SC 883 886	T c
+T15	Material 1046 1060	stoichiometric
+T16	Property 1073 1101	electronic density of states
+T17	SC 1138 1141	T c
+T18	Property 1175 1186	GLAG theory
+T20	Material 1372 1386	stoichiometric
+T21	SC 1720 1723	T c
+T24	Main 14 32	Sm1+x Ba2−x Cu3O y
+T27	Value 1022 1026	60 K
+T28	Value 715 719	90 K
+T29	Element 504 517	SmBa2Cu3O6.85
+T31	Value 355 357	8T
+T32	Element 178 180	Sm
+T33	Element 181 183	Ba
+T34	Element 223 235	“123” cation
+T35	Property 1103 1109	g(E F)
+T36	Property 1629 1635	g(E F)
+T37	Property 1408 1414	g(E F)
+T38	Element 1661 1674	SmBa2Cu3O6.85
+T39	Property 659 672	Hall mobility
+T40	Property 1334 1340	g(E F)
+T22	Property 1733 1743	BCS theory
+T23	Property 400 411	thermopower
+T9	Property 1703 1716	specific heat
+T19	Property 1793 1802	transport
+T25	Characterization 1803 1815	measurements
+R1	Coref Arg1:T13 Arg2:T14
+R2	Equivalent Arg1:T10 Arg2:T28

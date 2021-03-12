@@ -1,0 +1,57 @@
+T2	Property 81 85	LFMA
+T3	Element 116 118	Ni
+T5	Main 138 142	YBCO
+T6	Material 143 149	powder
+T7	Element 151 158	Ni-YBCO
+T8	Material 223 232	structure
+T9	Element 259 266	Ni-YBCO
+T10	Material 267 273	powder
+T11	SC 311 313	Tc
+T12	Property 428 438	absorption
+T14	Material 578 587	particles
+T15	Property 617 626	low field
+T17	Characterization 641 645	NRMA
+T18	Property 651 660	low field
+T19	Property 661 671	hysteresis
+T23	Property 809 829	microwave absorption
+T24	Property 849 858	low field
+T25	Property 859 869	hysteresis
+T26	Value 299 302	20K
+T29	Property 728 740	Dulcic model
+T31	Characterization 0 32	Nonresonant Microwave Absorption
+T32	Characterization 34 38	NRMA
+T33	Property 48 78	Low field microwave absorption
+T35	Characterization 207 211	NRMA
+T37	Value 362 365	60K
+T38	Property 397 403	normal
+T39	Property 409 418	anomalous
+T40	Property 460 474	phase reversal
+T41	Property 495 515	π-junction formation
+T42	Element 531 552	nano nickle particles
+T16	Property 627 637	hysteresis
+T44	Characterization 873 877	NRMA
+T45	Property 560 569	weaklinks
+T20	Property 178 201	function of temperature
+T22	Material 119 131	nanoparticle
+T13	Characterization 87 99	measurements
+T28	Property 317 331	phase reversal
+T34	Property 696 721	boundary current response
+T4	Doping 132 137	added
+T21	Doping 774 782	addition
+T1	Element 791 793	Ni
+R1	Target Arg1:E1 Arg2:T5
+E1	Doping:T4 Dopant:T3
+E2	Doping:T21 Dopant:T1
+#1	AnnotatorNotes T3	116-118
+#2	AnnotatorNotes T5	138-142
+#3	AnnotatorNotes T6	143-149
+#4	AnnotatorNotes T7	151-158
+#5	AnnotatorNotes T8	223-232
+#6	AnnotatorNotes T9	259-266
+#7	AnnotatorNotes T10	267-273
+#8	AnnotatorNotes T14	578-587
+#9	AnnotatorNotes T26	299-302
+#10	AnnotatorNotes T37	362-365
+#11	AnnotatorNotes T42	531-552
+#12	AnnotatorNotes T22	119-131
+#13	AnnotatorNotes T1	791-793

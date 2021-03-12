@@ -1,0 +1,51 @@
+T1	Property 4 12	magnetic
+T2	SC 17 32	superconducting
+T5	Property 286 292	domain
+T6	Property 352 364	non-magnetic
+T7	SC 410 425	superconducting
+T8	SC 451 471	critical temperature
+T9	SC 472 475	T c
+T10	Property 656 661	holes
+T12	Property 779 798	magnetic properties
+T13	Characterization 817 834	X-ray diffraction
+T14	Characterization 836 839	SEM
+T15	Property 876 889	magnetization
+T16	Material 927 935	ceramics
+T17	Process 995 1004	sintering
+T18	Property 1116 1129	magnetization
+T19	Property 1170 1189	magnetic anisotropy
+T21	Property 1280 1286	models
+T22	Element 145 169	Bi2Sr2Ca1-x Ce x Cu2O8+δ
+T27	Value 173 176	0.3
+T29	Main 51 71	2212 bismuth cuprate
+T30	Element 120 127	calcium
+T31	Element 131 137	cerium
+T32	Value 336 340	30°C
+T33	Element 230 236	cerium
+T35	Element 313 323	2212 phase
+T36	Element 342 348	Cerium
+T38	Value 596 599	0.3
+T39	Property 854 871	AC susceptibility
+T43	Value 529 533	0.02
+T20	Material 1337 1349	crystallites
+T44	Element 721 727	cerium
+T45	Property 709 720	tetravalent
+T47	Property 582 592	solubility
+T41	Element 1211 1217	cerium
+T48	Property 1218 1231	concentration
+T49	Material 765 778	intragranular
+T50	Material 1062 1075	intragranular
+T51	Material 746 757	texturation
+T52	Material 950 958	textured
+T53	Material 1245 1256	Texturation
+T3	Doping 104 116	substitution
+T4	Doping 237 243	doping
+T11	Doping 673 685	substitution
+T23	Value 255 258	10%
+T24	Element 698 705	calcium
+T25	Material 689 697	divalent
+R1	Target Arg1:E1 Arg2:T22
+R2	Coref Arg1:T8 Arg2:T9
+E1	Doping:T3 Site:T30 Dopant:T31
+E2	Doping:T4 Dopant:T33
+E3	Doping:T11 Dopant:T44 Site:T24

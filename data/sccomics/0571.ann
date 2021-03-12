@@ -1,0 +1,46 @@
+T1	Material 41 55	microstructure
+T2	Process 88 91	air
+T3	Main 102 112	SmBa2Cu3Oy
+T4	Main 114 120	Sm-123
+T5	Element 140 144	BaO2
+T6	Element 156 160	Ag2O
+T10	SC 216 242	superconducting transition
+T12	Property 279 303	critical current density
+T13	Property 305 308	J c
+T14	Property 322 332	zero field
+T15	Characterization 348 351	SEM
+T16	Material 411 420	particles
+T17	Element 428 434	Sm-123
+T18	Material 435 441	matrix
+T19	Characterization 443 446	SEM
+T20	Characterization 450 453	EDX
+T21	Material 478 484	matrix
+T22	Property 556 570	magnetic field
+T23	Material 623 628	grain
+T24	Material 673 682	thickness
+T25	Material 715 722	surface
+T27	Element 798 802	BaO2
+T28	Material 858 862	bulk
+T29	Element 863 869	Sm-123
+T30	Material 870 878	material
+T31	Process 879 893	melt-processed
+T32	Process 897 900	air
+T33	Value 134 139	3 wt%
+T34	Value 149 155	20 wt%
+T7	Property 171 187	DC magnetization
+T8	Value 337 346	24 kA/cm2
+T9	Value 314 317	77K
+T35	Value 268 273	94.5K
+T36	Value 723 728	0.26T
+T37	Value 660 664	12mm
+T38	Value 669 672	5mm
+T39	Material 395 410	secondary phase
+T43	Process 732 759	liquid nitrogen temperature
+T26	Doping 161 169	addition
+T40	Characterization 188 200	measurements
+T11	SC 248 257	onset T c
+R2	Target Arg1:E1 Arg2:T3
+R3	Equivalent Arg1:T11 Arg2:T35
+R4	Target Arg1:E2 Arg2:T3
+E1	Doping:T26 Dopant:T5
+E2	Doping:T26 Dopant:T6

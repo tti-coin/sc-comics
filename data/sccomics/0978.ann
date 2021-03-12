@@ -1,0 +1,80 @@
+T1	Material 0 17	Crystal structure
+T2	Property 19 35	lattice dynamics
+T3	SC 41 56	superconducting
+T4	Element 72 91	sodium borocarbides
+T5	Property 126 155	first-principles calculations
+T7	Material 166 183	crystal structure
+T8	Material 196 204	particle
+T9	Element 237 241	NaBC
+T10	Process 258 269	crystallize
+T11	Material 277 284	layered
+T12	Material 285 298	P 6 3 / m m c
+T13	Material 299 316	crystal structure
+T14	Element 320 324	LiBC
+T15	Element 356 360	LiBC
+T16	Element 370 372	Na
+T17	Material 373 378	atoms
+T18	Element 449 451	Na
+T21	Material 460 466	layers
+T22	Element 491 495	MgB2
+T23	Element 508 516	Na1−x BC
+T24	Element 536 540	MgB2
+T26	SC 570 601	high-temperature superconductor
+T27	Property 644 648	hole
+T29	Element 659 663	NaBC
+T31	Element 696 697	C
+T32	Element 701 702	B
+T33	Material 703 708	atoms
+T34	SC 732 749	superconductivity
+T35	Property 755 761	phonon
+T36	Element 774 778	NaBC
+T37	Element 783 793	NaB1.1C0.9
+T38	Material 826 833	crystal
+T39	Material 898 906	in-plane
+T42	Material 911 915	bond
+T43	Element 937 947	NaB1.1C0.9
+T44	Property 974 988	Brillouin zone
+T45	Property 1002 1008	phonon
+T46	Property 1009 1014	bands
+T47	Material 1085 1093	in-plane
+T50	Material 1098 1102	bond
+T51	Property 1139 1163	electron–phonon coupling
+T52	Property 1193 1217	electron–phonon coupling
+T53	Property 1218 1226	strength
+T54	Element 1233 1243	NaB1.1C0.9
+T55	SC 1257 1295	superconducting transition temperature
+T56	SC 1296 1299	T C
+T57	Element 1358 1369	NaB1+x C1−x
+T58	SC 1385 1417	high-temperature superconducting
+T59	Property 1422 1426	hole
+T61	Element 1437 1441	NaBC
+T62	SC 1456 1490	high-temperature superconductivity
+T65	SC 1547 1555	high T C
+T66	SC 1556 1571	superconducting
+T67	Material 1572 1580	material
+T68	Material 1608 1613	bonds
+T69	Element 1626 1639	metal cations
+T72	Material 1658 1664	layers
+T74	Value 1247 1251	0.73
+T77	Value 1319 1322	35K
+T63	Property 412 434	longitudinal covalence
+T79	Value 1331 1334	0.1
+T80	Element 546 554	Li1−x BC
+T81	Main 92 103	NaB1+x C1−x
+T82	Property 1586 1607	longitudinal covalent
+T64	Element 1537 1541	MgB2
+T70	Element 1644 1652	graphite
+T28	Doping 649 655	doping
+T60	Doping 1427 1433	doping
+T6	Element 456 459	B–C
+T19	Doping 680 692	substitution
+T20	Element 907 910	B–C
+T25	Element 1094 1097	B–C
+R2	Equivalent Arg1:T56 Arg2:T77
+R3	Target Arg1:T77 Arg2:T54
+R4	Target Arg1:E1 Arg2:T29
+R5	Target Arg1:E3 Arg2:T61
+R6	Target Arg1:E2 Arg2:T29
+E1	Doping:T28 Dopant:T27
+E3	Doping:T60 Dopant:T59
+E2	Doping:T19 Site:T31 Dopant:T32

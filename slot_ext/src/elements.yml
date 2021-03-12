@@ -1,0 +1,478 @@
+# reference: https://ja.wikipedia.org/wiki/%E5%85%83%E7%B4%A0%E3%81%AE%E4%B8%80%E8%A6%A7
+# Symbol: [English, (English alias), Latin]
+{
+    "H": [
+        "Hydrogen",
+        "Hydrogenium"
+    ],
+    "He": [
+        "Helium",
+        "Helium"
+    ],
+    "Li": [
+        "Lithium",
+        "Lithium"
+    ],
+    "Be": [
+        "Beryllium",
+        "Beryllium"
+    ],
+    "B": [
+        "Boron",
+        "Borium"
+    ],
+    "C": [
+        "Carbon",
+        "Carbonium"
+    ],
+    "N": [
+        "Nitrogen",
+        "Nitrogenium"
+    ],
+    "O": [
+        "Oxygen",
+        "Oxygenium"
+    ],
+    "F": [
+        "Fluorine",
+        "Fluorum"
+    ],
+    "Ne": [
+        "Neon",
+        "Neon"
+    ],
+    "Na": [
+        "Sodium",
+        "Natrium"
+    ],
+    "Mg": [
+        "Magnesium",
+        "Magnesium"
+    ],
+    "Al": [
+        "Aluminium",
+        "Aluminum",
+        "Aluminium"
+    ],
+    "Si": [
+        "Silicon",
+        "Silicium"
+    ],
+    "P": [
+        "Phosphorus",
+        "Phosphorus"
+    ],
+    "S": [
+        "Sulfur",
+        "Sulphur"
+    ],
+    "Cl": [
+        "Chlorine",
+        "Chlorum"
+    ],
+    "Ar": [
+        "Argon",
+        "Argon"
+    ],
+    "K": [
+        "Potassium",
+        "Kalium"
+    ],
+    "Ca": [
+        "Calcium",
+        "Calcium"
+    ],
+    "Sc": [
+        "Scandium",
+        "Scandium"
+    ],
+    "Ti": [
+        "Titanium",
+        "Titanium"
+    ],
+    "V": [
+        "Vanadium",
+        "Vanadium"
+    ],
+    "Cr": [
+        "Chromium",
+        "Chromium"
+    ],
+    "Mn": [
+        "Manganese",
+        "Manganum"
+    ],
+    "Fe": [
+        "Iron",
+        "Ferrum"
+    ],
+    "Co": [
+        "Cobalt",
+        "Cobaltum"
+    ],
+    "Ni": [
+        "Nickel",
+        "Niccolum"
+    ],
+    "Cu": [
+        "Copper",
+        "Cuprum"
+    ],
+    "Zn": [
+        "Zinc",
+        "Zincum"
+    ],
+    "Ga": [
+        "Gallium",
+        "Gallium"
+    ],
+    "Ge": [
+        "Germanium",
+        "Germanium"
+    ],
+    "As": [
+        "Arsenic",
+        "Arsenicum"
+    ],
+    "Se": [
+        "Selenium",
+        "Selenium"
+    ],
+    "Br": [
+        "Bromine",
+        "Bromum"
+    ],
+    "Kr": [
+        "Krypton",
+        "Krypton"
+    ],
+    "Rb": [
+        "Rubidium",
+        "Rubidium"
+    ],
+    "Sr": [
+        "Strontium",
+        "Strontium"
+    ],
+    "Y": [
+        "Yttrium",
+        "Yttrium"
+    ],
+    "Zr": [
+        "Zirconium",
+        "Zirconium"
+    ],
+    "Nb": [
+        "Niobium",
+        "Niobium"
+    ],
+    "Mo": [
+        "Molybdenum",
+        "Molybdenum"
+    ],
+    "Tc": [
+        "Technetium",
+        "Technetium"
+    ],
+    "Ru": [
+        "Ruthenium",
+        "Ruthenium"
+    ],
+    "Rh": [
+        "Rhodium",
+        "Rhodium"
+    ],
+    "Pd": [
+        "Palladium",
+        "Palladium"
+    ],
+    "Ag": [
+        "Silver",
+        "Argentum"
+    ],
+    "Cd": [
+        "Cadmium",
+        "Cadmium"
+    ],
+    "In": [
+        "Indium",
+        "Indium"
+    ],
+    "Sn": [
+        "Tin",
+        "Stannum"
+    ],
+    "Sb": [
+        "Antimony",
+        "Stibium"
+    ],
+    "Te": [
+        "Tellurium",
+        "Tellurium"
+    ],
+    "I": [
+        "Iodine",
+        "Iodum"
+    ],
+    "Xe": [
+        "Xenon",
+        "Xenon"
+    ],
+    "Cs": [
+        "Caesium",
+        "Cesium",
+        "Caesium"
+    ],
+    "Ba": [
+        "Barium",
+        "Barium"
+    ],
+    "La": [
+        "Lanthanum",
+        "Lanthanum"
+    ],
+    "Ce": [
+        "Cerium",
+        "Cerium"
+    ],
+    "Pr": [
+        "Praseodymium",
+        "Praseodymium"
+    ],
+    "Nd": [
+        "Neodymium",
+        "Neodymium"
+    ],
+    "Pm": [
+        "Promethium",
+        "Promethium"
+    ],
+    "Sm": [
+        "Samarium",
+        "Samarium"
+    ],
+    "Eu": [
+        "Europium",
+        "Europium"
+    ],
+    "Gd": [
+        "Gadolinium",
+        "Gadolinium"
+    ],
+    "Tb": [
+        "Terbium",
+        "Terbium"
+    ],
+    "Dy": [
+        "Dysprosium",
+        "Dysprosium"
+    ],
+    "Ho": [
+        "Holmium",
+        "Holmium"
+    ],
+    "Er": [
+        "Erbium",
+        "Erbium"
+    ],
+    "Tm": [
+        "Thulium",
+        "Thulium"
+    ],
+    "Yb": [
+        "Ytterbium",
+        "Ytterbium"
+    ],
+    "Lu": [
+        "Lutetium",
+        "Lutetium"
+    ],
+    "Hf": [
+        "Hafnium",
+        "Hafnium"
+    ],
+    "Ta": [
+        "Tantalum",
+        "Tantalum"
+    ],
+    "W": [
+        "Tungsten",
+        "Wolframium"
+    ],
+    "Re": [
+        "Rhenium",
+        "Rhenium"
+    ],
+    "Os": [
+        "Osmium",
+        "Osmium"
+    ],
+    "Ir": [
+        "Iridium",
+        "Iridium"
+    ],
+    "Pt": [
+        "Platinum",
+        "Platinum"
+    ],
+    "Au": [
+        "Gold",
+        "Aurum"
+    ],
+    "Hg": [
+        "Mercury",
+        "Hydrargyrum"
+    ],
+    "Tl": [
+        "Thallium",
+        "Thallium"
+    ],
+    "Pb": [
+        "Lead",
+        "Plumbum"
+    ],
+    "Bi": [
+        "Bismuth",
+        "Bisemutum"
+    ],
+    "Po": [
+        "Polonium",
+        "Polonium"
+    ],
+    "At": [
+        "Astatine",
+        "Astatum"
+    ],
+    "Rn": [
+        "Radon",
+        "Radon"
+    ],
+    "Fr": [
+        "Francium",
+        "Francium"
+    ],
+    "Ra": [
+        "Radium",
+        "Radium"
+    ],
+    "Ac": [
+        "Actinium",
+        "Actinium"
+    ],
+    "Th": [
+        "Thorium",
+        "Thorium"
+    ],
+    "Pa": [
+        "Protactinium",
+        "Protactinium"
+    ],
+    "U": [
+        "Uranium",
+        "Uranium"
+    ],
+    "Np": [
+        "Neptunium",
+        "Neptunium"
+    ],
+    "Pu": [
+        "Plutonium",
+        "Plutonium"
+    ],
+    "Am": [
+        "Americium",
+        "Americium"
+    ],
+    "Cm": [
+        "Curium",
+        "Curium"
+    ],
+    "Bk": [
+        "Berkelium",
+        "Berkelium"
+    ],
+    "Cf": [
+        "Californium",
+        "Californium"
+    ],
+    "Es": [
+        "Einsteinium",
+        "Einsteinium"
+    ],
+    "Fm": [
+        "Fermium",
+        "Fermium"
+    ],
+    "Md": [
+        "Mendelevium",
+        "Mendelevium"
+    ],
+    "No": [
+        "Nobelium",
+        "Nobelium"
+    ],
+    "Lr": [
+        "Lawrencium",
+        "Lawrencium"
+    ],
+    "Rf": [
+        "Rutherfordium",
+        "Rutherfordium"
+    ],
+    "Db": [
+        "Dubnium",
+        "Dubnium"
+    ],
+    "Sg": [
+        "Seaborgium",
+        "Seaborgium"
+    ],
+    "Bh": [
+        "Bohrium",
+        "Bohrium"
+    ],
+    "Hs": [
+        "Hassium",
+        "Hassium"
+    ],
+    "Mt": [
+        "Meitnerium",
+        "Meitnerium"
+    ],
+    "Ds": [
+        "Darmstadtium",
+        "Darmstadtium"
+    ],
+    "Rg": [
+        "Roentgenium",
+        "Roentgenium"
+    ],
+    "Cn": [
+        "Copernicium",
+        "Copernicium"
+    ],
+    "Nh": [
+        "Nihonium",
+        "Nihonium"
+    ],
+    "Fl": [
+        "Flerovium",
+        "Flerovium"
+    ],
+    "Mc": [
+        "Moscovium",
+        "Moscovium"
+    ],
+    "Lv": [
+        "Livermorium",
+        "Livermorium"
+    ],
+    "Ts": [
+        "Tennessine",
+        "Tennessine"
+    ],
+    "Og": [
+        "Oganesson",
+        "Oganesson"
+    ]
+}

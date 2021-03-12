@@ -1,0 +1,103 @@
+T2	Element 93 95	Sb
+T4	SC 107 122	superconductors
+T6	Element 146 148	Sb
+T7	Main 156 180	Bi2-xSbx Ba2Ca2Cu3O10+ δ
+T8	Process 195 215	solid state reaction
+T9	Material 254 269	Polycrystalline
+T10	Process 295 315	solid state reaction
+T12	Element 356 380	Bi2-xSbx Ba2Ca2Cu3O10+ δ
+T13	Element 442 452	2223 phase
+T14	Characterization 458 463	x-ray
+T20	SC 588 611	transition temperatures
+T21	SC 612 622	T c(onset)
+T24	SC 772 780	T c(off)
+T25	Characterization 829 846	X-ray diffraction
+T27	Material 900 906	c-axis
+T29	Element 933 935	Sb
+T30	Element 959 961	Sb
+T31	Element 985 987	Sb
+T32	Property 988 1002	concentrations
+T33	Property 1061 1068	density
+T34	Element 1097 1106	VPh(1223)
+T15	Material 476 498	orthorhombic structure
+T36	Process 350 355	grown
+T26	Material 879 892	fixed lattice
+T35	Value 391 395	0.00
+T41	Value 628 633	112 K
+T42	Value 673 677	0.00
+T43	Value 786 788	96
+T39	Value 635 640	115 K
+T44	Value 642 647	116 K
+T45	Value 649 652	119
+T46	Value 657 664	121.6 K
+T47	Value 679 683	0.05
+T48	Value 685 689	0.10
+T49	Value 691 696	0.1.5
+T50	Value 701 705	0.20
+T52	Value 790 793	103
+T53	Value 795 798	111
+T54	Value 800 803	114
+T55	Value 808 813	117 K
+T3	Element 99 101	Bi
+T56	Value 397 401	0.05
+T57	Value 403 407	0.10
+T58	Value 409 413	0.15
+T59	Value 418 421	0.2
+T1	Doping 78 89	replacement
+T5	Doping 126 132	adding
+T28	Doping 922 927	doped
+T11	SC 544 559	superconducting
+T16	Element 539 543	2223
+T17	SC 729 771	transition temperatures at zero resistance
+R1	Coref Arg1:T20 Arg2:T21
+R2	Equivalent Arg1:T21 Arg2:T41
+R3	Equivalent Arg1:T24 Arg2:T43
+R4	Equivalent Arg1:T21 Arg2:T39
+R5	Equivalent Arg1:T21 Arg2:T44
+R6	Equivalent Arg1:T21 Arg2:T45
+R7	Equivalent Arg1:T21 Arg2:T46
+R8	Equivalent Arg1:T24 Arg2:T52
+R9	Equivalent Arg1:T24 Arg2:T53
+R10	Equivalent Arg1:T24 Arg2:T54
+R11	Equivalent Arg1:T24 Arg2:T55
+R12	Target Arg1:E2 Arg2:T7
+R13	Target Arg1:E1 Arg2:T7
+R14	Coref Arg1:T17 Arg2:T24
+E1	Doping:T1 Dopant:T2 Site:T3
+E2	Doping:T5 Dopant:T6
+E3	Doping:T28 Dopant:T29
+#1	AnnotatorNotes T2	93-95
+#2	AnnotatorNotes T6	146-148
+#3	AnnotatorNotes T7	156-180
+#4	AnnotatorNotes T9	254-269
+#5	AnnotatorNotes T12	356-380
+#6	AnnotatorNotes T13	442-452
+#7	AnnotatorNotes T27	900-906
+#8	AnnotatorNotes T29	933-935
+#9	AnnotatorNotes T30	959-961
+#10	AnnotatorNotes T31	985-987
+#11	AnnotatorNotes T34	1097-1106
+#12	AnnotatorNotes T15	476-498
+#13	AnnotatorNotes T26	879-892
+#14	AnnotatorNotes T35	391-395
+#15	AnnotatorNotes T41	628-633
+#16	AnnotatorNotes T42	673-677
+#17	AnnotatorNotes T43	786-788
+#18	AnnotatorNotes T39	635-640
+#19	AnnotatorNotes T44	642-647
+#20	AnnotatorNotes T45	649-652
+#21	AnnotatorNotes T46	657-664
+#22	AnnotatorNotes T47	679-683
+#23	AnnotatorNotes T48	685-689
+#24	AnnotatorNotes T49	691-696
+#25	AnnotatorNotes T50	701-705
+#26	AnnotatorNotes T52	790-793
+#27	AnnotatorNotes T53	795-798
+#28	AnnotatorNotes T54	800-803
+#29	AnnotatorNotes T55	808-813
+#30	AnnotatorNotes T3	99-101
+#31	AnnotatorNotes T56	397-401
+#32	AnnotatorNotes T57	403-407
+#33	AnnotatorNotes T58	409-413
+#34	AnnotatorNotes T59	418-421
+#35	AnnotatorNotes T16	539-543

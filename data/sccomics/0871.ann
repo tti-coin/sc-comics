@@ -1,0 +1,71 @@
+T1	Element 0 8	L10-FePt
+T2	Property 9 22	ferromagnetic
+T3	Material 23 36	nanoparticles
+T4	Property 50 60	coercivity
+T5	Property 64 75	Tesla order
+T6	Material 89 102	nanoparticles
+T8	Property 179 187	magnetic
+T9	Property 217 224	density
+T11	Material 263 273	structural
+T12	Property 278 297	magnetic properties
+T13	Element 301 305	FePt
+T14	Material 306 319	nanoparticles
+T16	Element 439 441	Ag
+T18	Property 453 475	transition temperature
+T19	Main 479 483	FePt
+T21	Element 537 539	Ag
+T23	Element 558 565	FePt–Ag
+T25	Material 566 579	nanocomposite
+T28	Material 621 634	nanocomposite
+T29	Element 645 647	Ag
+T30	Process 653 662	deposited
+T31	Process 666 686	magnetron sputtering
+T32	Element 694 697	MgO
+T33	Material 703 708	layer
+T34	Material 731 744	nanoparticles
+T35	Property 755 765	coercivity
+T36	Characterization 793 796	XRD
+T37	Element 848 852	FePt
+T38	Material 853 866	nanoparticles
+T39	Material 887 907	surface distribution
+T40	Element 921 923	Ag
+T41	Material 950 958	clusters
+T42	Material 973 980	lattice
+T43	Element 985 992	FePt–Ag
+T45	Material 993 1006	nanocomposite
+T46	Element 1059 1061	Ag
+T47	Element 1074 1078	FePt
+T48	Material 1083 1090	lattice
+T49	Property 1100 1108	mobility
+T50	Element 1112 1114	Fe
+T51	Element 1119 1121	Pt
+T52	Material 1122 1127	atoms
+T53	Material 1136 1143	lattice
+T54	Element 1253 1255	Ag
+T55	Property 1274 1296	transition temperature
+T56	Property 1325 1335	coercivity
+T57	Element 1339 1343	FePt
+T58	Material 1344 1357	nanoparticles
+T60	Value 238 241	1GB
+T17	Material 496 509	L10-fct phase
+T20	Value 641 644	10%
+T61	Characterization 710 713	VSM
+T62	Value 725 730	10 nm
+T63	Value 786 791	1.4 T
+T64	Value 871 876	10 nm
+T65	Material 1300 1313	fct-L10 phase
+T66	Characterization 801 806	FESEM
+T10	Property 595 614	magnetic coercivity
+T26	Material 141 161	surface distribution
+T7	Material 939 949	nano scale
+T27	Material 489 492	fcc
+T67	Material 1079 1082	fcc
+T68	Material 844 847	L10
+T15	Doping 362 367	added
+T22	Doping 546 554	additive
+T24	Value 117 119	10
+T44	Value 123 128	15 nm
+R1	Target Arg1:E1 Arg2:T13
+R2	Target Arg1:E2 Arg2:T23
+E1	Doping:T15
+E2	Doping:T22 Dopant:T21

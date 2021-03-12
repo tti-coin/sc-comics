@@ -1,0 +1,59 @@
+T2	Property 57 70	magnetization
+T3	Material 78 83	grain
+T4	Main 92 108	HgBa2Ca4Cu5O12+y
+T5	Main 110 117	Hg1245)
+T6	SC 123 126	T c
+T7	Property 149 173	thermodynamic parameters
+T8	Property 228 244	coherence length
+T12	Material 369 376	layered
+T13	SC 377 391	superconductor
+T14	Element 392 408	HgBa2Ca3Cu4O10+y
+T15	Element 410 416	Hg1234
+T16	Property 493 504	Cooper pair
+T17	Property 505 512	density
+T18	Element 516 522	Hg1245
+T19	SC 575 597	transition temperature
+T20	SC 600 603	T c
+T21	Element 613 619	Hg1245
+T22	Element 656 662	Hg1234
+T23	SC 689 692	T c
+T24	Material 701 709	material
+T25	Element 724 728	CuO2
+T26	Material 729 735	planes
+T28	Property 795 807	Cooper pairs
+T30	Element 821 825	CuO2
+T31	Material 826 832	planes
+T32	Value 129 134	108 K
+T33	Property 13 27	Hao–Clem model
+T35	Property 187 204	penetration depth
+T36	Property 314 339	Ginzburg–Landau parameter
+T38	Property 423 449	obtained penetration depth
+T1	Property 269 297	thermodynamic critical field
+T10	Doping 781 787	doping
+T11	Doping 814 820	adding
+T9	Property 207 217	λ ab ( 0 )
+T27	Property 247 257	ξ ab ( 0 )
+T29	Property 300 303	H c
+T34	Property 342 343	κ
+R1	Equivalent Arg1:T6 Arg2:T32
+R2	Coref Arg1:T19 Arg2:T20
+R3	Coref Arg1:T14 Arg2:T15
+R4	Coref Arg1:T4 Arg2:T5
+R5	Target Arg1:T32 Arg2:T4
+E1	Doping:T10 Dopant:T28
+E2	Doping:T11 Dopant:T30
+#1	AnnotatorNotes T3	78-83
+#2	AnnotatorNotes T4	92-108
+#3	AnnotatorNotes T5	110-117
+#4	AnnotatorNotes T12	369-376
+#5	AnnotatorNotes T14	392-408
+#6	AnnotatorNotes T15	410-416
+#7	AnnotatorNotes T18	516-522
+#8	AnnotatorNotes T21	613-619
+#9	AnnotatorNotes T22	656-662
+#10	AnnotatorNotes T24	701-709
+#11	AnnotatorNotes T25	724-728
+#12	AnnotatorNotes T26	729-735
+#13	AnnotatorNotes T30	821-825
+#14	AnnotatorNotes T31	826-832
+#15	AnnotatorNotes T32	129-134

@@ -1,0 +1,25 @@
+T1	Material 16 22	square
+T2	Material 23 30	lattice
+T3	Property 31 45	Hubbard models
+T4	Main 57 80	cuprate superconductors
+T6	Property 157 165	electron
+T7	Property 198 215	antiferromagnetic
+T8	Property 217 219	AF
+T12	Property 297 299	AF
+T14	Property 443 445	AF
+T15	Property 487 489	AF
+T16	Property 502 514	ground-state
+T17	Property 515 528	phase diagram
+T19	Property 591 593	AF
+T20	Property 605 608	BRE
+T21	Property 136 139	BRE
+T9	Property 256 259	BRE
+T10	Property 341 367	many-body variation theory
+T11	Property 474 477	BRE
+T23	Value 721 727	– 0.05
+T13	Property 662 678	diagonal hopping
+T18	Doping 568 578	underdoped
+T5	Property 107 134	band-renormalization effect
+E1	Doping:T18 
+T22	Property 267 273	d-wave
+T24	SC 274 289	superconducting

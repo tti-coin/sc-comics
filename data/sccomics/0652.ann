@@ -1,0 +1,50 @@
+T1	SC 59 74	superconducting
+T2	Main 84 98	Na x CoO2·yH2O
+T3	Characterization 153 156	NMR
+T6	Property 191 205	specific-heats
+T7	Property 210 233	magnetic-susceptibility
+T8	Material 283 301	single-crystalline
+T9	Property 359 371	non-magnetic
+T10	Material 372 382	impurities
+T11	Element 387 393	oxygen
+T12	Material 394 401	isotope
+T14	SC 422 460	superconducting transition temperature
+T15	SC 461 464	T c
+T16	Element 525 534	Na x CoO2
+T17	SC 581 596	superconducting
+T18	Element 606 620	Na x CoO2·yH2O
+T20	Element 698 702	59Co
+T21	Element 707 711	23Na
+T22	Property 751 763	Cooper pairs
+T23	Property 775 788	singlet state
+T24	Characterization 790 797	Neutron
+T25	Material 841 856	single crystals
+T26	Property 919 929	low energy
+T27	Property 930 943	ferromagnetic
+T28	Property 944 954	excitation
+T29	Property 988 995	triplet
+T30	Property 996 1010	Cooper pairing
+T31	Element 1014 1028	Na x CoO2·yH2O
+T32	Property 1079 1092	phase diagram
+T33	SC 1176 1191	superconducting
+T34	Characterization 1222 1250	nuclear quadrupole frequency
+T35	Material 1275 1285	symmetries
+T36	SC 1302 1317	superconducting
+T37	Property 1385 1398	phase diagram
+T38	Property 1438 1451	specific heat
+T39	Characterization 1469 1472	NMR
+T40	Property 1510 1521	pair states
+T41	Property 1636 1647	instability
+T42	SC 1678 1693	superconducting
+T51	SC 1072 1075	T c
+T52	Value 103 106	0.3
+T53	Value 111 114	1.3
+T54	Material 1580 1604	nonsuperconducting phase
+T4	Characterization 234 246	measurements
+T5	Property 158 185	neutron magnetic scattering
+T55	Property 1051 1063	Knight shift
+T57	Property 681 694	Knight shifts
+T58	Characterization 819 831	measurements
+T13	Doping 402 414	substitution
+T19	Characterization 1452 1464	measurements
+E1	Doping:T13 Dopant:T11

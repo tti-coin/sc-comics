@@ -1,0 +1,112 @@
+T1	Material 43 47	bulk
+T2	SC 48 65	superconductivity
+T3	SC 67 69	Tc
+T4	SC 252 267	superconducting
+T5	Material 324 335	space group
+T6	Material 425 440	orthorhombicity
+T7	Material 506 516	tetragonal
+T9	SC 683 700	superconductivity
+T11	SC 799 814	superconducting
+T12	SC 981 984	T c
+T15	SC 1108 1125	superconductivity
+T16	Property 1142 1164	electrical resistivity
+T17	Property 1166 1189	magnetic susceptibility
+T18	Material 1198 1212	cell parameter
+T19	Main 154 173	Bi2Sr2Can−1CunO2n+4
+T23	Value 70 75	9.5 K
+T24	Main 92 103	Bi2Sr2CuO∼6
+T26	Value 139 140	1
+T27	Element 208 224	Bi2.1Sr1 .9CuO y
+T29	Element 229 244	Bi2.2Sr1.8CuO y
+T31	Value 271 275	10 K
+T32	Value 280 284	12 K
+T33	Element 399 416	Bi2Sr2−xLaxCuO6+y
+T36	Value 381 384	1.0
+T37	Value 377 378	0
+T43	Value 522 525	1.0
+T45	Value 573 577	19 K
+T46	Value 584 587	0.4
+T47	Value 618 621	2.2
+T48	Element 648 654	copper
+T49	Property 630 644	formal valence
+T52	Value 662 665	0.5
+T54	Element 743 745	Pb
+T55	Element 750 752	Bi
+T56	Element 1065 1080	Bi2−xPbxSr2CuOy
+T57	Element 885 904	Bi2−xPbxSr2−xRxCuOy
+T59	Element 908 910	La
+T60	Element 759 761	La
+T61	Element 766 768	Sr
+T62	Value 850 854	26 K
+T64	Value 867 870	0.4
+T72	Value 1018 1021	0.4
+T74	Element 919 921	Nd
+T75	Element 1049 1051	Pb
+T80	Material 336 340	Amaa
+T81	Element 931 933	Pr
+T14	Doping 1008 1014	doping
+T77	Doping 1039 1045	doping
+T10	Doping 727 739	substitution
+T8	SC 531 540	T c (R=0)
+T20	Value 858 859	0
+T13	Doping 936 947	ubstituting
+R1	Equivalent Arg1:T3 Arg2:T23
+R2	Equivalent Arg1:T4 Arg2:T31
+R3	Equivalent Arg1:T4 Arg2:T32
+R4	Target Arg1:T62 Arg2:T57
+R5	Target Arg1:T31 Arg2:T27
+R6	Target Arg1:T32 Arg2:T29
+R7	Target Arg1:T23 Arg2:T24
+R8	Equivalent Arg1:T11 Arg2:T62
+R9	Equivalent Arg1:T8 Arg2:T45
+R10	Target Arg1:E5 Arg2:T56
+R11	Target Arg1:E1 Arg2:T57
+R12	Condition Arg1:T62 Arg2:E1
+R13	Condition Arg1:T62 Arg2:E6
+R14	Target Arg1:E6 Arg2:T57
+E4	Doping:T14 
+E5	Doping:T77 Dopant:T75
+E1	Doping:T10 Dopant:T54 Site:T55
+E2	Doping:T13 Dopant:T81
+E3	Doping:T13 Dopant:T74
+E6	Doping:T10 Dopant:T60 Site:T61
+#1	AnnotatorNotes T1	43-47
+#2	AnnotatorNotes T5	324-335
+#3	AnnotatorNotes T6	425-440
+#4	AnnotatorNotes T7	506-516
+#5	AnnotatorNotes T18	1198-1212
+#6	AnnotatorNotes T19	154-173
+#7	AnnotatorNotes T23	70-75
+#8	AnnotatorNotes T24	92-103
+#9	AnnotatorNotes T26	139-140
+#10	AnnotatorNotes T27	208-224
+#11	AnnotatorNotes T29	229-244
+#12	AnnotatorNotes T31	271-275
+#13	AnnotatorNotes T32	280-284
+#14	AnnotatorNotes T33	399-416
+#15	AnnotatorNotes T36	381-384
+#16	AnnotatorNotes T37	377-378
+#17	AnnotatorNotes T43	522-525
+#18	AnnotatorNotes T45	573-577
+#19	AnnotatorNotes T46	584-587
+#20	AnnotatorNotes T47	618-621
+#21	AnnotatorNotes T48	648-654
+#22	AnnotatorNotes T52	662-665
+#23	AnnotatorNotes T54	743-745
+#24	AnnotatorNotes T55	750-752
+#25	AnnotatorNotes T56	1065-1080
+#26	AnnotatorNotes T57	885-904
+#27	AnnotatorNotes T59	908-910
+#28	AnnotatorNotes T60	759-761
+#29	AnnotatorNotes T61	766-768
+#30	AnnotatorNotes T62	850-854
+#31	AnnotatorNotes T64	867-870
+#32	AnnotatorNotes T72	1018-1021
+#33	AnnotatorNotes T74	919-921
+#34	AnnotatorNotes T75	1049-1051
+#35	AnnotatorNotes T80	336-340
+#36	AnnotatorNotes T81	931-933
+#37	AnnotatorNotes T20	858-859
+R15	Target Arg1:T45 Arg2:T33	
+R16	Target Arg1:E3 Arg2:T57	
+R17	Target Arg1:E2 Arg2:T57	

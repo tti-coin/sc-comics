@@ -1,0 +1,39 @@
+T1	Element 47 49	Ba
+T3	Element 66 68	Sr
+T4	Main 82 89	Bi-2212
+T5	Characterization 98 115	X-ray diffraction
+T6	Characterization 117 120	XRD
+T7	Characterization 123 151	scanning electron microscope
+T8	Characterization 153 156	SEM
+T9	Characterization 159 195	energy dispersive X-ray spectrometry
+T10	Characterization 197 200	EDS
+T11	Characterization 203 221	Raman spectroscopy
+T12	Property 226 243	AC susceptibility
+T14	Property 277 296	magnetic properties
+T15	Characterization 356 373	X-ray diffraction
+T16	Element 389 402	Bi-2212 phase
+T17	Element 438 451	Bi-2201 phase
+T18	Element 465 467	Ba
+T19	Element 487 489	Ba
+T21	Material 511 525	cell parameter
+T22	Characterization 542 545	SEM
+T23	Material 556 565	structure
+T24	Material 584 590	grains
+T25	Characterization 614 632	Raman spectroscopy
+T26	Property 652 661	vibration
+T27	SC 686 701	superconducting
+T28	Material 702 710	material
+T29	Element 711 733	Bi2Sr(2-x)BaxCaCu2O8+δ
+T30	Property 735 752	AC susceptibility
+T31	Element 764 766	Ba
+T33	SC 794 814	critical temperature
+T34	SC 816 818	Tc
+T13	Material 262 272	structural
+T2	Doping 50 62	substitution
+T20	Doping 490 496	doping
+T32	Doping 767 779	substitution
+T36	Characterization 244 256	measurements
+R2	Target Arg1:E1 Arg2:T4
+E1	Doping:T2 Dopant:T1 Site:T3
+E2	Doping:T20 Dopant:T19
+E3	Doping:T32 Dopant:T31

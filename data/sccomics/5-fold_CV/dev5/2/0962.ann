@@ -1,0 +1,31 @@
+T1	Element 28 30	Fe
+T2	SC 37 52	superconductors
+T4	SC 145 172	high transition temperature
+T5	Property 192 212	upper critical field
+T6	Property 231 241	high field
+T7	Property 269 278	transport
+T8	Property 279 303	critical current density
+T9	Property 305 308	J c
+T10	Property 425 431	orders
+T11	Main 591 603	(Ba,K)Fe2As2
+T12	SC 604 619	superconducting
+T13	Material 620 625	wires
+T15	Process 693 707	melt processed
+T16	Material 718 726	material
+T17	Element 770 772	Ag
+T19	Property 783 799	critical current
+T20	Property 817 833	critical current
+T21	Property 834 844	anisotropy
+T22	Element 915 917	Fe
+T23	SC 924 939	superconducting
+T24	Material 940 945	wires
+T3	Process 99 113	powder-in-tube
+T25	Process 115 118	PIT
+T27	Process 505 508	PIT
+T14	Process 656 670	powder-in-tube
+T28	Process 672 675	PIT
+T29	Property 800 815	irreversibility
+T18	Doping 773 781	addition
+T26	Value 435 439	10 4
+T30	Value 444 453	105 A/cm2
+E1	Doping:T18 Dopant:T17

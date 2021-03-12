@@ -1,0 +1,40 @@
+T1	Element 0 23	Transition metal oxides
+T2	Material 81 91	structures
+T3	Process 131 142	crystallize
+T4	SC 266 291	high Tc superconductivity
+T7	Property 428 442	oxygen content
+T8	Material 561 568	lattice
+T9	Property 577 584	charges
+T10	Property 589 594	spins
+T12	Element 712 723	delafossite
+T13	Material 724 733	structure
+T14	Main 821 826	CuMO2
+T15	Element 847 849	Cr
+T16	Element 851 853	Mn
+T17	Element 857 862	Mn+Cu
+T18	Characterization 905 910	X-ray
+T19	Characterization 912 920	neutrons
+T22	Material 971 981	structural
+T23	Property 1025 1035	electrical
+T24	Property 1043 1062	magnetic properties
+T25	Material 1154 1169	single crystals
+T28	Material 1231 1241	structures
+T29	Element 1253 1255	Cr
+T30	Element 1260 1262	Mn
+T31	Element 1269 1275	oxides
+T32	Property 1311 1329	Jahn-Teller effect
+T33	Element 1333 1352	trivalent manganese
+T34	Property 1405 1413	magnetic
+T35	Element 1429 1435	CuCrO2
+T39	Material 193 209	dimensionalities
+T40	Property 302 320	magnetoresistivity
+T41	Property 322 337	multiferroicity
+T42	Material 686 698	2D-compounds
+T20	Characterization 928 949	electrons diffraction
+T44	Material 953 966	poly-crystals
+T47	Property 1365 1375	degeneracy
+T26	Material 1185 1198	poly-crystals
+T27	Property 1414 1425	frustration
+T11	Element 602 619	transition metals
+T5	Property 361 376	oxidation state
+T6	Element 384 400	transition metal

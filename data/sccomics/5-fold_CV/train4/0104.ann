@@ -1,0 +1,52 @@
+T1	SC 82 90	high-T c
+T3	Material 134 151	organic molecules
+T5	SC 249 252	T c
+T6	Property 486 507	carrier concentration
+T7	SC 749 752	T c
+T8	Property 790 805	charge transfer
+T9	Material 846 852	layers
+T10	SC 884 887	T c
+T16	Element 152 170	zincphthalocyanine
+T17	Element 172 176	ZnPc
+T18	Value 393 398	290 K
+T19	Element 327 343	(ZnPc) x Bi-2212
+T24	Element 286 302	(ZnPc) n Bi-2223
+T36	Element 818 822	ZnPc
+T37	Element 841 845	CuO2
+T38	Element 907 911	ZnPc
+T41	Material 823 832	molecules
+T15	Main 91 98	Bi-2212
+T43	Main 103 108	-2223
+T2	Doping 116 128	intercalated
+T4	Doping 183 196	intercalating
+T11	Doping 912 925	intercalation
+T21	Value 217 221	zero
+T44	Value 225 229	0.02
+T23	Value 270 273	110
+T26	Value 277 281	85 K
+T25	Value 312 314	90
+T45	Value 318 322	61 K
+T28	Value 595 599	zero
+T31	Value 603 608	0.005
+T27	Element 670 686	(ZnPc) x Bi-2212
+T46	Element 691 696	-2223
+T12	SC 931 934	T c
+T39	SC 935 941	T c0−n
+T13	SC 1106 1109	T c
+T40	SC 1110 1116	T c0−n
+T20	Property 51 71	thermoelectric power
+R1	Coref Arg1:T16 Arg2:T17
+R2	Equivalent Arg1:T5 Arg2:T23
+R3	Equivalent Arg1:T5 Arg2:T26
+R4	Target Arg1:T23 Arg2:T24
+R5	Target Arg1:T26 Arg2:T24
+R6	Equivalent Arg1:T5 Arg2:T25
+R7	Equivalent Arg1:T5 Arg2:T45
+R8	Target Arg1:T25 Arg2:T19
+R9	Target Arg1:T45 Arg2:T19
+R10	Target Arg1:E1 Arg2:T15
+R11	Target Arg1:E4 Arg2:T43
+E1	Doping:T2 Dopant:T16
+E2	Doping:T4 
+E3	Doping:T11 Dopant:T38
+E4	Doping:T2 Dopant:T16

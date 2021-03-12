@@ -1,0 +1,44 @@
+T2	SC 55 70	superconducting
+T3	Property 75 94	magnetic properties
+T4	Material 98 105	ceramic
+T5	Property 140 155	oxygen contents
+T7	Property 220 233	magnetization
+T8	Property 238 261	magnetic susceptibility
+T9	Property 339 350	diamagnetic
+T10	SC 418 456	superconducting transition temperature
+T11	SC 457 460	T c
+T12	SC 547 562	superconducting
+T13	Property 624 632	magnetic
+T14	Property 633 646	phase diagram
+T15	Property 752 765	phase diagram
+T16	Property 812 829	antiferromagnetic
+T17	Property 861 875	magnetic field
+T20	Property 1116 1140	2D magnetic correlations
+T21	Property 1150 1166	Neel temperature
+T23	Property 1195 1203	ordering
+T24	Material 1252 1279	structural phase transition
+T26	Element 33 37	Ba2+
+T27	Element 43 47	Sr2+
+T28	Main 106 118	DyBa2Cu3O7−δ
+T30	Value 315 318	1.0
+T31	Value 303 304	0
+T32	Value 306 309	0.5
+T34	Element 265 285	DyBa2−x Sr x Cu3O7−δ
+T39	Element 769 781	DyBa2Cu3O7−δ
+T43	Property 388 402	critical field
+T44	Property 506 520	critical field
+T45	Element 667 686	DyBa1.5Sr0.5Cu3O7−δ
+T48	Element 691 704	DyBaSrCu3O7−δ
+T51	Property 601 608	content
+T52	Property 830 842	paramagnetic
+T53	Element 922 926	Ba2+
+T54	Element 930 934	Sr2+
+T56	Value 1331 1336	2.4 K
+T57	Element 1212 1232	DyBa2−x Sr x Cu3O7−δ
+T62	Element 591 600	strontium
+T6	Property 1287 1302	heat absorption
+T1	Doping 17 29	substitution
+T18	Doping 907 918	replacement
+R1	Target Arg1:E1 Arg2:T28
+E1	Doping:T1 Site:T26 Dopant:T27
+E2	Doping:T18 Site:T53 Dopant:T54

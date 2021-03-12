@@ -1,0 +1,53 @@
+T1	Material 4 14	structural
+T2	SC 19 34	superconducting
+T3	SC 80 95	superconducting
+T4	Characterization 124 141	X-ray diffraction
+T5	Characterization 143 146	XRD
+T6	Property 149 160	resistivity
+T7	Characterization 206 209	XRD
+T10	Material 390 400	tetragonal
+T11	Material 452 470	lattice parameters
+T12	Property 507 518	resistivity
+T14	SC 559 562	T c
+T15	Property 645 667	critical concentration
+T16	SC 696 713	superconductivity
+T19	Property 1005 1017	hole-carrier
+T21	SC 1109 1112	T c
+T22	SC 1127 1142	superconducting
+T23	Property 1193 1205	normal state
+T24	SC 1343 1358	superconducting
+T27	SC 1627 1644	superconductivity
+T29	Property 165 185	thermoelectric power
+T30	Property 187 190	TEP
+T34	Element 309 310	Y
+T37	Element 621 622	Y
+T38	Element 721 722	Y
+T39	Element 729 741	Bi (Pb):2223
+T41	Element 671 672	Y
+T42	Element 481 482	Y
+T53	Property 860 863	TEP
+T54	Element 913 914	Y
+T55	Value 915 919	0.00
+T56	Value 924 928	0.10
+T57	Element 990 991	Y
+T58	Element 1036 1042	Cu ion
+T59	Property 1175 1178	TEP
+T31	Element 259 263	2223
+T28	Main 49 79	Bi1.7Pb0.3Sr2Ca2− x Y x Cu3O y
+T13	SC 537 558	critical temperatures
+T36	Element 806 816	rare-earth
+T9	Doping 324 335	replacement
+T17	Doping 723 728	doped
+T18	Doping 1380 1385	doped
+T20	Doping 1446 1458	substitution
+T8	SC 264 272	high T c
+T25	Element 343 347	Ca2+
+T26	Element 359 362	Y3+
+T32	Element 423 436	Bi (Pb): 2223
+R1	Coref Arg1:T13 Arg2:T14
+R2	Target Arg1:E1 Arg2:T32
+R3	Target Arg1:E2 Arg2:T39
+E1	Doping:T9 Site:T25 Dopant:T26
+E2	Doping:T17 Dopant:T38
+E3	Doping:T18 
+E4	Doping:T20 

@@ -1,0 +1,47 @@
+T1	SC 4 19	superconducting
+T2	Material 38 60	intermetallic compound
+T3	Element 61 66	NiBi3
+T4	Material 95 99	bulk
+T5	Material 100 108	crystals
+T6	Main 160 165	NiBi3
+T7	Material 166 176	thin films
+T8	Material 206 215	interface
+T9	Element 219 221	Ni
+T10	Element 226 228	Bi
+T11	Material 229 240	multilayers
+T12	SC 259 285	superconducting transition
+T13	Material 313 317	bulk
+T14	SC 318 340	transition temperature
+T15	Element 398 403	NiBi3
+T16	Property 434 442	magnetic
+T17	Element 444 450	Nickel
+T18	Material 452 460	impurity
+T19	Property 469 481	Kondo effect
+T20	Characterization 555 572	X-ray diffraction
+T23	Element 652 654	Ni
+T24	Material 655 665	impurities
+T25	Material 673 678	films
+T26	Property 680 685	Kondo
+T28	Element 742 744	Ni
+T29	Material 745 755	impurities
+T30	Element 771 776	Ni-Bi
+T31	Material 777 787	multilayer
+T32	Material 788 793	films
+T33	Element 806 808	Ni
+T34	Material 809 818	thickness
+T35	Element 830 832	Bi
+T36	Material 833 842	thickness
+T37	Property 867 880	magnetization
+T38	SC 885 923	superconducting transition temperature
+T40	Element 971 973	Ni
+T41	Material 974 984	impurities
+T43	Characterization 1057 1082	magnetic force microscopy
+T44	Process 1132 1146	heat treatment
+T45	Value 293 298	3.9 K
+T46	Value 344 349	4.1 K
+T27	Property 725 738	concentration
+T39	Property 954 967	concentration
+T21	Property 577 595	Magneto-resistance
+T22	Characterization 596 608	measurements
+R1	Equivalent Arg1:T14 Arg2:T46
+R2	Equivalent Arg1:T12 Arg2:T45

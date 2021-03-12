@@ -1,0 +1,32 @@
+T2	Material 129 142	semiconductor
+T4	Process 215 226	temperature
+T5	Property 235 245	dielectric
+T6	Material 246 254	crystals
+T7	SC 259 274	superconductors
+T8	SC 286 289	T c
+T9	Property 375 382	phonons
+T10	Material 445 453	crystals
+T11	SC 527 542	superconducting
+T12	Property 543 553	insulating
+T16	Property 740 746	phonon
+T17	Material 775 783	crystals
+T18	Property 796 802	phonon
+T19	Element 765 767	Si
+T20	Element 772 774	Ge
+T21	Element 793 795	Al
+T22	Element 197 199	Ge
+T23	Material 44 51	sensors
+T24	Material 76 85	detectors
+T25	Material 108 117	detectors
+T27	Material 501 508	sensors
+T28	Material 334 343	detectors
+T29	Material 666 676	amplifiers
+T30	Material 747 753	sensor
+T15	Material 522 525	SIN
+T26	Material 562 578	tunnel junctions
+T32	Element 832 833	W
+T13	SC 582 621	superconducting-transition thermometers
+T14	Characterization 660 665	SQUID
+T31	Property 646 659	low-impedance
+T1	Doping 123 128	doped
+E2	Doping:T1 

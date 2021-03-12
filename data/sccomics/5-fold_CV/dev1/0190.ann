@@ -1,0 +1,55 @@
+T2	Process 148 168	solid state reaction
+T3	Characterization 223 240	X-ray diffraction
+T4	Characterization 242 245	XRD
+T5	Characterization 251 279	scanning electron microscopy
+T6	Characterization 281 284	SEM
+T7	SC 291 308	superconductivity
+T8	Property 353 375	electrical resistivity
+T11	SC 556 595	superconducting transition temperatures
+T12	SC 596 598	Tc
+T14	Process 772 793	shrinkage temperature
+T15	Property 866 887	Vickers microhardness
+T16	Property 902 919	Debye temperature
+T17	SC 1007 1009	Tc
+T18	Property 1026 1050	electron-phonon coupling
+T20	Main 0 12	R x Cu3O10−δ
+T24	Element 22 24	Pr
+T25	Value 38 41	0.0
+T27	Value 44 48	0.15
+T30	Element 29 31	La
+T31	Element 451 474	(Cu0.5Tl0.5)-1223 phase
+T32	Value 616 621	114 K
+T33	Value 626 631	109 K
+T35	Value 638 643	0.025
+T36	Element 648 650	Pr
+T37	Element 656 658	La
+T41	Property 920 922	θD
+T1	Property 706 735	thermal expansion coefficient
+T42	Material 853 861	porosity
+T43	Property 954 983	thermal expansion coefficient
+T9	Doping 417 429	substitution
+T10	Doping 503 515	substitution
+T13	Doping 659 672	substitutions
+R1	Coref Arg1:T11 Arg2:T12
+R2	Condition Arg1:T33 Arg2:E4
+R3	Condition Arg1:T32 Arg2:E3
+R4	Equivalent Arg1:T12 Arg2:T32
+R5	Equivalent Arg1:T12 Arg2:T33
+E1	Doping:T9 
+E2	Doping:T10 
+E3	Doping:T13 Dopant:T36
+E4	Doping:T13 Dopant:T37
+#1	AnnotatorNotes T20	0-12
+#2	AnnotatorNotes T24	22-24
+#3	AnnotatorNotes T25	38-41
+#4	AnnotatorNotes T27	44-48
+#6	AnnotatorNotes T30	29-31
+#7	AnnotatorNotes T31	451-474
+#8	AnnotatorNotes T32	616-621
+#9	AnnotatorNotes T33	626-631
+#10	AnnotatorNotes T35	638-643
+#11	AnnotatorNotes T36	648-650
+#12	AnnotatorNotes T37	656-658
+#13	AnnotatorNotes T42	853-861
+T19	Value 92 95	450
+T21	Value 99 105	1145 K

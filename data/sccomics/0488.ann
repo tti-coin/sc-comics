@@ -1,0 +1,38 @@
+T1	Main 17 47	Ni1−x Mn x (OH)2(CO3) x/2·nH2O
+T4	Characterization 135 154	electron microscopy
+T5	Characterization 156 173	X-ray diffraction
+T6	Property 184 203	magnetic properties
+T7	Material 254 267	crystallinity
+T8	Material 275 288	nanoparticles
+T9	Process 306 321	low temperature
+T10	Property 322 330	magnetic
+T11	Material 405 413	in plane
+T12	Property 414 427	ferromagnetic
+T13	Property 443 460	antiferromagnetic
+T14	Material 504 512	in plane
+T16	Element 555 564	manganese
+T17	Property 584 586	Tc
+T19	Element 687 689	Ni
+T20	Element 693 700	Mn ions
+T21	Material 713 721	in plane
+T22	Property 722 745	antiferromagnetic order
+T23	Property 776 797	magnetic interactions
+T24	Property 816 828	non magnetic
+T3	Element 48 73	Layered Double Hydroxides
+T28	Element 75 79	LDHs
+T30	Value 89 92	0.2
+T32	Property 479 493	ferromagnetism
+T15	Element 513 515	Ni
+T35	Element 807 810	LDH
+T36	Material 840 846	anions
+T37	Value 94 98	0.25
+T38	Value 103 107	0.33
+T34	Material 432 442	interlayer
+T2	Property 516 535	cations interaction
+T33	Material 829 839	interlayer
+T18	Doping 671 683	substitution
+T25	Value 602 604	26
+T26	Value 608 612	15 K
+T27	Value 635 638	0.2
+T40	Value 642 646	0.33
+E1	Doping:T18 Dopant:T20 Site:T19

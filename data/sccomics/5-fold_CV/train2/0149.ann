@@ -1,0 +1,38 @@
+T1	Property 93 110	density of states
+T4	Characterization 267 280	photoemission
+T5	Property 329 340	Fermi level
+T6	SC 356 364	high-T c
+T7	SC 406 409	T c
+T8	Property 464 469	model
+T10	Property 844 849	model
+T11	Property 943 954	Fermi level
+T13	Property 1110 1123	instabilities
+T14	Property 1130 1138	magnetic
+T15	Material 1143 1153	structural
+T16	Property 1166 1180	charge density
+T17	Material 1213 1223	structural
+T18	Property 1224 1235	instability
+T19	Property 1416 1421	holes
+T20	Material 1456 1475	structural disorder
+T21	Element 772 780	cuprates
+T22	Element 624 632	cuprates
+T23	Element 365 373	cuprates
+T24	Property 112 115	dos
+T25	Property 4 24	Van Hove singularity
+T26	Property 26 29	VHS
+T27	Property 964 967	VHS
+T28	Property 460 463	VHS
+T29	Property 309 312	VHS
+T9	Property 602 616	Fermi surfaces
+T30	Material 1017 1026	nanoscale
+T31	Property 1255 1270	VHS-Jahn-Teller
+T32	Property 1607 1624	Van Hove scenario
+T33	Property 1762 1765	VHS
+T34	Property 825 843	rigid-band-filling
+T35	Property 1075 1078	dos
+T36	Material 1386 1412	nanoscale phase separation
+T37	Property 1720 1729	pseudogap
+T38	Element 1659 1667	cuprates
+T2	SC 215 239	high-T c superconductors
+T3	Doping 985 991	doping
+E1	Doping:T3 

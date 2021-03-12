@@ -1,0 +1,52 @@
+T1	Element 38 44	oxygen
+T4	Material 123 128	films
+T5	Material 163 168	films
+T6	Process 184 194	sputtering
+T7	Process 218 226	annealed
+T8	Process 265 274	pressures
+T9	Process 395 404	annealing
+T10	Property 464 475	resistivity
+T11	SC 540 555	superconducting
+T12	SC 602 625	transition temperatures
+T13	SC 662 665	T c
+T14	Material 740 747	surface
+T15	SC 812 815	T c
+T16	Property 1036 1041	model
+T17	Property 1080 1090	conductive
+T18	Property 1149 1164	Charge transfer
+T19	Material 1182 1188	planes
+T20	SC 1220 1235	superconducting
+T21	Element 1257 1263	Oxygen
+T23	SC 1391 1394	T c
+T24	Material 1485 1491	planes
+T25	Main 104 115	YBa2Cu3O7−δ
+T26	Main 117 121	YBCO
+T27	Value 132 138	87 GHz
+T28	Element 198 201	MgO
+T29	Value 231 234	1 h
+T30	Value 238 244	500° C
+T31	Element 258 264	oxygen
+T34	Element 315 321	oxygen
+T35	Value 408 414	250° C
+T36	Value 765 768	0.8
+T37	Element 846 852	oxygen
+T38	Element 867 873	Oxygen
+T39	Element 1143 1147	YBCO
+T40	Element 1177 1181	Cu-O
+T44	Material 202 212	substrates
+T45	Property 181 183	DC
+T46	Property 483 506	normal conducting state
+T47	SC 768 771	T c
+T48	Material 853 865	deficiencies
+T49	Property 1122 1139	two-gap structure
+T50	Value 158 162	five
+T51	Property 748 758	resistance
+T2	Property 73 90	surface impedance
+T52	Material 322 330	disorder
+T53	Material 874 882	disorder
+T54	Material 57 65	disorder
+T22	Property 1314 1324	energy gap
+T55	Property 1461 1471	energy gap
+T3	Value 283 285	80
+T33	Value 290 299	1000 mbar
+R1	Coref Arg1:T25 Arg2:T26

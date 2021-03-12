@@ -1,0 +1,58 @@
+T1	Material 28 45	crystal structure
+T2	SC 50 65	superconducting
+T3	Main 80 96	(Nb1-x Ti x )3Al
+T4	SC 111 126	superconductors
+T5	Property 141 152	high-energy
+T6	Process 153 165	ball milling
+T7	Element 173 184	Nb2Al phase
+T8	Element 202 218	(Nb1-x Ti x )3Al
+T10	Element 269 271	Ti
+T12	Element 305 307	Nb
+T13	Element 311 313	Ti
+T14	Element 317 322	Nb3Al
+T16	Material 364 382	Lattice parameters
+T17	Element 386 402	(Nb1-x Ti x )3Al
+T18	Characterization 418 437	Rietveld refinement
+T19	Characterization 441 444	XRD
+T20	Element 476 478	Ti
+T22	SC 498 501	T c
+T23	Element 505 521	(Nb1-x Ti x )3Al
+T24	Element 557 562	Nb3Al
+T25	Element 575 577	Ti
+T27	SC 622 626	ΔT c
+T28	Element 659 661	Ti
+T30	Element 668 673	Nb3Al
+T31	Property 689 692	J c
+T32	Property 708 719	high fields
+T33	Property 755 773	irreversible field
+T34	Element 786 802	(Nb1-x Ti x )3Al
+T36	Property 997 1009	flux pinning
+T37	Element 1027 1032	Nb3Al
+T38	Material 1064 1078	grain boundary
+T39	Property 1079 1086	pinning
+T45	Value 236 241	1 at%
+T15	Element 351 362	Nb2Al phase
+T54	Value 594 599	2 at%
+T55	Value 636 641	1.0 K
+T56	Value 653 658	2 at%
+T60	Value 808 812	0.02
+T61	Property 775 780	B irr
+T35	SC 965 986	superconducting phase
+T62	Characterization 883 894	measurement
+T9	Doping 252 258	doping
+T11	Doping 289 301	substitution
+T21	Doping 479 485	doping
+T26	Doping 578 583	doped
+T29	Doping 662 667	doped
+T40	Value 102 103	0
+T41	Value 104 109	5 at%
+T43	Value 282 287	2 at%
+R2	Target Arg1:E2 Arg2:T14
+R3	Target Arg1:E3 Arg2:T23
+R4	Target Arg1:E4 Arg2:T24
+R5	Target Arg1:E5 Arg2:T30
+E1	Doping:T9 Dopant:T10
+E2	Doping:T11 Site:T12 Dopant:T13
+E3	Doping:T21 Dopant:T20
+E4	Doping:T26 Dopant:T25
+E5	Doping:T29 Dopant:T28

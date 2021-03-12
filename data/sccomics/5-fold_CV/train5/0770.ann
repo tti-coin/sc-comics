@@ -1,0 +1,25 @@
+T1	SC 28 60	high-temperature superconducting
+T2	SC 62 65	HTS
+T3	Material 67 76	materials
+T4	Process 141 145	cool
+T5	SC 150 165	superconducting
+T6	Material 166 175	materials
+T7	SC 201 204	HTS
+T8	Property 297 303	theory
+T9	Process 330 345	low-temperature
+T10	Process 346 353	cooling
+T11	SC 354 369	superconducting
+T12	Process 465 474	pressures
+T14	Process 544 552	pressure
+T15	Process 612 621	pressures
+T16	Material 756 762	liquid
+T17	Element 763 771	nitrogen
+T18	Process 819 833	water pressure
+T19	Material 900 906	liquid
+T20	Element 907 915	nitrogen
+T21	SC 977 980	HTS
+T22	Process 989 996	cooling
+T23	Value 790 793	70K
+T24	Value 864 868	20°C
+T13	Material 370 376	magnet
+R1	Coref Arg1:T1 Arg2:T2

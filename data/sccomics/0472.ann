@@ -1,0 +1,44 @@
+T1	Element 0 12	Oxypnictides
+T2	Main 25 42	PrOFe1− x Co x As
+T3	Process 164 175	crystallize
+T4	Material 183 193	tetragonal
+T5	Element 194 202	ZrCuSiAs
+T6	Material 208 217	structure
+T7	Material 219 230	space group
+T8	Material 231 237	P4/nmm
+T9	Material 247 265	lattice parameters
+T10	Element 302 308	cobalt
+T11	Characterization 318 340	Mössbauer measurements
+T12	Property 371 375	spin
+T13	Element 376 380	Fe2+
+T14	Material 396 408	coordination
+T15	Property 410 421	Resistivity
+T16	Property 426 439	magnetization
+T17	SC 455 482	superconducting transitions
+T18	SC 539 561	transition temperature
+T19	SC 563 565	Tc
+T20	Property 623 634	resistivity
+T21	Property 668 682	magnetic field
+T22	Property 716 736	upper critical field
+T23	Material 768 779	composition
+T26	Property 830 838	electron
+T27	Property 844 859	charge carriers
+T28	Property 886 908	charge carrier density
+T35	Value 46 49	0.3
+T36	Property 149 159	monophasic
+T39	Value 572 575	14K
+T41	Value 601 604	0.1
+T42	Value 746 751	50.2T
+T43	Property 738 742	Hc 2
+T45	Value 764 767	0.1
+T24	Property 786 814	Seebeck and Hall coefficient
+T25	Property 816 818	RH
+T29	Element 936 938	Co
+T38	Value 505 509	0.05
+T46	Value 511 515	0.10
+T47	Value 520 524	0.15
+T49	Material 384 395	tetrahedral
+T50	Process 94 112	sealed tube method
+T30	Doping 939 945	doping
+R2	Equivalent Arg1:T19 Arg2:T39
+E1	Doping:T30 Dopant:T29

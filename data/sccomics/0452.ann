@@ -1,0 +1,44 @@
+T2	Property 60 67	non-BCS
+T3	SC 81 98	superconductivity
+T5	Element 114 122	cuprates
+T6	SC 148 163	superconducting
+T7	Property 199 212	spin vortices
+T9	Property 324 341	spin fluctuations
+T10	Property 403 416	spin vortices
+T12	Property 544 548	hole
+T14	Property 580 591	spin vortex
+T15	Property 628 640	spin-singlet
+T17	Property 647 659	spinon pairs
+T19	Property 804 811	density
+T22	Property 879 883	hole
+T23	Property 884 899	spectral weight
+T24	Property 939 946	density
+T25	Property 972 977	pairs
+T26	Property 1040 1050	hole pairs
+T29	Property 1056 1073	magnetic vortices
+T30	Property 1088 1094	plasma
+T31	Property 1143 1153	hole pairs
+T34	Property 1175 1192	magnetic vortices
+T35	SC 1213 1230	superconductivity
+T36	SC 1244 1259	superconducting
+T37	Property 1280 1283	BCS
+T38	Property 1317 1331	kinetic energy
+T40	Property 558 575	gauge interaction
+T41	Property 9 23	gauge approach
+T44	Property 302 318	fermionic holons
+T45	Property 359 374	bosonic spinons
+T13	Property 826 837	holon pairs
+T20	Property 642 645	RVB
+T16	Property 968 971	RVB
+T28	Property 473 489	gauge attraction
+T1	Property 128 140	gluing force
+T18	Property 1362 1379	spin interactions
+T8	Material 230 246	Néel sublattices
+T11	Property 498 503	holon
+T21	Property 508 514	spinon
+T27	Property 683 693	spinon gap
+T32	Property 1337 1344	spinons
+T4	Doping 103 113	underdoped
+T33	Property 31 40	t–J model
+R1	Target Arg1:E1 Arg2:T5
+E1	Doping:T4

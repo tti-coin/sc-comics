@@ -1,0 +1,69 @@
+T2	Element 35 41	BaZrO3
+T3	Element 43 46	BZO
+T4	SC 62 77	superconducting
+T5	Main 87 98	YBa2Cu3O7-δ
+T6	Main 100 104	YBCO
+T7	Process 136 152	room temperature
+T8	Property 166 177	resistivity
+T10	Element 208 211	BZO
+T11	Property 226 239	concentration
+T12	Element 243 246	BZO
+T13	Property 252 274	temperature dependence
+T14	Property 278 289	resistivity
+T15	Property 305 319	magnetic field
+T16	Property 336 347	resistivity
+T17	Material 362 372	composites
+T18	Property 388 401	concentration
+T19	Element 405 408	BZO
+T20	SC 415 437	transition temperature
+T21	SC 439 441	TC
+T22	Property 465 485	upper critical field
+T24	Property 559 581	Ginzburg Landau theory
+T26	Element 627 630	BZO
+T27	Element 634 638	YBCO
+T28	Property 653 670	activation energy
+T29	Property 712 718	vortex
+T32	Property 749 751	Tg
+T34	Element 796 799	BZO
+T35	Property 839 841	Tg
+T36	Material 881 886	grain
+T37	Element 903 907	YBCO
+T39	Element 951 954	BZO
+T40	Element 958 962	YBCO
+T41	SC 990 1005	superconducting
+T42	Property 1021 1029	magnetic
+T43	Property 672 674	U0
+T44	Property 515 554	Werthamer, Helfand and Hohenberg theory
+T23	Property 692 707	Arrhenius plots
+T30	Property 719 747	glass transition temperature
+T1	Doping 23 31	addition
+T9	Doping 196 204	addition
+T25	Doping 615 623	addition
+T31	Doping 784 792	addition
+T33	Doping 939 947	addition
+R1	Coref Arg1:T2 Arg2:T3
+R2	Coref Arg1:T5 Arg2:T6
+R3	Coref Arg1:T20 Arg2:T21
+R4	Target Arg1:E1 Arg2:T5
+R5	Target Arg1:E3 Arg2:T27
+R6	Target Arg1:E5 Arg2:T40
+E1	Doping:T1 Dopant:T2
+E2	Doping:T9 Dopant:T10
+E3	Doping:T25 Dopant:T26
+E4	Doping:T31 Dopant:T34
+E5	Doping:T33 Dopant:T39
+#1	AnnotatorNotes T2	35-41
+#2	AnnotatorNotes T3	43-46
+#3	AnnotatorNotes T5	87-98
+#4	AnnotatorNotes T6	100-104
+#5	AnnotatorNotes T10	208-211
+#6	AnnotatorNotes T12	243-246
+#7	AnnotatorNotes T17	362-372
+#8	AnnotatorNotes T19	405-408
+#9	AnnotatorNotes T26	627-630
+#10	AnnotatorNotes T27	634-638
+#11	AnnotatorNotes T34	796-799
+#12	AnnotatorNotes T36	881-886
+#13	AnnotatorNotes T37	903-907
+#14	AnnotatorNotes T39	951-954
+#15	AnnotatorNotes T40	958-962

@@ -1,0 +1,55 @@
+T1	Property 4 12	magnetic
+T2	SC 17 32	superconducting
+T3	Element 51 53	Sm
+T6	Property 151 165	magnetic field
+T7	Property 190 198	magnetic
+T9	SC 221 259	superconducting transition temperature
+T10	Property 286 294	magnetic
+T11	Property 295 301	moment
+T12	Property 307 322	hysteresis loop
+T13	Element 330 356	La0.87− x Sm x Sr0.13FeAsO
+T14	SC 372 387	superconducting
+T15	Property 388 398	hysteresis
+T16	Property 405 417	paramagnetic
+T17	Property 441 453	paramagnetic
+T18	Element 489 491	Sm
+T19	Property 492 499	moments
+T20	Property 553 562	magnetism
+T21	SC 567 584	superconductivity
+T22	Property 592 596	hole
+T24	Element 603 607	FeAs
+T25	SC 614 629	superconducting
+T26	Property 664 672	electron
+T28	Element 679 683	FeAs
+T29	SC 690 705	superconducting
+T30	Element 716 724	SmFeAsOF
+T31	Property 730 734	hole
+T33	SC 741 758	superconductivity
+T35	Element 794 796	La
+T36	Element 800 802	Sm
+T37	Property 808 812	hole
+T39	Property 823 831	electron
+T42	Material 199 202	ion
+T5	Doping 54 59	doped
+T4	Main 60 64	FeAs
+T8	SC 71 86	superconducting
+T23	Doping 597 602	doped
+T27	Doping 673 678	doped
+T32	Doping 778 790	substitution
+T34	Doping 735 740	doped
+T38	Doping 813 818	doped
+T40	Doping 832 837	doped
+T41	Doping 203 215	substitution
+R1	Target Arg1:E1 Arg2:T4
+R2	Target Arg1:E2 Arg2:T24
+R3	Target Arg1:E3 Arg2:T28
+R4	Target Arg1:E5 Arg2:T30
+R5	Target Arg1:E4 Arg2:T30
+E1	Doping:T5 Dopant:T3
+E2	Doping:T23 Dopant:T22
+E3	Doping:T27 Dopant:T26
+E4	Doping:T32 Site:T35 Dopant:T36
+E5	Doping:T34 Dopant:T31
+E6	Doping:T38 Dopant:T37
+E7	Doping:T40 Dopant:T39
+E8	Doping:T41 

@@ -1,0 +1,73 @@
+T1	Material 13 27	single crystal
+T3	Main 78 86	Ce2PdIn8
+T4	Main 88 97	Ce3PdIn11
+T5	Main 99 107	Ce2PtIn8
+T6	Main 112 121	Ce3PtIn11
+T7	Element 127 137	Pt-systems
+T8	Element 138 146	Ce2PtIn8
+T9	Element 151 160	Ce3PtIn11
+T10	Element 231 247	Ce n T m In3n+2m
+T12	Property 328 341	heavy fermion
+T13	SC 342 356	superconductor
+T14	Element 357 364	CeCoIn5
+T15	Material 374 389	Single crystals
+T16	Process 400 405	grown
+T18	Characterization 433 466	Differential scanning calorimetry
+T19	Process 503 520	growth conditions
+T20	Process 545 562	growth conditions
+T21	Material 573 582	materials
+T22	Material 608 622	Single crystal
+T23	Characterization 623 628	x-ray
+T24	Element 644 652	Ce2 TIn8
+T25	Process 663 674	crystallize
+T26	Material 682 692	tetragonal
+T27	Element 693 701	Ho2CoGa8
+T28	Material 709 720	space group
+T29	Material 721 727	P4/mmm
+T30	Material 734 752	lattice parameters
+T31	Element 788 790	Pt
+T32	Element 802 804	Pd
+T33	Element 839 848	Ce3 TIn11
+T34	Element 865 874	Ce3PdIn11
+T35	Material 875 884	structure
+T36	Element 926 928	Pt
+T37	Element 940 942	Pd
+T38	Property 970 983	Specific heat
+T39	Element 999 1008	Ce3PtIn11
+T40	Element 1013 1022	Ce3PdIn11
+T41	Property 1080 1100	magnetic transitions
+T42	Property 1126 1129	T N
+T43	Property 1154 1157	T N
+T45	Element 1275 1277	Ce
+T46	Element 1281 1283	Pd
+T47	Element 1296 1298	Ce
+T48	Property 1326 1339	heavy fermion
+T49	Material 1340 1349	materials
+T53	Process 415 431	self-flux method
+T54	Value 601 606	750°C
+T55	Value 808 818	4.6881(4)Å
+T56	Value 825 836	12.2031(8)Å
+T57	Value 946 953	4.6896Å
+T58	Value 960 967	16.891Å
+T59	Value 892 902	4.6874(4)Å
+T60	Value 909 921	16.8422(12)Å
+T62	Value 1131 1135	2.0K
+T64	Value 1159 1163	1.5K
+T65	Property 1140 1141	T
+T67	Property 1104 1105	T
+T68	Value 755 765	4.6898(3)Å
+T69	Value 772 783	12.1490(8)Å
+T77	Value 251 252	1
+T78	Value 254 255	2
+T79	Value 262 263	1
+T80	Value 265 266	2
+T11	Element 277 293	transition metal
+T66	Element 1259 1261	Pt
+T86	Value 1262 1274	0.300J/molK2
+T87	Value 1284 1295	0.29J/molK2
+T50	Property 1224 1247	Sommerfeld coefficients
+T82	Process 28 34	growth
+T2	Value 1106 1107	1
+T17	Value 1109 1113	2.2K
+T44	Value 1142 1143	1
+T51	Value 1145 1149	1.7K

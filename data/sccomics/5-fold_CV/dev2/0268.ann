@@ -1,0 +1,58 @@
+T1	Main 14 25	YBa2Cu3O7-δ
+T2	Main 27 31	YBCO
+T3	Element 83 88	YMnO3
+T4	Element 90 93	YMO
+T5	Material 125 135	composites
+T8	Material 217 232	microstructural
+T9	Element 269 273	YBCO
+T10	SC 458 473	superconducting
+T11	Element 483 491	YBCO−YMO
+T12	Material 492 500	ceramics
+T13	Element 512 515	YMO
+T15	Element 591 595	O(4)
+T16	Property 596 600	band
+T19	Element 728 731	YMO
+T21	SC 784 799	superconducting
+T22	Element 814 818	YBCO
+T23	Material 819 831	crystallites
+T24	Material 849 859	composites
+T25	SC 868 888	critical temperature
+T26	SC 889 892	T c
+T29	Property 964 990	critical current densities
+T30	Property 992 995	J c
+T35	Value 152 156	0.10
+T37	Material 321 338	crystallite sizes
+T38	Value 346 351	50 μm
+T39	Value 356 362	300 μm
+T40	Process 380 389	calcining
+T41	Property 619 638	higher wave numbers
+T44	Value 740 748	1.00 wt%
+T45	Value 902 906	92 K
+T46	Value 954 958	77 K
+T47	Value 1000 1010	205 A cm−2
+T49	Value 1033 1042	35 A cm−2
+T6	Element 136 146	YBCO‒x%YMO
+T7	Element 1015 1028	YBCO−0.25%YMO
+T31	Element 1047 1060	YBCO−5.00%YMO
+T14	Material 562 580	orthorhombic phase
+T20	Characterization 646 657	Raman scale
+T34	Value 158 162	0.25
+T42	Value 164 168	0.50
+T50	Value 170 174	0.75
+T51	Value 176 180	1.00
+T52	Value 185 193	5.00 wt%
+T17	Property 67 82	magnetoelectric
+T18	Doping 33 43	inoculated
+T27	Doping 716 724	addition
+T32	Property 668 676	magnetic
+T33	Characterization 677 689	measurements
+T28	Property 919 937	magneto-resistance
+T43	Characterization 938 950	measurements
+R1	Coref Arg1:T1 Arg2:T2
+R2	Coref Arg1:T3 Arg2:T4
+R3	Equivalent Arg1:T26 Arg2:T45
+R4	Coref Arg1:T25 Arg2:T26
+R5	Target Arg1:E1 Arg2:T1
+R6	Target Arg1:T45 Arg2:T22
+E1	Doping:T18 Dopant:T3
+E2	Doping:T27 Dopant:T19

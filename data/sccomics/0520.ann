@@ -1,0 +1,61 @@
+T3	Element 53 65	[6]phenacene
+T4	Element 70 82	[7]phenacene
+T6	Element 185 197	[6]phenacene
+T7	Material 198 212	single crystal
+T8	Element 225 229	SiO2
+T9	Property 235 245	dielectric
+T10	Element 270 282	[7]phenacene
+T11	Material 283 297	single crystal
+T12	Element 332 364	7,7,8,8-tetracyanoquinodimethane
+T13	Element 397 399	Au
+T14	Material 413 423	electrodes
+T15	Material 432 446	single crystal
+T16	Property 457 471	hole-injection
+T17	Element 525 537	[7]phenacene
+T18	Material 538 552	single crystal
+T19	Element 564 569	Ta2O5
+T20	Property 575 585	dielectric
+T21	Element 665 717	2,3,5,6-tetrafluoro-7,7,8,8-tetracyanoquinodimethane
+T22	Element 719 725	F4TCNQ
+T23	Material 734 743	interface
+T24	Element 801 813	[7]phenacene
+T25	Material 814 828	single crystal
+T26	Element 850 856	F4TCNQ
+T27	Material 872 881	interface
+T28	Material 908 922	single crystal
+T29	Property 923 931	electric
+T30	Material 932 944	double-layer
+T31	Element 1047 1059	[6]phenacene
+T32	Element 1064 1076	[7]phenacene
+T33	Material 1091 1100	materials
+T35	SC 1258 1272	superconductor
+T36	SC 1311 1326	superconducting
+T1	Characterization 15 39	field-effect transistors
+T2	Characterization 41 45	FETs
+T37	Value 159 179	5.6×10−1 cm2 V−1 s−1
+T38	Value 250 264	2.3cm2 V−1 s−1
+T39	Element 366 370	TCNQ
+T40	Value 971 991	3.8×10−1 cm2 V−1 s−1
+T41	Value 1013 1017	2.3V
+T43	Value 632 636	6.3V
+T45	Characterization 298 301	FET
+T46	Element 900 904	TCNQ
+T47	Characterization 945 948	FET
+T48	Characterization 1122 1125	FET
+T50	Characterization 88 101	p-channel FET
+T51	Characterization 213 216	FET
+T52	Characterization 326 330	FETs
+T54	Characterization 829 832	FET
+T34	Characterization 553 556	FET
+T44	Value 503 517	3.2cm2 V−1 s−1
+T42	Value 774 792	4.7–6.7cm2 V−1 s−1
+T49	Material 0 14	Single crystal
+T5	Property 119 142	Field-effect mobilities
+T53	Property 144 146	μs
+T57	Property 958 959	μ
+T58	Property 493 494	μ
+T59	Property 765 766	μ
+T55	Doping 376 384	inserted
+T56	Doping 652 661	Insertion
+E1	Doping:T55 Dopant:T12 Site:T13
+E2	Doping:T56 Dopant:T21

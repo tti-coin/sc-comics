@@ -1,0 +1,91 @@
+T1	Material 16 26	structural
+T2	Property 28 36	magnetic
+T3	Property 42 52	dielectric
+T4	Main 67 80	Co1−xMgxCr2O4
+T5	Material 81 94	nanoparticles
+T6	Material 100 111	composition
+T7	Characterization 158 175	X-ray diffraction
+T8	Characterization 177 180	XRD
+T10	Characterization 236 255	Rietveld refinement
+T11	Characterization 279 282	XRD
+T12	Material 293 308	impurity phases
+T13	Material 342 354	single phase
+T14	Element 355 368	Co1−xMgxCr2O4
+T15	Material 369 382	nanoparticles
+T17	Characterization 503 515	spectroscopy
+T20	Element 658 665	CoCr2O4
+T24	Process 704 706	FC
+T26	Property 736 748	paramagnetic
+T27	Property 750 752	PM
+T28	Property 772 775	FiM
+T29	Property 791 793	Tc
+T33	Property 899 902	FiM
+T34	Property 907 924	antiferromagnetic
+T35	Property 926 929	AFM
+T36	Property 946 948	Tc
+T39	Property 1125 1128	AFM
+T40	Material 1129 1138	structure
+T41	Element 1171 1178	MgCr2O4
+T42	Property 1180 1190	High field
+T46	Process 1326 1342	low temperatures
+T47	Property 1344 1354	Dielectric
+T48	Element 1405 1407	Mg
+T52	Property 1498 1508	Dielectric
+T53	Material 1538 1551	nanoparticles
+T54	Element 1635 1637	Mg
+T56	Material 1675 1685	structural
+T57	Property 1687 1695	magnetic
+T58	Property 1701 1711	dielectric
+T59	Element 1726 1733	CoCr2O4
+T60	Material 1734 1747	nanoparticles
+T61	Property 1796 1804	magnetic
+T62	Material 1887 1900	nanoparticles
+T16	Characterization 469 495	Fourier transform infrared
+T65	Characterization 497 501	FTIR
+T68	Characterization 459 464	Raman
+T70	Process 686 698	field cooled
+T71	Process 668 685	zero field cooled
+T72	Process 700 703	ZFC
+T73	Property 757 770	ferrimagnetic
+T74	Value 795 798	97K
+T76	Value 1047 1050	15K
+T79	Value 1202 1204	5T
+T81	Property 838 840	Ts
+T82	Value 842 845	30K
+T84	Material 388 412	average crystallite size
+T87	Property 708 728	magnetization curves
+T88	Property 805 834	conical spiral magnetic order
+T89	Property 1235 1256	spiral magnetic state
+T50	Property 1458 1478	Maxwell-Wagner model
+T51	Property 1483 1496	Koop’s theory
+T43	Property 1191 1200	FC curves
+T91	Material 1597 1621	average crystallite size
+T92	Material 1844 1868	average crystallite size
+T32	Element 881 888	MgCr2O4
+T31	Element 863 870	CoCr2O4
+T98	Value 114 115	0
+T99	Value 117 120	0.2
+T100	Value 122 125	0.4
+T101	Value 127 130	0.5
+T102	Value 132 135	0.6
+T103	Value 137 140	0.8
+T104	Value 145 146	1
+T108	Value 454 457	0.6
+T110	Value 644 647	0.6
+T112	Value 655 656	0
+T114	Value 874 875	0
+T116	Value 892 893	1
+T118	Value 1057 1060	0.6
+T121	Value 1559 1562	0.6
+T18	Value 1144 1145	1
+T19	Element 1297 1300	B-B
+T21	Property 1025 1039	AFM transition
+T22	Property 1301 1322	magnetic interactions
+T23	Property 953 955	Ts
+T9	Material 568 574	spinel
+T37	Property 1043 1045	TN
+T38	Property 1408 1421	concentration
+T25	Material 198 214	spinel structure
+T44	Doping 1638 1644	doping
+R1	Target Arg1:E1 Arg2:T59
+E1	Doping:T44 Dopant:T54

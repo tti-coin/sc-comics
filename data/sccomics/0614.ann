@@ -1,0 +1,46 @@
+T1	Property 31 39	critical
+T2	Property 60 75	magnetic fields
+T3	Main 79 99	Ba(Fe0.95Ni0.05)2As2
+T4	Material 107 112	grain
+T5	Material 123 128	grain
+T6	Main 139 159	Ba(Fe0.94Ni0.06)2As2
+T7	Main 161 181	Ba(Fe0.92Co0.08)2As2
+T8	Main 187 207	Ba(Fe0.92Co0.09)2As2
+T9	Material 208 223	polycrystalline
+T10	Material 224 228	bulk
+T11	SC 238 253	superconductors
+T12	Property 303 329	magnetic field-temperature
+T13	Property 336 350	phase diagrams
+T14	Property 409 429	upper critical field
+T18	Process 525 541	low temperatures
+T20	Property 833 846	pair breaking
+T21	Property 851 855	spin
+T22	Property 856 868	paramagnetic
+T23	Property 869 882	pair-breaking
+T24	Material 914 923	materials
+T26	Material 964 973	materials
+T27	Property 1017 1028	single-band
+T28	Property 1029 1034	model
+T29	Element 1101 1109	pnictide
+T30	SC 1110 1125	superconductors
+T31	Element 1140 1142	Co
+T32	Element 1148 1150	Ni
+T34	Value 289 292	65T
+T35	Value 364 368	1.5K
+T36	Property 475 508	Werthamer, Helfand, and Hohenberg
+T16	Property 510 513	WHH
+T17	Property 671 703	Fulde-Ferrell-Larkin-Ovchinnikov
+T37	Property 705 709	FFLO
+T39	Property 934 954	multi-band structure
+T25	Property 588 591	WHH
+T15	Property 266 279	pulsed fields
+T19	Element 229 237	pnictide
+T40	Property 515 520	model
+T41	Material 742 764	Maki fitting parameter
+T42	Property 792 805	pair breaking
+T38	Property 785 791	Zeeman
+T33	Doping 1152 1158	doping
+R1	Target Arg1:E1 Arg2:T29
+R2	Target Arg1:E2 Arg2:T29
+E1	Doping:T33 Dopant:T32
+E2	Doping:T33 Dopant:T31

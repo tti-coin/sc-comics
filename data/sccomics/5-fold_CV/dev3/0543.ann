@@ -1,0 +1,30 @@
+T1	Property 11 27	first principles
+T3	Property 33 44	calculation
+T4	SC 69 83	superconductor
+T5	Main 84 96	LaO1-xFxBiS2
+T7	Material 112 129	lattice structure
+T8	Element 138 146	fluorine
+T10	Property 188 195	valence
+T11	Property 211 216	bands
+T12	Element 252 254	La
+T13	Element 259 260	S
+T14	Element 276 284	fluorine
+T16	Property 318 326	band gap
+T17	Property 351 369	four orbital model
+T18	Element 377 381	BiS2
+T19	Material 382 387	layer
+T20	Material 403 420	lattice structure
+T23	Property 457 461	band
+T24	Property 474 482	band gap
+T25	Property 498 519	carrier concentration
+T26	Property 541 549	electron
+T28	Property 590 610	transport properties
+T2	Property 28 32	band
+T6	Property 172 175	gap
+T9	Doping 147 153	doping
+T15	Doping 285 291	doping
+T21	Doping 550 556	doping
+R1	Target Arg1:E1 Arg2:T5
+E1	Doping:T9 Dopant:T8
+E2	Doping:T15 Dopant:T14
+E3	Doping:T21 Dopant:T26

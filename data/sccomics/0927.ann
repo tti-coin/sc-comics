@@ -1,0 +1,64 @@
+T1	Material 0 9	Interface
+T2	SC 19 36	superconductivity
+T3	Main 80 84	FeSe
+T4	Material 85 90	films
+T5	Process 91 96	grown
+T6	Element 108 112	TiO2
+T7	Element 124 129	oxide
+T8	Material 130 140	substrates
+T10	Element 182 187	oxide
+T11	Material 188 198	substrates
+T12	SC 263 280	superconductivity
+T14	Element 339 343	FeSe
+T15	Element 347 355	MgO(001)
+T16	Material 356 365	substrate
+T18	Characterization 392 433	Scanning transmission electron microscopy
+T19	Material 455 474	interface structure
+T20	Element 490 494	FeSe
+T21	Material 495 500	films
+T22	Process 501 505	grow
+T23	Material 506 517	epitaxially
+T24	Element 521 529	MgO(001)
+T25	Element 549 551	Fe
+T26	Material 552 557	atoms
+T27	Material 583 589	layers
+T28	Element 593 596	MgO
+T30	Element 612 614	Mg
+T31	Material 615 620	atoms
+T34	Property 626 664	density functional theory calculations
+T36	Property 708 723	charge transfer
+T37	Element 733 736	MgO
+T38	Material 737 746	substrate
+T39	Element 754 758	FeSe
+T40	Material 759 764	films
+T41	Element 817 821	FeSe
+T43	SC 880 897	superconductivity
+T44	SC 933 950	superconductivity
+T45	Element 976 980	FeSe
+T46	Material 981 986	films
+T47	Element 990 996	oxides
+T48	Material 997 1007	substrates
+T49	Property 1037 1052	charge transfer
+T50	Material 1071 1080	interface
+T51	SC 1144 1178	high temperature superconductivity
+T52	Material 1182 1191	interface
+T54	Value 321 325	18 K
+T9	Material 70 79	monolayer
+T32	Material 329 338	monolayer
+T33	Material 966 975	monolayer
+T55	Process 113 123	terminated
+T56	Material 539 548	overlayer
+T57	Material 807 816	monolayer
+T29	Doping 601 611	substitute
+T35	Value 42 46	50 K
+T13	SC 289 317	onset transition temperature
+T42	Element 825 829	TiO2
+T53	Process 830 840	terminated
+T58	Element 841 847	oxides
+T17	Property 369 378	transport
+T59	Characterization 379 390	measurement
+R1	Target Arg1:T54 Arg2:T14
+R2	Equivalent Arg1:T13 Arg2:T54
+E1	Doping:T29 Site:T30 Dopant:T25
+R3	Equivalent Arg1:T2 Arg2:T35
+R4	Target Arg1:T35 Arg2:T3

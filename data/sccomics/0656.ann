@@ -1,0 +1,55 @@
+T1	Property 14 22	magnetic
+T2	Element 23 25	Ni
+T3	Property 30 42	non-magnetic
+T4	Element 43 45	Zn
+T5	Material 46 56	impurities
+T6	SC 60 98	superconducting transition temperature
+T7	SC 99 101	Tc
+T8	Main 105 134	RuSr2 R(Cu1− x (Ni,Zn) x )2O8
+T9	Element 143 145	Gd
+T10	Element 149 151	Eu
+T11	Element 153 155	Ni
+T12	Element 161 163	Zn
+T13	Element 176 188	Ru1212Gd(Eu)
+T14	Element 264 293	RuSr2 R(Cu1− x (Ni,Zn) x )2O8
+T16	Element 330 359	YBa2(Cu1− x (Ni,Zn) x )3O7− δ
+T17	SC 381 398	superconductivity
+T18	Element 402 404	Ni
+T19	Element 417 425	Ru1212Eu
+T21	Element 502 504	Ni
+T22	Property 528 532	pair
+T23	Element 546 548	Zn
+T24	Property 574 582	magnetic
+T25	Element 583 585	Ni
+T28	SC 625 642	superconductivity
+T29	Property 648 660	non-magnetic
+T30	Element 661 663	Zn
+T31	Material 664 669	atoms
+T32	Element 673 681	Ru1212Gd
+T33	SC 719 726	high-Tc
+T34	Element 727 735	cuprates
+T35	Material 789 797	impurity
+T36	Property 831 833	3d
+T37	Property 834 850	spin correlation
+T38	Element 854 856	Cu
+T39	Element 870 872	Ni
+T40	Element 873 875	Zn
+T41	Element 908 916	Ru1212Gd
+T42	Element 921 929	Ru1212Eu
+T20	Element 467 469	Zn
+T26	Material 586 594	impurity
+T55	Material 595 600	atoms
+T15	Doping 164 175	substituted
+T27	Doping 319 329	underdoped
+T48	Doping 405 416	substituted
+T54	Doping 470 481	substituted
+R1	Target Arg1:E1 Arg2:T13
+R2	Target Arg1:E3 Arg2:T16
+R3	Target Arg1:E4 Arg2:T19
+R5	Target Arg1:E5 Arg2:T19
+R6	Target Arg1:E2 Arg2:T13
+E1	Doping:T15 Dopant:T11
+E3	Doping:T27
+E4	Doping:T48 Dopant:T18
+E5	Doping:T54 Dopant:T20
+E2	Doping:T15 Dopant:T12

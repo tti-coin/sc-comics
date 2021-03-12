@@ -1,0 +1,59 @@
+T1	Main 0 25	(Nd0.1Eu0.1Gd0.8)Ba2Cu3Oy
+T2	Main 27 34	NEG-123
+T3	Element 85 89	BaO2
+T4	Element 123 126	NEG
+T5	Element 127 129	Ba
+T7	Process 177 180	air
+T8	Characterization 186 189	DTA
+T9	Process 221 235	heat treatment
+T11	Process 251 262	melt growth
+T12	Property 276 289	magnetization
+T13	SC 318 356	superconducting transition temperature
+T14	Element 387 391	BaO2
+T15	Property 392 405	concentration
+T16	SC 412 423	T c (onset)
+T17	Element 471 475	BaO2
+T18	Element 501 504	NEG
+T19	Process 534 549	oxygen pressure
+T20	SC 565 603	superconducting transition temperature
+T21	Element 619 623	BaO2
+T22	Property 654 675	irreversibility field
+T23	Element 710 714	BaO2
+T24	Property 715 728	concentration
+T25	Element 774 778	BaO2
+T26	Process 915 929	melt-processed
+T27	Element 930 937	NEG-123
+T28	Material 938 947	materials
+T29	Process 951 954	air
+T30	SC 35 50	superconductors
+T31	Value 439 442	95K
+T32	Value 463 470	24 mol%
+T33	Value 641 648	28 mol%
+T34	Value 742 745	5 T
+T35	Value 766 773	24 mol%
+T6	Doping 130 142	substitution
+T10	Characterization 290 302	measurements
+R1	Coref Arg1:T1 Arg2:T2
+R2	Equivalent Arg1:T16 Arg2:T31
+R3	Target Arg1:E1 Arg2:T1
+R4	Target Arg1:E2 Arg2:T1
+E1	Doping:T6 Site:T4 Dopant:T3
+E2	Doping:T6 Dopant:T3 Site:T5
+#1	AnnotatorNotes T1	0-25
+#2	AnnotatorNotes T2	27-34
+#3	AnnotatorNotes T3	85-89
+#4	AnnotatorNotes T4	123-126
+#5	AnnotatorNotes T5	127-129
+#6	AnnotatorNotes T14	387-391
+#7	AnnotatorNotes T17	471-475
+#8	AnnotatorNotes T18	501-504
+#9	AnnotatorNotes T21	619-623
+#10	AnnotatorNotes T23	710-714
+#11	AnnotatorNotes T25	774-778
+#12	AnnotatorNotes T27	930-937
+#13	AnnotatorNotes T28	938-947
+#14	AnnotatorNotes T31	439-442
+#15	AnnotatorNotes T32	463-470
+#16	AnnotatorNotes T33	641-648
+#17	AnnotatorNotes T34	742-745
+#18	AnnotatorNotes T35	766-773

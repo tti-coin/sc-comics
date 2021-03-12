@@ -1,0 +1,55 @@
+T2	Material 35 49	microstructure
+T3	Property 54 74	transport properties
+T5	Characterization 191 194	SEM
+T8	SC 268 271	T c
+T9	Property 326 340	magnetic field
+T10	Material 378 384	dopant
+T12	SC 475 478	T c
+T14	Process 603 611	sintered
+T16	Property 678 692	magnetic field
+T19	Property 933 942	diffusion
+T20	SC 954 968	superconductor
+T21	SC 1000 1003	T c
+T22	Material 1070 1075	grain
+T23	Material 1076 1090	misorientation
+T25	Property 1184 1198	magnetic field
+T26	Material 1223 1228	grain
+T27	Material 1240 1245	grain
+T28	Property 1246 1258	conductivity
+T29	Property 1167 1170	J c
+T30	Element 14 20	silver
+T31	Element 78 80	Ag
+T32	Material 81 88	sheated
+T33	Main 89 114	(Bi,Pb)2Sr2Ca2Cu3Ag x O10
+T35	Property 300 303	J c
+T7	SC 246 266	critical temperature
+T36	Property 274 298	critical current density
+T40	Property 523 526	J c
+T41	Element 429 435	silver
+T42	Element 560 566	silver
+T43	Property 661 664	J c
+T44	Property 795 798	J c
+T37	Property 309 312	J c
+T45	Material 810 825	Microstructural
+T46	Property 1124 1127	J c
+T47	Element 1047 1063	silver particles
+T48	Element 847 853	silver
+T49	Property 1263 1275	flux pinning
+T50	Element 1146 1152	silver
+T4	Characterization 161 189	scanning electron microscope
+T1	Doping 21 27	doping
+T11	Doping 436 442	doping
+T13	Doping 567 573	doping
+T15	Doping 721 726	doped
+T17	Doping 755 761	doping
+T18	Doping 1153 1159	doping
+T24	Value 397 400	0.0
+T34	Value 401 404	3.5
+T6	Property 212 222	electrical
+T38	Characterization 223 235	measurements
+E1	Doping:T1 Dopant:T30
+E2	Doping:T11 Dopant:T41
+E3	Doping:T13 Dopant:T42
+E4	Doping:T15
+E5	Doping:T17
+E6	Doping:T18 Dopant:T50

@@ -1,0 +1,51 @@
+T1	Main 0 7	LaNiAsO
+T2	SC 20 34	superconductor
+T3	SC 42 44	Tc
+T4	Element 55 61	Oxygen
+T5	Material 62 72	deficiency
+T6	Material 141 150	structure
+T7	SC 168 170	Tc
+T8	SC 195 197	Tc
+T9	Element 201 212	LaNiAsO1− δ
+T11	Property 355 375	upper critical field
+T12	Property 390 403	specific heat
+T15	Property 463 479	coherence length
+T17	Property 554 578	electron–phonon coupling
+T18	Element 596 606	LaNiAsO0.7
+T19	SC 623 625	Tc
+T20	Property 632 645	specific heat
+T21	Property 660 663	BCS
+T22	SC 696 698	Tc
+T23	SC 727 744	superconductivity
+T26	Element 778 780	La
+T27	Element 784 786	Sm
+T28	SC 809 811	Tc
+T29	Element 847 854	LaNiAsO
+T30	Element 864 873	1111-type
+T32	SC 883 898	superconductors
+T33	Property 936 958	Fermi surface topology
+T34	SC 963 980	superconductivity
+T35	Value 49 53	2.7K
+T37	Value 113 116	0.3
+T38	Value 175 179	4.1K
+T40	Value 186 189	0.3
+T44	Value 286 289	0.3
+T46	Property 426 454	thermodynamic critical field
+T47	Property 455 461	Hc (0)
+T16	Property 480 484	ξ(0)
+T48	Property 504 508	λ(0)
+T49	Property 486 503	penetration depth
+T50	Property 514 539	Ginzburg–Landau parameter
+T51	Property 540 544	κ(0)
+T10	Property 324 344	lower critical field
+T52	Property 345 349	Hc 1
+T53	Property 376 380	Hc 2
+T54	Property 404 406	Cp
+T55	Property 588 591	λep
+T56	Property 720 726	gapped
+T31	Element 874 876	Fe
+T24	Doping 763 774	replacement
+R1	Equivalent Arg1:T3 Arg2:T35
+R2	Equivalent Arg1:T7 Arg2:T38
+R3	Target Arg1:T35 Arg2:T1
+E1	Doping:T24 Site:T26 Dopant:T27

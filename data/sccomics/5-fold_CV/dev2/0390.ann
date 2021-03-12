@@ -1,0 +1,50 @@
+T2	Element 44 51	gallium
+T3	Element 55 63	aluminum
+T4	Element 65 74	germanium
+T5	Element 76 79	tin
+T6	Element 84 90	indium
+T7	Main 94 101	PuCoGa5
+T8	Element 107 115	actinide
+T9	SC 122 136	superconductor
+T11	Process 179 188	annealing
+T12	Process 189 199	arc-melted
+T14	Element 281 283	Al
+T15	Element 288 290	Ge
+T16	Element 297 306	PuCoGa4Al
+T17	Element 311 320	PuCoGa4Ge
+T18	Characterization 338 362	X-ray powder diffraction
+T20	Process 488 497	reduction
+T21	SC 505 525	critical temperature
+T22	SC 526 528	Tc
+T23	Element 541 548	PuCoGa5
+T24	Property 557 569	calculations
+T25	SC 600 602	Tc
+T26	Property 648 661	Fermi surface
+T27	Element 688 695	PuCoGa5
+T28	Element 718 722	69Ga
+T29	Element 727 731	71Ga
+T30	Material 732 740	isotopes
+T31	Element 780 787	gallium
+T35	Property 550 556	DFT+ED
+T36	Value 261 264	20%
+T34	Material 417 420	c/a
+T37	Characterization 672 684	measurements
+T38	Property 436 459	magnetic susceptibility
+T1	Doping 31 43	substituting
+T13	Doping 265 277	substitution
+T10	SC 154 174	critical temperature
+T19	Characterization 460 472	measurements
+T32	SC 795 831	superconducting critical temperature
+R1	Target Arg1:E1 Arg2:T7
+R2	Target Arg1:E2 Arg2:T7
+R3	Target Arg1:E3 Arg2:T7
+R4	Target Arg1:E4 Arg2:T7
+R5	Target Arg1:E5 Arg2:T17
+R6	Target Arg1:E6 Arg2:T16
+R7	Coref Arg1:T21 Arg2:T22
+E1	Doping:T1 Site:T2 Dopant:T5
+E2	Doping:T1 Site:T2 Dopant:T6
+E3	Doping:T1 Site:T2 Dopant:T4
+E4	Doping:T1 Site:T2 Dopant:T3
+E5	Doping:T13 Dopant:T15
+E6	Doping:T13 Dopant:T14

@@ -1,0 +1,59 @@
+T1	Element 0 10	Zinc oxide
+T2	Element 12 15	ZnO
+T3	Material 17 30	nanoparticles
+T4	Main 35 59	Cu0.5Tl0.5Ba2Ca2Cu3O10−δ
+T5	Main 61 70	CuTl-1223
+T6	SC 72 87	superconducting
+T7	Process 134 154	solid-state reaction
+T8	Element 170 173	ZnO
+T9	Material 174 187	nanoparticles
+T10	Element 204 213	CuTl-1223
+T11	Element 221 241	(ZnO) x -(CuTl-1223)
+T12	Material 268 281	nanoparticles
+T13	SC 282 296	superconductor
+T14	Material 297 307	composites
+T15	Material 404 421	crystal structure
+T16	Element 430 445	CuTl-1223 phase
+T18	Element 464 467	ZnO
+T19	Material 468 481	nanoparticles
+T20	Material 533 546	nanoparticles
+T21	Material 554 560	grains
+T22	Element 590 593	ZnO
+T23	Material 594 607	nanoparticles
+T24	Material 663 669	grains
+T25	Element 695 710	CuTl-1223 phase
+T27	SC 716 752	zero resistance critical temperature
+T30	Element 810 813	ZnO
+T31	Material 814 827	nanoparticles
+T32	Element 831 840	CuTl-1223
+T33	Material 841 847	matrix
+T34	Property 853 863	dielectric
+T35	Property 897 917	dielectric constants
+T36	Property 937 947	dielectric
+T37	Property 1030 1041	conductance
+T38	Property 1063 1072	frequency
+T39	Property 1124 1134	dielectric
+T40	Property 1182 1191	frequency
+T41	Property 1230 1239	frequency
+T42	Property 1371 1381	dielectric
+T43	Element 1396 1405	CuTl-1223
+T44	SC 1406 1421	superconducting
+T45	Element 1454 1457	ZnO
+T46	Material 1458 1471	nanoparticles
+T47	Property 1473 1482	frequency
+T49	Process 122 129	sol–gel
+T52	Value 245 246	0
+T53	Value 261 267	1.5wt%
+T54	Value 253 256	1.0
+T55	Value 248 251	0.5
+T57	Property 1010 1021	capacitance
+T26	SC 754 761	Tc(R=0)
+T17	Doping 193 198	mixed
+T28	Doping 452 460	addition
+T29	Doping 798 806	addition
+R3	Target Arg1:E1 Arg2:T10
+R4	Target Arg1:E2 Arg2:T16
+R5	Target Arg1:E3 Arg2:T32
+E1	Doping:T17 Dopant:T8
+E2	Doping:T28 Dopant:T18
+E3	Doping:T29 Dopant:T30

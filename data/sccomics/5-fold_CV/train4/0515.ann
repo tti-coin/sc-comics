@@ -1,0 +1,41 @@
+T1	Main 12 15	UO2
+T2	Element 17 26	UO2(+ x )
+T4	Element 61 62	O
+T5	Characterization 244 268	X-ray absorption spectra
+T6	Element 272 275	UO2
+T7	Element 277 281	U4O9
+T8	Element 287 291	U3O7
+T9	Element 390 391	U
+T10	Property 460 465	bands
+T11	Property 480 490	low energy
+T13	Property 664 676	calculations
+T17	Property 779 789	excitation
+T19	Property 893 900	valence
+T20	Property 927 938	Fermi level
+T21	Property 977 997	electronic structure
+T22	Property 1076 1080	band
+T23	SC 1081 1098	superconductivity
+T24	Property 177 208	Bose–Einstein(-Mott) condensate
+T25	Value 615 620	1.5eV
+T26	Property 392 394	5f
+T27	Property 399 401	6d
+T28	Property 402 414	final states
+T29	Property 575 587	Hubbard band
+T30	Property 1032 1046	Fermi topology
+T31	Property 1050 1067	BEC–BCS crossover
+T32	Property 829 838	coherence
+T33	Property 698 715	dynamical polaron
+T34	Property 67 82	photoexcitation
+T12	Property 535 538	gap
+T16	Property 608 611	gap
+T35	Property 913 916	gap
+T15	Property 555 565	conduction
+T3	Doping 42 50	addition
+T14	Doping 883 891	occupied
+T18	Material 725 735	structural
+T36	Characterization 736 748	measurements
+R1	Target Arg1:E1 Arg2:T1
+R2	Target Arg1:E2 Arg2:T2
+E1	Doping:T3 Dopant:T4
+E2	Doping:T3 Dopant:T4
+E3	Doping:T14 

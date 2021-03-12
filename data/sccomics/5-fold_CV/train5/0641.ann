@@ -1,0 +1,37 @@
+T1	Property 5 11	phonon
+T2	SC 18 32	superconductor
+T3	SC 38 53	superconducting
+T4	Main 68 72	MgB2
+T5	Material 99 117	lattice parameters
+T6	Material 119 126	Lattice
+T7	Property 127 133	strain
+T8	SC 165 180	superconducting
+T9	Element 195 199	MgB2
+T10	SC 200 214	superconductor
+T11	Material 272 279	lattice
+T12	Property 280 286	strain
+T13	SC 291 306	superconducting
+T14	SC 327 347	critical temperature
+T15	SC 349 351	Tc
+T16	Property 358 378	upper critical field
+T17	Property 390 411	irreversibility field
+T18	Property 434 458	critical current density
+T19	Property 460 462	Jc
+T21	Element 502 506	MgB2
+T22	Property 568 570	Jc
+T23	Element 583 587	MgB2
+T25	Property 651 666	thermal strains
+T26	SC 735 737	Tc
+T27	Property 761 772	resistivity
+T28	Property 813 815	Jc
+T29	Element 828 832	MgB2
+T30	Property 380 384	Hc 2
+T31	Property 413 417	Hirr
+T32	Property 575 579	Hc 2
+T33	Property 820 824	Hc 2
+T20	Doping 496 501	doped
+T24	Doping 605 617	substitution
+R1	Target Arg1:E1 Arg2:T21
+R2	Target Arg1:E2 Arg2:T23
+E1	Doping:T20 
+E2	Doping:T24 

@@ -1,0 +1,31 @@
+T1	Material 12 26	microstructure
+T3	Main 42 46	MgB2
+T4	Material 59 64	wires
+T8	Material 202 216	microstructure
+T9	Property 241 250	densities
+T10	SC 254 269	superconducting
+T11	Material 270 278	material
+T12	Material 335 344	amorphous
+T13	Element 345 348	MgO
+T14	Material 378 393	microstructural
+T15	Material 434 440	layers
+T16	Material 444 460	grain boundaries
+T17	Element 477 481	MgB2
+T18	Material 482 488	grains
+T19	Property 518 532	oxygen content
+T20	Element 592 594	Mg
+T21	Material 595 601	layers
+T22	Element 634 637	MgO
+T23	Material 638 644	layers
+T24	Material 664 678	microstructure
+T25	Property 716 740	critical current density
+T26	Property 741 744	J c
+T5	Process 114 128	powder-in-tube
+T27	Process 130 133	PIT
+T28	Process 150 178	internal magnesium diffusion
+T7	Process 180 183	IMD
+T29	Process 536 539	IMD
+T30	Material 464 469	plate
+T31	Process 611 614	PIT
+T32	Process 782 785	PIT
+T33	Process 752 755	IMD

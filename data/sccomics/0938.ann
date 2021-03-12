@@ -1,0 +1,70 @@
+T1	SC 4 19	superconducting
+T2	Main 20 31	Y3Ba5Cu8O18
+T3	Main 33 38	Y-358
+T4	Main 44 58	Y3Ba5Ca2Cu8O18
+T6	Element 164 166	Ca
+T7	Element 185 190	Y-358
+T8	Property 225 238	resistivities
+T10	Property 240 257	DC magnetizations
+T11	Property 277 289	flux pinning
+T12	Property 302 321	AC susceptibilities
+T13	Property 326 352	critical current densities
+T16	Process 392 408	low temperatures
+T17	Property 414 431	AC susceptibility
+T18	Property 436 447	resistivity
+T19	SC 477 515	superconducting transition temperature
+T20	SC 517 520	T c
+T22	Element 569 571	Ca
+T23	Property 600 616	hysteresis loops
+T24	Element 620 627	YCa-358
+T25	Material 764 775	composition
+T26	Element 779 786	YCa-358
+T27	Property 846 872	critical current densities
+T28	Property 874 877	J c
+T31	Element 953 955	Ca
+T32	Element 961 966	Y-358
+T33	Property 999 1002	J c
+T34	Element 1022 1027	Y-358
+T35	Element 1032 1039	YCa-358
+T36	Property 1109 1127	flux pinning force
+T37	Property 1178 1181	J c
+T38	Property 1241 1256	magnetic fields
+T40	Element 1276 1278	Ca
+T41	Element 1284 1289	Y-358
+T42	SC 1414 1429	superconducting
+T43	Element 1449 1454	Y-358
+T45	Element 1486 1488	Ca
+T46	Main 60 67	YCa-358
+T47	Value 543 546	6 K
+T48	Process 114 128	sol–gel method
+T49	Value 1056 1069	8 × 104 A/cm2
+T50	Value 1074 1089	4.5 × 104 A/cm2
+T51	Property 1129 1132	F p
+T52	Value 971 975	15 K
+T53	Property 1366 1384	ACsusceptibilities
+T54	Property 1204 1219	irreversibility
+T56	Characterization 1308 1320	measurements
+T29	Property 1430 1445	volume fraction
+T55	Property 698 716	zero applied field
+T5	Doping 154 160	doping
+T14	Doping 372 377	doped
+T15	Doping 557 565	addition
+T21	Doping 941 949	addition
+T30	Doping 1266 1272	doping
+T39	Doping 1474 1482	addition
+T44	Characterization 448 460	measurements
+T9	Value 682 686	45 K
+T57	Property 899 909	hysteresis
+T58	Characterization 910 922	measurements
+R4	Equivalent Arg1:T20 Arg2:T47
+R5	Target Arg1:E1 Arg2:T7
+R6	Target Arg1:E4 Arg2:T32
+R7	Target Arg1:E5 Arg2:T41
+R8	Target Arg1:E6 Arg2:T43
+R9	Condition Arg1:T47 Arg2:E3
+E1	Doping:T5 Dopant:T6
+E2	Doping:T14
+E3	Doping:T15 Dopant:T22
+E4	Doping:T21 Dopant:T31
+E5	Doping:T30 Dopant:T40
+E6	Doping:T39 Dopant:T45

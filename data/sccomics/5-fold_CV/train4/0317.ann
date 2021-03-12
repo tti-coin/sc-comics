@@ -1,0 +1,117 @@
+T1	Element 30 32	Cu
+T3	Element 49 51	Tl
+T4	Main 60 90	Tl1−x Cu x Sr1.6Yb0.4CaCu2O7−δ
+T5	Material 102 110	ceramics
+T6	Element 115 117	Mg
+T8	Element 134 136	Sr
+T9	Main 145 183	Tl0.5Pb0.5Sr2−y Mg y Ca0.8Yb0.2Cu2O7−δ
+T10	Material 184 192	ceramics
+T11	SC 210 225	superconducting
+T13	Property 273 285	conductivity
+T15	Element 370 372	Cu
+T17	Property 400 402	3D
+T18	Material 426 432	c-axis
+T19	Property 433 449	coherence length
+T21	Element 477 507	Tl1−x Cu x Sr1.6Yb0.4CaCu2O7−δ
+T22	Element 526 530	CuO2
+T23	Element 538 544	oxygen
+T24	Element 634 636	Cu
+T26	Element 687 691	CuO2
+T27	Material 692 698	planes
+T28	Element 719 757	Tl0.5Pb0.5Sr2−y Mg y Ca0.8Yb0.2Cu2O7−δ
+T29	Material 787 805	semiconductor-like
+T30	Property 806 818	normal state
+T31	SC 855 858	T c
+T32	Element 864 866	Mg
+T33	Property 875 887	conductivity
+T34	Element 900 938	Tl0.5Pb0.5Sr2−y Mg y Ca0.8Yb0.2Cu2O7−δ
+T36	Element 1039 1045	oxygen
+T37	Material 1046 1051	atoms
+T38	Element 1059 1063	CuO2
+T39	Material 1064 1069	plane
+T40	Material 1093 1105	bond lengths
+T41	Element 1109 1120	Pb–OA–Cu(2)
+T42	Element 1125 1136	Tl–OA–Cu(2)
+T43	Element 1150 1154	CuO2
+T44	Material 1155 1166	inter-plane
+T45	SC 1177 1194	Superconductivity
+T46	Material 1274 1285	inter-plane
+T48	Property 1309 1327	hole concentration
+T49	Element 1331 1335	CuO2
+T50	Material 1336 1342	planes
+T12	Material 230 251	structural properties
+T14	Property 304 320	Asmalazov–Larkin
+T59	Property 322 324	AL
+T67	Value 566 575	578.7cm−1
+T69	Value 586 587	0
+T70	Value 611 618	570cm−1
+T71	Property 670 678	coupling
+T76	Value 762 767	0–1.0
+T81	Value 943 944	0
+T84	Property 1167 1175	coupling
+T53	Property 342 347	2D–3D
+T20	Property 965 970	1D–2D
+T47	Characterization 459 472	FTIR analysis
+T56	Characterization 992 996	FTIR
+T61	Property 326 332	theory
+T35	Property 348 358	transition
+T64	Property 971 981	transition
+T2	Doping 33 45	substitution
+T7	Doping 118 130	substitution
+T16	Doping 373 385	substitution
+T25	Doping 637 649	substitution
+T51	Value 95 96	0
+T52	Value 97 100	0.5
+T55	Property 451 457	ξ c(0)
+T57	Value 512 513	0
+T58	Value 514 517	0.5
+T60	Property 1298 1304	ξ c(0)
+R1	Target Arg1:E1 Arg2:T4
+R2	Target Arg1:E2 Arg2:T9
+R3	Target Arg1:E4 Arg2:T21
+E1	Doping:T2 Dopant:T1 Site:T3
+E2	Doping:T7 Dopant:T6 Site:T8
+E3	Doping:T16 Dopant:T15
+E4	Doping:T25 Dopant:T24
+#1	AnnotatorNotes T1	30-32
+#2	AnnotatorNotes T3	49-51
+#3	AnnotatorNotes T4	60-90
+#4	AnnotatorNotes T5	102-110
+#5	AnnotatorNotes T6	115-117
+#6	AnnotatorNotes T8	134-136
+#7	AnnotatorNotes T9	145-183
+#8	AnnotatorNotes T10	184-192
+#9	AnnotatorNotes T15	370-372
+#10	AnnotatorNotes T18	426-432
+#11	AnnotatorNotes T21	477-507
+#12	AnnotatorNotes T22	526-530
+#13	AnnotatorNotes T23	538-544
+#14	AnnotatorNotes T24	634-636
+#15	AnnotatorNotes T26	687-691
+#16	AnnotatorNotes T27	692-698
+#17	AnnotatorNotes T28	719-757
+#18	AnnotatorNotes T29	787-805
+#19	AnnotatorNotes T32	864-866
+#20	AnnotatorNotes T34	900-938
+#21	AnnotatorNotes T36	1039-1045
+#22	AnnotatorNotes T37	1046-1051
+#23	AnnotatorNotes T38	1059-1063
+#24	AnnotatorNotes T39	1064-1069
+#25	AnnotatorNotes T40	1093-1105
+#26	AnnotatorNotes T41	1109-1120
+#27	AnnotatorNotes T42	1125-1136
+#28	AnnotatorNotes T43	1150-1154
+#29	AnnotatorNotes T44	1155-1166
+#30	AnnotatorNotes T46	1274-1285
+#31	AnnotatorNotes T49	1331-1335
+#32	AnnotatorNotes T50	1336-1342
+#33	AnnotatorNotes T12	230-251
+#34	AnnotatorNotes T67	566-575
+#35	AnnotatorNotes T69	586-587
+#36	AnnotatorNotes T70	611-618
+#37	AnnotatorNotes T76	762-767
+#38	AnnotatorNotes T81	943-944
+#39	AnnotatorNotes T51	95-96
+#40	AnnotatorNotes T52	97-100
+#41	AnnotatorNotes T57	512-513
+#42	AnnotatorNotes T58	514-517

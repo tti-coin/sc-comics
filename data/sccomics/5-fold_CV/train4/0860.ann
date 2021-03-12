@@ -1,0 +1,57 @@
+T1	Element 13 20	63,65Cu
+T2	Element 25 30	139La
+T4	Main 51 73	T’-La1.8Eu0.2CuO 4 + δ
+T5	Material 93 105	Nd2CuO4-type
+T6	Material 106 115	structure
+T8	Element 171 178	63,65Cu
+T9	Characterization 179 182	NMR
+T10	Property 203 218	magnetic fields
+T11	SC 229 246	superconductivity
+T12	Property 255 272	antiferromagnetic
+T13	Property 274 276	AF
+T14	Property 278 283	order
+T15	Element 333 339	oxygen
+T16	Material 340 345	atoms
+T17	Property 402 414	ground state
+T18	Property 441 453	paramagnetic
+T19	SC 458 473	superconducting
+T20	SC 475 477	SC
+T21	SC 492 495	T c
+T22	Material 578 582	bulk
+T23	SC 583 600	superconductivity
+T24	Property 608 620	spin-singlet
+T26	Property 621 633	Cooper pairs
+T27	SC 665 667	SC
+T28	Property 725 747	temperature dependence
+T29	Property 755 759	spin
+T30	Material 760 767	lattice
+T31	Property 768 778	relaxation
+T33	SC 854 856	SC
+T34	SC 894 911	superconductivity
+T35	Property 948 954	d-wave
+T36	Material 955 963	symmetry
+T37	Property 972 984	normal state
+T38	Property 1028 1030	AF
+T39	Property 1073 1095	temperature dependence
+T40	Property 1099 1102	1/T
+T41	Property 1124 1133	pseudogap
+T42	Property 1180 1182	AF
+T43	SC 1219 1236	superconductivity
+T45	SC 1248 1256	high-T c
+T48	Characterization 31 47	NMR measurements
+T49	Main 75 82	T’-LECO
+T7	Material 127 139	T’-structure
+T51	Element 304 311	T’-LECO
+T52	Element 428 435	T’-LECO
+T53	Property 501 513	Knight shift
+T54	Element 649 656	T’-LECO
+T55	Element 689 696	T’-LECO
+T56	Property 857 860	gap
+T57	Element 927 934	T’-LECO
+T58	Element 1000 1007	T’-LECO
+T47	Material 1290 1302	T’-structure
+T25	Property 784 787	1/T
+T3	SC 1265 1280	superconductors
+T32	Element 1257 1264	cuprate
+R1	Coref Arg1:T4 Arg2:T49
+R2	Coref Arg1:T19 Arg2:T20

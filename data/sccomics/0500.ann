@@ -1,0 +1,29 @@
+T1	Material 4 13	structure
+T2	Material 15 29	microstructure
+T3	Property 34 45	resistivity
+T4	Material 55 67	bulk samples
+T5	Material 83 95	compositions
+T7	Main 117 143	(La-Sr)1.55(Nd-Ce)0.45CuO4
+T9	Element 200 216	La1.55Nd0.45CuO4
+T10	Material 237 249	compositions
+T11	Material 269 281	orthorhombic
+T12	Material 288 298	tetragonal
+T13	Material 335 351	secondary phases
+T14	Element 375 401	La1.4Sr0.15Nd0.4Ce0.05CuO4
+T15	Material 465 480	superstructures
+T16	Element 496 523	La1.5Sr0.05Nd0.43Ce0.02CuO4
+T17	Material 551 564	semiconductor
+T18	Process 568 584	low temperatures
+T21	Property 593 631	metal insulator transition temperature
+T24	Element 711 737	La1.5Sr0.05Nd0.4Ce0.05CuO4
+T25	Property 757 780	electrical conductivity
+T27	Material 856 862	dopant
+T28	Property 878 886	electron
+T29	SC 892 919	superconducting transitions
+T22	Property 656 685	second transition temperature
+T23	Value 689 693	274K
+T30	Property 870 874	hole
+T19	Doping 813 819	doping
+T6	Value 639 641	50
+T8	Value 642 646	100K
+E2	Doping:T19

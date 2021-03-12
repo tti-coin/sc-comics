@@ -1,0 +1,57 @@
+T1	Property 30 57	normal-state susceptibility
+T2	SC 131 146	superconducting
+T3	Element 168 174	oxygen
+T5	SC 266 286	critical temperature
+T6	Property 385 389	hole
+T8	SC 403 405	Tc
+T9	Property 422 449	normal-state susceptibility
+T11	Process 516 525	oxidation
+T12	Property 618 635	antiferromagnetic
+T13	Property 637 639	AF
+T14	Property 641 658	short-range order
+T15	Process 667 676	oxidation
+T16	Property 813 818	order
+T17	SC 872 887	superconducting
+T18	Material 897 905	ceramics
+T19	Property 927 937	insulating
+T20	Property 977 993	Néel temperature
+T21	Property 998 1000	3D
+T22	Property 1012 1014	AF
+T23	Property 1015 1020	order
+T25	Process 1080 1089	oxidation
+T26	SC 1170 1185	superconducting
+T31	Element 306 320	La2−xSrxCuO4−y
+T35	Element 326 341	Bi2Sr2CaCu2O8+δ
+T37	Element 347 360	Tl2Ba2Cu1O6+δ
+T39	Property 585 598	2 dimensional
+T42	Value 603 606	1 2
+T43	Element 705 714	YBa2Cu3Ox
+T46	Element 733 743	Y2Ba4Cu7Oy
+T48	Property 799 812	3 dimensional
+T49	Element 839 849	247 system
+T50	Element 893 896	123
+T55	Value 1288 1292	0.1%
+T56	Element 1329 1335	BaCuO2
+T27	Main 94 103	YBa2Cu3Ox
+T28	Main 114 124	Y2Ba4Cu7Oy
+T60	Value 1207 1211	6.96
+T61	Value 1230 1234	6.98
+T53	Element 1141 1151	123 system
+T63	Value 721 725	14.5
+T64	Value 688 691	6.4
+T57	Value 694 697	6.6
+T66	Value 919 922	6.4
+T68	Element 249 255	oxides
+T10	Property 994 996	TN
+T41	Main 105 108	123
+T65	Main 126 129	247
+T7	Doping 390 396	doping
+T24	Doping 1058 1064	doping
+T4	SC 241 248	high-Tc
+T29	Doping 1160 1169	overdoped
+R1	Coref Arg1:T28 Arg2:T65
+R2	Coref Arg1:T27 Arg2:T41
+R3	Target Arg1:E3 Arg2:T53
+E1	Doping:T7 Dopant:T6
+E2	Doping:T24 
+E3	Doping:T29 

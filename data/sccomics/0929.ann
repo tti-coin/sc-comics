@@ -1,0 +1,54 @@
+T3	Material 41 63	diamond-like structure
+T4	SC 88 122	high temperature superconductivity
+T5	SC 124 133	high- T c
+T6	Property 151 161	electronic
+T7	Material 179 188	materials
+T9	Element 204 206	Co
+T10	Material 207 213	layers
+T11	Material 224 229	layer
+T12	Element 260 264	CoA4
+T13	Element 268 269	S
+T14	Element 271 273	Se
+T15	Element 275 277	Te
+T16	Material 303 311	material
+T17	SC 376 385	high- T c
+T18	Property 426 439	3d transition
+T19	Material 440 445	metal
+T20	Property 474 482	magnetic
+T21	Property 483 496	ground states
+T22	Material 521 526	metal
+T23	Material 547 556	structure
+T24	Element 576 578	Mn
+T25	Element 580 582	Fe
+T26	Element 584 586	Co
+T27	Property 622 639	antiferromagnetic
+T28	Property 641 644	AFM
+T29	Property 646 656	insulating
+T30	Property 657 669	ground state
+T31	Element 676 678	Ni
+T32	Property 699 711	paramagnetic
+T33	Material 712 717	metal
+T34	Property 723 726	AFM
+T35	Element 761 763	Co
+T36	Property 836 839	AFM
+T37	Process 879 888	quenching
+T38	Property 896 905	magnetism
+T39	Element 915 917	Co
+T40	Element 921 923	Ni
+T41	Element 970 972	Fe
+T43	Property 1013 1016	AFM
+T44	Element 1038 1040	Fe
+T45	Element 1072 1074	Co
+T46	Property 1125 1135	electronic
+T47	SC 1153 1162	high- T c
+T49	Element 1221 1223	Co
+T50	Property 1255 1261	d-wave
+T51	Property 1262 1269	pairing
+T52	SC 1270 1285	superconducting
+T53	Property 793 807	t 2 g orbitals
+T55	Property 246 252	vertex
+T56	Material 279 289	tetrahedra
+T58	Main 11 33	Co-based chalcogenides
+T48	Doping 1174 1180	doping
+T1	Element 976 994	Co-based pnictides
+E1	Doping:T48

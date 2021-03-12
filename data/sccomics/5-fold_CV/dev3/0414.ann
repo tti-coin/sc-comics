@@ -1,0 +1,55 @@
+T1	Material 17 32	single crystals
+T2	Main 36 55	CaFe 1 − x Co x AsF
+T3	Process 61 66	grown
+T5	Material 123 138	single crystals
+T6	Process 146 151	grown
+T7	Material 201 210	materials
+T8	Material 216 237	chemical compositions
+T9	Material 242 259	crystal structure
+T11	Element 329 336	CaFeAsF
+T12	Material 342 357	crystal lattice
+T13	Material 368 374	c-axis
+T14	Element 396 398	Co
+T16	SC 458 475	Superconductivity
+T17	SC 485 504	critical transition
+T18	SC 505 508	T c
+T19	Property 550 561	resistivity
+T20	Property 566 589	magnetic susceptibility
+T21	SC 658 661	T c
+T22	Process 712 732	hydrostatic pressure
+T23	Material 791 806	polycrystalline
+T24	Element 879 889	1111 phase
+T25	Element 890 903	iron-pnictide
+T26	SC 904 919	superconductors
+T27	Process 75 91	self-flux method
+T28	Material 433 439	a-axis
+T30	Value 520 523	21K
+T31	Value 688 690	1K
+T32	Value 736 743	0.22GPa
+T29	Value 624 629	0.118
+T4	Material 0 16	Millimeter sized
+T15	Doping 399 411	substitution
+T10	Characterization 590 602	measurements
+R1	Equivalent Arg1:T21 Arg2:T31
+R2	Equivalent Arg1:T18 Arg2:T30
+R3	Target Arg1:E2 Arg2:T11
+E2	Doping:T15 Dopant:T14
+#1	AnnotatorNotes T1	17-32
+#2	AnnotatorNotes T2	36-55
+#3	AnnotatorNotes T5	123-138
+#4	AnnotatorNotes T7	201-210
+#5	AnnotatorNotes T8	216-237
+#6	AnnotatorNotes T9	242-259
+#7	AnnotatorNotes T11	329-336
+#8	AnnotatorNotes T12	342-357
+#9	AnnotatorNotes T13	368-374
+#10	AnnotatorNotes T14	396-398
+#11	AnnotatorNotes T23	791-806
+#12	AnnotatorNotes T24	879-889
+#13	AnnotatorNotes T25	890-903
+#14	AnnotatorNotes T28	433-439
+#15	AnnotatorNotes T30	520-523
+#16	AnnotatorNotes T31	688-690
+#17	AnnotatorNotes T32	736-743
+#18	AnnotatorNotes T29	624-629
+#19	AnnotatorNotes T4	0-16

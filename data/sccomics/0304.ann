@@ -1,0 +1,29 @@
+T1	SC 26 48	high-Tc superconductor
+T2	SC 50 54	HTSC
+T3	Main 56 67	YBa2Cu3O7-x
+T4	Main 69 73	YBCO
+T9	Characterization 197 218	synchrotron-radiation
+T12	Element 325 329	YBCO
+T15	Property 460 482	low-energy excitations
+T16	Element 486 490	YBCO
+T17	Element 537 538	O
+T19	Element 699 706	cuprate
+T25	Characterization 125 160	resonant inelastic X-ray scattering
+T10	Property 258 280	quasi-atomic multiplet
+T26	Property 340 349	multiplet
+T14	Property 370 400	single impurity Anderson model
+T27	Property 450 459	localized
+T28	Value 528 533	0.5eV
+T29	Property 585 600	incident energy
+T30	Property 606 623	momentum transfer
+T21	Property 777 793	Zhang Rice bands
+T22	Property 805 824	Upper Hubbard bands
+T11	Element 307 309	Cu
+T5	Property 707 716	bimagnons
+T6	Property 310 315	2p3/2
+T7	Characterization 81 120	polarization-dependent X-ray absorption
+T8	Characterization 539 545	K RIXS
+T13	Property 745 765	bimagnon excitations
+T20	Characterization 162 190	High-resolution measurements
+T18	Doping 577 583	doping
+E1	Doping:T18

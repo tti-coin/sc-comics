@@ -1,0 +1,59 @@
+T1	Property 0 8	Magnetic
+T2	Property 9 22	flux trapping
+T3	Property 50 62	flux pinning
+T4	SC 118 150	high-temperature superconductors
+T6	Property 203 216	soft magnetic
+T8	Material 222 227	alloy
+T9	Material 228 237	particles
+T10	Property 275 299	critical current density
+T11	Property 301 304	J c
+T12	Property 326 340	magnetic field
+T13	Property 342 350	Magnetic
+T14	Material 351 355	flux
+T15	Main 381 386	Gd123
+T16	Material 387 391	bulk
+T17	SC 392 406	superconductor
+T18	Property 431 439	magnetic
+T19	Material 440 449	particles
+T22	Property 496 510	pinning center
+T23	Property 523 526	J c
+T24	Material 534 538	bulk
+T25	Process 555 561	growth
+T26	Process 579 585	growth
+T27	Property 599 613	magnetic field
+T28	SC 628 631	T c
+T29	Element 639 644	Gd123
+T30	Material 645 649	bulk
+T32	Property 689 697	magnetic
+T33	Material 698 707	particles
+T34	SC 747 762	superconducting
+T35	Material 830 834	bulk
+T36	SC 879 894	superconducting
+T37	Element 913 918	Gd123
+T38	Material 919 923	bulk
+T39	Property 929 937	magnetic
+T40	Material 938 947	particles
+T42	Property 969 977	magnetic
+T43	Material 978 987	particles
+T45	Property 1065 1072	pinning
+T46	Property 1091 1099	magnetic
+T47	Material 1100 1109	particles
+T50	Element 1119 1124	Gd123
+T51	Material 1125 1129	bulk
+T7	Element 217 221	Fe-B
+T5	Doping 191 199	addition
+T20	Doping 450 458	addition
+T21	Doping 677 685	addition
+T31	Doping 948 956	addition
+T41	Doping 988 996	addition
+T44	Doping 1110 1118	addition
+R1	Target Arg1:E2 Arg2:T15
+R2	Target Arg1:E3 Arg2:T29
+R3	Target Arg1:E4 Arg2:T37
+R4	Target Arg1:E6 Arg2:T50
+E1	Doping:T5 Dopant:T7
+E2	Doping:T20 Dopant:T19
+E3	Doping:T21 Dopant:T33
+E4	Doping:T31 Dopant:T40
+E5	Doping:T41 Dopant:T43
+E6	Doping:T44 Dopant:T47

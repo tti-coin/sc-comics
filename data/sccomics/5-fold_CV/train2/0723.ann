@@ -1,0 +1,33 @@
+T1	Material 4 16	out-of-plane
+T2	Material 18 24	c-axis
+T3	Property 26 37	resistivity
+T4	SC 50 57	high-Tc
+T5	Main 58 66	cuprates
+T6	Property 77 84	modeled
+T7	Property 108 120	Fermi liquid
+T8	Property 126 148	temperature dependence
+T9	Property 220 229	pseudogap
+T10	Property 242 270	electronic density of states
+T11	Property 305 327	quantum critical point
+T12	SC 346 361	superconducting
+T15	Property 492 504	hole content
+T18	Property 640 654	Brillouin zone
+T19	Property 753 771	hole concentration
+T20	Element 783 787	CuO2
+T21	Material 788 794	planes
+T23	Property 934 947	phase diagram
+T24	Property 231 233	PG
+T25	Property 272 276	EDOS
+T26	Property 329 332	QCP
+T27	Property 578 580	PG
+T29	Property 242 252	electronic
+T30	Property 409 431	phenomenological model
+T14	Property 581 593	energy scale
+T13	Doping 515 525	underdoped
+T22	Doping 379 388	overdoped
+T16	Doping 538 547	overdoped
+T17	Doping 908 917	overdoped
+E1	Doping:T13 
+E4	Doping:T22 
+E2	Doping:T16 
+E3	Doping:T17 

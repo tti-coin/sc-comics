@@ -1,0 +1,32 @@
+T1	Material 0 14	Nanostructured
+T2	Element 15 19	GaAs
+T3	Material 81 90	detectors
+T4	Property 123 141	electron transport
+T6	Material 191 200	thickness
+T7	Material 325 334	thickness
+T9	Element 367 371	GaAs
+T10	Material 442 451	thickness
+T11	Property 460 476	carrier mobility
+T12	Property 507 515	mobility
+T13	SC 611 643	high temperature superconductors
+T14	SC 645 649	HTSC
+T16	SC 704 709	HTSCs
+T17	Property 772 790	strong correlation
+T20	SC 841 844	T c
+T21	SC 862 865	T c
+T22	SC 944 949	HTSCs
+T23	SC 967 989	transition temperature
+T24	SC 990 993	T c
+T25	Property 999 1016	density of states
+T27	Property 1094 1106	Fermi energy
+T26	Material 1069 1081	quantum well
+T28	Material 1025 1037	quantum wire
+T31	Property 919 939	correlation equation
+T32	Property 234 248	mean free path
+T33	Process 276 293	noise temperature
+T37	Property 1066 1068	1D
+T8	Doping 348 354	doping
+T15	Doping 683 689	doping
+T18	SC 809 840	critical transition temperature
+E1	Doping:T8
+E2	Doping:T15

@@ -1,0 +1,51 @@
+T1	Property 0 20	Electronic structure
+T2	Property 22 38	lattice dynamics
+T3	Property 44 68	electron-phonon coupling
+T4	Element 72 74	Li
+T5	Material 88 95	bilayer
+T6	Main 96 100	SnS2
+T11	Material 240 247	bilayer
+T12	Element 248 252	SnS2
+T13	Material 313 321	pristine
+T14	Material 322 329	bilayer
+T15	Property 342 357	charge transfer
+T16	Element 363 365	Li
+T17	Material 369 376	bilayer
+T18	Element 377 381	SnS2
+T19	Property 404 418	band structure
+T20	Element 425 427	Li
+T22	Property 469 485	rigid band model
+T24	Element 520 522	Li
+T25	Material 523 528	atoms
+T26	Property 551 567	charge reservoir
+T27	Property 573 585	calculations
+T28	Property 613 628	acoustic phonon
+T29	Material 643 651	symmetry
+T30	Property 687 714	electron-phonon interaction
+T32	SC 751 753	Tc
+T35	Material 831 839	material
+T37	Material 889 904	two-dimensional
+T38	SC 905 919	superconductor
+T7	Property 137 179	first-principles density functional theory
+T8	SC 723 750	superconducting temperature
+T9	Value 766 772	14.0 K
+T31	Element 797 799	Li
+T34	Element 813 817	SnS2
+T39	Element 224 226	Li
+T36	Element 843 854	lithium-ion
+T41	Material 855 862	battery
+T10	Doping 75 87	intercalated
+T21	Doping 227 239	intercalated
+T23	Doping 428 441	intercalation
+T33	Doping 507 519	intercalated
+T40	Doping 800 812	intercalated
+R1	Coref Arg1:T8 Arg2:T32
+R2	Equivalent Arg1:T32 Arg2:T9
+R3	Target Arg1:E1 Arg2:T6
+R4	Target Arg1:E2 Arg2:T12
+R5	Target Arg1:E5 Arg2:T34
+E1	Doping:T10 Dopant:T4
+E2	Doping:T21 Dopant:T39
+E3	Doping:T23 Dopant:T20
+E4	Doping:T33 Dopant:T24
+E5	Doping:T40 Dopant:T31

@@ -1,0 +1,30 @@
+T1	Element 0 2	Sn
+T3	Material 21 25	bulk
+T4	SC 26 41	superconducting
+T5	Main 56 68	FeSe0.5Te0.5
+T7	Property 158 182	critical current density
+T8	Property 184 187	J c
+T10	Property 233 243	self field
+T12	Material 360 378	Phase compositions
+T13	Material 383 393	morphology
+T14	Element 432 434	Sn
+T16	SC 477 492	superconducting
+T17	Material 505 516	composition
+T18	Element 577 583	Fe7Se8
+T19	Material 584 592	impurity
+T21	Property 653 656	J c
+T22	Value 218 229	7×103 Acm−2
+T23	Value 276 287	3×102 Acm−2
+T24	Value 312 316	4.3K
+T25	Value 300 308	60,000Oe
+T27	SC 90 118	onset transition temperature
+T20	Material 597 612	amorphous phase
+T29	Element 193 195	Sn
+T9	Element 347 349	Sn
+T2	Doping 3 11	addition
+T6	Doping 196 201	added
+T11	Doping 435 443	addition
+R1	Target Arg1:E1 Arg2:T5
+E1	Doping:T2 Dopant:T1
+E2	Doping:T6 Dopant:T29
+E3	Doping:T11 Dopant:T14

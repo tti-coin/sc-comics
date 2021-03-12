@@ -1,0 +1,54 @@
+T1	Material 53 63	structural
+T2	Property 86 105	magnetic properties
+T3	Main 109 113	MgB2
+T4	Material 124 138	nanostructures
+T5	Element 144 145	C
+T7	Process 182 207	chemical vapor deposition
+T9	Element 231 235	MgB2
+T10	Element 348 352	MgB2
+T11	Element 383 393	Ar+CH4 +H2
+T12	Element 400 402	Ni
+T13	Property 413 421	Electron
+T14	Characterization 426 443	X-ray diffraction
+T15	Element 480 481	C
+T16	Element 488 492	MgB2
+T17	Material 501 519	single crystalline
+T18	Material 535 544	hexagonal
+T19	Material 545 562	lattice structure
+T23	SC 610 648	superconducting transition temperature
+T24	Element 669 673	MgB2
+T25	Element 705 711	carbon
+T26	Process 762 780	lower temperatures
+T29	SC 975 992	superconductivity
+T8	Element 223 224	C
+T32	Material 236 245	nanowires
+T33	Material 247 250	NWs
+T34	Value 280 284	60nm
+T35	Material 403 411	catalyst
+T21	Property 564 580	DC magnetization
+T22	Value 650 653	39K
+T37	Material 674 677	NWs
+T38	Material 962 964	NW
+T39	Material 114 123	wire-like
+T41	Material 493 496	NWs
+T20	Material 353 362	nanotubes
+T43	Property 840 851	flexibility
+T6	Doping 146 152	doping
+T27	Doping 225 230	doped
+T28	Doping 482 487	doped
+T36	Doping 965 971	doping
+T40	Doping 883 889	doping
+T30	Value 161 163	0%
+T31	Value 168 171	20%
+T42	Characterization 581 593	measurements
+R1	Equivalent Arg1:T23 Arg2:T22
+R2	Coref Arg1:T32 Arg2:T33
+R3	Target Arg1:T22 Arg2:T24
+R4	Target Arg1:E1 Arg2:T3
+R5	Target Arg1:E2 Arg2:T9
+R6	Target Arg1:E3 Arg2:T16
+E1	Doping:T6 Dopant:T5
+E2	Doping:T27 Dopant:T8
+E3	Doping:T28 Dopant:T15
+E5	Doping:T36 Dopant:T38
+E6	Doping:T40 

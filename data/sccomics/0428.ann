@@ -1,0 +1,72 @@
+T1	Element 43 57	cobalt ferrite
+T2	Element 59 66	CoFe2O4
+T3	Material 68 81	nanoparticles
+T5	Material 94 104	structural
+T6	SC 125 140	superconducting
+T7	Main 155 179	Cu0.5Tl0.5Ba2Ca2Cu3O10-δ
+T8	Material 192 198	matrix
+T9	Element 210 232	(CoFe2O4) x /CuTl-1223
+T11	Material 247 257	composites
+T12	Characterization 309 326	x-ray diffraction
+T13	Characterization 328 331	XRD
+T14	Characterization 334 362	scanning electron microscopy
+T15	Characterization 364 367	SEM
+T18	Characterization 404 427	absorption spectroscopy
+T20	Property 433 447	dc-resistivity
+T21	Property 485 493	magnetic
+T22	Element 506 513	CoFe2O4
+T23	Material 514 527	nanoparticles
+T26	Characterization 617 622	SQUID
+T27	Material 661 674	nanoparticles
+T30	Material 764 784	tetragonal structure
+T32	Element 793 802	CuTl-1223
+T33	SC 803 818	superconducting
+T34	Material 819 825	matrix
+T36	Element 864 871	CoFe2O4
+T37	Material 872 885	nanoparticles
+T38	Material 919 932	nanoparticles
+T41	Material 972 988	grain-boundaries
+T42	Property 1037 1044	density
+T43	Material 1078 1091	nanoparticles
+T44	Material 1095 1105	composites
+T45	Material 1161 1167	matrix
+T46	Property 1173 1184	resistivity
+T51	Material 1362 1375	nanoparticles
+T53	Material 1403 1416	nanoparticles
+T54	Property 1490 1498	stresses
+T55	Material 1502 1510	material
+T56	SC 1530 1547	superconductivity
+T57	Material 106 119	morphological
+T16	Characterization 370 396	Fourier transform infrared
+T59	Characterization 398 402	FTIR
+T60	Characterization 572 615	superconducting quantum interference device
+T61	Property 546 554	MH-loops
+T62	Value 714 721	86emu/g
+T63	Value 755 758	50K
+T64	Value 744 750	3350Oe
+T29	Property 727 742	high coercivity
+T28	Property 683 712	high saturation magnetization
+T65	Characterization 625 642	MH-loops analysis
+T68	SC 1266 1272	T c(0)
+T70	Material 1452 1465	agglomeration
+T71	Material 950 970	inter-granular sites
+T39	Main 181 190	CuTl-1223
+T4	Doping 82 90	addition
+T10	Doping 852 860	addition
+T19	Doping 937 945	occupied
+T31	Doping 1344 1352	addition
+T35	Doping 1385 1393	addition
+T40	Value 236 237	0
+T49	Value 239 245	2.0wt%
+T25	SC 1239 1264	zero resistivity critical
+T17	Process 455 466	temperature
+T47	Characterization 467 479	measurements
+T24	Process 1192 1203	temperature
+T48	Characterization 1204 1216	measurements
+R3	Target Arg1:E1 Arg2:T7
+R4	Target Arg1:E2 Arg2:T32
+E1	Doping:T4 Dopant:T1
+E2	Doping:T10 Dopant:T36
+E3	Doping:T19
+E4	Doping:T31
+E5	Doping:T35

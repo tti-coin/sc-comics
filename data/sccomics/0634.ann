@@ -1,0 +1,28 @@
+T1	Main 0 36	Bi 2 + x Sr 2 - x Ca 2 Cu 3 O 10 + δ
+T2	Material 50 58	crystals
+T3	Process 77 82	grown
+T4	Material 88 96	crystals
+T5	Characterization 119 136	X-ray diffraction
+T6	Property 141 158	DC susceptibility
+T7	Element 183 189	Bi2223
+T8	Element 252 258	Bi2223
+T9	Element 293 295	Bi
+T10	Element 296 298	Sr
+T13	Property 334 337	T c
+T17	Element 485 491	Bi2223
+T23	Value 268 271	0.1
+T24	Value 68 71	0.2
+T26	Property 412 415	χ c
+T27	Property 436 440	χ ab
+T12	Property 395 411	susceptibilities
+T11	Doping 344 350	doping
+T14	Doping 299 311	substitution
+T18	Doping 505 515	underdoped
+T16	Characterization 159 171	measurements
+T15	Property 370 394	anisotropic normal state
+R1	Target Arg1:E2 Arg2:T8
+R2	Target Arg1:E3 Arg2:T17
+R3	Target Arg1:E1 Arg2:T17
+E1	Doping:T11
+E2	Doping:T14 Dopant:T9 Site:T10
+E3	Doping:T18

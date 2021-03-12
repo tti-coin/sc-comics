@@ -1,0 +1,55 @@
+T2	SC 104 119	superconducting
+T4	Material 180 197	crystal structure
+T7	Characterization 334 351	X-ray diffraction
+T9	SC 441 449	high-T c
+T10	Property 569 582	concentration
+T11	SC 590 605	superconducting
+T13	Material 701 707	grains
+T14	Process 716 737	temperature treatment
+T15	SC 788 815	zero resistance temperature
+T17	Process 817 826	Quenching
+T19	Material 948 961	semiconductor
+T21	Property 1055 1068	concentration
+T22	Value 155 158	40%
+T23	Main 44 57	Bi-Sr-Ca-Cu-O
+T24	Element 14 16	Pb
+T25	Element 159 161	Pb
+T26	Element 34 36	Bi
+T27	Element 291 293	Pb
+T28	Value 389 395	37 A ̊
+T29	Element 402 404	Pb
+T30	Element 559 561	Ca
+T31	Element 566 568	Cu
+T32	Element 613 615	Ag
+T33	Value 470 475	110 K
+T34	Value 480 484	95 K
+T35	Value 751 755	95 K
+T36	Value 871 875	95 K
+T37	Element 915 917	Pb
+T38	Element 976 978	Pb
+T39	Element 1050 1054	Cu3+
+T40	Element 1073 1079	oxygen
+T41	Process 81 95	heat treatment
+T16	Property 876 892	phase transition
+T42	Material 1080 1090	deficiency
+T1	Doping 17 29	substitution
+T3	Doping 162 174	substitution
+T6	Doping 294 306	substitution
+T8	Doping 405 417	substitution
+T12	Doping 616 624	addition
+T18	Doping 918 931	substitutions
+T20	Doping 979 990	substituted
+T5	Material 237 261	sub-unit cell parameters
+R1	Equivalent Arg1:T9 Arg2:T33
+R2	Equivalent Arg1:T9 Arg2:T34
+R3	Condition Arg1:T33 Arg2:E4
+R4	Condition Arg1:T34 Arg2:E4
+R5	Equivalent Arg1:T15 Arg2:T35
+R6	Target Arg1:E1 Arg2:T23
+E1	Doping:T1 Dopant:T24 Site:T26
+E2	Doping:T3 Dopant:T25
+E3	Doping:T6 Dopant:T27
+E4	Doping:T8 Dopant:T29
+E5	Doping:T12 Dopant:T32
+E6	Doping:T18 Dopant:T37
+E7	Doping:T20 Dopant:T38

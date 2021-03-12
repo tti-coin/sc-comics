@@ -1,0 +1,44 @@
+T1	Process 39 56	chemical pressure
+T2	Main 64 99	RuGd1.5(Ce0.5− x Pr x )Sr2Cu2O10− δ
+T3	Element 105 107	Pr
+T4	Material 168 179	bond length
+T5	Characterization 206 225	Rietveld refinement
+T6	Material 256 267	cell volume
+T7	Property 319 341	resistivity transition
+T8	Element 362 364	Pr
+T10	Element 416 422	oxygen
+T11	Material 423 433	deficiency
+T14	Element 475 482	Pr3+,4+
+T15	Element 487 491	Ce4+
+T16	Property 510 514	hole
+T18	Material 545 556	ionic radii
+T19	Property 562 582	oxygen stoichiometry
+T20	SC 594 620	superconducting transition
+T21	Property 626 643	magnetoresistance
+T22	Property 692 709	antiferromagnetic
+T25	Property 796 806	spin glass
+T26	Property 831 863	magnetic transition temperatures
+T28	Property 960 973	magnetization
+T29	Property 981 1003	applied magnetic field
+T30	Property 1053 1066	magnetization
+T31	Property 1071 1081	coercivity
+T32	Element 1116 1118	Pr
+T37	Value 127 130	0.2
+T38	Value 119 122	0.0
+T42	Value 296 300	0.15
+T43	Value 288 291	0.0
+T44	Value 664 668	135K
+T47	Value 876 879	0.2
+T48	Value 868 871	0.0
+T51	Value 1017 1020	77K
+T52	Value 1025 1029	300K
+T9	Property 457 471	ionic valences
+T12	Material 240 251	c parameter
+T13	Property 365 378	concentration
+T17	Doping 515 521	doping
+T23	Property 714 751	ferromagnetic transition temperatures
+E1	Doping:T17 Dopant:T16
+T24	Value 915 919	155K
+T27	Value 923 927	144K
+T33	Value 943 947	115K
+T34	Value 951 954	70K

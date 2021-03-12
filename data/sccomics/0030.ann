@@ -1,0 +1,59 @@
+T3	Material 170 177	lattice
+T4	Material 210 216	planes
+T5	Material 222 239	crystal structure
+T6	Material 248 260	orthorhombic
+T7	Property 269 283	concentrations
+T8	Property 314 328	oxygen content
+T10	SC 401 439	superconducting transition temperature
+T11	SC 440 443	T c
+T12	SC 517 520	T c
+T16	Property 782 789	d-holes
+T17	Material 806 812	planes
+T18	Material 881 887	planes
+T19	Main 75 91	YBa2(Cu1−xMx)3O7
+T21	Element 181 183	Cu
+T23	Value 301 305	0.15
+T25	Element 108 110	Zn
+T27	Element 115 117	Ni
+T28	Value 122 125	1.2
+T30	Element 801 805	CuO2
+T31	Main 93 97	YBCO
+T29	Element 205 209	CuO2
+T32	Element 347 349	Zn
+T33	Element 354 356	Ni
+T34	Element 365 367	Zn
+T35	Value 629 634	1.5 K
+T37	Element 460 462	Zn
+T38	Value 465 469	0.10
+T39	Element 479 481	Ni
+T43	Element 683 685	Zn
+T44	Element 690 692	Ni
+T45	Element 725 727	Zn
+T46	Element 734 738	YBCO
+T47	Element 134 136	Zn
+T48	Element 141 143	Ni
+T50	SC 449 452	T c
+T51	Value 453 454	0
+T40	Value 128 132	20 K
+T1	Property 34 47	specific heat
+T41	Property 48 52	C(T)
+T52	Property 553 557	C(T)
+T2	Doping 159 165	occupy
+T9	Doping 357 363	doping
+T13	Doping 596 602	doping
+T14	Doping 693 699	doping
+T15	Doping 728 733	doped
+T20	Value 654 657	100
+T22	Value 658 671	150 mJ⧸mol K2
+R1	Equivalent Arg1:T50 Arg2:T51
+R4	Target Arg1:E5 Arg2:T46
+E1	Doping:T2 Dopant:T48 Site:T21
+E2	Doping:T9 Dopant:T33
+E3	Doping:T13
+E4	Doping:T14 Dopant:T44
+E5	Doping:T15 Dopant:T45
+E6	Doping:T2 Dopant:T47 Site:T21
+E7	Doping:T9 Dopant:T32
+E8	Doping:T14 Dopant:T43
+E9	Doping:T2 Site:T29 Dopant:T48
+E10	Doping:T2 Site:T29 Dopant:T47

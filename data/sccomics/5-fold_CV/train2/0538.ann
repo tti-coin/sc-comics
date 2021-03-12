@@ -1,0 +1,68 @@
+T1	Material 0 10	Structures
+T2	Element 14 18	MgB2
+T3	Material 25 34	materials
+T4	Process 54 62	pressure
+T5	SC 109 124	superconducting
+T6	Material 158 168	multiphase
+T7	Main 191 197	Mg-B-O
+T8	Element 214 220	oxygen
+T10	Element 246 250	MgB2
+T11	Element 255 260	boron
+T12	Element 266 269	MgO
+T13	Material 270 280	structures
+T14	Element 282 286	MgBx
+T15	Element 330 336	oxygen
+T16	Process 376 384	pressure
+T18	Element 426 432	oxygen
+T19	Element 437 442	boron
+T20	Material 463 472	materials
+T21	Element 525 531	Mg-B-O
+T22	Element 536 540	MgBx
+T23	Property 573 580	pinning
+T24	Property 582 595	pinning force
+T25	Property 610 634	critical current density
+T26	Property 635 637	jc
+T27	Element 643 648	boron
+T28	Property 649 662	concentration
+T29	Element 683 685	Mg
+T30	Element 690 691	B
+T31	Element 747 752	MgB12
+T32	SC 758 760	TC
+T36	Value 70 74	2GPa
+T37	Value 764 769	37.4K
+T38	Process 349 374	manufacturing temperature
+T39	Value 735 743	88.5 wt%
+T9	Doping 228 240	incorporated
+T17	Doping 398 407	additions
+T34	Value 290 291	4
+T35	Value 292 294	20
+E1	Doping:T9 Dopant:T11 Site:T12
+E2	Doping:T9 Dopant:T8 Site:T10
+E3	Doping:T17 
+#1	AnnotatorNotes T1	0-10
+#2	AnnotatorNotes T2	14-18
+#3	AnnotatorNotes T3	25-34
+#4	AnnotatorNotes T6	158-168
+#5	AnnotatorNotes T7	191-197
+#6	AnnotatorNotes T8	214-220
+#7	AnnotatorNotes T10	246-250
+#8	AnnotatorNotes T11	255-260
+#9	AnnotatorNotes T12	266-269
+#10	AnnotatorNotes T13	270-280
+#11	AnnotatorNotes T14	282-286
+#12	AnnotatorNotes T15	330-336
+#13	AnnotatorNotes T18	426-432
+#14	AnnotatorNotes T19	437-442
+#15	AnnotatorNotes T20	463-472
+#16	AnnotatorNotes T21	525-531
+#17	AnnotatorNotes T22	536-540
+#18	AnnotatorNotes T27	643-648
+#19	AnnotatorNotes T29	683-685
+#20	AnnotatorNotes T30	690-691
+#21	AnnotatorNotes T31	747-752
+#22	AnnotatorNotes T36	70-74
+#23	AnnotatorNotes T37	764-769
+#24	AnnotatorNotes T39	735-743
+#25	AnnotatorNotes T34	290-291
+#26	AnnotatorNotes T35	292-294
+R1	Equivalent Arg1:T32 Arg2:T37	

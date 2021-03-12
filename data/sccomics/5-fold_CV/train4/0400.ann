@@ -1,0 +1,49 @@
+T1	Main 0 10	La3Co4Sn13
+T2	SC 16 31	superconducting
+T3	Material 32 40	material
+T4	SC 46 68	transition temperature
+T5	SC 72 75	T c
+T6	Material 103 115	superlattice
+T7	Property 116 137	structural transition
+T8	Material 218 226	material
+T9	Material 260 279	lattice distortions
+T10	Property 293 312	charge density wave
+T11	Material 398 411	isostructural
+T12	Property 412 424	non-magnetic
+T13	Material 425 448	intermetallic compounds
+T14	Process 510 540	chemical and external pressure
+T15	Property 548 570	quantum critical point
+T18	Process 623 631	pressure
+T19	Process 669 677	pressure
+T20	Material 681 699	single-crystalline
+T21	Element 700 710	La3Co4Sn13
+T22	SC 720 723	T c
+T23	Property 755 779	thermal hysteresis loops
+T24	Process 784 791	cooling
+T26	Characterization 897 914	x-ray diffraction
+T27	Property 925 935	hysteresis
+T29	Property 981 988	pinning
+T30	Property 996 999	CDW
+T31	Material 1009 1019	impurities
+T32	Material 1020 1027	defects
+T33	Material 1039 1051	superlattice
+T34	Property 1052 1073	structural transition
+T35	Process 1088 1104	ambient pressure
+T36	Property 1105 1117	second-order
+T37	Process 1142 1150	pressure
+T38	Property 1240 1248	critical
+T39	Value 826 833	0.6 GPa
+T40	Value 1213 1220	5.5 GPa
+T41	Value 1276 1284	2.53 GPa
+T42	Process 792 799	heating
+T43	Value 78 84	2.70 K
+T44	Value 147 152	150 K
+T45	Property 314 317	CDW
+T16	Process 607 622	critical doping
+T25	Property 939 949	electrical
+T28	Characterization 950 962	measurements
+T17	Property 838 860	electrical resistivity
+T46	Characterization 861 873	measurements
+R1	Equivalent Arg1:T5 Arg2:T43
+R2	Coref Arg1:T4 Arg2:T5
+R3	Target Arg1:T43 Arg2:T1

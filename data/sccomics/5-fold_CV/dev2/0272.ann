@@ -1,0 +1,66 @@
+T2	Property 68 81	concentration
+T4	Main 118 126	BaFe2As2
+T5	Main 128 136	SrFe2As2
+T7	SC 150 165	superconductors
+T8	Property 184 200	first principles
+T9	Property 222 234	calculations
+T10	Element 251 253	Co
+T11	Element 254 256	Ru
+T12	Property 258 266	electron
+T13	Property 270 284	iso-electronic
+T15	Element 296 298	Fe
+T16	Element 308 309	P
+T18	Element 320 322	As
+T19	Process 341 350	reduction
+T21	Property 391 404	concentration
+T22	Element 434 436	Na
+T23	Element 437 438	K
+T24	Property 440 444	hole
+T26	Element 460 462	Ba
+T28	Property 514 528	concentrations
+T29	Element 695 703	pnictide
+T30	Element 716 720	FeAs
+T31	Material 721 732	bond length
+T33	Property 778 792	Fermi surfaces
+T36	Property 902 915	Fermi surface
+T37	Property 42 55	Stoner factor
+T38	Property 354 367	Stoner factor
+T39	Property 470 483	Stoner factor
+T40	Property 586 606	magnetic fluctuation
+T41	Property 643 656	Stoner factor
+T42	Property 839 853	Stoner factors
+T35	Property 945 958	Stoner factor
+T43	Element 713 715	As
+T6	Element 141 143	Fe
+T44	Element 872 883	122 systems
+T45	Main 100 111	122 systems
+T46	Property 201 221	electronic structure
+T1	Doping 61 67	doping
+T3	Doping 94 99	doped
+T14	Doping 286 292	doping
+T17	Doping 310 316	doping
+T20	Doping 384 390	doping
+T25	Doping 446 452	doping
+T27	Doping 755 761	doping
+T32	Doping 866 871	doped
+T34	Doping 507 513	doping
+R1	Coref Arg1:T45 Arg2:T4
+R2	Coref Arg1:T45 Arg2:T5
+R3	Target Arg1:E10 Arg2:T44
+R4	Target Arg1:E2 Arg2:T45
+R5	Target Arg1:E2 Arg2:T4
+R6	Target Arg1:E2 Arg2:T5
+E1	Doping:T1 
+E2	Doping:T3 
+E3	Doping:T14 Dopant:T11 Site:T15
+E4	Doping:T14 Dopant:T10 Site:T15
+E5	Doping:T17 Dopant:T16 Site:T18
+E6	Doping:T20 
+E7	Doping:T25 Dopant:T22 Site:T26
+E8	Doping:T25 Dopant:T23 Site:T26
+E9	Doping:T27 
+E10	Doping:T32 
+E11	Doping:T14 Dopant:T12 Site:T15
+E12	Doping:T14 Dopant:T13 Site:T15
+E13	Doping:T25 Dopant:T24 Site:T26
+E14	Doping:T34 

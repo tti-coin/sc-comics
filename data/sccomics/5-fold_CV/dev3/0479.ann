@@ -1,0 +1,39 @@
+T1	Main 65 83	(BiSe)1.15(TiSe2)2
+T2	Characterization 98 130	Transmission electron microscopy
+T3	Characterization 135 159	powder X-ray diffraction
+T4	Material 174 183	structure
+T5	Element 223 227	BiSe
+T6	Material 228 234	layers
+T7	Material 239 248	hexagonal
+T8	Element 249 257	(TiSe2)2
+T9	Material 258 271	double layers
+T10	Property 273 284	Resistivity
+T11	Property 286 299	specific heat
+T12	Property 305 318	magnetization
+T13	Property 349 357	metallic
+T14	Property 362 373	diamagnetic
+T15	Material 470 482	single-layer
+T16	Element 483 500	(BiSe)1.13(TiSe2)
+T17	Property 517 536	charge density wave
+T19	Material 560 564	bulk
+T20	Element 566 574	1T-TiSe2
+T21	Property 594 613	charge density wave
+T23	Element 655 661	copper
+T24	Element 663 686	Cu x (BiSe)1.15(TiSe2)2
+T25	Element 728 738	Cu x TiSe2
+T26	SC 743 760	superconductivity
+T27	Element 807 831	Cu x (BiSe)1+δ (TiSe2) n
+T28	Property 908 927	charge density wave
+T29	SC 942 959	superconductivity
+T30	Material 208 217	rock-salt
+T31	Material 542 558	infinite-layered
+T18	Value 630 634	202K
+T35	Value 693 697	0.10
+T36	Value 689 690	0
+T37	Value 783 788	0.05K
+T40	Characterization 319 331	measurements
+T22	Doping 636 649	Intercalation
+R1	Target Arg1:E1 Arg2:T24
+R2	Equivalent Arg1:T26 Arg2:T37
+R3	Target Arg1:T37 Arg2:T25
+E1	Doping:T22 Dopant:T23

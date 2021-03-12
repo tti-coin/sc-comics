@@ -1,0 +1,47 @@
+T4	Property 125 127	DC
+T5	SC 217 232	superconducting
+T6	Property 296 318	frequency fluctuations
+T7	Property 326 340	magnetic field
+T11	Property 833 847	magnetic field
+T12	Element 893 896	7Li
+T14	Property 920 932	paramagnetic
+T15	Element 933 938	MnCl2
+T16	Characterization 1036 1039	NMR
+T17	Characterization 1040 1052	spectroscopy
+T18	Property 1059 1070	frequencies
+T19	Characterization 1095 1098	NMR
+T20	Property 1136 1150	field strength
+T21	SC 1169 1184	superconducting
+T23	Characterization 1327 1330	NMR
+T24	Property 1440 1455	magnetic fields
+T1	Material 67 97	Series-Connected Hybrid magnet
+T25	Characterization 102 118	NMR spectroscopy
+T26	Value 178 183	36.1T
+T27	Value 509 513	42mm
+T28	Value 488 492	48mm
+T29	Value 868 874	0.2ppm
+T30	Value 1079 1082	1.2
+T31	Value 1087 1093	1.5GHz
+T32	Value 1102 1108	1.5GHz
+T33	Value 1120 1123	50%
+T38	Value 1056 1058	1H
+T41	Value 1074 1077	1.0
+T42	Value 758 762	1ppm
+T43	Value 804 807	1cm
+T44	Property 953 970	field homogeneity
+T45	Property 763 774	homogeneity
+T22	Characterization 1220 1230	NMR probes
+T8	Property 389 412	Current-density-grading
+T48	Property 427 442	resistive coils
+T50	Material 493 504	magnet bore
+T51	Property 975 991	field regulation
+T2	Property 635 648	ferromagnetic
+T3	Property 165 171	fields
+T9	Material 370 387	resistive magnets
+T35	Property 465 482	field homogeneity
+T10	Material 1289 1296	rf coil
+T36	Property 1301 1317	field regulation
+T37	Material 782 800	cylindrical volume
+T34	Material 1357 1367	SCH magnet
+T13	Doping 909 914	doped
+E1	Doping:T13 Site:T12 Dopant:T15

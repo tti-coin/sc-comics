@@ -1,0 +1,67 @@
+T1	Element 9 13	YBCO
+T2	Element 15 24	YBa2Cu3O7
+T3	Element 42 49	hafnium
+T4	SC 61 76	superconductors
+T5	Main 99 119	Y1− x Hf x Ba2Cu3O z
+T7	Element 209 213	urea
+T8	Characterization 242 260	X-ray measurements
+T9	Element 276 285	Hf4+ ions
+T10	Material 323 344	crystalline structure
+T12	Element 360 361	Y
+T14	Material 384 401	lattice structure
+T15	Element 405 413	123-YBCO
+T16	Element 431 438	hafnium
+T18	Characterization 495 517	EDX elemental analysis
+T19	Element 518 522	Hf4+
+T20	Element 620 628	123-YBCO
+T21	Material 629 645	grain boundaries
+T22	Element 665 677	hafnium (IV)
+T24	Material 715 719	bulk
+T25	SC 723 738	superconducting
+T26	Element 739 753	123-YBCO-phase
+T27	Property 771 785	concentrations
+T30	Element 863 870	hafnium
+T32	Material 892 907	crystal lattice
+T34	Element 922 930	123-YBCO
+T35	SC 931 946	superconductors
+T36	Element 948 955	Hafnium
+T38	Element 1012 1016	YBCO
+T40	Element 1059 1061	O4
+T42	Element 1136 1143	hafnium
+T44	Property 1178 1198	transport properties
+T46	Element 1226 1233	Hafnium
+T58	Characterization 469 490	SE-microscopy mapping
+T59	Property 588 599	molar ratio
+T28	Element 814 816	Hf
+T60	Element 823 831	123-YBCO
+T64	Property 1254 1273	tensile coefficient
+T65	Process 1291 1298	35.7MPa
+T67	Value 1306 1313	0.4mole
+T47	Value 131 134	0.1
+T13	Value 136 139	0.2
+T29	Value 145 152	0.4mole
+T11	Doping 349 359	substitute
+T17	Doping 439 445	doping
+T23	Doping 817 822	doped
+T31	Doping 871 884	substitutions
+T37	Doping 956 963	dopings
+T43	Doping 1144 1151	dopings
+T6	Value 450 453	0.1
+T48	Value 454 461	0.2mole
+T33	Element 911 912	Y
+T39	Material 1044 1050	apical
+T49	Element 1051 1057	oxygen
+T41	Element 1202 1206	YBCO
+T45	Property 1087 1110	Magnetic susceptibility
+T51	Characterization 1111 1123	measurements
+R2	Target Arg1:E1 Arg2:T15
+R3	Target Arg1:E3 Arg2:T60
+R4	Target Arg1:E4 Arg2:T34
+R5	Target Arg1:E5 Arg2:T38
+R6	Target Arg1:E6 Arg2:T41
+E1	Doping:T11 Site:T12 Dopant:T16
+E2	Doping:T17 Dopant:T16
+E3	Doping:T23 Dopant:T28
+E4	Doping:T31 Dopant:T30 Site:T33
+E5	Doping:T37 Dopant:T36
+E6	Doping:T43 Dopant:T42

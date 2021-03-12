@@ -1,0 +1,45 @@
+T1	Property 19 30	high energy
+T2	Element 31 37	Helium
+T6	Material 114 128	microstructure
+T7	Element 152 154	Ir
+T8	Element 177 179	Ir
+T10	SC 212 227	superconducting
+T11	Process 330 340	irradiated
+T15	SC 471 486	Superconducting
+T17	Element 563 565	He
+T18	Element 566 568	Ag
+T20	Characterization 575 586	irradiation
+T22	Characterization 617 629	irradiations
+T24	Material 675 681	grains
+T25	SC 771 781	Tc-offsets
+T26	Process 790 800	irradiated
+T27	Process 829 839	irradiated
+T28	Element 840 855	Mg0.94Ir 0.06B2
+T29	Element 196 211	Mg0.94Ir 0.06B2
+T30	Process 352 367	different doses
+T31	Value 440 449	103 W/cm2
+T14	Value 465 469	3 cm
+T32	Characterization 487 499	measurements
+T33	Main 161 165	MgB2
+T34	Process 637 653	ultrahigh energy
+T35	Property 723 727	Jc’s
+T36	Material 504 520	micro-structural
+T4	Process 84 102	metal-vapor lasers
+T23	Element 657 659	Ag
+T38	Element 654 656	He
+T13	Element 409 411	Ag
+T39	Element 406 408	He
+T21	Element 38 44	Silver
+T3	Process 45 50	laser
+T9	Doping 155 160	doped
+T16	Doping 190 195	doped
+T5	Process 412 417	Laser
+T40	Process 569 574	Laser
+T41	Process 660 665	Laser
+T12	Value 368 369	1
+T19	Value 371 372	2
+T37	Value 377 380	3 h
+R1	Target Arg1:E1 Arg2:T33
+R2	Target Arg1:E2 Arg2:T29
+E1	Doping:T9 Dopant:T7
+E2	Doping:T16 Dopant:T8

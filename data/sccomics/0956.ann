@@ -1,0 +1,49 @@
+T1	Material 4 21	crystal structure
+T2	Property 23 32	magnetism
+T3	Property 49 66	density of states
+T4	Element 71 75	FeAs
+T5	Material 76 83	layered
+T6	Main 93 101	SrFe2As2
+T7	Property 138 163	density functional theory
+T8	Property 182 191	magnetism
+T9	Property 213 248	nearest neighbor anti-ferromagnetic
+T10	Property 250 256	NN AFM
+T11	Property 262 275	ferromagnetic
+T12	Property 281 286	order
+T13	Property 287 299	ground-state
+T15	Element 341 343	Sr
+T16	Element 349 354	K ion
+T17	Element 358 374	Sr1−x K x Fe2As2
+T18	Material 406 416	distortion
+T19	Element 420 424	FeAs
+T20	Property 458 466	electron
+T22	Property 474 487	concentration
+T23	Property 500 509	magnetism
+T24	Element 528 529	K
+T26	Property 540 546	NN-AFM
+T27	Property 547 559	ground state
+T28	Property 579 596	density of states
+T29	Property 600 611	Fermi level
+T30	Property 628 634	NN AFM
+T31	Property 635 647	ground state
+T32	Property 703 706	T c
+T33	Element 710 726	Sr1−x K x Fe2As2
+T34	Property 766 777	calculation
+T35	Property 792 798	NN AFM
+T36	Property 804 820	spin fluctuation
+T37	Element 844 860	Sr1−x K x Fe2As2
+T38	Property 902 918	spin fluctuation
+T39	Property 946 963	spin density wave
+T40	Property 965 968	SDW
+T41	Property 277 279	FM
+T46	Property 571 573	FM
+T49	Property 165 168	DFT
+T50	Property 612 621	N ( E F )
+T51	Material 425 437	tetrahedrons
+T14	Doping 324 336	substitution
+T21	Doping 467 473	doping
+T25	Doping 530 536	doping
+R1	Target Arg1:E1 Arg2:T17
+E1	Doping:T14 Site:T15 Dopant:T16
+E2	Doping:T21 Dopant:T20
+E3	Doping:T25 Dopant:T24

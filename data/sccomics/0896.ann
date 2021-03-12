@@ -1,0 +1,54 @@
+T2	Element 59 61	Ba
+T3	SC 69 86	superconductivity
+T4	Main 90 117	Yb0.6Ca0.4Ba2- y Sr y Cu3O6
+T5	Element 155 161	Cu(1)O
+T6	Material 162 167	chain
+T7	Material 175 189	blocking layer
+T8	SC 214 217	T c
+T9	Property 261 266	holes
+T13	Element 311 315	Ba2+
+T14	SC 333 336	T c
+T15	Property 348 353	holes
+T18	Element 387 389	Yb
+T19	SC 422 437	superconducting
+T20	Element 438 445	Cu(2)O2
+T21	Material 446 451	plane
+T22	Material 461 475	blocking layer
+T23	Element 479 484	Cu(1)
+T24	Element 517 524	Cu(2)O2
+T25	Material 525 530	plane
+T27	Element 567 571	Sr2+
+T28	Element 583 587	Ba2+
+T29	SC 601 610	T c onset
+T30	Element 633 635	Sr
+T31	SC 689 698	T c onset
+T32	Element 709 724	(RE,Ca)Ba2Cu3O6
+T34	Element 793 803	REBa2Cu3O7
+T35	Property 815 833	hole-concentration
+T36	Element 841 848	Cu(2)O2
+T37	Material 849 854	plane
+T1	Element 39 41	Sr
+T17	Element 367 369	Ca
+T43	Value 613 617	73 K
+T44	Value 639 642	0.6
+T45	Value 701 705	50 K
+T33	Value 784 788	90 K
+T47	Element 726 728	RE
+T48	Element 730 748	rare-earth element
+T10	Doping 42 54	substitution
+T12	Doping 271 276	doped
+T16	Doping 294 306	substitution
+T26	Doping 354 359	doped
+T38	Doping 370 382	substitution
+T42	Doping 543 555	substitution
+T11	Element 289 293	Sr2+
+R1	Target Arg1:T45 Arg2:T32
+R2	Equivalent Arg1:T31 Arg2:T45
+R3	Equivalent Arg1:T29 Arg2:T43
+R5	Target Arg1:E1 Arg2:T4
+E1	Doping:T10 Dopant:T1 Site:T2
+E2	Doping:T12 Dopant:T9
+E3	Doping:T16 Site:T13 Dopant:T11
+E4	Doping:T26 Dopant:T15
+E5	Doping:T38 Dopant:T17 Site:T18
+E6	Doping:T42 Dopant:T27 Site:T28

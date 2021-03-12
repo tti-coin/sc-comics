@@ -1,0 +1,49 @@
+T2	Property 4 41	temperature dependences of resistance
+T3	Material 60 75	single-crystals
+T4	Main 76 90	La 2 CuO 4 + δ
+T5	Element 306 312	oxygen
+T6	Material 331 346	phase-separated
+T7	Property 353 369	Néel temperature
+T8	Property 370 373	T N
+T9	Property 384 396	Conductivity
+T11	Property 471 474	T N
+T12	Material 550 565	phase-separated
+T13	Property 589 592	T N
+T14	SC 607 622	superconducting
+T15	SC 625 628	T c
+T16	Property 699 710	resistivity
+T17	Property 727 730	T N
+T18	Element 852 857	CuO 2
+T19	Material 858 864	planes
+T20	Property 889 901	conductivity
+T21	Material 947 962	phase-separated
+T22	Property 1038 1041	T N
+T23	Property 1092 1100	metallic
+T24	Property 1150 1153	T N
+T25	Property 1243 1258	charge carriers
+T26	Property 1265 1268	T N
+T27	Property 1314 1317	AFM
+T28	Property 1318 1336	correlation length
+T29	Property 1374 1387	hole mobility
+T31	Property 1394 1397	T N
+T33	Element 1418 1436	lanthanum cuprates
+T34	Property 43 50	R ( T )
+T35	Property 193 223	paramagnetic–antiferromagnetic
+T36	Property 225 231	PM–AFM
+T39	Value 273 277	0.01
+T40	Property 291 302	homogeneous
+T41	Value 376 381	266 K
+T42	Property 435 464	Mott's variable-range hopping
+T44	Value 524 528	0.05
+T45	Property 535 548	inhomogeneous
+T46	Property 580 586	PM–AFM
+T47	Value 595 600	205 K
+T48	Value 631 635	25 K
+T49	Property 907 913	PM–AFM
+T50	Value 1044 1049	205 K
+T51	Property 676 687	homogeneous
+T52	Property 807 814	current
+T32	Doping 1412 1417	doped
+R1	Equivalent Arg1:T15 Arg2:T48
+R2	Target Arg1:E1 Arg2:T33
+E1	Doping:T32

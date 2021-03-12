@@ -1,0 +1,51 @@
+T2	Property 188 200	normal state
+T4	Property 284 290	theory
+T6	Property 320 326	charge
+T7	Property 416 426	low energy
+T8	Property 456 462	charge
+T9	Property 467 471	spin
+T10	Material 489 495	layers
+T11	SC 506 529	cuprate superconductors
+T12	Property 639 645	charge
+T13	Property 683 700	magnetic ordering
+T14	Property 724 729	spins
+T16	Property 766 787	carrier concentration
+T17	Property 821 838	antiferromagnetic
+T18	Property 840 842	AF
+T19	Property 844 854	insulators
+T22	SC 935 950	superconducting
+T23	Property 1071 1092	magnetic correlations
+T24	Material 1105 1111	planes
+T25	Property 1183 1191	magnetic
+T26	Property 1192 1202	relaxation
+T27	SC 1288 1303	superconducting
+T28	Property 1359 1363	spin
+T29	Property 1382 1384	AF
+T30	Property 1385 1394	insulator
+T32	Property 1410 1418	metallic
+T33	Property 1587 1593	models
+T34	Property 1621 1623	AF
+T35	Property 1624 1641	spin fluctuations
+T37	Property 1796 1812	spin fluctuation
+T39	SC 1859 1893	high temperature superconductivity
+T40	Element 484 488	CuO2
+T41	Element 721 723	Cu
+T42	Element 1100 1104	CuO2
+T3	Property 262 283	Landau's Fermi liquid
+T5	Property 292 309	Spin correlations
+T44	Property 151 171	Coulomb correlations
+T45	Property 609 626	Coulomb repulsion
+T47	Characterization 1145 1152	neutron
+T36	Property 1727 1746	spin susceptibility
+T21	Property 893 910	spin correlations
+T43	Property 104 114	electronic
+T48	Characterization 1157 1173	Raman scattering
+T1	SC 62 77	superconductors
+T38	Main 54 61	cuprate
+T15	Doping 748 754	doping
+T31	Doping 1404 1409	doped
+T46	Element 792 799	cuprate
+T20	Material 869 875	metals
+R1	Target Arg1:E1 Arg2:T46
+E1	Doping:T15
+E2	Doping:T31

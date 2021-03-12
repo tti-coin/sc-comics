@@ -1,0 +1,43 @@
+T1	Process 96 116	solid state reaction
+T2	Material 133 145	orthorhombic
+T3	SC 152 155	T c
+T5	SC 314 317	T c
+T6	Characterization 386 389	DTA
+T7	Characterization 391 394	SEM
+T8	Property 402 413	resistivity
+T10	SC 655 658	T c
+T11	Property 759 772	melting point
+T12	Process 797 824	high-temperature processing
+T13	Material 919 934	single crystals
+T14	Property 974 976	3D
+T15	Process 1006 1022	high-temperature
+T16	SC 1060 1063	T c
+T17	Property 1159 1170	phonon drag
+T18	SC 1250 1265	superconductors
+T19	Property 968 970	2D
+T20	Material 13 28	polycrystalline
+T21	Main 29 50	YBa2(Cu1−x M x )3O7−δ
+T27	Element 54 56	Ti
+T28	Element 58 59	V
+T30	Value 203 206	0.1
+T31	Element 828 837	Y-Ba-Cu-O
+T32	Characterization 396 400	EDXA
+T33	Value 557 565	2.5 at.%
+T34	Element 484 486	Ti
+T35	Element 491 492	V
+T36	Element 496 505	Y-Ba-Cu-O
+T37	Element 599 601	Ti
+T38	Element 606 607	V
+T39	Material 773 782	substrate
+T40	Material 900 912	polycrystals
+T41	Property 739 752	non-poisonous
+T42	SC 165 169	ΔT c
+T43	SC 368 372	ΔT c
+T44	Property 419 430	thermopower
+T45	Property 1026 1036	mean-field
+T46	Property 1069 1080	thermopower
+T47	Property 1138 1150	band-filling
+T4	Doping 239 245	doping
+T9	Doping 579 587	addition
+E1	Doping:T4
+E2	Doping:T9

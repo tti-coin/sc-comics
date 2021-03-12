@@ -1,0 +1,32 @@
+T1	Property 25 45	electronic structure
+T2	Property 50 69	magnetic properties
+T3	Main 73 82	CeRu2Al2B
+T7	Element 197 199	Ce
+T8	Property 200 202	4f
+T10	Property 272 288	electronic state
+T11	Property 298 315	density of states
+T12	Property 317 320	DOS
+T13	Property 322 333	calculation
+T14	Element 392 401	CeRu2Al2B
+T16	Element 442 443	B
+T17	Element 449 451	Al
+T18	Element 472 474	Ce
+T19	Property 475 477	5d
+T20	Property 478 494	electronic state
+T21	Element 511 513	Al
+T22	Property 514 516	3p
+T23	Element 611 613	Ce
+T24	Property 614 616	5d
+T25	Element 621 623	Al
+T26	Property 624 626	3p
+T27	SC 652 660	high T c
+T28	SC 661 683	transition temperature
+T29	Element 687 696	CeRu2Al2B
+T9	Property 203 219	electronic state
+T30	Property 561 573	p–d coupling
+T4	Property 89 114	density functional theory
+T5	Property 126 158	local spin density approximation
+T6	Property 160 164	LSDA
+T31	Property 372 388	RKKY interaction
+T15	Doping 427 438	replacement
+E1	Doping:T15 Site:T16 Dopant:T17

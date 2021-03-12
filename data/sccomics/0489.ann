@@ -1,0 +1,48 @@
+T1	Main 0 4	MgB2
+T2	SC 5 19	superconductor
+T4	Material 104 114	structural
+T5	SC 119 134	superconducting
+T6	Element 173 176	n-C
+T8	Element 191 196	n-SiC
+T10	Material 233 250	lattice parameter
+T13	Element 375 381	carbon
+T15	Element 398 403	boron
+T17	Property 466 490	critical current density
+T20	Material 588 595	Lattice
+T22	Element 615 621	carbon
+T24	Property 639 651	flux pinning
+T25	Element 695 700	Mg2Si
+T26	Material 701 710	particles
+T27	Element 742 744	Mg
+T28	Element 749 755	n-SiO2
+T31	SC 835 849	superconductor
+T32	Element 41 52	nano-carbon
+T33	Element 54 57	n-C
+T34	Element 63 74	nano-silica
+T35	Element 76 82	n-SiO2
+T36	Element 181 189	nano SiC
+T7	Property 491 498	J C (H)
+T18	Property 802 809	J C (H)
+T21	Property 596 603	strains
+T3	Doping 30 35	doped
+T9	Doping 203 208	doped
+T11	Doping 271 276	doped
+T12	Doping 305 310	doped
+T14	Doping 382 394	substitution
+T16	Doping 415 420	doped
+T19	Doping 513 518	doped
+T23	Doping 622 634	substitution
+T29	Doping 829 834	doped
+R4	Target Arg1:E1 Arg2:T1
+R5	Target Arg1:E11 Arg2:T1
+E1	Doping:T3 Dopant:T33
+E2	Doping:T9 Dopant:T36
+E3	Doping:T9 Dopant:T6
+E4	Doping:T11
+E5	Doping:T12
+E6	Doping:T14 Dopant:T13 Site:T15
+E7	Doping:T16
+E8	Doping:T19
+E9	Doping:T23 Dopant:T22
+E10	Doping:T29
+E11	Doping:T3 Dopant:T34

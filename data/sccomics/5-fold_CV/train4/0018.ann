@@ -1,0 +1,44 @@
+T2	Process 103 119	room temperature
+T3	SC 201 218	superconductivity
+T4	Property 603 626	magnetic susceptibility
+T5	SC 639 667	superconducting temperatures
+T7	Property 692 706	oxygen content
+T8	Material 757 763	powder
+T9	Characterization 764 781	X-ray diffraction
+T10	Material 908 920	orthorhombic
+T11	Material 921 929	symmetry
+T12	SC 956 959	T c
+T13	SC 993 1010	superconductivity
+T14	Process 1012 1021	Annealing
+T15	Material 1047 1057	structural
+T16	Material 1075 1085	tetragonal
+T17	Material 1086 1094	symmetry
+T18	SC 1105 1122	superconductivity
+T19	SC 1131 1134	T c
+T20	Process 1237 1253	high temperature
+T21	Material 1383 1393	structural
+T22	Material 1438 1448	structural
+T23	SC 1466 1483	superconductivity
+T24	Value 1025 1030	150°C
+T25	Element 1359 1363	YBCO
+T26	Element 937 941	YBCO
+T27	Element 363 367	YBCO
+T28	Element 328 332	YBCO
+T29	Element 341 348	Li6CuO4
+T30	Main 62 73	YBa2Cu3O y0
+T31	Main 75 79	YBCO
+T32	Element 498 505	lithium
+T33	Element 305 311	oxygen
+T34	Element 316 322	copper
+T35	Element 92 99	lithium
+T36	Element 871 877	oxygen
+T37	Element 882 888	copper
+T38	Element 1034 1039	argon
+T39	Element 1195 1202	lithium
+T40	Material 46 61	polycrystalline
+T41	Element 795 802	lithium
+T42	Property 1423 1433	electronic
+T1	Process 17 42	electrochemical reduction
+T44	Property 578 598	electronic transport
+T6	Process 1254 1263	reduction
+R1	Coref Arg1:T30 Arg2:T31

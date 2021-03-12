@@ -1,0 +1,54 @@
+T2	SC 43 58	superconducting
+T3	SC 141 144	T c
+T5	Characterization 268 271	XRD
+T6	Characterization 273 276	SEM
+T7	SC 342 350	high-T c
+T8	SC 433 436	T c
+T10	Property 520 529	diffusion
+T11	SC 556 571	superconducting
+T13	SC 700 715	superconducting
+T14	Property 764 778	oxygen content
+T15	SC 814 817	T c
+T16	Process 926 935	sintering
+T17	SC 965 980	superconductors
+T18	SC 1004 1007	T c
+T19	Process 1020 1032	grain growth
+T20	Material 1037 1042	grain
+T21	Material 1059 1063	bulk
+T22	Characterization 281 284	EDS
+T23	Element 14 28	alkali element
+T24	Main 77 90	BiSrCaCuO
+T25	Value 148 152	94 K
+T26	Value 164 168	90 K
+T27	Element 172 186	alkali element
+T28	Element 193 206	Bi2Sr2CaCu2O8
+T29	Element 357 372	Bi2Sr2Ca2Cu3O10
+T30	Element 445 459	alkali element
+T31	Property 482 496	fluxing action
+T32	Element 539 541	Ca
+T33	Element 546 548	Cu
+T34	Element 623 636	Bi2Sr2CaCu2O8
+T35	Element 677 692	alkali elements
+T36	Property 867 881	fluxing action
+T37	Element 883 898	Alkali elements
+T38	Element 956 958	Bi
+T39	Material 1043 1051	aligment
+T40	Material 1064 1073	materials
+T1	Doping 29 35	doping
+T4	Doping 187 192	doped
+T9	Doping 460 466	doping
+T12	Doping 661 673	substitution
+T41	SC 157 160	T 0
+R1	Equivalent Arg1:T3 Arg2:T25
+R2	Target Arg1:T26 Arg2:T28
+R3	Equivalent Arg1:T41 Arg2:T26
+R4	Target Arg1:T25 Arg2:T28
+R5	Target Arg1:E1 Arg2:T24
+R6	Target Arg1:E2 Arg2:T28
+R7	Condition Arg1:T26 Arg2:E2
+R8	Condition Arg1:T25 Arg2:E2
+R9	Target Arg1:E3 Arg2:T34
+E1	Doping:T1 Dopant:T23
+E2	Doping:T4 Dopant:T27
+E3	Doping:T9 Dopant:T30
+E4	Doping:T12 Dopant:T35

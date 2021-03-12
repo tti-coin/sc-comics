@@ -1,0 +1,44 @@
+T1	Main 0 7	Stanene
+T2	Element 21 24	tin
+T3	Material 25 30	atoms
+T4	Material 52 57	layer
+T5	Element 66 69	tin
+T6	Element 82 90	graphene
+T9	Property 208 220	calculations
+T10	Material 237 256	honeycomb structure
+T11	Element 260 267	stanene
+T12	Property 279 285	phonon
+T13	SC 295 312	superconductivity
+T18	Property 478 484	phonon
+T19	SC 494 511	superconductivity
+T21	Material 537 545	material
+T23	Element 577 584	calcium
+T24	Element 586 593	lithium
+T25	SC 604 621	superconductivity
+T26	SC 647 685	superconducting transition temperature
+T27	SC 686 689	T c
+T28	Material 740 744	bulk
+T29	Element 745 751	β -Tin
+T30	Property 129 150	topological insulator
+T31	Value 176 181	0.1eV
+T32	Property 155 170	energy band gap
+T33	Element 515 522	stanene
+T34	Value 694 698	1.3K
+T35	Value 701 705	1.4K
+T36	Value 730 734	3.7K
+T14	Property 443 446	DFT
+T17	Property 416 441	density functional theory
+T15	Property 379 408	first principles calculations
+T7	Doping 526 532	doping
+T8	Doping 565 571	doping
+R1	Equivalent Arg1:T27 Arg2:T34
+R2	Coref Arg1:T26 Arg2:T27
+R3	Equivalent Arg1:T27 Arg2:T35
+R4	Equivalent Arg1:T27 Arg2:T36
+R5	Target Arg1:E1 Arg2:T33
+R6	Condition Arg1:T34 Arg2:E2
+E1	Doping:T7 
+E2	Doping:T8 Dopant:T23
+E3	Doping:T8 Dopant:T24
+R7	Condition Arg1:T35 Arg2:E3	
+R8	Target Arg1:T36 Arg2:T29	

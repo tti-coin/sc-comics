@@ -1,0 +1,40 @@
+T1	Material 27 46	nominal composition
+T2	Main 47 80	Y 1 B a 2 − x S m x C u 3 O 7 − δ
+T3	Element 86 88	Sm
+T5	Process 152 172	solid state reaction
+T7	Element 212 214	Sm
+T8	Element 226 228	Ba
+T10	SC 268 283	superconducting
+T11	Property 326 347	electrical resistance
+T12	Property 352 372	critical temperature
+T13	Element 437 439	Sm
+T15	Element 465 470	YBSCO
+T16	SC 471 486	superconducting
+T17	SC 509 531	transition temperature
+T18	SC 539 553	superconductor
+T19	Property 580 601	electrical resistance
+T20	Characterization 634 637	XRD
+T22	Material 709 718	structure
+T23	Material 722 734	orthorhombic
+T24	Characterization 736 739	SEM
+T25	Material 763 771	porosity
+T26	Element 813 815	Sm
+T27	Process 837 849	grain growth
+T28	Material 923 928	grain
+T32	Value 107 111	0.00
+T9	Characterization 311 322	Measurement
+T21	Element 678 689	Y–123 phase
+T33	Element 872 874	Sm
+T34	Value 113 117	0.01
+T35	Value 119 123	0.03
+T36	Value 125 129	0.05
+T37	Characterization 388 413	4-Probe connection method
+T38	Material 253 263	structural
+T4	Doping 89 101	substitution
+T6	Doping 199 211	substituting
+T14	Doping 440 452	substitution
+R1	Target Arg1:E1 Arg2:T2
+R2	Target Arg1:E3 Arg2:T15
+E1	Doping:T4 Dopant:T3
+E2	Doping:T6 Dopant:T7 Site:T8
+E3	Doping:T14 Dopant:T13

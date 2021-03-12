@@ -1,0 +1,39 @@
+T1	Material 11 19	disorder
+T2	Property 23 31	electron
+T4	Main 38 52	iron pnictides
+T5	Material 151 161	impurities
+T6	Material 228 234	square
+T7	Material 235 242	lattice
+T8	Property 293 309	order parameters
+T9	Material 324 332	impurity
+T10	Property 333 347	concentrations
+T11	Property 366 374	electron
+T13	Property 382 396	concentrations
+T14	Property 493 509	order parameters
+T16	Property 617 633	order parameters
+T17	Property 648 650	SP
+T18	Property 666 682	order parameters
+T19	Material 697 707	impurities
+T20	Property 780 796	order parameters
+T21	SC 853 868	superconducting
+T22	SC 870 872	SC
+T23	Property 874 879	order
+T24	Property 885 899	magnetic order
+T25	Material 927 935	impurity
+T26	Property 956 973	spin density wave
+T27	SC 1037 1054	superconductivity
+T28	SC 1070 1072	SC
+T29	Property 1073 1078	order
+T30	Material 1116 1124	impurity
+T31	SC 1145 1165	critical temperature
+T32	Property 172 192	scattering potential
+T33	Property 194 196	SP
+T35	Property 480 482	SP
+T15	Property 581 583	SP
+T36	Property 110 140	Bogoliubov-de Gennes equations
+T3	Doping 32 37	doped
+T12	Doping 375 381	doping
+T34	Property 426 429	SPs
+R2	Target Arg1:E1 Arg2:T4
+E1	Doping:T3 Dopant:T2
+E2	Doping:T12 Dopant:T11

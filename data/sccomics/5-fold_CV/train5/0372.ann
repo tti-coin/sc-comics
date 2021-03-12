@@ -1,0 +1,38 @@
+T1	SC 24 62	superconducting transition temperature
+T2	SC 63 66	T c
+T3	Property 77 87	anisotropy
+T4	Property 99 115	coherence length
+T7	SC 176 191	superconductors
+T8	Element 224 232	cuprates
+T9	SC 252 267	superconductors
+T10	Element 273 278	Nb3Sn
+T14	Property 407 425	melting transition
+T15	Property 430 436	vortex
+T17	Main 475 492	Ba0.54K0.46Fe2As2
+T18	Material 506 520	single crystal
+T19	Property 555 564	frequency
+T20	Property 614 634	vortex phase diagram
+T22	Property 658 674	dc magnetization
+T23	Property 676 700	Magnetic irreversibility
+T26	Property 780 795	zero resistance
+T27	SC 855 869	superconductor
+T28	Property 926 935	frequency
+T31	Property 1006 1022	phase transition
+T32	Property 1023 1028	model
+T35	Property 1096 1103	melting
+T36	Property 1125 1130	order
+T37	Property 1145 1151	vortex
+T38	Property 291 339	linear and non-linear ac magnetic susceptibility
+T11	Property 394 406	vortex-glass
+T21	Property 714 718	Tirr
+T39	Property 901 905	Tirr
+T40	Property 993 1005	vortex-glass
+T29	Property 1083 1095	vortex-glass
+T30	Property 468 474	p-type
+T6	Element 165 169	iron
+T33	Property 141 161	thermal fluctuations
+T5	Property 750 768	solid vortex phase
+T13	Doping 462 467	doped
+R1	Coref Arg1:T1 Arg2:T2
+R2	Target Arg1:E1 Arg2:T17
+E1	Doping:T13 

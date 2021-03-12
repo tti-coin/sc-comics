@@ -1,0 +1,61 @@
+T1	Element 36 43	benzene
+T3	Material 63 81	lattice parameters
+T4	Material 83 97	microstructure
+T5	SC 99 119	critical temperature
+T6	SC 121 124	T c
+T7	Property 128 152	critical current density
+T8	Property 154 157	J c
+T9	Material 163 167	bulk
+T10	Main 168 172	MgB2
+T11	Element 215 219	C6H6
+T13	Property 278 281	J c
+T15	SC 333 336	T c
+T16	Property 339 342	J c
+T17	Element 359 363	C6H6
+T19	Element 370 374	MgB2
+T20	Material 375 380	bulks
+T22	Property 460 463	J c
+T24	Element 515 521	carbon
+T25	Element 527 532	boron
+T26	Element 571 575	MgB2
+T27	Material 576 581	grain
+T28	Material 606 624	lattice parameters
+T29	Material 632 639	lattice
+T30	Material 640 648	disorder
+T32	SC 702 705	T c
+T33	Element 709 715	carbon
+T35	Element 774 778	C6H6
+T37	Material 828 835	powders
+T38	Element 905 906	C
+T39	Property 939 942	J c
+T40	Element 946 950	MgB2
+T42	Value 209 214	2mol%
+T43	Element 45 49	C6H6
+T44	Element 14 34	aromatic hydrocarbon
+T45	Value 353 358	2mol%
+T46	Value 392 406	1.83×106 A/cm2
+T47	Value 410 413	15K
+T48	Value 418 420	0T
+T49	Material 860 873	nanoadditives
+T14	Characterization 422 446	Microstructural analyses
+T31	Process 796 814	homogeneous mixing
+T2	Doping 51 59	addition
+T12	Doping 220 228	addition
+T18	Doping 364 369	added
+T23	Doping 499 511	substitution
+T34	Doping 716 724	addition
+T36	Doping 779 787	addition
+R1	Coref Arg1:T5 Arg2:T6
+R2	Target Arg1:E1 Arg2:T10
+R3	Target Arg1:E3 Arg2:T19
+R4	Target Arg1:E8 Arg2:T10
+R5	Target Arg1:E7 Arg2:T10
+R6	Target Arg1:E4 Arg2:T26
+E1	Doping:T2 Dopant:T44
+E2	Doping:T12 Dopant:T11
+E3	Doping:T18 Dopant:T17
+E4	Doping:T23 Dopant:T24 Site:T25
+E5	Doping:T34 Dopant:T33
+E6	Doping:T36 Dopant:T35
+E7	Doping:T2 Dopant:T43
+E8	Doping:T2 Dopant:T1

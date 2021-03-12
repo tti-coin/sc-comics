@@ -1,0 +1,22 @@
+T1	Property 4 14	insulating
+T2	SC 19 34	superconducting
+T3	Property 101 110	insulator
+T7	Property 270 283	valence bands
+T8	Material 318 327	structure
+T9	Process 340 348	pressure
+T10	Process 350 358	Pressure
+T13	Property 450 459	insulator
+T14	SC 467 481	superconductor
+T15	Property 496 504	metallic
+T16	SC 562 579	superconductivity
+T17	Process 600 608	pressure
+T20	Material 659 668	molecules
+T21	SC 120 134	superconductor
+T12	Property 404 419	energy band gap
+T11	Property 374 383	bandwidth
+T23	Property 239 242	gap
+T24	Property 190 198	carriers
+T5	Property 165 184	insulating material
+T6	Property 612 632	insulating molecular
+T4	Doping 155 161	doping
+E1	Doping:T4 

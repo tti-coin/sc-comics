@@ -1,0 +1,39 @@
+T1	Property 41 65	critical current density
+T2	Property 67 70	J c
+T3	SC 75 90	superconducting
+T4	Main 91 95	MgB2
+T5	Material 96 106	thin films
+T6	Element 108 112	MgB2
+T7	Material 113 123	thin films
+T8	Process 129 138	deposited
+T10	Element 166 181	Zn(CH3COO)22H2O
+T11	Process 183 194	spin-coated
+T12	Element 195 207	Al2O3 (000l)
+T13	Material 208 218	substrates
+T15	Process 282 298	low temperatures
+T16	Element 313 317	MgB2
+T17	Process 321 337	low temperatures
+T19	Element 369 371	Zn
+T20	Element 381 383	Mg
+T21	Process 409 418	reduction
+T24	Element 460 464	MgB2
+T25	Material 465 475	thin films
+T26	Process 476 481	grown
+T28	Material 498 504	layers
+T29	Property 541 544	J c
+T30	Property 552 566	magnetic field
+T31	Property 601 608	pinning
+T32	Material 625 638	point defects
+T33	Material 643 659	grain boundaries
+T34	Property 694 708	magnetic field
+T35	Property 727 745	flux pinning force
+T36	Property 746 753	density
+T37	Property 791 798	pinning
+T14	Process 230 271	hybrid physical-chemical vapor deposition
+T9	Element 142 164	zinc acetate dehydrate
+T27	Element 485 488	ZnO
+T18	Doping 353 365	substitution
+T22	SC 422 458	superconducting critical temperature
+R1	Coref Arg1:T9 Arg2:T10
+R2	Target Arg1:E1 Arg2:T16
+E1	Doping:T18 Dopant:T19 Site:T20

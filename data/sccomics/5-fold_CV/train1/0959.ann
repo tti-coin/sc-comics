@@ -1,0 +1,31 @@
+T1	Main 53 67	(Cu,Mo)-12 s 2
+T2	SC 89 104	superconductive
+T3	Element 105 118	copper oxides
+T4	Element 135 184	(Cu0.75Mo0.25) Sr 2 Y Ce s − 1 Cu 2 O 5 + 2 s + δ
+T5	Material 230 236	cation
+T6	Material 237 249	compositions
+T7	Material 357 369	single-phase
+T10	Material 472 478	layers
+T11	Element 488 496	fluorite
+T12	Element 508 548	(Y 0.5Ce0.5)–O2–[Ce–O2] s−2-(Y 0.5Ce0.5)
+T14	Element 576 580	CuO2
+T15	Material 581 587	planes
+T16	Material 621 636	phase formation
+T17	SC 844 847	T c
+T18	Process 877 887	oxygenated
+T19	Element 939 953	(Cu,Mo)-12 s 2
+T23	Value 204 205	1
+T24	Value 208 209	2
+T25	Value 212 213	3
+T30	Value 920 921	5
+T32	Value 708 709	5
+T33	Value 858 862	55 K
+T34	SC 744 761	superconductivity
+T35	Value 216 217	4
+T36	Value 220 221	5
+T37	Value 228 229	6
+T8	Doping 428 441	intercalation
+T9	Element 466 471	Ce–O2
+R1	Equivalent Arg1:T17 Arg2:T33
+R2	Target Arg1:T33 Arg2:T19
+E1	Doping:T8 

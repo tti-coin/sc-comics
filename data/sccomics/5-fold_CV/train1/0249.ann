@@ -1,0 +1,85 @@
+T1	Material 34 46	compositions
+T2	Main 50 75	TlSr2(Ca1−x Re x )Cu2O7−δ
+T3	Process 141 161	solid state reaction
+T4	Characterization 194 218	powder X-ray diffraction
+T5	Characterization 220 243	energy dispersive X-ray
+T8	Property 303 315	conductivity
+T9	Property 373 379	theory
+T10	Property 422 434	conductivity
+T11	Property 481 487	theory
+T12	Property 514 530	coherence length
+T16	SC 595 610	superconductive
+T18	Element 643 668	TlSr2(Ca1−x Re x )Cu2O7−δ
+T19	Element 670 677	Tl-1212
+T20	SC 713 740	zero-resistance-temperature
+T24	Characterization 824 827	XRD
+T25	Element 873 886	Tl-1212 phase
+T26	Property 899 911	conductivity
+T27	Element 933 935	Re
+T30	Property 966 990	conductivity transitions
+T31	SC 998 1028	highest transition temperature
+T32	Property 1063 1075	calculations
+T34	Property 1139 1155	coherence length
+T36	Element 1207 1209	Re
+T37	Element 1217 1230	Tl-1212 phase
+T38	Property 1245 1258	valence state
+T42	Value 79 83	0.05
+T43	Value 85 89	0.10
+T44	Value 91 95	0.15
+T45	Value 97 101	0.20
+T46	Value 103 107	0.25
+T47	Value 113 117	0.30
+T7	Property 351 367	Aslamazov–Larkin
+T48	Property 369 371	AL
+T49	Property 459 475	Lawrence–Donaich
+T50	Property 477 479	LD
+T51	Material 541 559	Josephson coupling
+T22	SC 810 818	T c zero
+T23	SC 796 805	T c onset
+T54	Property 1089 1111	Lawrence–Doniach model
+T56	Value 1053 1057	0.15
+T58	Value 1201 1205	0.30
+T29	Property 957 965	2D-to-3D
+T59	Element 637 639	Re
+T33	Material 1160 1171	inter-plane
+T35	Value 1260 1262	4+
+T60	Value 1263 1265	5+
+T61	Value 1292 1296	4.5+
+T62	Property 1032 1037	2D−3D
+T63	Value 772 776	0.20
+T21	SC 742 750	T c zero
+T17	Doping 620 632	Substituting
+T28	Doping 936 948	substitution
+T6	Property 532 538	ξ c(0)
+T13	Property 572 579	ξ ab(0)
+T14	Property 580 586	ξ c(0)
+T15	Property 257 278	electrical resistance
+T39	Characterization 279 291	measurements
+R1	Coref Arg1:T18 Arg2:T19
+R2	Coref Arg1:T20 Arg2:T21
+R3	Target Arg1:E1 Arg2:T18
+E1	Doping:T17 Site:T59
+E2	Doping:T28 Site:T27
+#1	AnnotatorNotes T1	34-46
+#2	AnnotatorNotes T2	50-75
+#3	AnnotatorNotes T18	643-668
+#4	AnnotatorNotes T19	670-677
+#5	AnnotatorNotes T25	873-886
+#6	AnnotatorNotes T27	933-935
+#7	AnnotatorNotes T36	1207-1209
+#8	AnnotatorNotes T37	1217-1230
+#9	AnnotatorNotes T42	79-83
+#10	AnnotatorNotes T43	85-89
+#11	AnnotatorNotes T44	91-95
+#12	AnnotatorNotes T45	97-101
+#13	AnnotatorNotes T46	103-107
+#14	AnnotatorNotes T47	113-117
+#15	AnnotatorNotes T51	541-559
+#16	AnnotatorNotes T56	1053-1057
+#17	AnnotatorNotes T58	1201-1205
+#18	AnnotatorNotes T59	637-639
+#19	AnnotatorNotes T33	1160-1171
+#20	AnnotatorNotes T35	1260-1262
+#21	AnnotatorNotes T60	1263-1265
+#22	AnnotatorNotes T61	1292-1296
+#23	AnnotatorNotes T63	772-776

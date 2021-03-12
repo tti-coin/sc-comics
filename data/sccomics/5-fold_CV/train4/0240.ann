@@ -1,0 +1,29 @@
+T1	Element 14 22	graphite
+T2	Process 61 77	room-temperature
+T3	SC 78 92	superconductor
+T5	Property 115 140	density functional theory
+T6	Material 158 168	structural
+T7	Property 173 194	electronic properties
+T8	Material 198 205	crystal
+T9	Element 206 214	graphite
+T11	Element 240 245	water
+T13	SC 464 479	superconducting
+T14	Element 480 488	graphite
+T15	Material 489 512	intercalation compounds
+T16	Material 617 626	semimetal
+T17	Material 636 646	impurities
+T18	Process 650 670	hydrostatic pressure
+T19	Material 702 707	metal
+T20	SC 767 781	superconductor
+T21	Material 823 840	crystal structure
+T23	Element 873 881	graphite
+T24	Material 246 254	hexamers
+T25	Element 366 374	graphite
+T26	Property 334 345	AB stacking
+T12	Property 428 439	AA stacking
+T22	Process 859 872	water-treated
+T27	Material 233 239	cyclic
+T4	Process 0 13	Water-treated
+T10	Doping 215 227	intercalated
+R1	Target Arg1:E1 Arg2:T9
+E1	Doping:T10 Dopant:T11

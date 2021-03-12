@@ -1,0 +1,38 @@
+T4	Process 64 83	mechanical alloying
+T5	Process 99 114	low temperature
+T6	Process 121 130	sintering
+T7	SC 150 188	superconducting transition temperature
+T8	SC 190 193	T c
+T11	SC 263 266	T c
+T12	Element 282 308	Sm0.93Sc0.07FeAsO0.79F0.21
+T13	SC 321 324	T c
+T14	Process 378 386	pressure
+T15	Material 398 416	lattice distortion
+T16	Material 441 448	dopants
+T17	Element 481 506	Sm1−x Sc x FeAsO0.88F0.12
+T18	Material 549 567	lattice distortion
+T19	SC 584 601	superconductivity
+T21	Element 670 692	La1−x Y x FeAsO0.8F0.2
+T1	Main 0 25	Sm1−x/3Sc x/3FeAsO1−x F x
+T26	Value 138 143	950°C
+T27	Value 132 134	2h
+T29	Value 273 278	53.5K
+T33	Value 516 520	0.08
+T37	Value 696 699	0.4
+T38	Value 510 514	0.04
+T39	Value 522 526	0.12
+T40	Value 701 704	0.5
+T41	Value 706 709	0.6
+T9	Doping 245 251	doping
+T10	Doping 214 220	doping
+T20	Doping 612 618	doping
+T2	Value 29 33	0.09
+T3	Value 34 38	0.27
+R1	Coref Arg1:T7 Arg2:T8
+R2	Equivalent Arg1:T11 Arg2:T29
+R3	Target Arg1:T29 Arg2:T12
+R4	Target Arg1:E1 Arg2:T12
+R5	Condition Arg1:T29 Arg2:E1
+E1	Doping:T9 
+E2	Doping:T10 
+E3	Doping:T20 

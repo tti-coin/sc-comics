@@ -1,0 +1,81 @@
+T1	Property 0 18	Anti-ferromagnetic
+T2	Element 19 27	chromium
+T3	Element 29 31	Cr
+T4	Material 33 46	nanoparticles
+T6	Element 61 85	Cu0.5Tl0.5Ba2Ca2Cu3O10−δ
+T7	SC 98 113	superconducting
+T8	Material 114 120	matrix
+T10	Main 135 150	(Cr)x/CuTl-1223
+T12	Material 204 214	composites
+T14	SC 318 333	superconducting
+T15	Property 334 354	transport properties
+T16	Material 364 374	composites
+T18	Element 413 415	Cr
+T19	Material 416 429	nanoparticles
+T20	Material 450 467	crystal structure
+T21	Element 480 489	CuTl-1223
+T22	SC 490 505	superconducting
+T23	Material 506 512	matrix
+T24	Material 552 565	nanoparticles
+T25	Material 573 589	grain-boundaries
+T26	SC 606 621	superconducting
+T27	Property 622 642	transport properties
+T28	Property 680 696	spins scattering
+T29	Property 704 717	magnetization
+T30	Property 739 744	spins
+T31	Material 752 759	surface
+T32	Property 769 787	anti-ferromagnetic
+T33	Element 788 790	Cr
+T34	Material 791 804	nanoparticles
+T35	Element 814 820	oxygen
+T36	Element 851 856	Cr2O3
+T37	Material 857 871	surface layers
+T39	Material 881 894	nanoparticles
+T40	Process 910 919	reduction
+T41	Property 927 938	diamagnetic
+T42	SC 1001 1016	superconducting
+T43	Element 1056 1058	Cr
+T44	Material 1059 1072	nanoparticles
+T45	Material 1080 1090	composites
+T46	SC 1092 1107	Superconducting
+T47	Property 1139 1155	coherence length
+T49	Property 1191 1205	Fermi velocity
+T50	Property 1215 1227	Fermi energy
+T51	Element 1282 1284	Cr
+T53	Element 1296 1311	(Cr)x/CuTl-1223
+T54	SC 1317 1331	superconductor
+T55	Material 1332 1342	composites
+T56	Property 1353 1365	conductivity
+T57	Material 1378 1395	three dimensional
+T58	Material 1397 1399	3D
+T59	Material 1402 1417	two dimensional
+T61	Value 156 157	0
+T62	Value 159 162	0.5
+T63	Value 164 168	0.75
+T64	Value 174 182	1.0 wt.%
+T65	Property 1207 1209	VF
+T66	Property 1229 1231	EF
+T48	Material 1165 1185	inter-layer coupling
+T68	Material 1187 1188	J
+T69	Material 1419 1421	2D
+T70	Material 1427 1449	short wave dimensional
+T71	Material 1451 1453	0D
+T72	Property 1157 1162	ξc(0)
+T73	Material 285 298	morphological
+T75	Element 87 96	CuTl-1223
+T11	SC 184 203	nano-superconductor
+T13	Material 273 283	structural
+T77	Property 1240 1248	carriers
+T38	Property 1017 1032	volume fraction
+T5	Doping 52 57	added
+T9	Doping 401 409	addition
+R1	Coref Arg1:T2 Arg2:T3
+R2	Coref Arg1:T59 Arg2:T69
+R3	Coref Arg1:T70 Arg2:T71
+R4	Coref Arg1:T6 Arg2:T75
+R5	Coref Arg1:T57 Arg2:T58
+R6	Coref Arg1:T48 Arg2:T68
+R7	Target Arg1:E1 Arg2:T6
+R8	Target Arg1:E2 Arg2:T21
+E1	Doping:T5 Dopant:T2
+E2	Doping:T9 Dopant:T18

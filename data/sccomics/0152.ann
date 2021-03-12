@@ -1,0 +1,42 @@
+T1	Material 4 11	ceramic
+T2	Process 78 86	sintered
+T3	Process 112 132	solid state reaction
+T4	Material 164 169	cubic
+T5	Material 170 180	perovskite
+T6	Material 199 216	crystal structure
+T7	Material 224 240	lattice constant
+T8	Property 266 285	dielectric constant
+T9	SC 435 450	superconducting
+T10	Material 451 456	films
+T11	SC 462 477	superconducting
+T12	SC 581 596	superconducting
+T14	Material 697 707	composites
+T15	Material 735 740	films
+T20	SC 879 894	superconducting
+T21	Material 895 900	films
+T22	Main 12 21	Ba2GdTaO6
+T23	Value 244 251	8.47 Å.
+T24	Element 306 315	Ba2GdTaO6
+T25	Element 376 379	MgO
+T26	Element 478 489	YBa2Cu3O7−δ
+T28	Element 491 495	YBCO
+T29	Element 529 538	Ba2GdTaO6
+T30	Element 611 615	YBCO
+T31	Element 650 659	Ba2GdTaO6
+T32	Value 666 673	20 vol%
+T33	Element 677 681	YBCO
+T34	Element 724 728	YBCO
+T35	Value 800 804	90 K
+T36	Element 829 838	Ba2GdTaO6
+T37	Element 867 878	YBa2Cu3O7−δ
+T17	Material 46 58	single phase
+T39	Material 395 404	substrate
+T41	Process 557 571	heat treatment
+T13	Doping 638 646	addition
+T19	SC 790 796	T c(o)
+T16	SC 746 788	superconducting zero resistance transition
+T18	Material 184 198	A2(BB′)O6-type
+R2	Target Arg1:T35 Arg2:T34
+R3	Equivalent Arg1:T19 Arg2:T35
+R5	Target Arg1:E1 Arg2:T30
+E1	Doping:T13 Dopant:T31

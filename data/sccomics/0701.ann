@@ -1,0 +1,30 @@
+T1	Material 13 33	nominal compositions
+T2	Main 34 53	MoSn x Sr2YCu2O8− δ
+T3	SC 95 110	superconducting
+T5	SC 241 243	Tc
+T7	Element 259 273	MoSr2YCu2O8− δ
+T8	Property 280 301	upper critical fields
+T9	Property 339 352	magnetization
+T10	Property 354 368	susceptibility
+T13	Property 488 502	critical field
+T14	Element 506 513	Mo-1212
+T15	Material 562 572	intergrain
+T16	Property 574 594	upper critical field
+T17	Material 654 672	Josephson-junction
+T18	Property 680 685	model
+T19	Property 762 776	susceptibility
+T20	Element 780 787	Mo-1212
+T23	Element 198 200	Sn
+T24	Value 212 216	0.02
+T12	Element 427 429	Sn
+T28	Value 550 551	0
+T29	Value 55 56	0
+T31	Value 61 66	0.075
+T32	Value 221 225	0.03
+T4	Doping 201 207	doping
+T6	Doping 430 436	doping
+T11	Property 373 384	resistivity
+T21	Characterization 385 397	measurements
+R1	Target Arg1:E2 Arg2:T14
+E1	Doping:T4 Dopant:T23
+E2	Doping:T6 Dopant:T12

@@ -1,0 +1,30 @@
+T2	Property 65 77	normal-state
+T3	SC 82 97	superconducting
+T4	Material 136 144	ceramics
+T5	Property 158 173	oxygen contents
+T7	Property 286 300	oxygen content
+T8	Process 369 378	quenching
+T11	SC 527 530	T c
+T12	Property 581 595	oxygen content
+T13	SC 656 659	T c
+T14	SC 727 742	superconducting
+T15	Property 794 806	hole density
+T16	Material 819 825	planes
+T18	Property 872 876	hole
+T20	SC 891 906	superconducting
+T21	Material 912 918	planes
+T22	SC 970 973	T c
+T24	Value 498 503	250 K
+T25	Main 124 135	YBa2Cu3O6+x
+T27	Value 182 186	90 K
+T29	Value 307 311	0.90
+T30	Element 814 818	CuO2
+T10	Property 454 469	oxygen ordering
+T32	Element 907 911	CuO2
+T17	Property 841 856	oxygen ordering
+T23	Property 982 1003	oxygen concentrations
+T33	Process 37 57	oxygen rearrangement
+T1	Process 382 394	fast-cooling
+T6	SC 207 245	superconducting transition temperature
+T9	Doping 877 883	doping
+E1	Doping:T9 Dopant:T18 Site:T32

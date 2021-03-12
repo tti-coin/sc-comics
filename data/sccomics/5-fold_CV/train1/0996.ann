@@ -1,0 +1,59 @@
+T1	Material 35 42	lattice
+T2	Property 43 49	strain
+T3	Material 56 70	infinite-layer
+T4	Property 71 79	electron
+T6	SC 86 117	high temperature superconductor
+T7	Main 118 134	Sr1− x La x CuO2
+T10	Material 215 225	perovskite
+T11	Element 226 239	BaTiO3–SrTiO3
+T12	Element 241 245	BSTO
+T13	Element 247 263	Ba y Sr1− y TiO3
+T14	Material 265 278	buffer layers
+T15	Element 284 288	BSTO
+T16	Material 289 302	buffer layers
+T17	Element 313 349	(001) (La0.18Sr0.82)(Al0.59Ta0.41)O3
+T18	Material 350 360	substrates
+T19	Process 364 384	magnetron sputtering
+T20	Material 414 425	crystalline
+T21	Process 446 469	oxygen partial pressure
+T22	Process 470 480	deposition
+T23	Process 485 499	post annealing
+T24	Material 514 531	lattice constants
+T25	Element 539 543	BSTO
+T26	Material 544 557	buffer layers
+T27	Element 626 628	Ba
+T28	Element 657 661	BSTO
+T29	Material 662 675	buffer layers
+T30	Process 691 697	growth
+T31	Element 701 705	SLCO
+T32	Material 706 716	thin films
+T33	SC 748 786	superconducting transition temperature
+T34	Material 794 801	lattice
+T35	Property 802 808	strain
+T36	Element 848 852	BSTO
+T37	SC 853 867	superconductor
+T38	Material 868 884	heterostructures
+T40	Material 934 944	perovskite
+T43	Material 1018 1025	lattice
+T44	Property 1026 1032	strain
+T45	Material 1047 1057	perovskite
+T46	Material 1058 1068	thin films
+T47	Main 136 140	SLCO
+T48	Element 144 148	SLCO
+T49	Value 150 158	0.3949nm
+T51	Value 166 169	0.1
+T56	Value 503 508	950°C
+T60	Property 682 690	coherent
+T8	Material 945 955	thin films
+T5	Doping 80 85	doped
+T39	Value 594 600	0.3926
+T41	Value 601 609	0.3973nm
+T42	Value 641 644	0.2
+T52	Value 645 648	0.7
+T9	Material 183 201	perovskite-related
+T53	Element 202 207	oxide
+R1	Coref Arg1:T12 Arg2:T13
+R2	Coref Arg1:T7 Arg2:T47
+R3	Coref Arg1:T11 Arg2:T12
+R4	Target Arg1:E1 Arg2:T7
+E1	Doping:T5 Dopant:T4

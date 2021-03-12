@@ -1,0 +1,27 @@
+T1	SC 4 19	superconducting
+T2	Main 34 42	LaPd2As2
+T4	Material 60 80	tetragonal structure
+T8	Material 179 183	bulk
+T9	SC 184 198	superconductor
+T11	Property 213 237	electronic specific heat
+T12	Property 290 303	specific heat
+T13	SC 318 344	superconducting transition
+T14	Property 394 397	BCS
+T15	Property 398 411	weak coupling
+T16	Property 431 448	density of states
+T17	Property 456 467	Fermi level
+T18	Property 484 508	electronic specific heat
+T20	SC 571 574	T c
+T21	Material 583 591	material
+T22	Element 639 646	A2+M2X2
+T23	SC 673 711	superconducting transition temperature
+T6	Value 267 284	5.56mJmol− 1 K− 2
+T10	Value 348 352	1.17
+T25	Value 421 425	1.43
+T26	Value 523 543	0.84 states/(eVf.u.)
+T7	Property 95 111	DC magnetization
+T24	Doping 747 759	substitution
+T5	Property 116 127	resistivity
+T3	Value 205 207	1K
+R2	Equivalent Arg1:T9 Arg2:T3
+E1	Doping:T24 

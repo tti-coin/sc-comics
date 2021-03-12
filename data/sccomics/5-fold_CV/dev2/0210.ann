@@ -1,0 +1,119 @@
+T1	Element 26 28	Mn
+T2	Element 30 32	Tc
+T3	Element 37 39	Re
+T4	Element 71 79	rhenates
+T5	Element 126 128	Tc
+T9	Element 350 359	Manganese
+T10	Property 372 379	valence
+T11	Element 407 416	manganese
+T13	Element 480 489	manganese
+T14	Value 493 495	+2
+T15	Element 535 549	manganese (II)
+T16	Element 571 590	Manganese compounds
+T17	Element 597 606	manganese
+T20	Element 664 669	oxide
+T21	Element 670 675	Mn2O7
+T22	Element 714 732	permanganate anion
+T23	Element 733 739	MnO4 −
+T24	Element 747 763	manganese oxides
+T27	Material 971 979	solution
+T28	Element 995 1007	permanganate
+T30	Element 1162 1166	MnO2
+T31	Element 1177 1180	KOH
+T32	Process 1186 1189	air
+T35	Element 1314 1321	HMnO4 −
+T36	Element 1323 1330	MnO4 2−
+T37	Element 1345 1352	Rhenium
+T38	Material 1392 1398	metals
+T41	Element 1605 1622	rhenium compounds
+T42	Element 1631 1637	oxides
+T43	Element 1643 1648	Re2O7
+T44	Element 1650 1654	ReO3
+T45	Element 1656 1661	Re2O5
+T46	Element 1663 1667	ReO2
+T47	Element 1673 1678	Re2O3
+T48	Element 1680 1687	Rhenium
+T49	Element 1731 1737	sodium
+T50	Element 1742 1750	ammonium
+T51	Element 1755 1763	rhenates
+T53	Element 1835 1844	Re2(CO)10
+T54	Element 1846 1853	Rhenium
+T56	Process 1866 1882	high-temperature
+T57	Material 1883 1894	superalloys
+T58	Element 1966 1973	rhenium
+T59	Element 2018 2026	platinum
+T60	Element 2027 2034	rhenium
+T61	Element 2104 2127	Alkaline earth rhenates
+T62	Property 2188 2198	electrical
+T6	Element 216 221	Tc-99
+T8	Value 263 268	6.0 h
+T52	Element 1801 1833	di-rhenium decacarbonyl compound
+T63	Value 1432 1440	$6000/kg
+T19	Value 629 631	+7
+T64	Element 41 66	Alkaline earth manganates
+T65	Value 1478 1480	−1
+T66	Value 1482 1483	0
+T67	Value 1485 1487	+1
+T68	Value 1489 1491	+2
+T69	Value 1493 1495	+3
+T70	Value 1497 1499	+4
+T71	Value 1501 1503	+5
+T72	Value 1505 1507	+6
+T73	Value 1512 1514	+7
+T39	Property 1460 1476	oxidation states
+T40	Property 1520 1536	oxidation states
+T74	Value 1537 1539	+7
+T75	Value 1541 1543	+6
+T76	Value 1545 1547	+4
+T77	Value 1553 1555	+2
+T78	Value 1945 1948	70%
+T18	Property 613 628	oxidation state
+T79	Process 1294 1312	disproportionation
+T80	Element 1237 1255	Manganic acid (VI)
+T81	Element 2082 2093	high-octane
+T82	Value 421 423	+2
+T83	Value 425 427	+3
+T84	Value 429 431	+4
+T85	Value 433 435	+6
+T86	Value 440 442	+7
+T12	Property 460 475	oxidation state
+T91	Value 1337 1344	7.4±0.1
+T26	Element 793 796	MnO
+T25	Element 773 792	Manganese oxide (II
+T93	Element 797 821	Manganese oxide (II–III)
+T94	Element 822 827	Mn3O4
+T95	Element 828 849	Manganese oxide (III)
+T96	Element 850 855	Mn2O3
+T97	Element 856 876	Manganese oxide (IV)
+T98	Element 877 881	MnO2
+T99	Element 882 901	Manganese oxide (V)
+T100	Element 902 907	Mn2O5
+T101	Element 908 929	Manganese oxide (VII)
+T102	Element 930 935	Mn2O7
+T104	Material 1196 1204	oxidizer
+T107	Element 2071 2075	lead
+T7	Element 165 167	Tc
+T108	Element 936 946	Manganates
+T109	Property 196 207	radioactive
+T110	Material 1127 1130	ion
+T29	Doping 1857 1862	added
+T34	Element 1105 1107	O2
+T103	Element 1219 1221	O2
+T106	Element 1233 1236	H2O
+T33	Element 1049 1073	alkaline earth compounds
+T87	Element 1075 1082	4MnO4 −
+T88	Element 1084 1088	4OH−
+T89	Element 1090 1098	4MnO4 2−
+T55	Element 1100 1104	2H2O
+T90	Element 1206 1211	4MnO2
+T92	Element 1213 1217	4OH−
+T105	Element 1223 1231	4MnO4 2−
+R1	Coref Arg1:T52 Arg2:T53
+R2	Coref Arg1:T22 Arg2:T23
+R3	Coref Arg1:T25 Arg2:T26
+R4	Coref Arg1:T93 Arg2:T94
+R5	Coref Arg1:T95 Arg2:T96
+R6	Coref Arg1:T97 Arg2:T98
+R7	Coref Arg1:T99 Arg2:T100
+R8	Coref Arg1:T101 Arg2:T102
+E1	Doping:T29 Dopant:T54

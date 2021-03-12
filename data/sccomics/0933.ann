@@ -1,0 +1,39 @@
+T1	SC 25 40	superconducting
+T2	Element 56 58	Nb
+T4	Main 65 69	FeSe
+T6	Process 82 103	solid-state sintering
+T7	Element 126 128	Nb
+T9	Element 137 139	Nb
+T11	Element 153 157	FeSe
+T12	Material 158 165	lattice
+T14	Element 182 184	Fe
+T15	Material 201 208	texture
+T16	Material 212 222	tetragonal
+T17	Element 223 227	FeSe
+T18	SC 253 291	superconducting transition temperature
+T19	Element 331 341	FeNb0.04Se
+T21	Element 401 405	FeSe
+T22	Property 415 435	upper critical field
+T23	Element 470 472	Nb
+T25	Property 520 544	critical current density
+T26	Property 550 565	magnetic fields
+T27	Property 588 597	transport
+T28	Element 613 617	FeSe
+T29	Property 626 641	magnetic fields
+T30	Value 364 367	27%
+T31	Value 321 327	13.6 K
+T32	Value 454 458	28 T
+T3	Doping 59 64	doped
+T5	Doping 129 135	doping
+T8	Doping 140 152	incorporated
+T10	Doping 170 181	substituted
+T13	Doping 473 479	doping
+R1	Target Arg1:T31 Arg2:T19
+R2	Equivalent Arg1:T18 Arg2:T31
+R3	Target Arg1:E1 Arg2:T4
+R4	Target Arg1:E3 Arg2:T11
+E1	Doping:T3 Dopant:T2
+E2	Doping:T5 Dopant:T7
+E3	Doping:T8 Dopant:T9
+E4	Doping:T10 Site:T14
+E5	Doping:T13 Dopant:T23

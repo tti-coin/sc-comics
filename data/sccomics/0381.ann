@@ -1,0 +1,70 @@
+T1	Material 0 15	Polycrystalline
+T2	Main 16 20	MgB2
+T3	Element 52 54	Ni
+T5	Element 147 149	Ni
+T6	Material 150 157	powders
+T7	Material 189 201	bulk samples
+T8	Material 207 222	phase formation
+T9	Material 224 238	microstructure
+T10	Property 244 253	transport
+T11	Property 254 278	critical current density
+T12	Process 286 294	sintered
+T13	Element 342 344	Ni
+T14	Material 345 354	particles
+T16	Element 469 471	Mg
+T17	Element 476 477	B
+T18	Element 487 491	MgB2
+T19	Material 497 503	grains
+T20	Material 514 521	defects
+T21	Material 535 548	crystallinity
+T22	Material 559 564	solid
+T23	Characterization 590 619	differential thermal analysis
+T24	Characterization 621 624	DTA
+T25	Characterization 630 658	scanning electron microscopy
+T26	Characterization 660 663	SEM
+T27	Material 705 714	particles
+T28	Element 732 737	Mg-Ni
+T29	Material 747 753	liquid
+T30	Element 759 761	Mg
+T31	Element 808 812	MgB2
+T32	Material 864 869	grain
+T33	Material 895 909	microstructure
+T34	Element 924 928	MgB2
+T35	Material 929 935	grains
+T36	Material 942 958	grain boundaries
+T37	Material 985 991	matrix
+T38	Property 1046 1058	flux pinning
+T39	Element 1066 1070	MgB2
+T40	Material 1071 1075	bulk
+T41	SC 1076 1090	superconductor
+T43	Element 1144 1146	Ni
+T45	Material 1196 1204	particle
+T46	Property 1216 1229	concentration
+T47	Property 1258 1265	pinning
+T49	Property 1297 1300	J c
+T50	Value 34 40	4 at.%
+T51	Value 45 51	6 at.%
+T52	Process 84 108	in-situ reaction process
+T53	Value 118 123	40 μm
+T54	Value 140 145	40 nm
+T56	Value 398 404	6 at.%
+T57	Element 702 704	Ni
+T58	Value 765 771	506 °C
+T60	Element 1193 1195	Ni
+T48	Material 697 701	nano
+T61	Material 1186 1192	coarse
+T62	Material 129 138	nano-size
+T4	Doping 55 63	addition
+T15	Doping 388 396	addition
+T42	Doping 1104 1110	doping
+T44	Doping 1176 1182	doping
+T55	Element 385 387	Ni
+T59	Element 1101 1103	Ni
+T63	Material 380 384	nano
+T64	Material 1096 1100	nano
+R1	Target Arg1:E1 Arg2:T2
+R2	Target Arg1:E3 Arg2:T39
+E1	Doping:T4 Dopant:T3
+E2	Doping:T15 Dopant:T55
+E3	Doping:T42 Dopant:T59
+E4	Doping:T44 Dopant:T60

@@ -1,0 +1,31 @@
+T1	Material 45 62	crystal structure
+T2	Property 71 92	carrier concentration
+T3	Main 96 118	La2−x−y Sr x Ce y CuO4
+T4	Process 122 137	low-temperature
+T5	Characterization 138 155	X-ray diffraction
+T6	Material 204 214	tetragonal
+T7	Process 239 255	high-temperature
+T8	Material 256 272	tetragonal phase
+T9	Process 288 303	low-temperature
+T10	Material 304 316	orthorhombic
+T11	Element 329 345	La1.89Sr0.11CuO4
+T12	Element 350 372	La1.88Sr0.11Ce0.01CuO4
+T13	Element 411 413	Tb
+T15	Element 431 433	La
+T16	SC 446 463	superconductivity
+T17	Material 472 481	structure
+T18	Element 485 507	La2−x−y Sr x Tb y CuO4
+T19	SC 522 542	critical temperature
+T20	SC 543 549	T c(x)
+T21	SC 590 596	T c(x)
+T22	Property 612 633	carrier concentration
+T24	Element 655 657	Tb
+T26	Element 715 717	Tb
+T25	Material 739 752	trivalent ion
+T35	Material 185 190	[110]
+T14	Doping 414 426	substitution
+T27	Value 760 764	0.07
+T28	Value 765 769	0.18
+R1	Coref Arg1:T19 Arg2:T20
+R2	Target Arg1:E1 Arg2:T18
+E1	Doping:T14 Dopant:T13 Site:T15

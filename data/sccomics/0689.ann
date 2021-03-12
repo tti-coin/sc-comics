@@ -1,0 +1,36 @@
+T2	Element 45 56	sorbic acid
+T3	Element 58 64	C6H8O2
+T4	Main 97 101	MgB2
+T5	Property 106 126	critical temperature
+T6	Property 128 131	T c
+T7	Property 134 158	critical current density
+T8	Property 160 163	J c
+T9	Property 166 187	irreversibility field
+T10	Material 200 221	crystalline structure
+T11	Characterization 227 230	XRD
+T12	Material 286 303	lattice parameter
+T15	Element 358 364	carbon
+T16	Element 368 373	boron
+T18	Property 457 469	flux pinning
+T22	Property 545 551	J c(B)
+T23	Property 585 595	high field
+T24	Property 628 638	anisotropy
+T25	Property 643 664	percolation threshold
+T26	Property 732 735	J c
+T27	Process 750 759	reduction
+T28	Property 763 773	anisotropy
+T29	Property 777 787	high field
+T31	Property 189 194	H irr
+T19	Property 474 480	J c(B)
+T20	Property 501 519	percolation theory
+T1	Doping 28 34	doping
+T14	Doping 431 437	doping
+T17	Doping 308 313	doped
+T21	Value 72 73	0
+T30	Value 77 83	20wt.%
+T13	Doping 342 354	substitution
+R3	Target Arg1:E1 Arg2:T4
+E1	Doping:T1 Dopant:T2
+E3	Doping:T14
+E4	Doping:T17
+E2	Doping:T13 Dopant:T15 Site:T16

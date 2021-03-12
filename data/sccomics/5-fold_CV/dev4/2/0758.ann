@@ -1,0 +1,31 @@
+T1	SC 109 141	high-temperature superconducting
+T2	SC 143 146	HTS
+T4	SC 264 267	HTS
+T5	Property 298 311	ferromagnetic
+T6	Material 312 321	materials
+T7	Material 333 337	bulk
+T8	SC 338 353	superconductors
+T9	Property 401 409	magnetic
+T10	Property 426 439	ferromagnetic
+T11	Material 440 449	materials
+T12	Material 463 467	flux
+T13	Material 488 504	permanent magnet
+T14	Property 537 551	magnetic field
+T15	Property 552 559	density
+T16	Material 583 587	bulk
+T17	SC 588 603	superconductors
+T18	Property 605 618	Ferromagnetic
+T19	Element 619 623	iron
+T20	Material 624 630	plates
+T22	Material 655 662	surface
+T23	Material 666 670	bulk
+T24	SC 671 686	superconductors
+T3	Property 148 167	magnetic levitation
+T25	Property 169 175	maglev
+T26	Property 268 274	Maglev
+T27	Property 738 744	maglev
+T28	Property 919 925	maglev
+T29	Property 1016 1022	maglev
+T21	Doping 636 641	added
+R1	Coref Arg1:T1 Arg2:T2
+E1	Doping:T21 Dopant:T19

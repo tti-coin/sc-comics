@@ -1,0 +1,41 @@
+T1	Element 14 18	YBCO
+T3	SC 35 52	superconductivity
+T4	Main 56 78	Bi1.6Pb0.4Sr2Ca2Cu3O δ
+T5	Main 80 85	BSCCO
+T6	Process 142 162	solid state reaction
+T8	Characterization 240 268	Scanning electron microscope
+T9	Characterization 270 273	SEM
+T10	Characterization 279 296	X-ray diffraction
+T11	Characterization 298 301	XRD
+T13	Element 394 398	YBCO
+T14	Property 439 447	metallic
+T15	SC 463 485	transition temperature
+T17	Characterization 506 509	XRD
+T18	Element 565 578	Bi-2223 phase
+T19	Element 660 673	Bi-2212 phase
+T20	Property 691 713	temperature dependence
+T21	Property 721 738	AC susceptibility
+T22	SC 748 770	transition temperature
+T23	Property 806 823	AC susceptibility
+T24	Value 402 406	102K
+T31	Property 888 904	peak temperature
+T32	Property 906 909	T P
+T33	Value 592 595	75%
+T34	Value 636 639	25%
+T36	Value 386 390	0.02
+T27	SC 486 495	T C onset
+T7	Property 540 557	volume percentage
+T2	Doping 19 27	addition
+T12	Characterization 234 237	R–T
+T26	Value 863 869	0.05Oe
+T28	Value 873 879	2.00Oe
+T25	Value 957 963	107.0K
+T29	Value 967 973	108.5K
+T30	Property 209 220	resistivity
+T37	Characterization 221 232	measurement
+T16	Property 325 336	resistivity
+T38	Characterization 337 348	measurement
+R1	Coref Arg1:T4 Arg2:T5
+R2	Coref Arg1:T15 Arg2:T27
+R3	Target Arg1:E1 Arg2:T4
+E1	Doping:T2 Dopant:T1

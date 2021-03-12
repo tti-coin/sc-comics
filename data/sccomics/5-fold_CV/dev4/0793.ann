@@ -1,0 +1,39 @@
+T1	Property 0 12	Flux pinning
+T3	Main 40 44	MgB2
+T4	SC 45 59	superconductor
+T5	Material 330 344	grain-boundary
+T6	Property 345 352	pinning
+T7	Element 364 371	melanin
+T10	Property 429 436	pinning
+T12	Property 451 469	percolation theory
+T13	Material 489 503	grain-boundary
+T16	Property 545 560	H c2-anisotropy
+T17	Property 568 592	critical current density
+T19	Property 658 673	H c2-anisotropy
+T20	Element 689 696	melanin
+T22	Property 733 736	J c
+T23	Property 740 750	high field
+T24	Property 776 788	flux pinning
+T26	Property 880 889	low-field
+T27	Property 890 893	J c
+T28	Value 360 363	10%
+T29	Element 804 811	melanin
+T31	Property 219 245	aforementioned scaling law
+T32	Element 26 33	melanin
+T2	Doping 34 39	doped
+T8	Doping 372 377	doped
+T9	Doping 697 703	doping
+T11	Doping 812 818	doping
+R1	Target Arg1:E1 Arg2:T3
+E1	Doping:T2 Dopant:T32
+E2	Doping:T8 Dopant:T7
+E3	Doping:T9 Dopant:T20
+E4	Doping:T11 Dopant:T29
+#1	AnnotatorNotes T3	40-44
+#2	AnnotatorNotes T5	330-344
+#3	AnnotatorNotes T7	364-371
+#4	AnnotatorNotes T13	489-503
+#5	AnnotatorNotes T20	689-696
+#6	AnnotatorNotes T28	360-363
+#7	AnnotatorNotes T29	804-811
+#8	AnnotatorNotes T32	26-33

@@ -1,0 +1,33 @@
+T1	Material 14 18	bulk
+T2	SC 19 33	superconductor
+T3	Property 49 62	magnetization
+T4	Property 101 109	stresses
+T5	Property 122 127	crack
+T6	Material 132 136	bulk
+T7	Property 292 300	stresses
+T8	SC 323 337	superconductor
+T10	Material 389 393	flux
+T11	Property 404 417	magnetization
+T12	Property 480 490	zero-field
+T13	Process 491 498	cooling
+T15	Process 524 526	FC
+T16	Property 549 557	stresses
+T17	Property 630 638	stresses
+T19	Process 699 701	FC
+T22	Property 802 816	magnetic field
+T24	Material 873 877	flux
+T27	Property 1125 1133	stresses
+T28	Material 1239 1243	flux
+T29	Property 1286 1294	stresses
+T30	Property 1298 1308	Bean model
+T31	Material 1322 1326	flux
+T33	Property 1372 1381	Kim model
+T34	Property 1417 1427	Bean model
+T36	Process 500 503	ZFC
+T14	Process 509 522	field cooling
+T37	Process 594 597	ZFC
+T18	Process 706 709	ZFC
+T9	Property 366 375	Kim model
+T20	Material 311 322	cylindrical
+T21	Property 158 171	applied field
+T23	Property 774 787	applied field

@@ -1,0 +1,67 @@
+T1	Element 45 47	Gd
+T3	Material 62 77	phase formation
+T4	Material 79 93	microstructure
+T5	Property 95 104	transport
+T6	Property 109 128	magnetic properties
+T7	Main 136 147	Bi(Pb)-2212
+T8	SC 168 183	superconducting
+T9	Material 184 189	bulks
+T10	Material 197 216	nominal composition
+T11	Element 220 248	Bi1.6Pb0.4Sr2Ca1−xGdxCu2O8+δ
+T13	Characterization 380 397	X-ray diffraction
+T14	Characterization 408 411	XRD
+T15	Characterization 414 442	scanning electron microscopy
+T16	Characterization 444 447	SEM
+T19	Characterization 488 491	EDS
+T20	Property 494 514	electrical transport
+T22	Property 519 527	magnetic
+T24	Element 615 628	Bi-2212 phase
+T25	Element 643 650	Bi-2201
+T27	Material 722 737	cell parameters
+T29	Material 772 783	cell volume
+T30	Material 804 811	texture
+T32	Material 861 876	orthorhombicity
+T33	Characterization 901 904	EDS
+T34	Element 928 930	Gd
+T35	Material 931 936	atoms
+T36	Material 970 991	crystalline structure
+T37	Characterization 997 1000	SEM
+T38	Material 1039 1045	grains
+T41	Property 1224 1235	resistivity
+T42	Property 1244 1262	hole concentration
+T43	Element 1270 1274	CuO2
+T44	Material 1275 1281	layers
+T46	Property 1283 1308	Magnetic hysteresis loops
+T47	Property 1349 1362	magnetization
+T48	Property 1373 1387	critical field
+T49	Material 1445 1459	grain boundary
+T50	Property 1475 1495	flux pinning centers
+T51	Property 1516 1542	critical current densities
+T52	Property 1547 1559	flux pinning
+T53	Property 1560 1567	density
+T17	Characterization 450 486	energy dispersive X-ray spectrometer
+T57	Value 1167 1173	90.22K
+T64	Value 1149 1153	0.10
+T65	Value 1405 1409	0.10
+T61	Value 256 257	0
+T58	Value 259 263	0.05
+T62	Value 265 269	0.10
+T66	Value 274 278	0.15
+T12	Process 302 329	solid state synthesis route
+T18	Property 1326 1338	diamagnetism
+T2	Doping 48 54	doping
+T23	Doping 593 598	doped
+T26	Doping 753 759	doping
+T28	Doping 834 840	doping
+T31	Doping 1598 1604	doping
+T21	Characterization 528 540	measurements
+T39	SC 1092 1130	onset critical transition temperatures
+R1	Target Arg1:E1 Arg2:T7
+R2	Target Arg1:E2 Arg2:T24
+R3	Target Arg1:E2 Arg2:T25
+R4	Equivalent Arg1:T39 Arg2:T57
+E1	Doping:T2 Dopant:T1
+E2	Doping:T23
+E3	Doping:T26
+E4	Doping:T28
+E5	Doping:T31

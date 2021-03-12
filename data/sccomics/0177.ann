@@ -1,0 +1,40 @@
+T1	Property 40 43	BCS
+T2	Property 67 94	electron-phonon interaction
+T4	Material 451 463	orthorhombic
+T7	SC 595 610	superconducting
+T8	Property 663 668	model
+T9	Property 679 695	rigid band model
+T11	Property 749 760	Fermi level
+T12	Property 822 836	gap anisotropy
+T13	SC 853 856	T c
+T14	Property 897 908	excitations
+T15	Property 974 986	calculations
+T16	Characterization 1018 1031	photoemission
+T17	Characterization 1033 1055	tunneling spectroscopy
+T18	Property 1156 1166	anisotropy
+T20	Characterization 1221 1234	photoemission
+T21	Property 126 154	2D electronic band structure
+T3	Element 423 434	CuO2 planes
+T22	Value 343 345	45
+T6	Element 575 586	CuO2 planes
+T23	Property 380 394	Brillouin zone
+T24	Property 204 218	Brillouin zone
+T25	Value 356 362	± π 2a
+T26	Value 364 370	± π 2a
+T27	Value 291 296	± π a
+T28	Value 297 298	0
+T29	Value 304 305	0
+T30	Value 307 312	± π a
+T31	Property 163 176	saddle points
+T32	Property 178 181	vHs
+T33	Element 629 637	cuprates
+T34	Property 863 879	density of state
+T35	Property 914 935	tunneling conductance
+T36	Property 944 957	specific heat
+T37	Property 1057 1070	specific heat
+T5	Doping 1193 1199	doping
+T10	Doping 711 717	doping
+T19	Doping 523 529	doping
+E1	Doping:T5
+E2	Doping:T10
+E3	Doping:T19

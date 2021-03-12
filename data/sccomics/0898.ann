@@ -1,0 +1,35 @@
+T1	SC 19 34	superconducting
+T2	Property 35 42	pairing
+T3	Property 46 55	electrons
+T5	Main 65 73	graphene
+T6	Material 81 89	in-plane
+T7	Material 94 106	out-of-plane
+T8	Property 107 114	phonons
+T9	Property 149 158	electrons
+T10	Material 164 176	out-of-plane
+T11	Property 177 184	phonons
+T13	Property 294 309	order parameter
+T14	Property 331 338	pairing
+T15	Material 358 368	structures
+T16	Property 411 420	electrons
+T17	Property 448 454	s-wave
+T18	Property 455 462	pairing
+T19	Property 491 504	valence bands
+T20	Material 527 536	structure
+T21	Property 626 632	phonon
+T22	Material 713 721	symmetry
+T23	Property 725 731	phonon
+T24	Material 745 754	structure
+T25	Property 762 777	order parameter
+T26	Material 807 815	symmetry
+T27	Property 823 838	order parameter
+T28	Property 421 434	wave function
+T29	Property 313 330	electron–electron
+T12	Property 262 274	bond-stretch
+T30	Property 651 668	electron–electron
+T31	Property 794 806	orbital–spin
+T32	Property 127 145	Quadratic coupling
+T33	Property 391 397	spinor
+T4	Doping 59 64	doped
+R1	Target Arg1:E1 Arg2:T5
+E1	Doping:T4

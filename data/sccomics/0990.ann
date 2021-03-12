@@ -1,0 +1,32 @@
+T1	Property 6 14	metallic
+T3	Main 35 65	κ‐(BETS)2Co0.13Mn0.87[N(CN)2]3
+T4	Element 73 77	BETS
+T5	Element 81 120	bis(ethylenedithio)tetraselenafulvalene
+T6	Element 122 132	C10S4Se4H8
+T7	Material 164 168	salt
+T8	Element 180 189	Mn2+ ions
+T10	Element 206 210	Co2+
+T11	Property 227 235	magnetic
+T12	Material 236 242	dopant
+T14	Property 270 285	magnetic moment
+T15	Material 287 304	Crystal structure
+T16	Property 306 320	band structure
+T17	Property 337 356	magnetic properties
+T18	Material 402 410	material
+T20	Property 423 449	metal-insulator transition
+T21	Process 485 493	pressure
+T22	SC 521 536	superconducting
+T23	Property 537 549	ground state
+T25	Element 643 663	κ‐(BETS)2Mn[N(CN)2]3
+T26	Property 665 684	magnetic properties
+T27	Property 701 718	localized moments
+T28	Material 726 737	anion layer
+T19	Value 498 506	0.5 kbar
+T13	Material 561 571	structural
+T2	Material 15 29	radical cation
+T24	Material 30 34	salt
+T30	Material 364 368	salt
+T31	Material 638 642	salt
+T9	Doping 194 202	replaced
+T29	Value 394 397	30K
+E1	Doping:T9 Dopant:T10 Site:T8

@@ -1,0 +1,45 @@
+T3	SC 67 70	T c
+T6	SC 149 152	T c
+T7	Material 298 304	liquid
+T13	Main 37 41	YBCO
+T14	Value 73 77	93 K
+T15	Main 114 123	B(Pb)SCCO
+T16	Element 305 313	nitrogen
+T17	Element 339 343	YBCO
+T18	Value 530 534	30 h
+T19	Element 571 580	B(Pb)SCCO
+T20	Value 623 626	1.5
+T21	Value 632 636	30 h
+T22	Value 155 159	87 K
+T23	Element 784 788	YBCO
+T24	Value 809 812	113
+T25	Value 814 817	123
+T26	Value 819 822	147
+T27	Value 827 832	243 K
+T28	Element 845 854	B(Pb)SCCO
+T29	Value 875 877	87
+T30	Value 879 882	112
+T31	Value 884 887	128
+T32	Value 889 892	170
+T33	Value 897 902	230 K
+T34	Value 939 945	10 MHz
+T35	Value 224 225	5
+T36	Value 227 229	10
+T37	Value 235 237	20
+T38	Value 231 233	15
+T39	Value 242 246	30 h
+T40	Characterization 14 33	neutron irradiation
+T42	Characterization 208 219	irradiation
+T8	Process 411 423	neutron dose
+T9	Characterization 506 525	neutron irradiation
+T1	SC 42 65	high-T c superconductor
+T2	SC 124 147	high-T c superconductor
+T4	SC 683 707	high-T c superconductors
+T11	Process 637 650	γ irradiation
+T12	Characterization 762 779	gamma irradiation
+T10	Characterization 751 758	neutron
+T5	Process 97 110	γ irradiation
+R1	Equivalent Arg1:T3 Arg2:T14
+R2	Equivalent Arg1:T6 Arg2:T22
+R3	Target Arg1:T14 Arg2:T13
+R4	Target Arg1:T22 Arg2:T15

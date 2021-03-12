@@ -1,0 +1,38 @@
+T1	SC 87 104	superconductivity
+T2	SC 156 188	high-temperature superconductors
+T3	Characterization 234 237	NQR
+T4	Characterization 242 245	NMR
+T5	Property 289 306	antiferromagnetic
+T8	SC 386 389	T c
+T9	Property 448 461	low-frequency
+T10	Property 465 482	spin fluctuations
+T11	Property 486 490	hole
+T13	Property 513 526	concentration
+T14	Property 553 563	insulating
+T15	SC 594 597	T c
+T16	Property 635 643	theories
+T18	Value 575 576	0
+T20	Value 609 613	0.15
+T21	Element 226 233	63,65Cu
+T22	Main 275 283	La2 CuO4
+T23	Value 314 319	310 K
+T24	Material 328 336	material
+T26	Value 392 396	38 K
+T6	SC 344 367	high-T c superconductor
+T7	Element 462 464	Cu
+T27	Property 14 32	strong correlation
+T28	Property 253 265	paramagnetic
+T12	Doping 491 497	doping
+T25	Main 368 384	La1.85Sr0.15CuO4
+R1	Equivalent Arg1:T8 Arg2:T26
+R2	Target Arg1:T26 Arg2:T25
+E1	Doping:T12 Dopant:T11
+#1	AnnotatorNotes T18	575-576
+#2	AnnotatorNotes T20	609-613
+#3	AnnotatorNotes T21	226-233
+#4	AnnotatorNotes T22	275-283
+#5	AnnotatorNotes T23	314-319
+#6	AnnotatorNotes T24	328-336
+#7	AnnotatorNotes T26	392-396
+#8	AnnotatorNotes T7	462-464
+#9	AnnotatorNotes T25	368-384

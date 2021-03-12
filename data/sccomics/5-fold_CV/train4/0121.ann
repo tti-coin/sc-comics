@@ -1,0 +1,16 @@
+T2	Material 34 42	in-plane
+T3	Property 74 94	thermal conductivity
+T6	Material 213 220	layered
+T7	SC 234 242	high-T c
+T8	Property 305 313	spectrum
+T9	Property 318 327	electrons
+T11	Property 370 390	thermal conductivity
+T14	SC 469 472	T c
+T15	Property 511 516	model
+T16	Material 554 562	symmetry
+T17	Property 570 585	order parameter
+T20	Property 702 722	thermal conductivity
+T1	Property 620 635	d x 2−y 2 -wave
+T5	SC 399 423	high-T c superconductors
+T10	SC 589 613	high-T c superconductors
+T4	SC 100 121	d-wave superconductor

@@ -1,0 +1,41 @@
+T1	SC 23 40	superconductivity
+T2	Material 48 62	surface layers
+T4	Main 66 70	PbTe
+T5	Material 71 79	crystals
+T6	Process 80 85	grown
+T7	Property 91 95	melt
+T9	Element 111 113	Eu
+T10	Process 121 127	growth
+T11	Material 171 177	powder
+T12	Material 202 215	surface layer
+T14	Material 225 229	bulk
+T15	Element 237 251	PbTe:Eu ingots
+T16	Property 257 270	magnetization
+T17	Property 287 301	magnetic field
+T18	Property 315 338	magnetic susceptibility
+T19	Process 400 416	low temperatures
+T20	Material 447 461	surface layers
+T22	Element 469 482	PbTe:Eu ingot
+T23	Process 506 523	high temperatures
+T24	Element 625 632	PbTe:Eu
+T26	Material 633 647	surface layers
+T28	SC 660 677	superconductivity
+T29	Process 681 696	low temperature
+T30	SC 702 719	superconductivity
+T32	Material 733 747	surface layers
+T34	Element 781 783	Pb
+T35	Material 812 817	ingot
+T36	Material 818 825	surface
+T38	Property 340 342	MS
+T33	Process 351 362	temperature
+T3	Property 427 439	diamagnetism
+T13	Property 547 560	paramagnetism
+T8	Doping 100 105	doped
+T21	Doping 727 732	doped
+T25	Value 302 303	0
+T27	Value 304 306	5T
+T31	Value 369 372	1.7
+T37	Value 373 377	400K
+R1	Target Arg1:E1 Arg2:T4
+E1	Doping:T8 Dopant:T9
+E2	Doping:T21 

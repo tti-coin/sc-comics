@@ -1,0 +1,44 @@
+T1	Property 4 23	magnetic properties
+T2	Property 28 46	magnetic structure
+T3	Main 65 83	Mn(Co0.96Fe0.04)Ge
+T4	Characterization 116 142	powder neutron diffraction
+T5	Characterization 154 171	X-ray diffraction
+T7	Property 221 234	ferromagnetic
+T8	Material 235 244	structure
+T9	Process 252 267	low-temperature
+T10	Material 268 286	orthorhombic phase
+T11	Material 293 322	magneto-structural transition
+T12	Process 343 359	high-temperature
+T14	Material 373 388	hexagonal phase
+T15	Element 458 476	(Mn0.96Fe0.04)CoGe
+T16	Element 519 521	Fe
+T17	Element 529 536	Co (4c)
+T18	Element 558 565	Mn (4c)
+T20	Property 614 647	structural transition temperature
+T22	Element 674 680	MnCoGe
+T23	Process 700 717	chemical pressure
+T25	Material 766 784	orthorhombic phase
+T26	Element 803 821	Mn(Co0.96Fe0.04)Ge
+T27	Element 838 844	MnCoGe
+T28	Element 846 864	Mn(Co0.96Fe0.04)Ge
+T29	Material 915 944	magneto-structural transition
+T31	Material 1026 1055	magneto-structural transition
+T32	Property 1061 1072	first order
+T19	Value 326 335	299 (1) K
+T33	Process 418 436	higher temperature
+T34	Value 484 493	239 (1) K
+T35	Property 732 749	Curie temperature
+T36	Value 790 799	355 (5) K
+T37	Value 825 834	379 (6) K
+T38	Property 882 903	magnetocaloric effect
+T41	Value 961 978	11 (2) J kg−1 K−1
+T42	Value 988 1003	187 (30) J kg−1
+T39	Value 1017 1020	5 T
+T13	Property 360 372	paramagnetic
+T21	Doping 506 515	occupancy
+T6	Property 176 189	magnetisation
+T24	Characterization 190 202	measurements
+R1	Target Arg1:T34 Arg2:T15
+E1	Doping:T21 Dopant:T16 Site:T17
+E2	Doping:T21 Dopant:T16 Site:T18
+T30	Property 750 753	T C

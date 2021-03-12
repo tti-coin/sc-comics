@@ -1,0 +1,44 @@
+T2	Process 75 96	annealing temperature
+T3	Material 120 137	crystal structure
+T4	Property 139 149	electrical
+T5	SC 154 169	superconducting
+T6	Element 184 186	Au
+T7	Material 187 194	surface
+T8	Material 195 202	layered
+T9	Main 203 210	Bi-2212
+T10	Material 211 219	ceramics
+T12	Property 223 237	dc resistivity
+T14	Material 362 371	disorders
+T15	SC 376 399	transition temperatures
+T17	Process 432 453	annealing temperature
+T18	Material 510 527	crystal structure
+T19	Material 556 565	disorders
+T20	Material 576 598	structural-distortions
+T21	Material 606 612	layers
+T22	Property 640 656	σ-gap anisotropy
+T23	Element 674 676	Ag
+T24	Element 681 684	B1g
+T25	Property 685 692	phonons
+T26	Element 711 713	Au
+T29	SC 858 879	critical temperatures
+T30	Material 910 919	disorders
+T32	Element 1043 1050	Bi-2212
+T33	Material 1051 1059	ceramics
+T11	Value 457 463	800 °C
+T16	Property 625 638	metastability
+T28	Value 1013 1021	90.467 K
+T34	Value 1026 1034	90.359 K
+T35	Material 714 727	nanoparticles
+T27	Doping 757 762	doped
+T36	Doping 799 804	doped
+T1	Value 98 104	600 °C
+T37	Value 105 111	850 °C
+T31	SC 965 1002	onset and offset critical temperature
+T13	Characterization 249 279	X-ray diffraction measurements
+T38	Material 242 248	powder
+R1	Target Arg1:T34 Arg2:T32
+R2	Equivalent Arg1:T31 Arg2:T28
+R3	Equivalent Arg1:T31 Arg2:T34
+R4	Target Arg1:T28 Arg2:T32
+E1	Doping:T27
+E2	Doping:T36

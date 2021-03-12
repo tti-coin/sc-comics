@@ -1,0 +1,53 @@
+T1	Material 4 11	lattice
+T2	Property 38 44	strain
+T3	SC 52 69	superconductivity
+T4	Main 73 86	graphene–MgB2
+T6	Material 87 97	composites
+T7	Property 139 163	electron–phonon coupling
+T8	SC 187 202	superconducting
+T10	Element 249 253	MgB2
+T12	Element 255 268	graphene–MgB2
+T13	Material 269 279	composites
+T14	Material 292 310	lattice parameters
+T17	SC 372 374	Tc
+T18	Property 386 394	strength
+T19	Element 398 402	MgB2
+T20	Element 415 423	graphene
+T22	Element 569 577	graphene
+T24	Property 679 687	strength
+T25	SC 715 717	Tc
+T26	Element 725 733	graphene
+T28	Property 165 168	EPC
+T29	Element 231 242	nano-carbon
+T30	Property 203 206	gap
+T31	Value 409 414	2wt.%
+T32	Property 537 540	gap
+T33	Property 510 529	Sommerfeld constant
+T34	Property 382 385	EPC
+T35	Property 675 678	EPC
+T36	Property 611 624	heat capacity
+T5	Doping 243 248	doped
+T9	Doping 424 432	addition
+T11	Doping 578 586	addition
+T15	SC 322 370	critical superconducting transition temperatures
+R1	Target Arg1:E1 Arg2:T12
+R2	Target Arg1:E4 Arg2:T10
+R3	Coref Arg1:T15 Arg2:T17
+R4	Target Arg1:E2 Arg2:T19
+E1	Doping:T5 Dopant:T29
+E2	Doping:T9 Dopant:T20
+E3	Doping:T11 Dopant:T22
+E4	Doping:T5 Dopant:T29
+#1	AnnotatorNotes T1	4-11
+#2	AnnotatorNotes T4	73-86
+#3	AnnotatorNotes T6	87-97
+#4	AnnotatorNotes T10	249-253
+#5	AnnotatorNotes T12	255-268
+#6	AnnotatorNotes T13	269-279
+#7	AnnotatorNotes T14	292-310
+#8	AnnotatorNotes T19	398-402
+#9	AnnotatorNotes T20	415-423
+#10	AnnotatorNotes T22	569-577
+#11	AnnotatorNotes T26	725-733
+#12	AnnotatorNotes T29	231-242
+#13	AnnotatorNotes T31	409-414

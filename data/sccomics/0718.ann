@@ -1,0 +1,16 @@
+T1	SC 90 105	superconducting
+T2	SC 107 109	SC
+T4	SC 172 174	SC
+T5	Property 337 346	heat load
+T6	Material 437 443	liquid
+T8	Element 454 458	LN2)
+T9	Property 482 494	Calculations
+T10	Property 769 778	densities
+T11	Element 789 792	LN2
+T12	Element 819 822	LN2
+T14	Property 965 974	heat load
+T15	Element 1076 1079	LN2
+T16	Value 606 610	200m
+T17	Value 705 707	5m
+T18	Property 18 35	energy management
+T7	Element 444 452	nitrogen

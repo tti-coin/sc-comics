@@ -1,0 +1,50 @@
+T1	Characterization 19 45	nuclear magnetic resonance
+T2	Characterization 47 50	NMR
+T3	Property 67 71	hole
+T5	SC 78 92	superconductor
+T6	Main 93 109	Ba1−x K x Fe2As2
+T7	SC 115 153	superconducting transition temperature
+T8	SC 154 157	T c
+T9	SC 178 181	T c
+T10	Characterization 205 208	NMR
+T11	Property 248 255	ordered
+T12	Property 260 272	paramagnetic
+T13	Material 284 299	microscopically
+T14	Property 315 319	spin
+T15	Material 320 327	lattice
+T16	Property 328 338	relaxation
+T17	Property 344 347	1/T
+T18	Property 357 369	normal state
+T19	Material 404 419	two-dimensional
+T20	Property 420 437	antiferromagnetic
+T21	Property 439 441	AF
+T22	Property 443 459	spin fluctuation
+T24	SC 478 493	superconducting
+T26	SC 618 621	T c
+T28	Element 659 674	Ba0.6K0.4Fe2As2
+T29	Property 682 684	AF
+T30	SC 715 717	SC
+T31	SC 750 767	superconductivity
+T33	Material 790 805	phase-separated
+T34	Property 806 808	AF
+T37	Value 183 186	35K
+T38	Value 694 698	1.5K
+T39	Value 159 162	38K
+T41	Value 170 173	0.4
+T43	Value 194 198	0.55
+T25	Element 200 204	75As
+T23	Characterization 519 542	measurement temperature
+T27	Element 14 18	75As
+T32	Property 465 468	1/T
+T44	Property 650 653	1/T
+T45	Characterization 52 63	measurement
+T46	Property 235 247	magnetically
+T4	Doping 72 77	doped
+R1	Equivalent Arg1:T8 Arg2:T39
+R2	Equivalent Arg1:T9 Arg2:T37
+R3	Target Arg1:T39 Arg2:T6
+R4	Target Arg1:T37 Arg2:T6
+R5	Target Arg1:E1 Arg2:T6
+R6	Condition Arg1:T39 Arg2:E1
+R7	Condition Arg1:T37 Arg2:E1
+E1	Doping:T4 Dopant:T3

@@ -1,0 +1,30 @@
+T2	Material 90 105	ionic fragments
+T3	Material 151 166	ionic fragments
+T4	Property 228 237	gas phase
+T6	Property 472 479	kinetic
+T7	SC 513 528	superconducting
+T8	Material 529 544	tunnel junction
+T9	Material 656 665	molecules
+T10	Material 685 690	ionic
+T11	Property 701 708	kinetic
+T12	Property 709 721	energy range
+T13	Property 809 816	charged
+T14	Element 817 824	acetone
+T15	Element 828 834	acetyl
+T16	Element 853 855	Xe
+T17	Property 877 884	charged
+T5	Characterization 261 278	mass spectroscopy
+T22	Characterization 280 282	MS
+T23	Characterization 444 446	MS
+T24	Characterization 606 610	KEMS
+T25	Characterization 746 748	MS
+T26	Characterization 749 753	KEMS
+T27	Property 905 941	collisionally activated dissociation
+T28	Property 943 946	CAD
+T18	Property 951 981	electron transfer dissociation
+T29	Property 983 986	ETD
+T30	Property 1163 1166	CAD
+T31	Property 1171 1174	ETD
+T32	Property 561 573	Giaever mode
+T1	Material 24 27	ion
+T19	Material 885 889	ions

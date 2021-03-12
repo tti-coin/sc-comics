@@ -1,0 +1,48 @@
+T1	Property 0 4	Melt
+T2	Material 5 13	textured
+T3	Main 14 54	(YBa2Cu3O7 − δ)1 − x –(PrBa2Cu3O7 − δ) x
+T4	Material 55 65	composites
+T5	Process 95 100	grown
+T6	Element 149 163	PrBa2Cu3O7 − δ
+T7	Process 177 183	growth
+T8	Material 220 234	microstructure
+T9	Characterization 287 292	X-ray
+T11	Material 359 371	orthorhombic
+T12	SC 372 387	superconducting
+T14	Element 429 442	YBa2Cu3O7 − δ
+T17	SC 501 503	Tc
+T19	SC 586 603	superconductivity
+T20	SC 620 641	critical temperatures
+T21	SC 642 644	TC
+T22	Element 669 682	YBa2Cu3O7 − δ
+T23	Element 687 727	(YBa2Cu3O7 − δ)0.95–(PrBa2Cu3O7 − δ)0.05
+T24	Element 755 768	YBa2Cu3O7 − δ
+T25	Property 790 816	critical current densities
+T26	Element 841 881	(YBa2Cu3O7 − δ)0.95–(PrBa2Cu3O7 − δ)0.05
+T27	Property 905 907	JC
+T28	Element 1007 1009	Pr
+T30	Property 1066 1068	JC
+T32	Value 71 75	0.00
+T35	Value 84 88	0.05
+T10	Element 331 333	Pr
+T15	Element 447 487	(YBa2Cu3O7 − δ)0.95–(PrBa2Cu3O7 − δ)0.05
+T16	Value 537 543	90.5 K
+T39	Value 647 653	92.9 K
+T40	Value 658 664	92.4 K
+T41	Value 910 926	5.85 × 105 A/cm2
+T42	Value 931 947	4.72 × 105 A/cm2
+T13	Doping 334 339	doped
+T18	Doping 1010 1022	substitution
+T29	Property 400 411	resistivity
+T31	Characterization 412 424	measurements
+T36	Property 559 567	magnetic
+T37	Characterization 568 580	measurements
+R1	Equivalent Arg1:T17 Arg2:T16
+R3	Equivalent Arg1:T21 Arg2:T39
+R4	Equivalent Arg1:T21 Arg2:T40
+R5	Target Arg1:T39 Arg2:T22
+R6	Target Arg1:T40 Arg2:T23
+R7	Target Arg1:T16 Arg2:T15
+R8	Target Arg1:T16 Arg2:T14
+E1	Doping:T13 Dopant:T10
+E2	Doping:T18 Dopant:T28

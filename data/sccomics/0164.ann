@@ -1,0 +1,26 @@
+T1	Material 37 42	plane
+T2	Property 51 62	resistivity
+T4	Material 104 109	films
+T5	Process 119 132	dc sputtering
+T6	Property 138 141	T c
+T7	Property 181 184	T c
+T11	Property 397 417	critical temperature
+T12	Property 446 449	T c
+T13	Property 509 528	frequency-dependent
+T14	Property 543 555	conductivity
+T16	Property 616 619	T c
+T17	Property 651 654	T c
+T18	Property 689 694	order
+T20	Property 851 854	T c
+T21	Property 865 868	T c
+T22	Value 66 72	24 GHz
+T23	Main 99 103	YBCO
+T24	Value 144 148	90 K
+T25	Property 712 738	Ginzburg-Landau functional
+T10	Property 300 321	gaussian fluctuations
+T27	Property 478 494	short-wavelength
+T15	Process 110 115	grown
+T8	Property 750 771	Hartree approximation
+T3	Doping 93 98	doped
+R3	Target Arg1:E1 Arg2:T23
+E1	Doping:T3

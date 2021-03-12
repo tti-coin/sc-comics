@@ -1,0 +1,24 @@
+T1	Property 31 45	magnetic field
+T2	Property 50 59	frequency
+T3	Property 78 95	ac susceptibility
+T4	Main 99 134	Hg0.3La0.7Ba2Ca3(Cu0.95Ag0.5)4O10+δ
+T5	SC 153 170	superconductivity
+T6	Element 209 211	Ag
+T7	Property 217 231	magnetic field
+T8	Property 284 296	flux pinning
+T9	Element 359 361	Ag
+T10	Property 431 436	creep
+T11	Property 444 450	vortex
+T13	Property 525 542	three-dimensional
+T14	SC 568 571	T c
+T15	Property 584 598	magnetic field
+T17	Property 622 628	vortex
+T19	Property 629 651	glass phase transition
+T20	Property 652 658	theory
+T21	Property 674 681	pinning
+T22	Element 798 800	Ag
+T23	Material 858 867	materials
+T24	Value 606 611	0.04T
+T16	Value 573 577	0.75
+T12	Doping 488 494	doping
+E1	Doping:T12 

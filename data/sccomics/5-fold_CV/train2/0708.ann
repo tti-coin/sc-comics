@@ -1,0 +1,115 @@
+T2	Element 16 20	Ge4+
+T3	Element 33 35	Cu
+T4	Main 39 73	Tl0.85Cr0.15Sr2CaCu2− x Ge x O7− δ
+T6	SC 145 152	Tc zero
+T8	Property 275 286	tetravalent
+T9	Element 287 291	Ge4+
+T11	Property 336 354	hole concentration
+T12	SC 383 390	Tc zero
+T13	Property 400 412	conductivity
+T14	Property 425 435	resistance
+T15	Property 491 497	theory
+T18	Property 580 592	conductivity
+T19	SC 602 632	highest transition temperature
+T21	Characterization 668 680	spectroscopy
+T22	Element 700 704	Ge4+
+T24	Process 724 733	reduction
+T25	Element 737 741	CuO2
+T26	Element 742 746	GeO2
+T27	Property 778 789	calculation
+T29	SC 839 854	superconducting
+T30	Property 855 871	coherence length
+T32	Material 954 962	divalent
+T33	Element 963 967	Mg2+
+T34	Element 972 976	Ca2+
+T35	Main 980 1023	(Tl0.5Pb0.5)(Sr1.8Yb0.2)(Ca1− y Mg y )Cu2O7
+T36	Property 1075 1093	hole concentration
+T38	Property 1244 1256	conductivity
+T40	Property 1316 1328	conductivity
+T42	Property 1395 1406	calculation
+T43	Element 1515 1526	Cu(1)O(2)Pb
+T44	Element 1527 1529	Tl
+T45	Element 1562 1566	CuO2
+T46	Material 1567 1572	plane
+T47	Element 1588 1592	Mg2+
+T49	Element 1653 1657	Ge4+
+T50	Element 1662 1666	Mg2+
+T52	SC 1727 1744	superconductivity
+T57	Value 158 161	98K
+T58	Value 172 176	100K
+T60	Value 166 167	0
+T62	Value 181 184	0.1
+T66	Property 469 485	Asmalazov–Larkin
+T67	Property 487 489	AL
+T17	Property 537 545	2D-to-3D
+T20	Property 634 642	T2D – 3D
+T69	Value 658 661	0.1
+T70	Property 799 821	Lawrence–Doniach model
+T72	Value 914 917	0.3
+T77	Value 1140 1145	89.6K
+T79	Value 1150 1151	0
+T81	Value 1186 1189	0.6
+T82	Value 1176 1181	95.9K
+T39	Property 1273 1281	2D-to-3D
+T85	Value 1382 1385	0.4
+T87	Value 1458 1461	0.4
+T88	Value 1751 1754	80K
+T91	Property 560 571	fluctuation
+T92	Property 1296 1307	fluctuation
+T93	Characterization 1463 1476	FTIR analysis
+T94	Characterization 663 667	FTIR
+T1	Doping 0 12	Substitution
+T10	Doping 292 304	substitution
+T16	Doping 516 528	substitution
+T23	Doping 705 717	substitution
+T31	Doping 938 950	substitution
+T48	Doping 1593 1605	substitution
+T51	Doping 1667 1680	substitutions
+T53	Value 78 79	0
+T54	Value 80 83	0.6
+T56	Value 220 223	0.2
+T65	Value 224 227	0.3
+T5	SC 112 137	zero critical temperature
+T63	Value 206 208	85
+T95	Value 209 212	86K
+T28	Property 873 879	ξc (0)
+T73	Value 1028 1029	0
+T74	Value 1030 1033	1.0
+T37	SC 1115 1122	Tc zero
+T41	Property 1363 1371	T2D – 3D
+T76	Property 1434 1440	ξc (0)
+T89	Property 1621 1627	ξc (0)
+T7	SC 250 257	Tc zero
+R1	Target Arg1:T77 Arg2:T35
+R2	Target Arg1:T82 Arg2:T35
+R3	Equivalent Arg1:T6 Arg2:T57
+R4	Equivalent Arg1:T6 Arg2:T58
+R5	Equivalent Arg1:T52 Arg2:T88
+R6	Target Arg1:E1 Arg2:T4
+R7	Target Arg1:E5 Arg2:T35
+R8	Equivalent Arg1:T6 Arg2:T63
+R9	Equivalent Arg1:T6 Arg2:T95
+R10	Target Arg1:T57 Arg2:T4
+R11	Target Arg1:T58 Arg2:T4
+R12	Target Arg1:T63 Arg2:T4
+R13	Target Arg1:T95 Arg2:T4
+R14	Condition Arg1:T57 Arg2:E1
+R15	Condition Arg1:T58 Arg2:E1
+R16	Condition Arg1:T63 Arg2:E1
+R17	Condition Arg1:T95 Arg2:E1
+R18	Equivalent Arg1:T37 Arg2:T77
+R19	Equivalent Arg1:T37 Arg2:T82
+R20	Target Arg1:T77 Arg2:T35
+R21	Target Arg1:T82 Arg2:T35
+R22	Condition Arg1:T77 Arg2:E5
+R23	Condition Arg1:T82 Arg2:E5
+R24	Condition Arg1:T88 Arg2:E8
+R25	Condition Arg1:T88 Arg2:E7
+E1	Doping:T1 Dopant:T2 Site:T3
+E2	Doping:T10 Dopant:T9
+E3	Doping:T16 
+E4	Doping:T23 Dopant:T22
+E5	Doping:T31 Dopant:T33 Site:T34
+E6	Doping:T48 Dopant:T47
+E7	Doping:T51 Dopant:T50
+E8	Doping:T51 Dopant:T49

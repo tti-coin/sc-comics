@@ -1,0 +1,63 @@
+T1	Main 0 21	Y(Ba1-x K x )2Cu3O7-δ
+T2	Material 22 30	ceramics
+T3	Process 83 101	thermal treatments
+T5	Element 125 140	metals nitrates
+T6	Element 168 171	PVP
+T8	Material 240 257	crystal structure
+T9	Material 259 273	microstructure
+T10	Property 278 299	electrical resistance
+T11	Characterization 334 352	X-ray diffractions
+T12	Material 389 402	crystallinity
+T13	Material 420 436	lattice constant
+T14	Element 452 463	YBa2Cu3O7-δ
+T15	Element 465 469	Y123
+T16	Element 482 483	K
+T17	Element 502 503	K
+T18	Material 543 565	orthorhombicity factor
+T19	Element 583 587	Y123
+T20	Material 589 604	Microstructural
+T21	Characterization 623 651	scanning electron microscopy
+T22	Element 664 665	K
+T23	Process 692 704	grain growth
+T24	Element 708 712	Y123
+T25	SC 718 745	superconducting transitions
+T26	SC 747 750	T c
+T28	Element 814 818	Y123
+T31	SC 990 1016	superconducting transition
+T32	SC 1018 1022	ΔT c
+T33	SC 1034 1049	superconducting
+T38	Value 36 40	0.00
+T39	Value 57 61	0.08
+T40	Value 48 52	0.05
+T41	Value 42 46	0.03
+T42	Material 105 121	aqueous solution
+T4	Element 145 166	polyvinyl pyrrolidone
+T43	Element 218 219	K
+T48	Value 841 843	93
+T49	Value 853 856	95K
+T50	Value 882 886	0.00
+T51	Value 903 907	0.08
+T55	Value 849 851	95
+T56	Value 845 847	97
+T57	Value 888 892	0.03
+T58	Value 894 898	0.05
+T60	Value 1094 1098	0.03
+T29	SC 824 835	T c (onset)
+T7	Doping 220 232	substitution
+T27	Doping 484 496	substitution
+T30	Doping 504 516	substitution
+T37	Doping 666 678	substitution
+T44	Doping 760 771	substituted
+T45	Doping 955 966	substituted
+R5	Equivalent Arg1:T29 Arg2:T48
+R6	Equivalent Arg1:T29 Arg2:T56
+R7	Equivalent Arg1:T29 Arg2:T55
+R8	Equivalent Arg1:T29 Arg2:T49
+R9	Target Arg1:E2 Arg2:T14
+R10	Target Arg1:E4 Arg2:T24
+E1	Doping:T7 Dopant:T43
+E2	Doping:T27 Dopant:T16
+E3	Doping:T30 Dopant:T17
+E4	Doping:T37 Dopant:T22
+E5	Doping:T44
+E6	Doping:T45

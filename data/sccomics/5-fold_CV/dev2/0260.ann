@@ -1,0 +1,68 @@
+T1	Material 20 38	vitreous materials
+T3	Process 56 83	melting-quenching technique
+T4	Material 109 118	materials
+T5	Material 136 141	glass
+T6	Material 160 171	composition
+T8	Element 175 180	oxide
+T9	Element 192 196	Li2O
+T10	Element 207 212	5 ZnO
+T11	Element 214 231	(35; 20; 50) B2O3
+T12	Element 233 250	(35; 50; 20) P2O5
+T13	Element 252 259	3 Bi2O3
+T14	Element 261 266	3 PbO
+T15	Element 268 278	phosphorus
+T16	Element 283 294	boron oxide
+T17	Material 372 389	glass composition
+T19	Element 402 407	Bi2O3
+T20	Element 412 415	PbO
+T22	Characterization 490 516	Fourier Transform Infrared
+T23	Characterization 528 546	Raman Spectroscopy
+T24	Material 554 558	bulk
+T25	Material 559 566	glasses
+T26	Material 613 622	structure
+T27	Material 626 631	glass
+T28	Element 646 660	Q2 boron oxide
+T30	Element 671 676	P–O‒B
+T31	Material 677 682	bonds
+T32	Property 711 719	hardness
+T33	Property 725 740	Young's modulus
+T34	Property 749 767	fracture toughness
+T35	Element 779 794	boron phosphate
+T36	Material 795 802	glasses
+T37	Characterization 817 854	micro- and nanoindentation techniques
+T38	Element 919 936	alumino-phosphate
+T39	Material 937 944	glasses
+T40	Element 958 972	boro-phosphate
+T41	Characterization 1019 1052	Differential Scanning Calorimetry
+T42	Characterization 1054 1057	DSC
+T43	Property 1092 1114	transition temperature
+T44	Element 1152 1154	Bi
+T45	Element 1159 1168	Pb oxides
+T47	Process 1188 1203	crystallization
+T48	Property 1217 1228	diamagnetic
+T49	Element 1263 1265	Bi
+T50	Element 1270 1278	Pb oxide
+T51	Element 1288 1303	boron phosphate
+T52	Material 1304 1309	glass
+T53	Material 1349 1354	glass
+T54	Property 1370 1396	magneto-optical properties
+T55	Material 1426 1430	bulk
+T56	Value 1142 1146	45°C
+T2	Characterization 518 522	FTIR
+T58	Value 594 597	90%
+T29	Element 198 205	9 Al2O3
+T59	Characterization 481 487	UV–Vis
+T60	Characterization 460 479	ultraviolet-visible
+T61	Element 599 612	metaphosphate
+T62	Characterization 1327 1339	ellipsometry
+T63	Property 4 19	magneto-optical
+T7	Property 417 424	Optical
+T18	Characterization 429 456	structural characterization
+T21	Doping 1174 1179	added
+T46	Doping 1282 1287	doped
+R1	Target Arg1:E2 Arg2:T51
+R2	Target Arg1:E3 Arg2:T51
+E1	Doping:T21 Dopant:T44
+E2	Doping:T46 Dopant:T49
+E3	Doping:T46 Dopant:T50
+E4	Doping:T21 Dopant:T45

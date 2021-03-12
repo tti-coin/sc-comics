@@ -1,0 +1,40 @@
+T1	Property 33 54	magnetic fluctuations
+T2	SC 59 76	superconductivity
+T3	Property 99 103	band
+T4	Property 104 117	Hubbard model
+T5	Element 122 135	iron-pnictide
+T6	SC 136 151	superconductors
+T7	Property 219 231	normal-state
+T8	Property 256 265	pseudogap
+T9	Characterization 282 285	NMR
+T10	Property 286 296	relaxation
+T11	Property 319 327	electron
+T13	Property 395 399	hole
+T15	Property 419 428	pseudogap
+T16	Property 458 472	band structure
+T17	Property 508 525	density of states
+T18	Property 541 552	Fermi level
+T19	SC 611 626	superconducting
+T20	Property 697 704	pairing
+T21	Material 705 713	symmetry
+T22	Property 735 741	s-wave
+T23	Property 742 760	spin-singlet state
+T25	Property 772 789	exchange coupling
+T27	Property 879 896	antiferromagnetic
+T28	Property 898 900	AF
+T29	Property 902 918	spin fluctuation
+T30	Property 987 1004	pairing mechanism
+T31	Property 1020 1022	AF
+T32	Property 1023 1039	spin fluctuation
+T33	Property 172 192	fluctuation-exchange
+T24	Property 721 725	sign
+T34	Property 831 838	carrier
+T35	Property 302 307	1 / T
+T36	Property 378 383	1 / T
+T37	Property 627 646	Eliashberg equation
+T12	Doping 328 333	doped
+T14	Doping 400 405	doped
+T26	Doping 839 845	doping
+E1	Doping:T12 Dopant:T11
+E2	Doping:T14 Dopant:T13
+E3	Doping:T26 Dopant:T34

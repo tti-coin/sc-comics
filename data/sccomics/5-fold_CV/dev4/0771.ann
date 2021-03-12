@@ -1,0 +1,93 @@
+T1	Property 55 63	magnetic
+T2	Material 64 77	nanoparticles
+T3	Material 79 83	MNPs
+T4	SC 92 107	superconducting
+T5	SC 120 142	transition temperature
+T6	SC 143 145	Tc
+T7	Property 148 163	critical fields
+T8	Property 168 192	critical current density
+T9	Property 194 196	Jc
+T10	Main 202 206	MgB2
+T11	Material 207 212	wires
+T13	Element 246 250	MgB2
+T14	Material 251 256	wires
+T16	Material 302 306	MNPs
+T18	Element 329 331	Fe
+T19	Element 333 335	Co
+T20	Element 337 339	Ni
+T21	Property 342 350	magnetic
+T22	Material 351 358	borides
+T23	Element 360 364	Fe2B
+T24	Element 366 370	Co2B
+T25	Element 372 377	NiCoB
+T27	Material 383 391	ferrites
+T28	Element 393 399	AFe2O4
+T29	Element 403 405	Mn
+T30	Element 407 409	Fe
+T31	Element 411 413	Co
+T32	Element 415 417	Ni
+T33	Element 419 421	Cu
+T34	Process 443 449	coated
+T35	Element 456 462	silica
+T36	Material 475 479	MNPs
+T39	Material 577 581	MNPs
+T40	SC 591 593	Tc
+T41	Element 597 601	MgB2
+T42	Material 613 616	MNP
+T43	SC 660 675	superconducting
+T44	Material 690 695	wires
+T46	Material 750 753	MNP
+T47	Element 755 757	Ni
+T48	Element 759 764	NiCoB
+T49	Process 777 783	coated
+T50	Element 784 791	NiFe2O4
+T51	Element 796 801	Fe3O4
+T52	Process 812 827	low-temperature
+T53	Property 829 839	high-field
+T54	Property 840 842	Jc
+T55	Element 846 850	MgB2
+T56	Material 851 856	wires
+T60	Element 234 236	Fe
+T61	Material 237 245	sheathed
+T62	Element 466 473	dextrin
+T63	Value 721 728	2.5wt.%
+T26	Element 769 776	dextrin
+T12	Material 567 571	MNPs
+T15	Doping 257 262	doped
+T17	Element 316 327	pure metals
+T37	Doping 532 538	doping
+T38	Doping 712 718	doping
+R1	Coref Arg1:T5 Arg2:T6
+R2	Target Arg1:E1 Arg2:T13
+R3	Target Arg1:E2 Arg2:T13
+R4	Target Arg1:E3 Arg2:T13
+R5	Target Arg1:E4 Arg2:T13
+R6	Target Arg1:E5 Arg2:T13
+R7	Target Arg1:E6 Arg2:T13
+R8	Target Arg1:E7 Arg2:T13
+R9	Target Arg1:E8 Arg2:T13
+R10	Target Arg1:E9 Arg2:T13
+R11	Target Arg1:E10 Arg2:T13
+R12	Target Arg1:E11 Arg2:T13
+R13	Target Arg1:E14 Arg2:T55
+R14	Target Arg1:E15 Arg2:T55
+R15	Target Arg1:E16 Arg2:T55
+R16	Target Arg1:E17 Arg2:T55
+R17	Target Arg1:E13 Arg2:T55
+E1	Doping:T15 Dopant:T16
+E2	Doping:T15 Dopant:T28
+E3	Doping:T15 Dopant:T17
+E4	Doping:T15 Dopant:T25
+E5	Doping:T15 Dopant:T24
+E6	Doping:T15 Dopant:T23
+E7	Doping:T15 Dopant:T22
+E8	Doping:T15 Dopant:T20
+E9	Doping:T15 Dopant:T19
+E10	Doping:T15 Dopant:T18
+E11	Doping:T15 Dopant:T27
+E12	Doping:T37 
+E13	Doping:T38 Dopant:T46
+E14	Doping:T38 Dopant:T51
+E15	Doping:T38 Dopant:T50
+E16	Doping:T38 Dopant:T48
+E17	Doping:T38 Dopant:T47

@@ -1,0 +1,43 @@
+T1	Material 0 9	Thin film
+T2	Main 10 25	Bi2Sr2−xLaxCuOy
+T3	Process 38 47	deposited
+T4	Element 53 59	SrTiO3
+T8	Characterization 141 158	X-ray diffraction
+T9	Property 167 187	transport properties
+T14	Element 356 358	Sr
+T18	Property 476 480	hole
+T20	Material 491 500	thin film
+T21	Material 527 531	film
+T22	SC 556 571	superconducting
+T23	Property 590 600	insulating
+T26	Property 699 721	electrical resistivity
+T27	Property 789 792	1/T
+T28	Property 806 828	electrical resistivity
+T35	Value 29 32	0.6
+T5	Process 69 92	DC magnetron sputtering
+T7	Property 310 313	SIT
+T36	Value 366 369	0.6
+T37	Element 370 372	La
+T16	Process 436 457	vacuum anneal process
+T17	Property 665 668	SIT
+T40	Property 754 773	thermally activated
+T41	Material 98 108	structural
+T43	SC 273 287	superconductor
+T15	Property 389 403	oxygen content
+T10	Doping 250 260	underdoped
+T12	Doping 481 487	doping
+T13	Doping 601 611	underdoped
+T19	Doping 632 638	doping
+T24	Doping 887 893	doping
+T25	Property 204 215	resistivity
+T29	Property 220 231	Hall Effect
+T30	Characterization 232 244	measurements
+T6	Property 288 297	insulator
+T31	Property 298 308	transition
+T11	Doping 340 352	substitution
+E1	Doping:T10 
+E3	Doping:T12 Dopant:T18
+E4	Doping:T13 
+E5	Doping:T19 
+E6	Doping:T24 
+E2	Doping:T11 Site:T14 Dopant:T37

@@ -1,0 +1,66 @@
+T1	Element 30 32	Co
+T3	SC 47 62	superconducting
+T4	Material 78 92	microstructure
+T5	Material 96 103	ternary
+T6	Main 104 145	(Nd0.33Sm0.33Gd0.33)1.18Ba2.12Cu3.09O7− δ
+T7	Main 147 153	NSG123
+T8	Element 178 184	NSG123
+T9	SC 185 200	superconductors
+T11	Element 233 235	Co
+T12	Property 236 249	concentration
+T14	Property 352 358	melted
+T15	Process 393 399	cooled
+T16	Process 442 452	atmosphere
+T17	Element 469 471	O2
+T18	Element 474 476	Ar
+T19	Element 498 504	NSG123
+T20	SC 505 519	superconductor
+T21	Element 534 536	Co
+T22	Property 554 578	critical current density
+T23	Property 581 584	J c
+T24	Element 624 630	NSG123
+T25	Property 658 667	transport
+T26	Property 668 671	J c
+T28	Element 743 745	Co
+T29	Property 764 773	transport
+T30	Property 774 777	J c
+T31	Property 821 835	magnetic field
+T32	SC 868 885	superconductivity
+T33	Element 944 946	Co
+T34	Property 980 1002	electrical resistivity
+T35	Property 1006 1018	normal state
+T36	Element 1083 1085	Co
+T38	Property 1118 1121	J c
+T39	Material 1146 1160	microstructure
+T40	Element 1176 1182	NSG123
+T41	Process 1206 1220	heat treatment
+T42	Process 1226 1239	rapid cooling
+T13	Value 362 369	1050 °C
+T44	Value 374 380	30 min
+T45	Value 403 409	910 °C
+T46	Value 423 432	60 °C h−1
+T47	Value 464 468	0.1%
+T48	Value 525 533	0.05 at%
+T49	Value 589 605	2.0 × 104 A cm−2
+T50	Value 681 697	3.0 × 103 A cm−2
+T51	Value 734 742	0.05 at%
+T52	Value 787 803	4.5 × 103 A cm−2
+T53	Value 842 846	17 T
+T54	Value 934 938	11 T
+T55	Value 850 854	77 K
+T56	Process 291 315	solution spinning method
+T2	Doping 33 39	doping
+T27	Doping 723 728	doped
+T37	Doping 947 952	doped
+T57	Doping 1086 1092	doping
+T10	Doping 212 217	doped
+T43	Value 258 259	0
+T58	Value 264 271	0.5 at%
+R2	Target Arg1:E1 Arg2:T6
+R3	Target Arg1:E2 Arg2:T8
+R4	Target Arg1:E5 Arg2:T40
+E1	Doping:T2 Dopant:T1
+E3	Doping:T27 Dopant:T28
+E4	Doping:T37 Dopant:T33
+E5	Doping:T57 Dopant:T36
+E2	Doping:T10 Dopant:T11

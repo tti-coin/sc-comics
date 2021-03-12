@@ -1,0 +1,61 @@
+T1	SC 25 42	superconductivity
+T2	Main 46 53	Bi4O4S3
+T3	Element 66 68	Se
+T5	Element 79 80	S
+T6	Material 87 91	Bulk
+T7	Material 92 107	polycrystalline
+T8	Process 135 155	solid state reaction
+T9	Characterization 187 190	XRD
+T10	Process 246 258	crystallized
+T11	Material 262 272	tetragonal
+T12	Material 273 279	I4/mmm
+T13	Material 280 291	space group
+T15	Element 344 346	Se
+T17	SC 355 372	Superconductivity
+T19	Property 407 423	dc magnetization
+T20	Property 428 439	resistivity
+T21	Element 478 493	Bi4O4S3− x Se x
+T22	Element 586 588	Se
+T23	Property 602 622	upper critical field
+T24	Element 630 637	Bi4O4S3
+T25	Property 656 667	resistivity
+T26	Property 674 688	magnetic field
+T27	Element 758 760	Se
+T29	Material 780 784	flux
+T30	Property 790 809	activation energies
+T31	Element 879 886	Bi4O4S3
+T32	Element 901 917	Bi4O4S2.97Se0.03
+T33	Element 935 951	Bi4O4S2.85Se0.15
+T34	Property 971 985	magnetic field
+T35	Element 1014 1015	S
+T36	Element 1021 1023	Se
+T38	SC 1066 1083	superconductivity
+T39	Element 1087 1094	Bi4O4S3
+T43	Value 498 499	0
+T44	Value 501 505	0.03
+T45	Value 507 511	0.09
+T46	Value 516 520	0.15
+T47	Value 394 398	4.5K
+T48	Value 719 721	2T
+T49	Value 922 930	13.16meV
+T50	Value 866 874	18.60meV
+T51	Value 888 896	13.69meV
+T52	Property 843 861	Arrhenius equation
+T53	Value 989 994	200Oe
+T54	Characterization 167 183	Rietveld refined
+T56	Characterization 697 709	measurements
+T4	Doping 69 75	doping
+T16	Doping 347 353	doping
+T14	Material 316 325	c lattice
+T18	Doping 761 766	doped
+T28	Doping 1024 1036	substitution
+T37	Process 445 456	temperature
+T40	Characterization 457 469	measurements
+R1	Equivalent Arg1:T17 Arg2:T47
+R2	Target Arg1:E1 Arg2:T2
+R3	Target Arg1:E4 Arg2:T39
+R4	Target Arg1:T47 Arg2:T21
+E1	Doping:T4 Dopant:T3 Site:T5
+E2	Doping:T16 Dopant:T15
+E3	Doping:T18 Dopant:T27
+E4	Doping:T28 Site:T35 Dopant:T36

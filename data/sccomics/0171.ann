@@ -1,0 +1,49 @@
+T3	Process 155 163	annealed
+T4	Material 196 206	tetragonal
+T6	Property 278 292	oxygen content
+T7	SC 308 323	superconducting
+T8	SC 329 332	T c
+T12	Property 579 592	magnetization
+T14	SC 632 647	superconducting
+T15	Main 17 28	CuSr2YCu2O7
+T16	Value 145 150	990°C
+T17	Element 44 46	Re
+T18	Element 48 49	W
+T19	Element 54 56	Mo
+T20	Element 73 75	Cu
+T22	Value 180 187	220 atm
+T23	Element 256 258	Cu
+T24	Value 335 339	70 K
+T25	Value 295 298	7.3
+T26	Element 425 429	Y123
+T27	Value 479 483	77 K
+T28	Element 531 533	Ca
+T29	Element 538 539	Y
+T30	Element 607 609	Ca
+T31	Element 688 699	CuSr2YCu2O7
+T33	Element 189 191	O2
+T34	Property 555 569	susceptibility
+T35	Property 379 391	poor pinning
+T9	SC 431 450	Superconducting T c
+T1	Doping 57 68	substituted
+T5	Doping 236 248	substituting
+T10	Doping 498 510	substitution
+T11	Doping 610 622	substitution
+T2	SC 103 114	highest T c
+T13	Value 167 170	650
+T21	Value 171 176	700°C
+T32	Value 756 760	30 K
+R1	Equivalent Arg1:T8 Arg2:T24
+R2	Equivalent Arg1:T9 Arg2:T27
+R3	Condition Arg1:T27 Arg2:E3
+R4	Target Arg1:E1 Arg2:T15
+R5	Target Arg1:E4 Arg2:T31
+R6	Target Arg1:E5 Arg2:T15
+R7	Target Arg1:E6 Arg2:T15
+R8	Condition Arg1:T24 Arg2:E2
+E1	Doping:T1 Dopant:T17 Site:T20
+E2	Doping:T5 Site:T23
+E3	Doping:T10 Site:T29 Dopant:T28
+E4	Doping:T11 Dopant:T30
+E5	Doping:T1 Dopant:T19 Site:T20
+E6	Doping:T1 Dopant:T18 Site:T20

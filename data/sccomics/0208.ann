@@ -1,0 +1,25 @@
+T1	SC 110 127	superconductivity
+T3	Material 174 184	perovskite
+T4	Material 185 194	materials
+T5	Material 270 279	materials
+T7	Property 349 367	superfluid density
+T9	SC 380 416	superconducting critical temperature
+T10	SC 417 420	T c
+T12	Material 454 463	materials
+T14	SC 496 499	T c
+T17	SC 648 668	critical temperature
+T18	SC 673 676	T c
+T20	Material 782 788	planes
+T22	Material 851 859	disorder
+T6	Property 613 628	DC conductivity
+T8	Property 537 552	Uemura relation
+T11	Doping 473 479	doping
+T13	Doping 443 453	underdoped
+T15	Doping 808 814	doping
+T2	Element 160 166	copper
+T16	Element 167 173	oxygen
+T19	Element 768 774	copper
+T21	Element 775 781	oxygen
+E1	Doping:T11
+E2	Doping:T13
+E3	Doping:T15

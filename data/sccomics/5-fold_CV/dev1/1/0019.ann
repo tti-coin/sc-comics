@@ -1,0 +1,52 @@
+T1	Material 0 10	Thin films
+T2	Process 71 81	sputtering
+T4	Characterization 214 252	Rutherford backscattering spectrometry
+T5	Characterization 254 257	RBS
+T9	Material 358 363	films
+T10	Characterization 406 409	RBS
+T11	Material 432 439	surface
+T12	Material 491 496	films
+T13	Material 580 590	thin films
+T14	Material 615 619	film
+T15	Characterization 637 643	X-rays
+T16	Material 672 676	film
+T17	Material 701 706	films
+T18	Characterization 774 802	BaL, YL, YKα and CuKα X-rays
+T19	Characterization 875 878	RBS
+T20	Process 1006 1016	deposition
+T21	SC 1095 1098	T c
+T22	Main 14 25	YBa2Cu3O7−x
+T24	Main 27 31	YBCO
+T25	Element 85 94	(100) MgO
+T26	Element 96 108	(100) SrTiO3
+T27	Element 113 132	(100) Zr(Y)O2 (YSZ)
+T28	Value 469 473	3.2%
+T29	Value 475 478	17%
+T30	Element 420 422	Ba
+T31	Value 483 486	18%
+T35	Value 1018 1029	50 × 50 mm2
+T36	Element 908 912	YBCO
+T37	Element 939 941	Ba
+T38	Element 943 944	Y
+T39	Element 949 951	Cu
+T43	Element 516 523	Zr(Y)O2
+T44	Element 505 511	SrTiO3
+T45	Element 500 503	MgO
+T50	SC 365 369	HTSC
+T51	Characterization 263 294	particle induced X-ray emission
+T6	Characterization 296 300	PIXE
+T52	Material 150 158	sapphire
+T53	Characterization 596 600	PIXE
+T54	Characterization 883 887	PIXE
+T3	Material 142 149	r-plane
+T56	Material 384 394	substrates
+T57	Material 524 534	substrates
+T58	Material 53 60	cathode
+T55	Material 843 854	〈100〉 axial
+T7	SC 333 357	high-T c superconducting
+T8	Value 749 751	12
+T23	Value 752 755	40%
+T32	Property 1104 1107	j c
+T33	Characterization 1108 1120	measurements
+R1	Coref Arg1:T22 Arg2:T24
+R2	Coref Arg1:T7 Arg2:T50

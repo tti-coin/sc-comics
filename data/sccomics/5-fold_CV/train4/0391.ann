@@ -1,0 +1,99 @@
+T1	Property 15 23	magnetic
+T2	Property 24 26	3d
+T4	Main 51 62	Eu8Ga16Ge30
+T5	Property 129 137	magnetic
+T7	Property 172 174	3d
+T8	Property 180 182	4f
+T9	Material 183 188	atoms
+T10	Element 216 218	Mn
+T11	Material 237 256	nominal composition
+T12	Element 260 274	Eu8Ga14Mn2Ge30
+T13	Process 295 308	melt spinning
+T15	Element 341 343	Mn
+T16	Material 353 360	lattice
+T17	Material 384 402	lattice parameters
+T18	Property 404 417	Magnetization
+T19	Element 462 464	Mn
+T20	Property 490 502	second-order
+T21	Property 503 516	ferromagnetic
+T22	Property 517 529	paramagnetic
+T23	Property 530 546	phase transition
+T24	Element 597 599	Mn
+T25	Element 605 616	Eu8Ga16Ge30
+T26	Property 618 621	T C
+T27	Property 637 645	critical
+T28	Property 662 665	T C
+T29	Property 686 694	critical
+T31	Property 774 782	magnetic
+T32	Element 837 839	Mn
+T33	Property 908 911	T C
+T34	Element 971 973	Mn
+T35	Element 979 990	Eu8Ga16Ge30
+T37	Element 1034 1036	Mn
+T38	Element 1041 1043	Ga
+T39	Property 1062 1064	4f
+T40	Property 1065 1067	3d
+T41	Property 1120 1133	magnetization
+T42	Element 1192 1194	Mn
+T43	Element 1201 1212	Eu8Ga16Ge30
+T44	Process 1266 1281	low temperature
+T45	Property 1282 1290	magnetic
+T47	Value 551 557	29.9 K
+T48	Value 574 577	5 K
+T49	Value 624 630	34.7 K
+T50	Value 889 900	6.80 J/kg K
+T51	Value 709 713	0.35
+T52	Value 733 737	3.43
+T53	Value 719 723	0.85
+T54	Value 934 937	3 T
+T55	Value 947 950	17%
+T56	Material 41 50	clathrate
+T58	Property 1157 1171	magnetocaloric
+T59	Material 88 97	clathrate
+T6	Property 161 168	moments
+T3	Doping 35 40	doped
+T14	Doping 219 224	doped
+T30	Doping 324 337	incorporation
+T36	Doping 465 470	doped
+T46	Doping 840 846	doping
+T57	Doping 1018 1030	substitution
+T60	Doping 1195 1200	doped
+R3	Target Arg1:E1 Arg2:T4
+R4	Target Arg1:E2 Arg2:T12
+R5	Target Arg1:E7 Arg2:T43
+E1	Doping:T3 
+E2	Doping:T14 Dopant:T10
+E3	Doping:T30 Dopant:T15
+E4	Doping:T36 Dopant:T19
+E5	Doping:T46 Dopant:T32
+E6	Doping:T57 Dopant:T37 Site:T38
+E7	Doping:T60 Dopant:T42
+#1	AnnotatorNotes T4	51-62
+#2	AnnotatorNotes T9	183-188
+#3	AnnotatorNotes T10	216-218
+#4	AnnotatorNotes T11	237-256
+#5	AnnotatorNotes T12	260-274
+#6	AnnotatorNotes T15	341-343
+#7	AnnotatorNotes T16	353-360
+#8	AnnotatorNotes T17	384-402
+#9	AnnotatorNotes T19	462-464
+#10	AnnotatorNotes T24	597-599
+#11	AnnotatorNotes T25	605-616
+#12	AnnotatorNotes T32	837-839
+#13	AnnotatorNotes T34	971-973
+#14	AnnotatorNotes T35	979-990
+#15	AnnotatorNotes T37	1034-1036
+#16	AnnotatorNotes T38	1041-1043
+#17	AnnotatorNotes T42	1192-1194
+#18	AnnotatorNotes T43	1201-1212
+#19	AnnotatorNotes T47	551-557
+#20	AnnotatorNotes T48	574-577
+#21	AnnotatorNotes T49	624-630
+#22	AnnotatorNotes T50	889-900
+#23	AnnotatorNotes T51	709-713
+#24	AnnotatorNotes T52	733-737
+#25	AnnotatorNotes T53	719-723
+#26	AnnotatorNotes T54	934-937
+#27	AnnotatorNotes T55	947-950
+#28	AnnotatorNotes T56	41-50
+#29	AnnotatorNotes T59	88-97

@@ -1,0 +1,31 @@
+T1	SC 60 74	superconductor
+T2	Process 75 90	crystallization
+T3	Material 164 174	morphology
+T4	Material 298 302	bulk
+T5	SC 303 335	high-temperature superconductors
+T6	Material 340 356	grain boundaries
+T7	Property 402 426	critical current density
+T8	Property 428 430	Jc
+T10	Element 503 519	barium zirconate
+T11	Element 521 527	BaZrO3
+T12	Main 587 599	YBa2Cu3O7− δ
+T13	Main 601 605	Y123
+T14	Property 650 652	Jc
+T15	Element 699 705	BaZrO3
+T17	Element 750 756	BaZrO3
+T18	Process 806 813	drawing
+T19	Material 837 843	fibers
+T21	Material 912 934	anisotropic structures
+T22	Property 951 953	Jc
+T23	Element 983 989	BaZrO3
+T24	Process 45 58	sol–gel route
+T25	Element 117 128	biopolymers
+T26	Material 564 582	synthetic protocol
+T27	Material 818 831	precursor sol
+T9	Doping 470 483	incorporation
+T16	Doping 706 715	additions
+R1	Coref Arg1:T12 Arg2:T13
+R2	Coref Arg1:T10 Arg2:T11
+R3	Target Arg1:E1 Arg2:T12
+E1	Doping:T9 Dopant:T10
+E2	Doping:T16 Dopant:T15

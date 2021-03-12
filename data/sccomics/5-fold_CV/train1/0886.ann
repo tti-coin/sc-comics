@@ -1,0 +1,36 @@
+T1	Property 34 42	electric
+T2	Process 453 460	cooling
+T3	SC 595 610	Superconductors
+T4	SC 622 637	superconducting
+T5	SC 655 675	critical temperature
+T6	SC 715 735	critical temperature
+T7	Property 751 759	recovery
+T8	Process 811 818	cooling
+T9	Material 903 908	fault
+T10	SC 920 923	HTS
+T11	SC 999 1002	HTS
+T12	Material 1003 1011	material
+T13	Process 1015 1019	SFCL
+T14	Material 1037 1041	bulk
+T15	Process 1042 1049	cooling
+T17	Property 1083 1091	recovery
+T19	Property 1149 1157	recovery
+T20	SC 1215 1218	HTS
+T21	Material 1219 1226	surface
+T22	SC 1374 1377	HTS
+T23	Property 1400 1408	magnetic
+T24	SC 1426 1440	superconductor
+T25	SC 1525 1528	HTS
+T26	Element 1544 1552	aluminum
+T27	Material 1592 1599	surface
+T28	Property 1632 1640	magnetic
+T29	Process 1653 1657	SFCL
+T31	Process 1774 1782	pressure
+T32	Property 1787 1793	stress
+T18	Process 1735 1739	SFCL
+T33	Process 335 338	FCL
+T34	Process 282 287	SFCLs
+T16	Property 1168 1192	temperature distribution
+T35	Property 263 278	circuit current
+T30	Doping 1701 1707	adding
+E1	Doping:T30 

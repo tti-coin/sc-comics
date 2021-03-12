@@ -1,0 +1,71 @@
+T1	Property 6 16	electrical
+T2	Main 67 86	conducting polymers
+T4	Material 98 107	molecular
+T5	Material 108 115	dopants
+T6	Element 124 134	fullerenes
+T8	Property 241 247	charge
+T9	Characterization 292 309	photoluminescence
+T10	Process 310 319	quenching
+T11	Process 372 381	quenching
+T13	Element 459 478	conducting polymers
+T14	Element 554 561	polymer
+T15	Characterization 582 599	Photoluminescence
+T16	Element 625 644	conducting polymers
+T18	Property 784 801	dark conductivity
+T19	Element 881 899	conducting polymer
+T20	Element 900 918	conducting polymer
+T21	Material 965 975	composites
+T22	Element 1077 1095	conducting polymer
+T23	Material 1100 1109	molecular
+T24	Material 1110 1117	dopants
+T25	SC 1155 1172	Superconductivity
+T29	Material 1232 1242	composites
+T31	Characterization 1318 1330	magnetometry
+T32	SC 1359 1374	superconducting
+T34	Element 1403 1421	conducting polymer
+T35	Element 563 572	fullerene
+T36	Element 443 452	fullerene
+T37	Property 227 240	photo-induced
+T39	Property 321 338	photoconductivity
+T40	Property 386 414	persistent photoconductivity
+T41	Property 487 502	photo-sensitive
+T38	Property 604 621	photoconductivity
+T42	Material 656 673	photochromic dyes
+T43	Property 708 721	photo-induced
+T45	Material 152 169	photochromic dyes
+T46	Characterization 352 371	electroluminescence
+T47	Material 722 735	isomerization
+T48	Material 739 756	photochromic dyes
+T49	Property 806 823	photoconductivity
+T50	Element 136 139	C60
+T51	Element 141 144	C70
+T30	Property 1270 1300	low-field microwave absorption
+T53	Property 1302 1306	LFMA
+T54	Property 761 775	memory effects
+T44	Characterization 1312 1317	SQUID
+T3	Doping 87 92	doped
+T12	Doping 453 458	doped
+T17	Doping 645 650	doped
+T27	Doping 1199 1205	doping
+T33	Doping 1397 1402	doped
+T7	Element 190 208	conducting polymer
+T26	Element 1186 1198	alkali metal
+T28	Element 1209 1231	C60-conducting polymer
+R1	Target Arg1:E8 Arg2:T2
+R2	Target Arg1:E9 Arg2:T2
+R3	Target Arg1:E6 Arg2:T2
+R4	Target Arg1:E7 Arg2:T2
+R5	Target Arg1:E1 Arg2:T2
+R6	Target Arg1:E2 Arg2:T13
+R7	Target Arg1:E3 Arg2:T16
+R8	Target Arg1:E4 Arg2:T28
+R9	Target Arg1:E5 Arg2:T34
+E1	Doping:T3 Dopant:T6
+E2	Doping:T12 Dopant:T36
+E3	Doping:T17 Dopant:T42
+E4	Doping:T27 Dopant:T26
+E5	Doping:T33
+E6	Doping:T3 Dopant:T51
+E7	Doping:T3 Dopant:T50
+E8	Doping:T3 Dopant:T7
+E9	Doping:T3 Dopant:T45

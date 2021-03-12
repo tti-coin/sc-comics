@@ -1,0 +1,36 @@
+T2	Material 27 36	structure
+T3	SC 41 58	superconductivity
+T4	Element 87 89	Cr
+T5	Element 93 95	Fe
+T6	Main 105 118	Ba2Ti2Fe2As4O
+T7	Element 126 130	Cr2+
+T8	Material 153 163	impurities
+T9	Property 168 172	hole
+T10	Material 173 180	dopants
+T11	Element 182 203	Ba2Ti2(Fe1-xCrx)2As4O
+T12	Process 248 268	solid-state reaction
+T13	Characterization 292 309	x-ray diffraction
+T15	Property 311 331	electric resistivity
+T17	Element 388 390	Cr
+T18	Material 391 398	dopants
+T19	Material 406 413	lattice
+T21	Material 434 454	structure distortion
+T22	SC 487 525	superconducting transition temperature
+T23	SC 526 529	T c
+T24	Property 552 572	residual resistivity
+T25	Element 606 608	Cr
+T27	SC 650 653	T c
+T28	Property 669 688	strongly correlated
+T29	Material 698 706	impurity
+T30	Property 729 738	electrons
+T33	Value 205 206	0
+T34	Value 213 215	8%
+T14	Property 769 808	Abrikosov-Gor'kov-like scaling function
+T1	Doping 75 86	introducing
+T20	Doping 609 615	doping
+T16	Property 336 349	magnetization
+T26	Characterization 350 362	measurements
+R1	Coref Arg1:T22 Arg2:T23
+R2	Target Arg1:E1 Arg2:T6
+E1	Doping:T1 Dopant:T4 Site:T5
+E2	Doping:T20 Dopant:T25

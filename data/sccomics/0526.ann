@@ -1,0 +1,30 @@
+T2	Property 104 113	frequency
+T3	SC 169 176	high-Tc
+T4	Property 177 186	frequency
+T6	Process 220 226	cooled
+T7	Property 312 320	spectrum
+T8	Property 496 505	frequency
+T9	Property 597 608	frequencies
+T10	Property 700 708	spectrum
+T12	Characterization 793 814	Fourier spectrometers
+T13	Material 897 903	liquid
+T14	Process 911 917	cooled
+T15	Element 918 925	silicon
+T19	Value 388 392	0.1%
+T21	Value 663 667	50ms
+T22	Element 904 910	helium
+T23	Property 2 27	Hilbert spectrum analyzer
+T1	Property 65 78	monochromatic
+T24	Property 79 96	radiation sources
+T5	Property 197 215	Josephson detector
+T25	Property 553 568	Schottky diodes
+T17	Characterization 445 470	Spectral characterization
+T26	Property 283 304	instrumental function
+T11	Doping 766 776	substitute
+T16	Value 125 130	30GHz
+T27	Value 134 139	1 THz
+T18	Value 246 248	60
+T28	Value 249 252	80K
+T20	Value 614 616	10
+T29	Value 620 625	20GHz
+E1	Doping:T11

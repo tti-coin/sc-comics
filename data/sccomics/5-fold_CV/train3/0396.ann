@@ -1,0 +1,33 @@
+T2	Property 16 24	magnetic
+T3	Property 29 39	dielectric
+T4	Element 70 93	Ba4Nd2Fe2-x Co x Nb8O30
+T5	Material 106 114	ceramics
+T6	Process 137 153	room-temperature
+T7	Property 154 167	ferromagnetic
+T8	Property 199 224	FM transition temperature
+T9	Property 225 227	Tc
+T11	Property 286 303	antiferromagnetic
+T12	Property 305 308	AFM
+T13	Element 336 351	Ba4Nd2Fe2Nb8O30
+T14	Property 402 414	spin canting
+T15	Property 422 425	AFM
+T16	Element 442 444	Fe
+T17	Element 455 457	Co
+T18	Property 560 573	ferroelectric
+T21	Property 612 634	dielectric relaxations
+T22	Property 699 722	relaxor-like relaxation
+T23	Property 864 873	electrons
+T24	Element 251 253	Co
+T25	Value 95 96	0
+T26	Value 103 104	1
+T30	Property 169 171	FM
+T32	Property 740 762	Vogel-Fulcher relation
+T33	Property 480 512	Dzyaloshinsky-Moriya interaction
+T34	Material 464 475	sublattices
+T35	Property 357 371	ferromagnetism
+T1	Property 800 813	Arrhenius Law
+T20	Material 4 14	structural
+T36	Material 54 69	tungsten bronze
+T10	Doping 254 259	doped
+R1	Target Arg1:E1 Arg2:T13
+E1	Doping:T10 Dopant:T24

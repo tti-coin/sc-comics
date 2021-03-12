@@ -1,0 +1,80 @@
+T1	Property 14 27	phase diagram
+T2	Process 107 123	room temperature
+T3	Process 125 141	Room-temperature
+T4	Characterization 142 147	X-ray
+T5	Material 169 181	orthorhombic
+T6	Material 239 254	orthorhombicity
+T7	Material 330 347	phase segregation
+T8	Property 409 426	antiferromagnetic
+T9	Process 447 458	temperature
+T10	Material 518 530	interstitial
+T11	Material 575 592	phase segregation
+T12	Material 598 615	phase segregation
+T13	Property 638 649	resistivity
+T14	Property 672 691	Seebeck coefficient
+T16	SC 801 804	T c
+T18	Property 992 996	hole
+T19	Property 997 1008	segregation
+T20	Property 1048 1055	domains
+T21	Property 1069 1075	mobile
+T22	Property 1076 1081	holes
+T23	Property 1120 1131	diamagnetic
+T24	SC 1171 1188	superconductivity
+T25	Property 1211 1225	magnetic field
+T26	Material 1248 1267	compositional range
+T28	Property 1346 1361	itinerant holes
+T29	Material 1390 1396	planes
+T30	Material 1485 1491	layers
+T31	Material 1511 1515	atom
+T32	Property 1536 1548	mobile holes
+T34	Material 1577 1583	planes
+T35	Property 1642 1653	resistivity
+T36	SC 1662 1665	T c
+T37	Process 1676 1687	temperature
+T38	SC 1697 1700	T c
+T39	Property 1773 1780	domains
+T40	Property 1796 1803	domains
+T41	Property 1877 1885	ordering
+T43	Value 1279 1283	0.09
+T44	Value 1268 1272	0.06
+T45	Property 1132 1149	AC susceptibility
+T47	Main 52 61	La2CuO4+δ
+T51	Value 71 75	0.09
+T52	Value 63 64	o
+T54	Value 228 233	0.055
+T57	Value 207 212	0.055
+T59	Value 468 472	220K
+T60	Value 736 739	220
+T61	Value 817 822	120 K
+T62	Value 834 838	0.02
+T63	Value 845 849	0.04
+T66	Element 877 892	La2−x Sr x CuO4
+T71	Element 1385 1389	CuO2
+T72	Element 1572 1576	CuO2
+T73	Element 1504 1510	oxygen
+T75	Element 531 537	oxygen
+T76	Material 1021 1041	atomic displacements
+T77	Value 1595 1600	64 mT
+T78	Value 1622 1626	0.09
+T84	Element 356 362	oxygen
+T85	Material 258 260	OI
+T86	Material 298 300	OM
+T87	Material 196 198	OI
+T88	Property 502 510	mobility
+T89	Element 397 403	oxygen
+T90	Element 1431 1437	oxygen
+T91	Element 1438 1444	oxygen
+T92	Element 1870 1876	oxygen
+T93	Material 217 219	OM
+T42	Value 1226 1239	below 0.01 mT
+T96	Process 86 103	electrochemically
+T97	SC 368 389	superconductive phase
+T15	Property 1289 1296	Seebeck
+T17	SC 1369 1384	superconductive
+T27	SC 1469 1484	superconductive
+T33	SC 1729 1750	superconductive pairs
+T98	SC 1816 1844	second superconductive phase
+T99	Property 1952 1979	pair-fluctuation phenomenon
+T49	Value 491 496	220 K
+T46	Value 1555 1562	2δ−0.12
+R1	Equivalent Arg1:T16 Arg2:T61

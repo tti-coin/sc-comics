@@ -1,0 +1,57 @@
+T1	SC 0 15	Superconducting
+T2	Material 36 41	films
+T3	Process 74 84	melt grown
+T4	Material 147 154	surface
+T5	Material 155 168	buffer layers
+T6	Material 242 247	layer
+T7	Process 257 266	sputtered
+T8	Material 276 280	film
+T9	Material 316 327	orientation
+T10	SC 332 347	superconducting
+T11	Material 384 389	films
+T13	Process 502 521	melting temperature
+T14	Process 610 619	annealing
+T15	Material 672 683	orientation
+T16	Material 708 720	buffer layer
+T17	SC 758 773	superconducting
+T18	Material 774 779	films
+T21	Main 16 35	(Bi, Pb)-Sr-Ca-Cu-O
+T23	Material 213 218	layer
+T24	Element 112 120	MgO(100)
+T25	Material 121 130	substrate
+T26	Material 100 108	crucible
+T30	Material 289 304	miscrostructure
+T32	Value 623 628	840°C
+T34	Value 543 552	3 minutes
+T36	Element 364 383	(Bi, Pb)-Sr-Ca-Cu-O
+T38	Value 592 599	150°C/h
+T41	Element 418 423	Bi2O3
+T42	Element 425 428	PbO
+T43	Element 436 439	CuO
+T44	Value 692 695	86%
+T47	Element 921 929	MgO(100)
+T48	Material 930 939	substrate
+T50	Value 866 870	10 K
+T55	Value 860 861	0
+T31	Value 845 856	5×105 A/cm2
+T33	Property 838 841	J c
+T35	Element 703 707	0223
+T37	Element 907 911	0223
+T12	Element 267 275	platinum
+T39	Material 408 414	fluxes
+T27	Value 525 528	900
+T29	Value 532 538	1050°C
+T40	Value 569 572	860
+T49	Value 573 578	820°C
+T51	Value 633 635	50
+T52	Value 636 640	100h
+T45	Value 804 809	105 K
+T19	SC 785 794	T c-onset
+T20	SC 814 822	T c-zero
+T46	Value 832 836	70 K
+T28	Element 222 234	Sr2Ca1Cu3O y
+T53	Element 236 240	0213
+T22	Element 193 205	Sr2Ca2Cu3O x
+T54	Element 207 211	0223
+R1	Equivalent Arg1:T19 Arg2:T45
+R2	Equivalent Arg1:T20 Arg2:T46

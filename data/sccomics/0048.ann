@@ -1,0 +1,50 @@
+T3	Material 39 44	films
+T4	Process 97 107	deposition
+T5	Material 180 193	buffer layers
+T6	Material 255 260	films
+T7	Process 313 323	deposition
+T8	Process 362 372	deposition
+T11	Material 464 469	films
+T12	Material 489 495	layers
+T13	Material 521 536	single crystals
+T15	Material 672 677	films
+T17	Material 774 780	layers
+T18	Process 825 847	substrate temperatures
+T19	Element 146 173	yttrium stabilized zirconia
+T20	Element 175 178	YSZ
+T21	Element 485 488	YSZ
+T22	Value 660 664	80 K
+T23	Element 681 685	ZrO2
+T24	Value 857 862	825°C
+T26	Value 724 728	70 K
+T27	Element 744 746	Si
+T28	Element 763 766	YSZ
+T30	Main 25 38	Bi-Sr-Ca-Cu-O
+T31	Element 111 120	MgO (100)
+T32	Element 122 132	ZrO2 (100)
+T35	Element 280 288	Si (100)
+T36	Element 293 301	Si (111)
+T37	Element 251 254	YSZ
+T38	Element 332 338	Nd-YAG
+T39	Element 499 501	Si
+T40	Material 502 512	substrates
+T41	Element 473 477	ZrO2
+T42	Element 517 520	MgO
+T43	Material 686 701	single cyrstals
+T44	Material 241 250	Epitaxial
+T46	Property 788 802	interdiffusion
+T47	Material 747 757	substrates
+T48	Element 624 634	2201 phase
+T49	Process 75 88	excimer laser
+T50	Element 197 204	silicon
+T51	Process 339 344	laser
+T1	SC 0 24	High-T c superconducting
+T2	SC 439 463	high-T c superconducting
+T9	Element 210 224	Bi2Sr2Ca2Cu3Oχ
+T10	Element 226 230	2223
+T25	Element 410 425	Bi2Sr2Ca1Cu2O x
+T29	Element 427 431	2212
+T14	SC 640 646	T c(0)
+T16	SC 717 723	T c(0)
+R1	Equivalent Arg1:T14 Arg2:T22
+R2	Equivalent Arg1:T16 Arg2:T26

@@ -1,0 +1,38 @@
+T1	Main 5 12	Cuprate
+T3	Property 79 85	d-wave
+T4	Material 258 263	layer
+T5	Element 272 278	Bi2201
+T6	Element 283 287	LSCO
+T8	SC 361 376	superconducting
+T9	Property 401 410	pseudogap
+T10	Property 448 453	pairs
+T11	Property 479 488	pseudogap
+T12	Property 594 601	ordered
+T13	Material 602 611	structure
+T14	Property 638 648	pseudogaps
+T15	Property 750 759	pseudogap
+T16	Property 811 816	pairs
+T17	Property 838 843	order
+T19	Material 886 891	layer
+T20	Property 917 927	pseudogaps
+T21	Material 947 952	layer
+T23	Property 981 986	pairs
+T24	SC 1001 1016	superconducting
+T25	SC 1023 1025	Tc
+T26	Property 1071 1076	order
+T27	Material 1103 1125	checkerboard structure
+T28	SC 48 54	CHTSCs
+T29	Property 86 89	gap
+T31	Property 377 380	gap
+T32	Value 384 393	(9±2) meV
+T33	Value 458 468	(15±3) meV
+T34	Value 490 500	(35±5) meV
+T18	Characterization 217 222	ARPES
+T35	Characterization 185 190	ARPES
+T36	Characterization 785 790	ARPES
+T37	SC 776 781	CHTSC
+T22	SC 953 958	CHTSC
+T30	Property 242 246	gaps
+T7	SC 14 46	High Temperature Superconductors
+T2	Doping 352 358	doping
+E1	Doping:T2

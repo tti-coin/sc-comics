@@ -1,0 +1,70 @@
+T1	Element 0 2	Sn
+T3	Main 9 17	FeSe0.93
+T4	Material 18 30	bulk samples
+T5	Process 48 68	solid-state reaction
+T7	Process 72 85	Ar atmosphere
+T8	Element 112 114	Sn
+T10	Material 143 158	crystal lattice
+T11	Element 195 199	SnSe
+T12	Material 235 245	impurities
+T13	Element 254 260	Fe7Se8
+T14	Element 262 267	Fe3O4
+T15	Element 272 276	SnSe
+T16	SC 295 312	superconductivity
+T17	Element 316 322	β-FeSe
+T18	SC 328 330	Tc
+T19	Element 338 340	Sn
+T21	Element 347 355	FeSe0.93
+T23	Material 456 461	metal
+T25	Element 468 472	FeSe
+T26	SC 473 488	superconductors
+T27	Element 525 527	Sn
+T29	Element 567 569	Se
+T30	Element 578 582	SnSe
+T31	Element 600 604	SnSe
+T32	Element 658 671	iron selenide
+T33	Characterization 673 676	XRD
+T34	Element 699 701	Sn
+T36	Process 732 738	growth
+T37	Element 742 748	β-FeSe
+T38	Material 749 755	grains
+T39	Material 769 774	(101)
+T40	Material 776 781	(112)
+T41	Material 782 796	crystal planes
+T43	Element 835 841	Fe7Se8
+T44	Element 845 851	β-FeSe
+T45	SC 857 872	superconducting
+T46	Material 880 890	Morphology
+T47	Material 933 939	grains
+T48	Element 991 993	Sn
+T50	SC 1073 1080	high Tc
+T52	Element 1093 1101	FeSe0.93
+T53	Element 1142 1144	Sn
+T54	SC 1189 1206	superconductivity
+T55	Element 1210 1219	FeSe1 − x
+T57	Process 1261 1270	sintering
+T58	Material 762 767	(001)
+T61	Element 1084 1086	Sn
+T62	Element 162 168	β-FeSe
+T28	Characterization 507 523	thermal analysis
+T51	Process 532 544	firstly melt
+T2	Doping 3 8	doped
+T6	Doping 341 346	doped
+T22	Doping 462 467	doped
+T24	Doping 702 710	addition
+T35	Doping 994 999	doped
+T42	Doping 1087 1092	doped
+T49	Doping 1237 1245	addition
+T9	Element 926 932	β-FeSe
+R1	Target Arg1:E1 Arg2:T3
+R2	Target Arg1:E2 Arg2:T21
+R3	Target Arg1:E4 Arg2:T25
+R4	Target Arg1:E5 Arg2:T37
+R5	Target Arg1:E7 Arg2:T52
+E1	Doping:T2 Dopant:T1
+E2	Doping:T6 Dopant:T19
+E4	Doping:T22 Dopant:T23
+E5	Doping:T24 Dopant:T34
+E6	Doping:T35 Dopant:T48
+E7	Doping:T42 Dopant:T61
+E8	Doping:T49 

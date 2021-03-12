@@ -1,0 +1,58 @@
+T1	Material 0 4	Bulk
+T2	SC 16 31	superconducting
+T3	Main 32 40	cuprates
+T4	Element 52 59	bismuth
+T5	Property 86 90	melt
+T6	Process 91 100	quenching
+T7	Process 115 124	quenching
+T8	Material 128 133	metal
+T9	Material 134 140	plates
+T10	Material 170 180	glass slab
+T11	Material 191 196	glass
+T14	Element 246 268	Bi2Sr2Ca n-1CunO2n+4+x
+T17	Material 317 332	glass specimens
+T18	Characterization 349 352	DTA
+T19	Characterization 353 355	TG
+T20	Material 366 373	Glasses
+T23	Property 464 466	Tg
+T24	Value 474 479	419°C
+T28	Property 605 612	kinetic
+T29	Property 645 662	activation energy
+T31	SC 695 716	Critical temperatures
+T33	Property 752 763	resistivity
+T34	Material 780 787	samples
+T36	Value 851 856	820°C
+T38	Value 895 900	110 K
+T39	Material 922 928	sample
+T41	Value 937 938	4
+T42	Process 939 947	annealed
+T44	Material 962 969	Samples
+T45	Characterization 1024 1041	X-ray diffraction
+T46	Element 1073 1081	cuprates
+T47	Element 1135 1137	Bi
+T48	Material 1138 1145	glasses
+T49	Process 1165 1180	crystallization
+T50	Element 1188 1196	Sr6Bi2O9
+T51	Element 1216 1228	Bi2Sr2CuO6+x
+T53	Element 1236 1254	Bi2(Sr, Ca)2CuO6+x
+T55	Value 1264 1269	600°C
+T56	Element 1274 1288	Bi2Sr2CaCuO8+x
+T58	Element 1333 1350	Bi2Sr2Ca2Cu3O10+x
+T60	SC 718 721	T e
+T37	SC 879 887	high-T c
+T13	Value 227 228	2
+T61	Value 229 230	4
+T16	Value 560 563	440
+T22	Value 564 569	490°C
+T27	Property 542 546	T x1
+T30	Value 675 678	400
+T62	Value 682 693	900 kJmol−1
+T32	Value 726 728	80
+T63	Value 729 733	90 K
+T43	Value 951 954	860
+T64	Value 955 960	870°C
+T25	Property 503 541	crystallization transition temperature
+T15	Property 435 463	glass transition temperature
+R1	Equivalent Arg1:T37 Arg2:T38
+R2	Equivalent Arg1:T31 Arg2:T32
+R3	Equivalent Arg1:T31 Arg2:T63

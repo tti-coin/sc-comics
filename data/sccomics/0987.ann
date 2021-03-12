@@ -1,0 +1,33 @@
+T1	Element 4 26	Si(111)-hex- 7 × 3 -In
+T2	SC 95 110	superconducting
+T3	Material 139 153	one-atom-layer
+T5	Material 154 164	metal film
+T7	Material 233 240	surface
+T8	Process 249 265	room temperature
+T9	Process 272 279	cooling
+T10	Process 283 299	low temperatures
+T11	Material 304 319	7 × 3 structure
+T13	SC 404 421	superconductivity
+T14	Material 460 476	atomic structure
+T15	Process 484 499	low-temperature
+T17	Material 500 514	one-atom-layer
+T18	Main 515 538	Si(111) 7 × 7 -In phase
+T19	Characterization 564 593	scanning tunneling microscopy
+T20	Characterization 595 598	STM
+T21	Characterization 601 632	low-energy electron diffraction
+T22	Characterization 634 638	LEED
+T25	Characterization 714 718	LEED
+T26	Material 770 777	surface
+T30	Material 820 825	7 × 7
+T31	Material 906 924	surface structures
+T33	Characterization 1021 1024	STM
+T12	Characterization 644 680	ab initio random structure searching
+T23	Characterization 682 687	AIRSS
+T4	Material 826 835	unit cell
+T6	Element 767 769	In
+T16	Element 844 853	1.14ML In
+T29	Characterization 856 861	AIRSS
+T24	Material 349 354	7 × 7
+T27	Doping 778 790	incorporates
+T28	Element 807 809	In
+E1	Doping:T27 Dopant:T28

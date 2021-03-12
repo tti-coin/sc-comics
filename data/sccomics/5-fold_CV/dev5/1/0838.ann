@@ -1,0 +1,42 @@
+T2	Property 65 77	normal state
+T3	Material 86 98	out-of-plane
+T5	SC 118 125	high-Tc
+T6	Main 126 134	cuprates
+T9	Material 227 235	in-plane
+T10	Material 240 252	out-of-plane
+T11	Property 253 266	resistivities
+T12	Property 288 300	hole content
+T13	Property 342 361	Fermi-liquid theory
+T15	Property 404 426	phenomenological model
+T16	Property 435 449	dc resistivity
+T18	Element 453 461	cuprates
+T20	Property 526 530	hole
+T22	Element 537 544	cuprate
+T23	Property 569 578	pseudogap
+T24	Property 586 606	quasiparticle energy
+T25	Property 607 615	spectrum
+T26	Property 638 649	resistivity
+T27	Process 653 670	high temperatures
+T28	Property 788 798	electronic
+T29	Property 799 812	phase diagram
+T30	Element 816 824	cuprates
+T31	Material 839 847	in-plane
+T32	Material 852 864	out-of-plane
+T33	Property 865 878	resistivities
+T34	Material 916 928	double-layer
+T36	Property 976 981	model
+T37	Property 988 1010	phenomenological model
+T38	Property 1045 1057	hole content
+T39	Property 1068 1079	resistivity
+T40	Property 1117 1129	hole content
+T41	Property 1213 1224	resistivity
+T42	Property 1417 1435	hole concentration
+T1	Element 929 937	Y(Ca)123
+T35	Property 182 208	Boltzmann transport theory
+T7	SC 545 560	superconductors
+T8	Property 99 114	charge dynamics
+T4	Property 753 772	quantum criticality
+T17	Property 11 22	anisotropic
+T14	Doping 531 536	doped
+R1	Target Arg1:E1 Arg2:T22
+E1	Doping:T14 Dopant:T20

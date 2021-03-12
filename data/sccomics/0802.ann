@@ -1,0 +1,89 @@
+T1	Main 12 16	MgB2
+T3	Element 54 60	carbon
+T4	Element 114 130	carbon nanotubes
+T5	Process 157 177	solid state reaction
+T7	Process 184 200	argon atmosphere
+T8	Characterization 202 205	XRD
+T9	Material 239 257	lattice parameters
+T10	Element 261 265	MgB2
+T12	Element 283 289	starch
+T13	Element 291 302	polystyrene
+T14	Element 304 306	PS
+T15	Element 312 317	MWCNT
+T17	Element 347 353	carbon
+T18	Element 357 362	boron
+T19	Element 396 402	carbon
+T20	Material 426 442	grain boundaries
+T21	Characterization 487 490	TEM
+T22	Property 504 515	Resistivity
+T23	SC 544 582	superconducting transition temperature
+T24	Element 594 598	MgB2
+T27	Element 617 619	PS
+T28	Element 620 625	MWCNT
+T29	Process 657 664	cooling
+T30	Element 769 773	MgB2
+T31	Element 778 782	MgB2
+T34	Element 801 803	PS
+T35	Element 804 809	MWCNT
+T36	Element 845 850	MWCNT
+T38	Element 862 868	starch
+T39	Element 873 875	PS
+T40	Element 879 883	MgB2
+T41	Element 956 960	MgB2
+T43	Element 978 980	PS
+T44	Process 1050 1057	cooling
+T45	Property 1211 1213	PM
+T46	Process 1455 1464	reduction
+T47	Property 1473 1481	magnetic
+T48	Material 1482 1486	flux
+T49	Property 1487 1494	density
+T26	Value 684 687	20K
+T33	Element 610 616	starch
+T51	Value 972 977	1wt.%
+T52	Property 1190 1193	gap
+T54	Property 736 752	attractive force
+T55	Property 1151 1167	attractive force
+T56	Property 1272 1288	attractive force
+T57	Property 982 998	Levitation force
+T58	Element 794 800	starch
+T59	Element 98 109	polystyrene
+T60	Element 90 96	starch
+T6	Material 386 395	nanosized
+T61	Property 1114 1130	levitation force
+T2	Doping 42 50	addition
+T11	Doping 271 279	addition
+T16	Doping 331 343	substitution
+T25	Doping 599 604	doped
+T32	Doping 783 788	doped
+T37	Doping 852 858	doping
+T42	Doping 961 966	doped
+T50	SC 584 588	T c0
+T53	Property 699 715	levitation force
+R2	Target Arg1:E1 Arg2:T1
+R3	Target Arg1:E2 Arg2:T10
+R4	Target Arg1:E3 Arg2:T10
+R5	Target Arg1:E4 Arg2:T10
+R6	Target Arg1:E5 Arg2:T10
+R7	Target Arg1:E6 Arg2:T24
+R8	Target Arg1:E7 Arg2:T24
+R9	Target Arg1:E8 Arg2:T24
+R10	Target Arg1:E9 Arg2:T31
+R11	Target Arg1:E10 Arg2:T31
+R12	Target Arg1:E11 Arg2:T31
+R13	Target Arg1:E12 Arg2:T40
+R14	Target Arg1:E13 Arg2:T40
+R15	Target Arg1:E14 Arg2:T41
+E1	Doping:T2 Dopant:T3
+E2	Doping:T11 Dopant:T13
+E3	Doping:T11 Dopant:T15
+E4	Doping:T11 Dopant:T12
+E5	Doping:T16 Dopant:T17 Site:T18
+E6	Doping:T25 Dopant:T28
+E7	Doping:T25 Dopant:T27
+E8	Doping:T25 Dopant:T33
+E9	Doping:T32 Dopant:T35
+E10	Doping:T32 Dopant:T34
+E11	Doping:T32 Dopant:T58
+E12	Doping:T37 Dopant:T39
+E13	Doping:T37 Dopant:T38
+E14	Doping:T42 Dopant:T43

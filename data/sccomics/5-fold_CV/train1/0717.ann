@@ -1,0 +1,43 @@
+T1	Material 0 18	Single-crystalline
+T2	Material 19 24	films
+T3	SC 28 43	superconducting
+T4	Main 44 61	Ba1− x K x Fe2As2
+T5	Main 66 83	Sr1− x K x Fe2As2
+T6	Process 89 94	grown
+T7	Element 137 139	As
+T8	Material 140 144	flux
+T9	Process 148 170	molecular beam epitaxy
+T11	SC 232 235	T c
+T12	Element 239 256	Ba1− x K x Fe2As2
+T13	Element 279 296	Sr1− x K x Fe2As2
+T14	SC 328 334	T c on
+T16	Element 394 411	Ba1− x K x Fe2As2
+T17	Element 445 462	Sr1− x K x Fe2As2
+T18	Element 476 477	K
+T19	SC 512 515	T c
+T24	Value 117 122	350°C
+T27	Value 366 371	38.3K
+T28	Value 373 378	35.5K
+T30	Value 386 389	0.3
+T31	Value 417 422	33.4K
+T32	Value 424 429	31.0K
+T34	Value 437 440	0.4
+T10	Doping 211 217	doping
+T45	Doping 478 484	doping
+T20	Value 304 307	0.0
+T21	Value 311 314	0.5
+T22	Value 264 267	0.0
+T23	Value 271 274	1.0
+T15	SC 337 344	T c end
+R1	Target Arg1:T27 Arg2:T16
+R2	Target Arg1:T28 Arg2:T16
+R3	Target Arg1:T31 Arg2:T17
+R4	Target Arg1:T32 Arg2:T17
+R5	Target Arg1:E1 Arg2:T12
+R6	Target Arg1:E1 Arg2:T13
+R7	Equivalent Arg1:T14 Arg2:T27
+R8	Equivalent Arg1:T15 Arg2:T28
+R9	Equivalent Arg1:T14 Arg2:T31
+R10	Equivalent Arg1:T15 Arg2:T32
+E1	Doping:T10 
+E2	Doping:T45 Dopant:T18

@@ -1,0 +1,93 @@
+T1	SC 0 17	Superconductivity
+T2	Element 50 52	Se
+T4	Element 65 78	Tl-1212 phase
+T5	Main 80 104	(Tl1− x Se x )Sr2CaCu2O7
+T6	Characterization 106 123	X-ray diffraction
+T7	Element 156 163	Tl-1212
+T8	Element 231 244	Tl-1212 phase
+T9	Property 291 312	electrical resistance
+T11	Property 401 418	AC susceptibility
+T12	SC 465 503	superconducting transition temperature
+T13	Property 585 599	susceptibility
+T14	Material 662 673	inter-grain
+T15	Property 674 698	critical current density
+T16	Property 724 727	J c
+T18	Element 816 818	Bi
+T19	Element 820 822	Pb
+T20	Element 824 826	Cr
+T21	Element 828 829	V
+T22	Element 831 833	Re
+T23	Element 838 857	rare-earth elements
+T24	Element 859 861	Se
+T26	Element 879 881	Tl
+T27	SC 918 933	superconducting
+T28	Material 934 942	material
+T29	Element 950 970	TlSr2CaCu2O7−δ phase
+T32	Value 761 777	17 and 19 A cm−2
+T33	Value 24 28	76 K
+T36	Value 246 249	88%
+T38	Value 275 278	0.1
+T39	Value 374 378	76 K
+T41	Value 388 391	0.2
+T42	Value 396 399	0.4
+T43	SC 504 509	T cχ′
+T44	Value 512 516	71 K
+T46	Value 525 528	0.4
+T47	Property 212 227	volume fraction
+T49	Value 633 636	0.4
+T50	Value 651 655	69 K
+T10	Characterization 313 324	measurement
+T30	SC 363 372	T c−onset
+T31	Characterization 433 445	measurements
+T3	Doping 53 64	substituted
+T17	Doping 862 874	substitution
+R1	Equivalent Arg1:T43 Arg2:T44
+R2	Coref Arg1:T12 Arg2:T43
+R3	Target Arg1:T33 Arg2:T4
+R4	Equivalent Arg1:T30 Arg2:T39
+R5	Target Arg1:E1 Arg2:T4
+R6	Target Arg1:E2 Arg2:T29
+R7	Target Arg1:E3 Arg2:T29
+R8	Target Arg1:E4 Arg2:T29
+R9	Target Arg1:E5 Arg2:T29
+R10	Target Arg1:E6 Arg2:T29
+R11	Target Arg1:E7 Arg2:T29
+R12	Target Arg1:E8 Arg2:T29
+R13	Equivalent Arg1:T1 Arg2:T33
+R14	Condition Arg1:T33 Arg2:E1
+R15	Target Arg1:T33 Arg2:T5
+E1	Doping:T3 Dopant:T2
+E2	Doping:T17 Dopant:T24 Site:T26
+E3	Doping:T17 Dopant:T23 Site:T26
+E4	Doping:T17 Dopant:T22 Site:T26
+E5	Doping:T17 Dopant:T21 Site:T26
+E6	Doping:T17 Dopant:T20 Site:T26
+E7	Doping:T17 Dopant:T19 Site:T26
+E8	Doping:T17 Dopant:T18 Site:T26
+#1	AnnotatorNotes T2	50-52
+#2	AnnotatorNotes T4	65-78
+#3	AnnotatorNotes T5	80-104
+#4	AnnotatorNotes T7	156-163
+#5	AnnotatorNotes T8	231-244
+#6	AnnotatorNotes T14	662-673
+#7	AnnotatorNotes T18	816-818
+#8	AnnotatorNotes T19	820-822
+#9	AnnotatorNotes T20	824-826
+#10	AnnotatorNotes T21	828-829
+#11	AnnotatorNotes T22	831-833
+#12	AnnotatorNotes T23	838-857
+#13	AnnotatorNotes T24	859-861
+#14	AnnotatorNotes T26	879-881
+#15	AnnotatorNotes T28	934-942
+#16	AnnotatorNotes T29	950-970
+#17	AnnotatorNotes T32	761-777
+#18	AnnotatorNotes T33	24-28
+#19	AnnotatorNotes T36	246-249
+#20	AnnotatorNotes T38	275-278
+#21	AnnotatorNotes T39	374-378
+#22	AnnotatorNotes T41	388-391
+#23	AnnotatorNotes T42	396-399
+#24	AnnotatorNotes T44	512-516
+#25	AnnotatorNotes T46	525-528
+#26	AnnotatorNotes T49	633-636
+#27	AnnotatorNotes T50	651-655

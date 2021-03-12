@@ -1,0 +1,56 @@
+T1	Main 66 82	PrFe1−x Co x AsO
+T2	Process 147 167	solid state reaction
+T3	Process 182 202	vacuum encapsulation
+T4	Material 215 223	pristine
+T5	Element 233 240	PrFeAsO
+T7	SC 255 272	superconductivity
+T8	Property 296 304	metallic
+T9	Property 333 350	spin density wave
+T10	Property 352 355	SDW
+T11	Property 357 365	ordering
+T12	Element 369 371	Fe
+T13	Property 372 379	moments
+T14	Property 449 457	ordering
+T15	Element 461 463	Pr
+T16	Property 464 471	moments
+T19	Element 552 554	Co
+T21	Element 571 573	Fe
+T22	SC 580 597	Superconductivity
+T23	SC 660 663	T c
+T24	Property 714 722	metallic
+T27	Property 795 806	resistivity
+T29	SC 942 957	superconducting
+T30	Material 958 973	polycrystalline
+T31	Element 974 976	Co
+T33	Element 983 990	PrFeAsO
+T34	Property 1026 1047	upper critical fields
+T36	Value 888 892	0.02
+T41	Value 701 705	0.25
+T35	Value 1067 1070	60T
+T48	Value 667 673	11.12K
+T50	Value 680 684	0.15
+T56	Value 482 485	12K
+T28	Property 898 915	magneto transport
+T20	Doping 555 567	substitution
+T32	Doping 977 982	doped
+T37	Value 86 89	0.0
+T38	Value 90 93	1.0
+T40	Value 394 398	150K
+T47	Value 634 638	0.07
+T53	Value 642 646	0.25
+T43	Value 743 747	300K
+T44	Value 756 758	2K
+T57	Property 473 477	PrTN
+T51	Property 381 386	FeSDW
+T17	Property 496 501	FeSDW
+T18	Property 506 510	PrTN
+T6	Property 772 777	FeSDW
+T25	Property 781 785	PrTN
+T26	Property 824 829	FeSDW
+T52	Property 859 863	PrTN
+T54	Characterization 916 928	measurements
+T45	Value 935 938	14T
+R1	Equivalent Arg1:T23 Arg2:T48
+R2	Target Arg1:E2 Arg2:T33
+E1	Doping:T20 Dopant:T19 Site:T21
+E2	Doping:T32 Dopant:T31

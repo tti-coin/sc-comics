@@ -1,0 +1,56 @@
+T1	Element 23 25	Ag
+T3	Property 42 59	magnetoresistance
+T4	Main 85 89	YBCO
+T5	SC 108 135	zero resistance temperature
+T7	Element 184 186	Ag
+T8	Property 190 204	magnetic field
+T9	Property 242 253	resistivity
+T10	Material 268 278	composites
+T11	Property 285 299	magnetic field
+T14	Property 368 376	vortices
+T15	Property 382 399	activation energy
+T16	Property 435 446	resistivity
+T18	Element 479 481	Ag
+T19	Element 485 489	YBCO
+T20	Element 518 520	Ag
+T21	Property 536 542	vortex
+T24	Element 589 593	YBCO
+T25	Element 594 596	Ag
+T26	Material 597 607	composites
+T27	Material 623 631	pristine
+T28	Element 632 636	YBCO
+T29	Property 659 679	upper critical field
+T31	Property 707 746	Werthamer, Helfand and Hohenberg theory
+T32	Property 751 773	Ginzburg Landau theory
+T34	Element 811 813	Ag
+T35	Element 817 821	YBCO
+T36	Material 822 828	matrix
+T38	Element 859 861	Ag
+T39	Element 865 869	YBCO
+T40	Property 897 914	activation energy
+T43	Material 962 967	grain
+T44	SC 137 140	TC0
+T46	Property 309 327	Arrhenius behavior
+T47	Value 515 518	15%
+T30	Property 417 431	Arrhenius plot
+T13	Property 543 571	glass transition temperature
+T12	Property 335 364	thermally activated flux flow
+T2	Doping 26 34	addition
+T6	Doping 172 180	addition
+T17	Doping 467 475	addition
+T22	Doping 804 810	adding
+T23	Doping 847 855	addition
+T33	Property 206 207	H
+T37	Value 227 228	0
+T41	Value 232 236	13 T
+T42	Property 680 687	H c2(0)
+T45	Property 932 939	H c2(0)
+R2	Target Arg1:E1 Arg2:T4
+R3	Target Arg1:E3 Arg2:T19
+R4	Target Arg1:E4 Arg2:T35
+R5	Target Arg1:E5 Arg2:T39
+E1	Doping:T2 Dopant:T1
+E2	Doping:T6 Dopant:T7
+E3	Doping:T17 Dopant:T18
+E4	Doping:T22 Dopant:T34
+E5	Doping:T23 Dopant:T38

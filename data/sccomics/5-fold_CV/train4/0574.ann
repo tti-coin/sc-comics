@@ -1,0 +1,31 @@
+T1	Main 35 39	MgB2
+T2	SC 43 46	HTS
+T4	Element 250 263	para-hydrogen
+T5	Element 273 281	Hydrogen
+T6	Material 331 337	liquid
+T7	Process 354 369	low temperature
+T8	Element 399 407	hydrogen
+T9	Property 427 436	cryogenic
+T11	Property 461 474	specific heat
+T12	Material 482 488	liquid
+T13	Property 520 529	cryogenic
+T14	Element 537 545	Hydrogen
+T15	Process 683 690	cooling
+T16	Element 704 710	helium
+T17	Element 715 723	hydrogen
+T20	Property 203 215	triple-point
+T21	Value 217 222	13.8K
+T22	Value 265 270	32.3K
+T23	Material 347 350	gas
+T24	Property 296 309	heat transfer
+T10	Material 497 500	gas
+T26	Property 641 654	refrigeration
+T27	Value 694 697	20K
+T28	Process 743 763	passive cooling loop
+T3	Property 232 246	critical point
+T18	Process 63 84	operating temperature
+T29	Property 375 395	heat of vaporization
+T19	Value 154 156	15
+T30	Value 160 163	30K
+T25	Value 613 615	15
+T31	Value 620 623	30K

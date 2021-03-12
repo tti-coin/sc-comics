@@ -1,0 +1,41 @@
+T1	Property 4 17	magnetization
+T2	Property 19 41	electronic resistivity
+T4	Characterization 43 51	infrared
+T5	Characterization 75 91	Raman scattering
+T6	Main 130 155	La2−x Sr x Cu0.94Ti0.06O4
+T7	SC 197 214	superconductivity
+T8	Element 256 258	Ti
+T10	Element 276 278	Cu
+T11	SC 300 317	superconductivity
+T12	Element 321 346	La2−x Sr x Cu0.94Ti0.06O4
+T13	Property 399 412	phase diagram
+T14	SC 416 433	superconductivity
+T15	Element 438 463	La2−x Sr x Cu0.94Ti0.06O4
+T16	Property 490 503	phase diagram
+T18	Property 553 566	phase diagram
+T19	Element 570 585	La2−x Sr x CuO4
+T20	Property 654 669	charge carriers
+T21	Property 693 702	electrons
+T23	Element 728 730	Ti
+T24	Property 750 755	holes
+T25	Element 775 777	Sr
+T27	Characterization 823 839	Raman scattering
+T30	Characterization 816 818	IR
+T32	Value 386 390	0.15
+T39	Characterization 53 55	IR
+T40	Value 244 248	0.15
+T41	Value 253 255	6%
+T42	Value 158 162	0.15
+T43	Value 169 173	0.39
+T47	Characterization 92 104	measurements
+T9	Doping 259 271	substitution
+T22	Doping 718 724	doping
+T26	Doping 756 766	introduced
+T48	Doping 778 784	doping
+T17	Doping 522 527	doped
+R1	Target Arg1:E1 Arg2:T6
+E1	Doping:T9 Dopant:T8 Site:T10
+E3	Doping:T22 Dopant:T23
+E4	Doping:T26 Dopant:T24
+E5	Doping:T48 Dopant:T25
+E2	Doping:T17 

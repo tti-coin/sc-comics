@@ -1,0 +1,42 @@
+T1	SC 12 27	superconducting
+T2	Process 51 58	growing
+T3	Main 59 63	MgB2
+T4	Material 64 68	film
+T5	Element 102 105	SiC
+T6	Material 106 119	buffer layers
+T7	Element 130 133	SiC
+T8	Material 134 146	buffer layer
+T9	Material 160 169	thickness
+T10	SC 175 213	superconducting transition temperature
+T11	SC 215 218	T c
+T12	Element 224 228	MgB2
+T13	SC 291 294	T c
+T14	Material 368 377	structure
+T15	Element 381 385	MgB2
+T16	Characterization 392 397	EXAFS
+T17	Property 412 420	ordering
+T20	Material 434 439	bonds
+T21	Material 478 489	thicknesses
+T22	Element 493 496	SiC
+T23	Material 497 510	buffer layers
+T24	Material 575 587	bond lengths
+T26	Material 596 600	bond
+T29	Material 612 624	bond lengths
+T30	Element 644 647	SiC
+T32	Material 657 666	thickness
+T33	Element 698 701	SiC
+T36	Material 715 727	bond lengths
+T37	Element 792 795	SiC
+T38	Material 796 809	buffer layers
+T39	Material 848 857	structure
+T40	Element 861 865	MgB2
+T41	SC 907 922	superconducting
+T42	Element 937 941	MgB2
+T43	Material 72 81	Hastelloy
+T31	Doping 648 652	adds
+T18	Element 428 433	Mg–Mg
+T19	Element 591 595	Mg–B
+T25	Element 709 714	Mg–Mg
+T27	Element 606 611	Mg–Mg
+R1	Coref Arg1:T10 Arg2:T11
+E1	Doping:T31 

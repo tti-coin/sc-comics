@@ -1,0 +1,46 @@
+T1	Element 24 31	glucose
+T3	Material 56 66	structural
+T4	Main 101 105	MgB2
+T5	SC 106 120	superconductor
+T6	Process 162 174	ball milling
+T7	Material 196 200	bulk
+T8	Material 201 216	polycrystalline
+T9	Element 217 235	Mg (B1 – x C x ) 2
+T11	Characterization 331 348	X-ray diffraction
+T14	Material 393 407	microstructure
+T15	Element 423 429	carbon
+T17	Process 441 450	reduction
+T21	Material 555 576	structural distortion
+T22	Element 584 588	MgB2
+T23	Material 589 596	lattice
+T24	Property 623 642	impurity scattering
+T26	Property 666 686	upper critical field
+T27	Property 691 701	high-field
+T28	Property 702 728	critical current densities
+T29	Property 773 786	pinning force
+T30	Property 791 800	low-field
+T31	Property 801 825	critical current density
+T32	Property 845 855	high field
+T33	Property 872 881	low field
+T34	Property 917 936	impurity scattering
+T35	Property 953 966	pinning force
+T36	Element 33 40	C6H12O6
+T40	Value 278 279	0
+T42	Process 135 145	dry mixing
+T43	Value 291 298	6 at. %
+T44	Value 281 282	2
+T45	Value 284 285	4
+T25	Property 71 86	electromagnetic
+T2	Doping 42 48	doping
+T10	Doping 259 265	doping
+T12	Doping 430 435	doped
+T13	SC 454 485	critical transition temperature
+T16	Material 503 512	a-lattice
+T18	Property 350 358	magnetic
+T19	Property 363 374	resistivity
+T20	Characterization 375 387	measurements
+R2	Target Arg1:E1 Arg2:T4
+R3	Target Arg1:E2 Arg2:T9
+E1	Doping:T2 Dopant:T36
+E2	Doping:T10
+E3	Doping:T12 Dopant:T15

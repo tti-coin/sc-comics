@@ -1,0 +1,67 @@
+T1	Process 0 8	Sintered
+T2	Property 104 126	electrical-resistivity
+T3	Characterization 141 146	X-ray
+T4	Characterization 151 170	neutron diffraction
+T9	Property 465 471	charge
+T12	Property 592 604	calculations
+T13	SC 618 621	T c
+T15	Property 714 730	charge transfers
+T16	Property 764 772	magnetic
+T17	Property 773 786	pair breaking
+T18	Property 822 834	calculations
+T20	Property 914 926	hole density
+T21	Material 934 940	planes
+T23	SC 977 980	T c
+T24	Material 1008 1013	plane
+T37	Value 67 72	0.050
+T38	Value 78 82	0.10
+T40	Value 377 383	206 K.
+T43	Element 490 496	Nd-123
+T46	Element 634 637	123
+T47	Element 874 879	Y-123
+T48	Element 884 886	Pr
+T49	Element 893 898	Y-123
+T50	Value 942 943	0
+T51	Element 1003 1007	CuO2
+T52	Element 1037 1039	Pr
+T53	Value 1052 1054	+4
+T54	Element 1116 1118	Pr
+T55	Value 1154 1157	+3.
+T33	Main 20 47	Nd1−2x Ca x Pr x Ba2Cu3O7−δ
+T27	Element 625 627	Pr
+T30	Element 857 863	oxygen
+T45	Material 502 515	c-axis length
+T57	Material 520 531	cell volume
+T58	Material 674 695	interatomic distances
+T59	Property 210 213	BVS
+T60	Property 588 591	BVS
+T41	Material 864 873	deficient
+T7	SC 300 319	superconducting T c
+T6	Doping 216 222	Doping
+T8	Doping 480 486	doping
+T10	Doping 546 552	doping
+T11	Doping 628 633	doped
+T14	Doping 887 892	doped
+T19	Doping 1062 1069	dopings
+T22	Doping 1137 1143	doping
+T25	Value 57 58	0
+T26	Value 60 65	0.025
+T28	Element 243 245	Ca
+T29	Element 246 248	Pr
+T31	Element 454 456	Ca
+T32	Element 457 459	Pr
+T34	Element 561 567	Cu2O4
+T5	Property 191 208	bond-valence sums
+R1	Target Arg1:E2 Arg2:T43
+R2	Target Arg1:E4 Arg2:T46
+R3	Target Arg1:E5 Arg2:T49
+R4	Target Arg1:E9 Arg2:T43
+E1	Doping:T6 Dopant:T28
+E2	Doping:T8 Dopant:T31
+E3	Doping:T10
+E4	Doping:T11 Dopant:T27
+E5	Doping:T14 Dopant:T48
+E6	Doping:T19 Dopant:T52
+E7	Doping:T22 Dopant:T54
+E8	Doping:T6 Dopant:T29
+E9	Doping:T8 Dopant:T32

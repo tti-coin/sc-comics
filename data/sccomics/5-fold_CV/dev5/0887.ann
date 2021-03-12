@@ -1,0 +1,115 @@
+T1	Process 13 20	welding
+T2	Process 50 54	join
+T3	Material 59 63	bulk
+T4	Element 64 68	YBCO
+T5	SC 69 84	superconductors
+T6	Process 92 100	sintered
+T7	SC 101 115	superconductor
+T9	Material 151 155	bulk
+T10	Element 156 160	YBCO
+T11	SC 161 175	superconductor
+T12	Property 190 194	melt
+T13	Material 195 201	powder
+T14	Property 202 206	melt
+T15	Process 207 213	growth
+T16	Process 244 250	solder
+T17	Material 251 259	material
+T18	Material 313 317	bulk
+T19	SC 318 333	superconducting
+T20	Process 352 358	welded
+T21	Element 421 425	Y211
+T22	Element 441 445	Y211
+T24	Main 452 456	YBCO
+T25	Property 506 510	melt
+T26	Process 511 517	growth
+T27	Element 544 549	Nd123
+T28	Element 589 593	Y211
+T30	Process 607 614	welding
+T31	Process 670 676	welded
+T32	Process 694 702	pressure
+T33	Process 798 805	welding
+T34	Element 831 835	Y211
+T36	Element 918 922	Y211
+T38	Element 933 937	Ag2O
+T40	Process 944 951	welding
+T41	Property 976 981	order
+T42	Process 993 1000	welding
+T43	Process 1013 1019	welded
+T44	Material 1067 1082	micro structure
+T45	Process 1153 1160	welding
+T46	Process 1180 1186	welded
+T47	Element 1187 1191	Y123
+T48	Characterization 1210 1213	SEM
+T50	Process 1278 1284	solder
+T51	Material 1285 1293	material
+T52	Material 1367 1374	defects
+T53	Process 1380 1387	welding
+T54	SC 1433 1436	T c
+T55	Property 1463 1477	magnetic field
+T56	SC 1485 1517	superconducting transition width
+T57	Element 1565 1569	Y211
+T59	Element 1584 1590	Y30-ab
+T60	Element 1640 1644	Y211
+T62	Element 1659 1665	Y20-ab
+T63	Property 1681 1695	magnetic field
+T64	Element 1712 1718	Y30-ab
+T65	Element 1767 1773	Y20-ab
+T71	Process 1864 1871	welding
+T72	Process 1889 1895	welded
+T73	SC 1937 1952	superconducting
+T74	Property 1967 1969	Jc
+T75	Process 1996 2002	welded
+T76	Process 2003 2009	joined
+T77	Material 2010 2014	bulk
+T78	SC 2015 2029	superconductor
+T79	SC 2091 2106	superconducting
+T80	Material 2107 2116	materials
+T81	Property 2131 2139	magnetic
+T8	Element 140 144	Ag2O
+T83	Process 223 227	MPMG
+T84	Value 414 420	20 wt%
+T85	Value 434 440	30 wt%
+T87	Process 519 523	TSMG
+T88	Property 750 766	levitation force
+T89	Characterization 767 778	measurement
+T90	Value 824 830	30 wt%
+T91	Property 878 894	repulsive forces
+T92	Value 911 917	20 wt%
+T49	Material 1236 1252	structural phase
+T93	Property 1351 1363	boundary gap
+T94	SC 1519 1523	∆T c
+T95	Value 1558 1564	30 wt%
+T96	Value 1633 1639	20 wt%
+T66	Value 1816 1822	30 wt%
+T69	Property 1087 1102	electromagnetic
+T68	Element 1823 1826	211
+T97	Material 2120 2130	real scale
+T23	Doping 446 451	added
+T29	Doping 594 602	addition
+T35	Doping 836 841	added
+T37	Doping 923 928	added
+T39	Doping 938 943	added
+T58	Doping 1570 1575	added
+T61	Doping 1645 1650	added
+T67	Doping 1793 1801	addition
+T70	Element 1789 1792	211
+T98	Doping 1827 1835	addition
+T99	Doping 145 150	added
+R1	Coref Arg1:T56 Arg2:T94
+R2	Target Arg1:E1 Arg2:T24
+R3	Target Arg1:E2 Arg2:T24
+R4	Target Arg1:E7 Arg2:T59
+R5	Target Arg1:E8 Arg2:T62
+R6	Target Arg1:E11 Arg2:T10
+R7	Target Arg1:E9 Arg2:T64
+E1	Doping:T23 Dopant:T22
+E2	Doping:T23 Dopant:T21
+E3	Doping:T29 Dopant:T28
+E4	Doping:T35 Dopant:T34
+E5	Doping:T37 Dopant:T36
+E6	Doping:T39 Dopant:T38
+E7	Doping:T58 Dopant:T57
+E8	Doping:T61 Dopant:T60
+E9	Doping:T67 Dopant:T70
+E10	Doping:T98 Dopant:T68
+E11	Doping:T99 Dopant:T8

@@ -1,0 +1,30 @@
+T1	Material 23 40	layered structure
+T3	Main 47 70	rare earths hypocarbide
+T4	Main 71 74	Y2C
+T5	Property 101 117	first-principles
+T6	Property 118 130	calculations
+T9	Material 186 204	lattice parameters
+T10	Property 259 270	energy band
+T11	Property 278 295	density of states
+T12	Element 299 302	Y2C
+T13	Property 319 336	density of states
+T14	Element 341 342	Y
+T15	Element 347 348	C
+T16	Material 349 354	atoms
+T17	Element 374 377	Y2C
+T18	Element 454 455	Y
+T19	Element 463 464	N
+T20	Property 486 497	Fermi level
+T21	Property 515 529	thermodynamics
+T22	Element 596 599	Y2C
+T24	Property 687 711	electron-phonon coupling
+T25	SC 736 774	superconducting transition temperature
+T26	SC 775 778	T C
+T28	Value 726 730	0.33
+T29	Value 782 788	0.33 K
+T30	Value 796 799	0.1
+T31	Property 456 458	4d
+T32	Property 465 467	2p
+T23	Property 155 180	density functional theory
+T2	Property 654 661	brittle
+R1	Equivalent Arg1:T26 Arg2:T29

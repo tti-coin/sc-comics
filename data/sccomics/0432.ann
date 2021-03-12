@@ -1,0 +1,60 @@
+T1	Element 4 21	iron-chalcogenide
+T2	SC 22 37	superconductors
+T3	Main 38 62	Li x (C5H5N) y Fe2−z Se2
+T4	Main 67 81	Cs x Fe2–z Se2
+T5	Process 105 113	annealed
+T8	Property 254 266	non-magnetic
+T9	Element 284 288	iron
+T10	Element 316 318	Fe
+T11	Element 319 321	Se
+T12	Material 322 328	sheets
+T13	SC 345 362	superconductivity
+T14	Property 402 409	ordered
+T15	Process 418 434	room temperature
+T16	Property 450 470	magnetically ordered
+T17	Element 471 475	iron
+T18	Element 479 481	Fe
+T19	Element 482 484	Se
+T20	Material 485 491	sheets
+T21	Element 521 525	iron
+T22	Material 526 535	vacancies
+T23	Element 563 567	iron
+T24	Material 586 592	sheets
+T25	Property 621 628	ordered
+T26	Property 634 638	spin
+T27	Material 639 653	trivalent ions
+T28	Material 660 668	clusters
+T29	Material 672 682	above ions
+T30	Element 703 711	pyridine
+T32	Element 768 776	Pyridine
+T34	SC 813 830	superconductivity
+T35	Element 863 869	cesium
+T38	SC 933 950	superconductivity
+T39	SC 952 967	Superconductors
+T40	SC 973 996	transition temperatures
+T41	Process 1048 1057	annealing
+T42	Process 1059 1068	Annealing
+T43	Property 1086 1094	ordering
+T44	Element 1102 1106	iron
+T45	Material 1107 1116	vacancies
+T46	Element 1124 1126	Fe
+T47	Element 1127 1129	Se
+T48	Material 1130 1136	sheets
+T49	Material 1144 1152	clusters
+T50	Process 1161 1165	grow
+T51	Element 1173 1181	pyridine
+T54	Characterization 159 181	Mössbauer spectroscopy
+T58	Value 1003 1006	40K
+T59	Value 1011 1014	25K
+T63	Element 749 753	α-Fe
+T6	Element 1156 1160	α-Fe
+T7	Doping 712 724	intercalated
+T31	Doping 777 789	intercalated
+T33	Doping 870 882	intercalated
+T36	Doping 1182 1194	intercalated
+R1	Equivalent Arg1:T40 Arg2:T58
+R2	Equivalent Arg1:T40 Arg2:T59
+E1	Doping:T7 Dopant:T30
+E2	Doping:T31 Dopant:T32
+E3	Doping:T33 Dopant:T35
+E4	Doping:T36 Dopant:T51

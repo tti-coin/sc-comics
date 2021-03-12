@@ -1,0 +1,28 @@
+T2	Element 42 44	Pd
+T3	Element 48 50	Cu
+T4	Property 58 78	upper critical field
+T5	SC 105 119	superconductor
+T6	Main 120 135	Li2Pd3−x Cu x B
+T7	Property 166 186	upper critical field
+T9	Property 271 286	magnetic fields
+T10	SC 306 344	superconducting transition temperature
+T11	Element 362 364	Cu
+T12	Property 398 420	temperature dependence
+T13	Property 428 448	upper critical field
+T14	Process 507 522	low temperature
+T15	Property 572 605	Werthamer-Helfan-Hohenberg theory
+T16	Property 643 655	Cooper pairs
+T17	Property 659 669	spin orbit
+T18	Property 733 753	upper critical field
+T19	Property 788 812	electron-phonon coupling
+T20	Material 817 825	disorder
+T21	Value 144 147	0.0
+T22	Value 149 152	0.1
+T23	Value 157 160	0.2
+T27	Property 685 704	Pauli paramagnetism
+T28	Property 192 215	function of temperature
+T1	Doping 26 38	substitution
+T8	Property 234 244	resistance
+T24	Characterization 245 257	measurements
+R1	Target Arg1:E1 Arg2:T6
+E1	Doping:T1 Site:T2 Dopant:T3

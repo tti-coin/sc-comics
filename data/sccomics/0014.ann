@@ -1,0 +1,60 @@
+T1	SC 54 85	high temperature superconductor
+T2	Material 92 97	films
+T3	Property 161 165	spin
+T4	Process 169 176	coating
+T7	Material 221 226	films
+T8	Process 408 417	annealing
+T10	Material 501 512	grain sizes
+T11	Characterization 541 569	scanning electron microscopy
+T12	Characterization 571 598	Auger electron spectroscopy
+T13	Material 606 611	films
+T14	Material 627 641	stoichiometric
+T15	Material 708 712	film
+T16	Characterization 714 731	X-ray diffraction
+T17	Material 749 754	films
+T18	Material 769 774	films
+T19	SC 801 818	Superconductivity
+T21	SC 824 852	zero resistance temperatures
+T22	Material 902 907	films
+T24	Process 970 976	coated
+T25	Material 1007 1011	film
+T26	Material 1029 1038	interface
+T27	Process 1060 1074	spin-on method
+T28	Material 1201 1206	films
+T29	Property 1223 1233	electrical
+T32	Element 744 748	YBCO
+T33	Element 887 891	YBCO
+T34	Element 230 233	MgO
+T35	Main 122 135	BiSrCaCuO
+T36	Main 137 142	BSCCO
+T37	Main 101 110	YBaCuO
+T38	Main 112 116	YBCO
+T39	Element 896 901	BSCCO
+T42	Element 790 799	123 phase
+T49	Material 989 998	substrate
+T50	Element 48 53	oxide
+T53	Element 358 369	nitric acid
+T54	Element 421 427	oxygen
+T9	Material 474 495	polycrystalline films
+T55	Element 914 920	copper
+T56	Material 921 931	substrates
+T23	Material 944 956	buffer layer
+T57	Element 960 966	silver
+T51	Material 238 255	copper substrates
+T52	SC 87 90	HTS
+T58	SC 1197 1200	HTS
+T5	Process 181 204	rapid thermal annealing
+T59	Process 206 209	RTA
+T60	Process 1126 1129	RTA
+T61	Process 457 460	RTA
+T6	SC 212 220	high T c
+T20	Value 431 434	960
+T40	Value 435 441	990 °C
+T30	Value 516 517	5
+T43	Value 518 523	10 μm
+T41	Value 446 448	30
+T44	Value 449 453	60 s
+T31	Value 859 863	77 K
+R1	Equivalent Arg1:T21 Arg2:T31
+R2	Target Arg1:T31 Arg2:T33
+R3	Target Arg1:T31 Arg2:T39

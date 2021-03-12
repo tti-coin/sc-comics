@@ -1,0 +1,28 @@
+T1	Element 42 49	cuprate
+T2	SC 50 82	high temperature superconductors
+T8	Characterization 392 421	scanning tunneling microscopy
+T10	Element 470 477	cuprate
+T11	Material 569 581	double layer
+T17	SC 779 794	superconducting
+T18	Element 806 814	cuprates
+T21	Property 884 898	Mott insulator
+T3	SC 102 136	the maximum transition temperature
+T7	Material 354 366	single-layer
+T5	Material 297 309	double-layer
+T14	Property 441 461	electronic structure
+T9	Property 626 629	gap
+T12	Property 751 754	gap
+T13	Property 610 625	charge transfer
+T16	Property 735 750	charge transfer
+T22	Property 662 677	anticorrelation
+T20	Doping 878 883	doped
+T4	SC 138 145	T c,max
+T23	Value 176 178	30
+T24	Value 188 192	130K
+T6	SC 337 344	T c,max
+T15	SC 695 702	T c,max
+T19	SC 854 862	high T c
+R1	Coref Arg1:T3 Arg2:T4
+R2	Equivalent Arg1:T3 Arg2:T23
+R3	Equivalent Arg1:T3 Arg2:T24
+E1	Doping:T20 

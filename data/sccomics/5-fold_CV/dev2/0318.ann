@@ -1,0 +1,38 @@
+T1	SC 46 63	superconductivity
+T3	Element 67 86	perovskite cuprates
+T5	Element 159 161	Zn
+T6	Element 166 168	Cu
+T7	SC 202 219	superconductivity
+T8	Material 229 240	perovskites
+T9	Material 313 328	polycrystalline
+T10	Main 329 351	YBa2(Cu1−x Zn x )3O7−δ
+T11	Characterization 414 431	X-ray diffraction
+T12	Characterization 433 442	titration
+T13	Property 444 455	resistivity
+T14	Property 457 470	magnetization
+T15	Characterization 472 488	X-ray absorption
+T17	Characterization 493 506	photoemission
+T18	Property 545 565	oxygen stoichiometry
+T19	Element 581 583	Zn
+T21	Property 610 622	normal state
+T22	Property 623 634	resistivity
+T23	SC 652 655	T c
+T25	Material 810 817	lattice
+T27	Property 884 892	magnetic
+T28	Property 893 899	moment
+T29	Property 922 935	magnetization
+T30	Property 995 1003	magnetic
+T31	Property 1004 1017	pair breaking
+T32	SC 1078 1095	superconductivity
+T37	Characterization 507 519	measurements
+T26	Material 830 854	local lattice distortion
+T38	Material 856 859	LLD
+T39	Material 987 990	LLD
+T2	Doping 146 158	Substituting
+T4	Doping 584 596	substitution
+T16	Value 364 367	0.0
+T20	Value 368 372	0.06
+T24	Element 749 758	Zn cation
+R1	Coref Arg1:T26 Arg2:T38
+E1	Doping:T2 Dopant:T5 Site:T6
+E2	Doping:T4 Dopant:T19

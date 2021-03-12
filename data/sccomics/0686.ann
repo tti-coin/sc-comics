@@ -1,0 +1,43 @@
+T1	Property 4 6	5d
+T3	Element 25 27	Ir
+T5	Element 59 61	Fe
+T6	SC 79 96	superconductivity
+T7	Main 100 107	GdFeAsO
+T8	SC 111 114	T c
+T10	Material 165 178	c-axis length
+T11	Element 255 259	FeAs
+T13	Material 294 301	bonding
+T14	Element 310 312	Fe
+T15	Element 317 319	As
+T16	Material 320 324	atom
+T17	Property 404 412	magnetic
+T18	Element 413 415	Gd
+T20	Element 438 445	GdFeAsO
+T21	Property 450 470	upper critical field
+T22	Element 474 489	GdFe0.8Ir0.2AsO
+T24	Element 556 563	GdFeAsO
+T25	SC 590 593	T c
+T9	Element 141 143	Ir
+T28	Value 116 121	18.9K
+T29	Value 127 135	20 atom%
+T30	Property 326 339	Paramagnetism
+T19	Element 430 431	F
+T32	Element 548 549	F
+T33	Value 517 520	24T
+T2	Element 7 23	transition metal
+T4	Doping 50 55	doped
+T23	Doping 144 150	doping
+T26	Doping 432 437	doped
+T27	Doping 550 555	doped
+T12	Element 265 268	SmO
+T31	Material 269 274	layer
+R1	Equivalent Arg1:T8 Arg2:T28
+R2	Target Arg1:T28 Arg2:T7
+R3	Target Arg1:E1 Arg2:T7
+R4	Target Arg1:E3 Arg2:T20
+R5	Target Arg1:E4 Arg2:T24
+R6	Condition Arg1:T28 Arg2:E1
+E1	Doping:T4 Site:T5 Dopant:T3
+E2	Doping:T23 Dopant:T9
+E3	Doping:T26 Dopant:T19
+E4	Doping:T27 Dopant:T32

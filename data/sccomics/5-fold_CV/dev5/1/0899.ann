@@ -1,0 +1,30 @@
+T2	Property 15 37	temperature dependence
+T5	Property 120 134	kinetic energy
+T6	SC 142 157	superconducting
+T7	Property 190 211	temperature dependent
+T8	Property 225 235	low-energy
+T9	Material 266 274	symmetry
+T10	Material 287 292	B 2 g
+T11	Material 293 301	symmetry
+T13	SC 360 398	superconducting transition temperature
+T17	Property 573 585	Cooper pairs
+T20	Material 260 265	B 1 g
+T21	Material 431 436	B 2 g
+T23	Characterization 45 70	electronic Raman response
+T3	Property 562 569	density
+T1	Doping 4 10	doping
+T12	Doping 343 349	doping
+T15	Doping 506 516	underdoped
+T16	Doping 521 530	overdoped
+T18	Doping 612 618	doping
+T19	Doping 626 636	underdoped
+T4	Main 74 81	cuprate
+T22	SC 82 97	superconductors
+T14	Doping 471 477	doping
+E1	Doping:T1 
+E2	Doping:T12 
+E4	Doping:T15 
+E5	Doping:T16 
+E6	Doping:T18 
+E7	Doping:T19 
+E3	Doping:T14 

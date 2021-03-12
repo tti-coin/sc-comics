@@ -1,0 +1,33 @@
+T1	Property 2 7	model
+T2	SC 11 18	high Tc
+T3	SC 28 45	superconductivity
+T4	Property 90 106	electronic state
+T5	Element 110 123	copper oxides
+T10	Property 325 342	electronic states
+T13	SC 474 489	superconducting
+T16	Property 583 586	BCS
+T17	Property 607 624	antiferromagnetic
+T18	Property 664 684	critical temperature
+T21	SC 809 816	high Tc
+T22	SC 826 841	superconductors
+T8	Property 253 259	p hole
+T9	Element 263 264	O
+T6	Property 231 237	d hole
+T14	Property 498 513	pseudogap state
+T15	Property 544 560	electronic state
+T24	Property 857 870	wave-function
+T20	Property 784 805	Cooper pair formation
+T23	Element 882 884	Cu
+T25	Element 889 890	O
+T26	Property 891 896	holes
+T27	Property 148 156	fermions
+T28	Property 306 319	free fermions
+T29	Element 241 243	Cu
+T7	Element 817 825	cuprates
+T30	Main 19 27	cuprates
+T31	Property 625 639	coupling state
+T32	Property 645 655	gap energy
+T11	Doping 434 439	doped
+T12	Doping 736 742	doping
+E1	Doping:T11
+E2	Doping:T12

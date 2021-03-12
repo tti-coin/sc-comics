@@ -1,0 +1,61 @@
+T1	Property 5 12	density
+T2	SC 25 40	superconducting
+T3	Material 41 46	bulks
+T4	Main 50 54	MgB2
+T6	Material 69 74	cubic
+T7	Element 75 77	BN
+T8	Element 89 99	fullerenes
+T9	Process 135 157	spark plasma sintering
+T10	Material 165 177	Compositions
+T15	Property 318 342	critical current density
+T16	Property 343 346	J c
+T17	Property 363 378	magnetic fields
+T20	Property 460 467	pinning
+T21	Property 484 491	pinning
+T22	SC 506 510	δT c
+T23	Property 542 557	magnetic fields
+T26	Material 614 622	additive
+T27	Material 644 652	pristine
+T33	Material 798 813	phase formation
+T34	Material 823 838	microstructural
+T35	Property 851 866	residual strain
+T36	Element 945 950	MgNB9
+T37	Property 1021 1028	pinning
+T39	Element 101 104	C60
+T40	Process 159 162	SPS
+T13	Element 262 291	(MgB2)0.975(C)0.025(c-BN)0.01
+T45	Element 438 441	C60
+T46	Element 685 688	C60
+T47	Element 905 908	C60
+T48	Element 910 914	c-BN
+T44	Value 214 220	0.0125
+T49	Value 222 227	0.025
+T50	Value 229 233	0.05
+T51	Value 235 240	0.075
+T14	Value 389 393	15 K
+T11	Element 183 208	(MgB2)(1−x)(C)x(c-BN)0.01
+T53	Property 710 724	vortex pinning
+T5	Doping 58 63	added
+T12	Doping 249 254	added
+T18	Doping 419 424	added
+T24	Doping 561 566	added
+T25	Doping 599 604	added
+T28	Doping 664 672	addition
+T30	Doping 755 763	addition
+T31	Value 20 23	92%
+T32	Element 79 83	c-BN
+T19	Element 430 434	c-BN
+T29	Element 676 680	c-BN
+R2	Target Arg1:E1 Arg2:T4
+R3	Target Arg1:E2 Arg2:T13
+R4	Target Arg1:E9 Arg2:T4
+E1	Doping:T5 Dopant:T7
+E2	Doping:T12
+E3	Doping:T18 Dopant:T45
+E4	Doping:T18 Dopant:T19
+E5	Doping:T24
+E6	Doping:T25
+E7	Doping:T28 Dopant:T29
+E8	Doping:T30
+E9	Doping:T5 Dopant:T8
+E10	Doping:T28 Dopant:T46

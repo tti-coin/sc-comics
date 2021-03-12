@@ -1,0 +1,38 @@
+T1	Main 34 55	Ba0.6-y La y K0.4BiO3
+T2	Main 60 81	Ba0.6-z Pr z K0.4BiO3
+T3	Characterization 183 207	X-ray powder diffraction
+T5	Material 247 252	cubic
+T6	Material 253 260	crystal
+T7	Material 261 269	symmetry
+T8	Material 290 302	orthorhombic
+T9	Element 308 310	Pr
+T11	Element 337 339	La
+T13	Process 365 374	reduction
+T15	Element 471 492	Ba0.6-y La y K0.4BiO3
+T16	SC 523 545	transition temperature
+T17	SC 547 550	T c
+T18	Property 568 576	magnetic
+T19	SC 598 615	superconductivity
+T20	Material 663 673	distortion
+T21	Material 681 698	crystal structure
+T22	Element 730 737	bismuth
+T23	Property 738 745	valence
+T26	Value 646 649	0.2
+T29	Value 102 103	0
+T30	Value 105 110	0.025
+T31	Value 112 116	0.05
+T32	Value 118 121	0.1
+T33	Value 123 126	0.2
+T34	Value 128 131	0.3
+T35	Value 133 136	0.4
+T40	Process 163 181	molten salt method
+T43	Value 447 450	0.4
+T44	Value 439 444	0.025
+T14	Material 389 396	lattice
+T49	Value 421 428	4.28257
+T50	Characterization 577 589	measurements
+T10	Doping 311 323	substitution
+T12	Doping 340 352	substitution
+T4	Value 429 437	0.02469y
+E2	Doping:T10 Dopant:T9
+E3	Doping:T12 Dopant:T11

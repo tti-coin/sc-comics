@@ -1,0 +1,34 @@
+T1	Material 0 15	Polycrystalline
+T2	Main 16 27	YBa2Cu3O7−y
+T3	Main 29 33	YBCO
+T4	Main 39 66	Y0.6Gd0.4Ba2−x Nb x Cu3O7−y
+T5	Main 68 74	YGBNCO
+T6	Process 133 153	solid state reaction
+T7	Material 169 178	structure
+T8	Characterization 216 232	X-ray difference
+T9	Characterization 234 237	XRD
+T10	Characterization 243 271	scanning electron microscopy
+T11	Characterization 273 276	SEM
+T12	Property 283 303	transport properties
+T13	Element 388 390	Nb
+T14	Element 455 462	niobium
+T15	Material 463 473	perovskite
+T16	Element 552 554	Nb
+T18	SC 607 616	T c onset
+T19	SC 771 798	zero-resistance temperature
+T20	SC 800 810	T c offset
+T21	Element 833 835	Nb
+T22	Element 895 903	YBa2NbO6
+T23	Material 911 919	impurity
+T24	Element 969 971	Nb
+T34	Value 91 92	0
+T35	Value 95 100	0.225
+T36	Characterization 326 329	FPP
+T39	Value 712 717	0.225
+T40	Value 704 709	0.125
+T43	Value 641 646	0.125
+T25	Doping 972 978	doping
+T27	Value 368 370	70
+T28	Value 374 379	130 K
+T17	SC 568 606	superconducting transition temperature
+E1	Doping:T25 Dopant:T24

@@ -1,0 +1,52 @@
+T1	Element 24 32	fluorine
+T3	SC 63 80	superconductivity
+T5	Element 149 157	fluorine
+T7	Process 193 219	heat treatment temperature
+T8	Process 228 247	heat treatment time
+T9	SC 263 280	superconductivity
+T10	Element 288 303	SmO1-x F δ FeAs
+T14	SC 366 369	T c
+T15	Element 400 414	SmO0.7F0.3FeAs
+T16	Process 447 467	solid state reaction
+T17	Property 500 503	J c
+T18	SC 548 551	T c
+T19	Element 559 567	fluorine
+T21	Element 579 594	SmO0.7F0.35FeAs
+T22	Element 599 613	SmO0.7F0.4FeAs
+T23	Process 647 667	solid state reaction
+T24	Property 726 729	J c
+T26	Value 781 785	10 K
+T27	Value 787 790	0 T
+T29	Value 678 685	1100 °C
+T30	Value 690 694	20 h
+T31	Value 385 391	56.5 K
+T32	Value 490 494	40 h
+T34	Value 521 534	2.4×105 A/cm2
+T35	Value 536 540	10 K
+T36	Value 542 545	0 T
+T38	Main 113 128	SmO1-x F δ FeAs
+T28	Value 699 701	56
+T42	Value 706 710	55 K
+T2	Doping 33 39	doping
+T6	Doping 163 169	doping
+T20	Doping 573 578	doped
+T4	Main 88 112	iron-based arsenic oxide
+T11	SC 333 364	critical transition temperature
+T12	Value 478 485	1120 °C
+T13	Value 754 761	1.9×105
+T25	Value 766 779	1.7×105 A/cm2
+R1	Target Arg1:T31 Arg2:T15
+R2	Equivalent Arg1:T18 Arg2:T28
+R3	Equivalent Arg1:T18 Arg2:T42
+R4	Target Arg1:E1 Arg2:T38
+R5	Target Arg1:E3 Arg2:T21
+R6	Target Arg1:E4 Arg2:T22
+R9	Equivalent Arg1:T11 Arg2:T31
+R10	Target Arg1:T28 Arg2:T21
+R11	Target Arg1:T42 Arg2:T22
+R12	Condition Arg1:T28 Arg2:E4
+R13	Condition Arg1:T42 Arg2:E3
+E1	Doping:T2 Dopant:T1
+E2	Doping:T6 Dopant:T5
+E3	Doping:T20 Dopant:T19
+E4	Doping:T20 Dopant:T19

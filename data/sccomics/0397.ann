@@ -1,0 +1,56 @@
+T1	Property 4 19	electrochemical
+T2	Material 38 46	cathodes
+T3	Property 60 70	conductive
+T4	Material 71 80	additives
+T5	Property 131 141	conductive
+T6	Material 142 151	additives
+T7	Element 163 171	graphene
+T8	Element 191 203	carbon black
+T9	Property 204 214	conductive
+T10	Element 230 242	carbon black
+T12	Property 253 263	conductive
+T15	Property 344 354	conductive
+T16	Material 355 363	additive
+T17	Property 454 469	current density
+T18	Element 526 543	lithium electrode
+T20	Material 606 614	additive
+T26	Property 730 745	charge transfer
+T31	Property 822 832	conductive
+T32	Material 833 841	additive
+T33	Property 855 861	charge
+T36	Characterization 943 946	XRD
+T37	Characterization 953 956	XRD
+T38	Property 987 1003	phase transition
+T39	Material 1009 1018	hexagonal
+T40	Material 1025 1034	hexagonal
+T42	Element 1099 1114	(0 1 8)/(1 1 0)
+T43	Element 1164 1171	lithium
+T44	Property 1181 1188	ordered
+T45	Material 1189 1194	layer
+T46	Material 1210 1219	materials
+T48	Value 473 484	2000 mA g−1
+T49	Value 436 446	78 mAh g−1
+T13	Value 554 557	1.7
+T50	Value 1063 1068	4.3 V
+T51	Element 215 223	graphite
+T21	Property 620 653	electrochemical impedance spectra
+T22	Property 655 658	EIS
+T14	Property 156 162	porous
+T23	Element 172 184	carbon black
+T24	Element 264 272	graphite
+T19	Material 588 597	electrode
+T27	Property 746 756	resistance
+T30	Characterization 914 931	X-ray diffraction
+T34	Characterization 902 913	synchrotron
+T11	Material 805 813	material
+T28	Material 777 797	structural evolution
+T29	Element 34 37	NCM
+T35	Element 322 325	NCM
+T41	Element 584 587	NCM
+T52	Element 684 687	NCM
+T53	Element 801 804	NCM
+T54	Element 1206 1209	NCM
+T25	Doping 706 714	addition
+T47	Value 509 512	2.5
+T55	Value 513 518	4.1 V
+E1	Doping:T25

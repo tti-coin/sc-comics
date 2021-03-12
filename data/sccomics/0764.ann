@@ -1,0 +1,38 @@
+T1	Property 4 12	magnetic
+T3	Material 78 84	liquid
+T4	Process 88 107	electroless plating
+T5	Property 153 161	magnetic
+T6	SC 190 222	high temperature superconducting
+T7	Material 223 227	bulk
+T8	Property 247 255	magnetic
+T9	Element 272 274	Gd
+T10	Material 281 285	bulk
+T11	SC 286 301	superconductors
+T12	Property 346 360	magnetic field
+T13	SC 381 396	superconducting
+T14	Element 425 435	Ni-sulfate
+T15	Material 436 444	crystals
+T17	Element 484 497	sulfuric acid
+T18	Element 505 517	Ni-phosphite
+T19	Process 554 561	plating
+T20	Material 568 574	liquid
+T21	Property 642 650	magnetic
+T22	Element 701 711	Ni-sulfate
+T23	Material 712 720	crystals
+T24	Element 745 755	Ni-sulfate
+T25	Element 760 772	Ni-phosphite
+T26	Property 815 834	magnetic properties
+T27	Element 867 877	Ni-sulfate
+T28	Material 878 886	crystals
+T29	Element 909 921	Ni-phosphite
+T30	Property 948 956	magnetic
+T31	Element 977 987	Ni-sulfate
+T32	Material 988 996	crystals
+T33	Process 1006 1010	grow
+T34	Value 319 324	3.45T
+T35	Value 328 331	35K
+T36	Value 364 366	5T
+T37	Main 50 62	Ni compounds
+T16	Doping 460 466	adding
+R1	Target Arg1:E1 Arg2:T14
+E1	Doping:T16 Dopant:T17 Site:T18

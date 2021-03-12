@@ -1,0 +1,42 @@
+T1	Characterization 18 42	X-ray powder diffraction
+T2	Characterization 44 47	XRD
+T3	Property 50 72	electrical resistivity
+T6	Main 132 166	Bi1.8Pb0.4Sr2Ca2.1Cu3−x Ru x O10+δ
+T7	SC 181 196	superconducting
+T8	Characterization 206 209	XRD
+T9	Property 223 245	electrical resistivity
+T10	Element 282 284	Ru
+T11	Material 313 328	phase formation
+T12	SC 337 375	superconducting transition temperature
+T13	Element 379 398	(Bi, Pb)-2223 phase
+T14	Element 420 439	(Bi, Pb)-2223 phase
+T15	Element 443 462	(Bi, Pb)-2212 phase
+T16	Element 568 581	(Bi, Pb)-2223
+T17	Element 586 606	(Bi, Pb)-2212 phases
+T18	Element 675 694	(Bi, Pb)-2212 phase
+T24	Element 865 867	Ru
+T26	Property 935 952	activation energy
+T29	Element 1042 1044	Ru
+T31	Value 529 534	0.075
+T32	Value 521 524	0.0
+T34	Value 483 487	0.15
+T36	Property 954 957	E a
+T37	Characterization 77 108	electron paramagnetic resonance
+T38	Characterization 110 113	EPR
+T39	Value 168 171	0.0
+T41	Value 176 179	0.4
+T46	Value 289 293	0.05
+T49	Value 648 652	0.15
+T51	Characterization 493 496	EPR
+T52	Characterization 619 622	EPR
+T53	Property 710 725	number of spins
+T54	Property 727 728	N
+T19	Property 769 801	spin paramagnetic susceptibility
+T55	Property 803 804	χ
+T56	Property 961 975	Curie constant
+T57	Property 977 978	C
+T58	Property 981 998	Curie temperature
+T59	Property 1000 1001	θ
+T60	Property 1007 1032	effective magnetic moment
+T61	Property 1034 1035	μ
+T4	Characterization 115 127	measurements

@@ -1,0 +1,25 @@
+T1	Element 36 43	Bismuth
+T2	SC 50 57	high Tc
+T3	Material 58 69	perovskites
+T4	Material 109 119	multiphase
+T5	Process 167 188	annealing temperature
+T6	Process 190 204	annealing time
+T8	Material 265 272	dopants
+T9	Element 278 280	Pb
+T10	Material 340 352	single phase
+T11	SC 353 360	High Tc
+T12	Element 413 420	Yitrium
+T13	Element 427 435	cuprates
+T14	Process 525 539	crystal growth
+T15	Property 550 558	critical
+T16	Element 601 605	Lead
+T18	Main 612 628	Bismuth cuprates
+T19	Material 650 662	single phase
+T20	SC 667 674	high Tc
+T21	Property 493 505	Avrami Index
+T23	Process 692 714	glassy precursor route
+T7	Doping 253 261	addition
+T17	Doping 606 611	doped
+R1	Target Arg1:E2 Arg2:T18
+E1	Doping:T7 Dopant:T9
+E2	Doping:T17 Dopant:T16

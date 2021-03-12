@@ -1,0 +1,40 @@
+T5	SC 129 133	HTSC
+T6	Property 135 144	insulator
+T7	Element 145 157	normal metal
+T8	Property 338 347	electrons
+T9	Element 357 369	normal metal
+T10	Property 379 392	quasiparticle
+T11	SC 403 407	HTSC
+T12	Property 417 420	BCS
+T13	Property 426 443	density of states
+T14	Property 445 449	DOSs
+T15	Property 497 509	Cooper pairs
+T16	Property 520 528	polarons
+T17	SC 538 542	HTSC
+T18	Property 552 555	BCS
+T19	Property 556 559	DOS
+T20	Property 581 584	DOS
+T21	Property 628 636	polarons
+T22	Element 647 659	normal metal
+T23	Characterization 723 740	tunneling spectra
+T24	Material 803 812	structure
+T25	Property 871 882	conductance
+T27	Property 978 989	conductance
+T28	Property 1028 1034	models
+T29	Characterization 1070 1087	tunneling spectra
+T30	Element 1091 1115	Bi 2 Sr 2 CaCu 2 O 8 + δ
+T32	Property 1228 1231	BCS
+T33	Property 38 57	multiple-gap models
+T1	Property 61 74	quasiparticle
+T36	Property 1164 1183	multiple-gap models
+T2	Value 470 471	0
+T3	Value 674 675	0
+T31	Value 846 847	0
+T34	Property 298 310	multiple-gap
+T35	Property 273 290	gap inhomogeneity
+T37	Property 1236 1249	polaronic gap
+T26	Doping 915 921	doping
+E1	Doping:T26
+T38	SC 96 104	high-T c
+T4	Element 105 112	cuprate
+T39	SC 113 127	superconductor

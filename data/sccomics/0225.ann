@@ -1,0 +1,37 @@
+T1	Material 47 54	lattice
+T2	Property 55 66	free energy
+T3	SC 153 178	high- T c superconductors
+T5	Property 204 218	magnetic field
+T6	Property 251 258	pairing
+T7	SC 282 320	superconducting transition temperature
+T8	Element 328 336	cuprates
+T9	Property 362 379	phase fluctuation
+T12	Property 497 502	model
+T13	Property 513 520	pairing
+T14	Property 545 555	superfluid
+T15	Property 556 563	density
+T17	Property 625 638	magnetization
+T18	Property 646 655	pseudogap
+T19	Property 803 812	pseudogap
+T20	Property 819 826	pairing
+T21	Property 838 851	magnetization
+T22	SC 872 887	superconducting
+T23	Property 908 917	pseudogap
+T25	Property 1070 1076	vortex
+T26	Property 1096 1101	model
+T27	Property 26 46	Ginzburg–Landau-like
+T28	SC 994 1013	‘onset’ temperature
+T29	Property 137 149	diamagnetism
+T30	Property 432 453	amplitude fluctuation
+T31	Property 1077 1088	core-energy
+T32	Property 1030 1042	diamagnetism
+T4	Doping 196 202	doping
+T10	Doping 390 400	underdoped
+T11	Doping 464 473	overdoped
+T16	Doping 579 590	underdoping
+T24	Doping 969 975	doping
+E1	Doping:T4
+E2	Doping:T10
+E3	Doping:T11
+E4	Doping:T16
+E5	Doping:T24

@@ -1,0 +1,31 @@
+T1	Element 0 16	Carbon nano tube
+T2	Element 23 31	graphene
+T5	Property 98 112	thermoelectric
+T6	Material 113 122	materials
+T7	Property 206 217	low density
+T8	Property 283 303	thermal conductivity
+T9	Material 373 386	hybrid alloys
+T10	Element 400 403	CNT
+T11	Element 408 416	graphene
+T12	SC 508 525	superconductivity
+T13	Property 560 574	axial strength
+T14	Material 635 645	composites
+T15	Element 681 689	graphene
+T16	Element 694 697	CNT
+T17	Element 830 833	CNT
+T18	Element 838 846	graphene
+T19	Property 854 868	thermoelectric
+T20	Material 874 883	materials
+T23	Material 907 931	inorganic semiconductors
+T24	Element 952 969	polymer composite
+T25	Material 995 1004	materials
+T26	Element 18 21	CNT
+T27	Material 39 57	organic composites
+T3	Material 442 453	nanofillers
+T4	Property 870 872	TE
+T22	Property 976 989	thermoplastic
+T28	Property 991 993	TP
+T29	Property 1018 1031	nonconductive
+T30	Material 1059 1082	nano-structured network
+T21	Doping 892 903	replacement
+E1	Doping:T21

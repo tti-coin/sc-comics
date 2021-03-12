@@ -1,0 +1,41 @@
+T2	Material 33 50	lattice parameter
+T3	Material 56 70	microstructure
+T5	SC 94 97	T c
+T6	SC 142 157	superconductors
+T8	Material 245 262	lattice parameter
+T10	SC 321 324	T c
+T12	Property 435 451	hysteresis loops
+T13	Property 478 492	magnetic field
+T15	Property 616 630	magnetic field
+T17	Element 15 22	Ti3SiC2
+T18	Main 137 141	MgB2
+T19	Element 172 178	Carbon
+T20	Element 196 201	boron
+T21	Element 284 291	Ti3SiC2
+T24	Element 368 375	Ti3SiC2
+T28	Property 401 404	J c
+T29	Property 505 508	J c
+T30	Property 636 639	J c
+T4	SC 72 92	critical temperature
+T26	Property 103 127	critical current density
+T27	Property 129 132	J c
+T23	Material 52 53	a
+T1	Doping 23 29	doping
+T7	Doping 179 191	substitution
+T9	Doping 292 298	doping
+T11	Doping 376 382	doping
+T14	Doping 567 572	doped
+T16	Doping 657 662	doped
+T22	Value 330 337	37.15 K
+T31	Value 341 348	36.55 K
+R3	Equivalent Arg1:T10 Arg2:T22
+R4	Equivalent Arg1:T10 Arg2:T31
+R5	Condition Arg1:T22 Arg2:E4
+R6	Condition Arg1:T31 Arg2:E4
+R7	Target Arg1:E1 Arg2:T18
+E1	Doping:T1 Dopant:T17
+E2	Doping:T7 Dopant:T19 Site:T20
+E3	Doping:T9 Dopant:T21
+E4	Doping:T11 Dopant:T24
+E5	Doping:T14
+E6	Doping:T16

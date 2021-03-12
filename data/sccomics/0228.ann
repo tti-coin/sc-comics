@@ -1,0 +1,72 @@
+T1	Property 10 33	electrical conductivity
+T2	Material 38 46	impurity
+T3	Property 47 51	band
+T4	SC 65 80	superconducting
+T5	Element 97 102	boron
+T7	Main 109 116	diamond
+T8	Element 118 122	BNCD
+T9	Material 124 128	film
+T10	Characterization 152 186	conducting atomic force microscopy
+T11	Characterization 188 193	C-AFM
+T12	Characterization 199 228	X-ray absorption spectroscopy
+T15	Characterization 230 233	XAS
+T17	Property 285 297	conductivity
+T18	SC 301 316	superconducting
+T19	Element 317 321	BNCD
+T20	SC 327 330	T c
+T21	Property 343 363	upper critical field
+T23	Element 428 432	BNCD
+T24	Material 433 437	film
+T26	Element 495 500	boron
+T29	Material 563 579	grain boundaries
+T30	Element 655 674	trans-polyacetylene
+T32	Element 690 692	CC
+T33	Element 697 699	CH
+T34	Material 700 705	bonds
+T35	Material 713 729	grain boundaries
+T36	Characterization 749 752	XPS
+T37	Element 770 771	B
+T38	Element 830 835	boron
+T39	Property 836 849	concentration
+T40	Element 870 874	BNCD
+T41	Material 875 881	layers
+T45	Characterization 914 917	XAS
+T46	Element 1014 1019	boron
+T48	SC 1119 1136	superconductivity
+T49	Element 1144 1148	BNCD
+T50	Material 1149 1153	film
+T51	Element 1190 1195	boron
+T53	Property 1236 1250	band structure
+T54	SC 1256 1271	superconducting
+T55	Element 1272 1276	BNCD
+T56	Material 1277 1281	film
+T13	Characterization 236 241	C-AFM
+T14	Value 333 338	4.3 K
+T16	Property 364 373	H c 2 (0)
+T57	Value 376 381	5.2 T
+T22	Property 396 420	electrical heterogeneity
+T25	Characterization 460 465	C-AFM
+T28	Characterization 538 543	C-AFM
+T58	Property 648 654	p-type
+T31	Property 772 782	1s spectra
+T42	Characterization 883 912	X-ray absorption spectroscopy
+T43	Property 937 945	B K-edge
+T44	Property 950 958	C K-edge
+T59	Property 1033 1041	C K-edge
+T60	Property 1043 1057	bandgap states
+T61	Value 1061 1069	282.8 eV
+T62	Value 1074 1082	284.1 eV
+T63	Material 81 96	nanocrystalline
+T65	Characterization 919 931	measurements
+T6	Doping 103 108	doped
+T27	Doping 530 536	doping
+T47	Doping 1020 1026	doping
+T52	Doping 1196 1202	doping
+R1	Equivalent Arg1:T20 Arg2:T14
+R2	Target Arg1:T14 Arg2:T19
+R3	Target Arg1:E1 Arg2:T7
+R4	Target Arg1:E4 Arg2:T55
+E1	Doping:T6 Dopant:T5
+E2	Doping:T27
+E3	Doping:T47 Dopant:T46
+E4	Doping:T52 Dopant:T51

@@ -1,0 +1,63 @@
+T2	Material 25 30	films
+T3	Process 56 65	annealing
+T4	Material 162 176	single crystal
+T6	Property 326 329	T c
+T7	Material 380 394	microstructure
+T8	Material 402 407	films
+T9	Characterization 497 525	scanning electron microscopy
+T10	Property 658 671	concentration
+T11	Property 685 688	T c
+T13	Material 728 732	film
+T14	Property 774 776	Tc
+T15	Process 795 803	annealed
+T16	Material 812 817	films
+T17	Property 854 876	transition temperature
+T18	Material 1221 1235	grain boundary
+T22	Element 66 90	Ba2Ca2.2Cu3.3O z (Ag y )
+T26	Value 98 102	0.25
+T27	Element 177 180	MgO
+T28	Element 185 189	ZrO2
+T29	Element 216 221	Hg-Tl
+T30	Value 275 280	860°C
+T31	Element 655 657	Ag
+T32	Value 779 784	127 K
+T33	Process 837 848	oxygenation
+T34	Element 437 439	Ag
+T35	Value 1041 1056	7.2 x 104 A/cm2
+T36	Value 1058 1062	20 K
+T37	Element 1067 1074	Ag-free
+T38	Property 1098 1101	J c
+T39	Property 950 953	J c
+T40	Element 1149 1151	Ag
+T41	Element 1152 1154	Hg
+T42	Element 1187 1189	Ag
+T43	Element 1195 1197	Hg
+T46	Element 915 917	Ag
+T47	Element 738 740	Ag
+T48	Value 743 747	0.50
+T49	Property 371 374	J c
+T50	Value 691 696	126 K
+T51	Element 719 721	Ag
+T52	Process 243 271	evacuated sealed quartz tube
+T23	Value 95 96	0
+T53	Value 104 107	0.5
+T54	Value 109 113	0.75
+T55	Value 115 118	1.0
+T56	Material 190 200	substrates
+T57	Property 345 369	critical current density
+T58	Value 928 932	0.50
+T59	Value 939 943	1.00
+T60	Element 804 811	Ag-free
+T61	Material 453 468	microstructural
+T62	Element 788 794	oxygen
+T63	Element 4 6	Ag
+T19	Main 13 24	Hg(Tl):1223
+T20	Process 285 296	720 minutes
+T64	Element 1010 1016	silver
+T65	Process 143 158	spray pyrolysis
+T1	Doping 7 12	doped
+T12	Doping 722 727	doped
+R5	Target Arg1:E1 Arg2:T19
+E1	Doping:T1 Dopant:T63
+E2	Doping:T12 Dopant:T51
+T5	Property 302 324	transition temperature

@@ -1,0 +1,90 @@
+T1	Material 0 15	Polycrystalline
+T2	Main 16 20	MgB2
+T4	SC 58 73	superconducting
+T5	Element 74 100	Bi1.8Pb0.26Sr2Ca2Cu3O10+ x
+T6	Material 101 107	powder
+T7	Process 132 146	solid reaction
+T8	Element 162 174	(Bi,Pb)-2223
+T11	Property 202 226	critical current density
+T12	Element 230 234	MgB2
+T13	SC 235 249	superconductor
+T14	Characterization 273 276	XRD
+T16	Element 310 312	Mg
+T17	Element 316 317	B
+T18	SC 323 361	superconducting transition temperature
+T19	SC 363 367	Tc 0
+T20	Element 372 376	MgB2
+T21	Element 417 421	2223
+T23	Property 432 454	Temperature dependence
+T24	Property 462 474	normal state
+T25	Property 475 497	electrical resistivity
+T26	Element 501 505	2223
+T28	Element 512 516	MgB2
+T29	Property 547 561	Rowell’s model
+T30	Element 583 587	2223
+T32	Element 600 604	MgB2
+T33	Property 670 690	residual resistivity
+T34	Property 692 716	Critical current density
+T35	Property 718 720	Jc
+T36	Property 785 797	Bean’s model
+T37	Element 799 803	MgB2
+T40	Property 910 912	Jc
+T41	Element 938 942	MgB2
+T42	Property 1021 1035	magnetic field
+T43	Property 1050 1052	Jc
+T45	Property 1120 1133	pinning model
+T48	Property 1199 1212	pinning model
+T49	Property 1270 1294	critical current density
+T50	Property 1301 1303	Jc
+T53	Element 1401 1405	MgB2
+T54	Material 1406 1421	polycrystalline
+T55	Property 1466 1473	pinning
+T56	Element 1492 1496	MgB2
+T59	Element 1516 1520	MgB2
+T60	Property 1564 1571	pinning
+T61	Process 1575 1593	lower temperatures
+T62	Value 379 385	37.97K
+T63	Value 816 821	1wt.%
+T65	Value 745 746	4
+T66	Value 759 762	30K
+T67	Value 748 750	10
+T68	Value 752 754	20
+T69	Material 659 669	intragrain
+T71	SC 1457 1460	δTc
+T72	Property 768 778	M–H curves
+T10	Material 187 197	structural
+T3	Doping 46 54	addition
+T9	Doping 175 183	addition
+T15	Doping 293 305	substitution
+T22	Doping 422 430	addition
+T27	Doping 506 511	added
+T31	Doping 588 596	addition
+T38	Doping 830 838	addition
+T39	Doping 1395 1400	added
+T44	Doping 1510 1515	added
+T47	Element 825 829	2223
+T51	Value 970 971	0
+T52	Value 976 979	±6T
+T46	Property 1169 1175	Jc (0)
+T57	Property 1304 1310	Jc (0)
+T58	Element 1390 1394	2223
+T64	Element 1505 1509	2223
+R1	Equivalent Arg1:T19 Arg2:T62
+R2	Target Arg1:T62 Arg2:T20
+R3	Target Arg1:E1 Arg2:T2
+R4	Target Arg1:E2 Arg2:T12
+R5	Target Arg1:E6 Arg2:T28
+R6	Target Arg1:E7 Arg2:T32
+R7	Target Arg1:E9 Arg2:T53
+R8	Target Arg1:E10 Arg2:T59
+R10	Target Arg1:E8 Arg2:T37
+E1	Doping:T3 Dopant:T5
+E2	Doping:T9 Dopant:T8
+E3	Doping:T15 Site:T16
+E4	Doping:T15 Site:T17
+E5	Doping:T22 Dopant:T21
+E6	Doping:T27 Dopant:T26
+E7	Doping:T31 Dopant:T30
+E8	Doping:T38 Dopant:T47
+E9	Doping:T39 Dopant:T58
+E10	Doping:T44 Dopant:T64

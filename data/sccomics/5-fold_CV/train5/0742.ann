@@ -1,0 +1,61 @@
+T1	Element 0 4	TiO2
+T3	Process 22 36	melt-processed
+T4	Main 37 50	GdBa2Cu3O7− δ
+T5	Material 51 55	bulk
+T6	SC 56 71	superconductors
+T7	Element 85 89	TiO2
+T8	Material 95 104	particles
+T9	Material 119 127	additive
+T10	Property 151 163	flux pinning
+T11	Element 165 169	TiO2
+T13	Property 204 211	pinning
+T14	SC 229 231	Tc
+T15	Property 252 265	pinning force
+T16	Property 298 305	pinning
+T17	Material 366 375	clustered
+T18	SC 383 398	superconducting
+T19	Property 491 503	flux pinning
+T21	Element 631 633	Ti
+T23	Element 647 649	Cu
+T24	Element 662 665	CuO
+T25	Material 666 671	chain
+T26	Element 681 683	Ti
+T30	Property 785 792	strains
+T31	Material 796 808	dislocations
+T33	Property 885 892	pinning
+T34	SC 294 297	δTc
+T36	Material 819 822	ion
+T2	Doping 12 18	doping
+T12	Doping 170 176	doping
+T20	Doping 523 529	doping
+T22	Doping 634 642	occupies
+T27	Doping 684 695	substituted
+T32	Doping 823 835	substitution
+T35	Value 541 549	0.0mol.%
+T37	Value 553 561	0.3mol.%
+T28	SC 713 736	high Tc superconducting
+R1	Target Arg1:E1 Arg2:T4
+E1	Doping:T2 Dopant:T1
+E2	Doping:T12 Dopant:T11
+E3	Doping:T20 
+E4	Doping:T22 Dopant:T21 Site:T23
+E5	Doping:T22 Dopant:T21 Site:T24
+E6	Doping:T27 Dopant:T26
+E7	Doping:T32 Dopant:T36
+#1	AnnotatorNotes T1	0-4
+#2	AnnotatorNotes T4	37-50
+#3	AnnotatorNotes T5	51-55
+#4	AnnotatorNotes T7	85-89
+#5	AnnotatorNotes T8	95-104
+#6	AnnotatorNotes T9	119-127
+#7	AnnotatorNotes T11	165-169
+#8	AnnotatorNotes T17	366-375
+#9	AnnotatorNotes T21	631-633
+#10	AnnotatorNotes T23	647-649
+#11	AnnotatorNotes T24	662-665
+#12	AnnotatorNotes T25	666-671
+#13	AnnotatorNotes T26	681-683
+#14	AnnotatorNotes T31	796-808
+#15	AnnotatorNotes T36	819-822
+#16	AnnotatorNotes T35	541-549
+#17	AnnotatorNotes T37	553-561

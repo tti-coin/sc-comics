@@ -1,0 +1,36 @@
+T1	SC 18 33	superconductors
+T3	SC 44 58	superconductor
+T4	Main 59 80	LnFePnO1−x F x (1111)
+T5	SC 97 100	T c
+T7	Element 125 130	oxide
+T8	SC 131 146	superconductors
+T9	Property 148 156	Electron
+T13	Element 192 193	F
+T14	SC 219 236	superconductivity
+T15	Material 244 254	structures
+T16	Element 262 266	iron
+T17	SC 314 317	T c
+T18	SC 327 330	T c
+T19	Element 347 351	1111
+T20	Material 352 361	materials
+T21	Element 396 401	FeAs4
+T22	Material 408 418	structures
+T23	SC 424 427	T c
+T24	Property 432 452	upper critical field
+T26	Property 518 533	magnetic fields
+T27	SC 569 584	superconducting
+T28	Material 585 590	wires
+T29	Element 653 654	F
+T34	Value 105 108	58K
+T2	Element 35 37	Fe
+T6	Element 116 118	Cu
+T31	Process 688 717	ex-situ powder-in-tube method
+T10	Doping 157 163	doping
+T11	Doping 167 179	substitution
+T12	Element 183 185	O2
+T25	Element 456 470	1111 compounds
+T30	Material 384 395	tetrahedral
+R1	Equivalent Arg1:T5 Arg2:T34
+R2	Target Arg1:T34 Arg2:T4
+E1	Doping:T10 Dopant:T9
+E2	Doping:T11 Dopant:T13 Site:T12

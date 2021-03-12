@@ -1,0 +1,54 @@
+T1	Property 23 37	phase diagrams
+T2	Property 41 59	antiferromagnetism
+T3	Property 61 64	AFM
+T4	SC 70 96	high-T c superconductivity
+T5	SC 98 102	HTSC
+T7	Element 124 128	CuO2
+T8	Material 129 134	plane
+T9	Property 167 179	hole density
+T10	Element 202 204	Cu
+T11	Material 220 232	multilayered
+T12	Element 233 246	copper oxides
+T13	Material 248 260	Multilayered
+T14	Material 340 353	disorder-free
+T15	Element 354 358	CuO2
+T16	Material 359 364	plane
+T17	Characterization 385 388	NMR
+T18	Material 435 450	layer-dependent
+T19	Property 527 530	AFM
+T20	SC 535 537	SC
+T21	Element 581 585	CuO2
+T22	Material 586 591	plane
+T24	SC 619 623	HTSC
+T25	Property 633 646	phase diagram
+T26	Property 650 653	AFM
+T28	Property 723 741	strong correlation
+T29	Property 778 790	mobile holes
+T30	Property 847 859	Cooper pairs
+T31	SC 868 871	T c
+T32	SC 875 879	HTSC
+T33	Characterization 930 933	NMR
+T34	Property 945 953	electron
+T36	Element 960 977	iron-oxypnictides
+T37	Element 978 984	La1111
+T38	SC 1016 1019	T c
+T39	Property 1053 1056	AFM
+T40	Property 1057 1074	spin fluctuations
+T41	Material 1092 1113	structural parameters
+T42	Material 1127 1137	bond angle
+T43	Element 1147 1152	FeAs4
+T44	SC 1283 1287	HTSC
+T45	Element 1296 1300	FeAs
+T46	SC 1307 1322	superconductors
+T47	SC 1332 1335	T c
+T48	Value 631 632	0
+T49	Characterization 205 208	NMR
+T27	Material 1173 1186	a-axis length
+T50	Material 1153 1164	tetrahedron
+T51	Property 797 809	Mott physics
+T6	Material 110 118	disorder
+T23	Doping 598 608	underdoped
+T35	Doping 954 959	doped
+R3	Target Arg1:E2 Arg2:T36
+E1	Doping:T23
+E2	Doping:T35 Dopant:T34

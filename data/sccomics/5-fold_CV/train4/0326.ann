@@ -1,0 +1,47 @@
+T1	Property 4 23	magnetic properties
+T2	Main 59 75	DyNi2− x A x B2C
+T3	Element 80 82	Co
+T4	Element 87 89	Cr
+T6	Element 153 155	Co
+T7	Element 159 161	Cr
+T8	Element 166 168	Ni
+T9	Property 181 212	magnetic transition temperature
+T11	Property 234 253	magnetic hysteresis
+T13	Element 257 265	DyNi2B2C
+T14	Property 333 350	antiferromagnetic
+T15	Property 367 381	magnetic field
+T16	Process 389 405	low temperatures
+T17	Element 422 438	DyNi2− x A x B2C
+T18	Property 495 509	magnetic field
+T19	Property 555 566	first order
+T20	Property 596 613	antiferromagnetic
+T21	Property 617 630	ferromagnetic
+T22	Property 710 724	magnetic field
+T23	Element 784 786	Cr
+T24	Element 791 807	DyNi2− x A x B2C
+T25	Property 834 853	magnetic transition
+T26	Element 919 935	DyNi2− x A x B2C
+T29	Value 94 97	0.1
+T30	Value 103 106	0.2
+T34	Property 28 49	magnetocaloric effect
+T35	Property 51 54	MCE
+T37	Value 735 737	5T
+T41	Property 875 878	MCE
+T44	Property 465 468	MCE
+T45	Property 278 281	MCE
+T46	Value 689 702	13.7Jkg−1 K−1
+T47	Element 750 752	Co
+T48	Element 760 762	Co
+T49	Element 770 772	Cr
+T50	Value 745 748	0.1
+T51	Value 755 758	0.2
+T52	Value 765 768	0.1
+T53	Value 779 782	0.2
+T36	Value 668 672	16.3
+T56	Value 679 683	16.1
+T57	Value 674 678	10.2
+T5	Doping 137 149	Substitution
+R1	Target Arg1:E1 Arg2:T13
+R2	Target Arg1:E2 Arg2:T13
+E1	Doping:T5 Dopant:T6 Site:T8
+E2	Doping:T5 Dopant:T7 Site:T8

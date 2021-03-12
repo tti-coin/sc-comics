@@ -1,0 +1,45 @@
+T1	Property 18 27	isovalent
+T3	Element 44 48	Sr2+
+T4	Element 52 56	Ca2+
+T5	Material 64 73	structure
+T6	SC 78 93	superconducting
+T7	Main 108 126	Sr2−x Ca x VO3FeAs
+T8	Material 147 166	compositional range
+T9	Characterization 176 181	SQUID
+T11	SC 249 252	T c
+T12	Element 286 305	Sr1.95Ca0.05VO3FeAs
+T13	SC 330 347	superconductivity
+T14	Characterization 379 384	XANES
+T15	Element 396 414	Sr2−x Ca x VO3FeAs
+T16	Element 432 434	Fe
+T17	Element 439 440	V
+T18	Property 441 451	absorption
+T19	Material 516 527	composition
+T20	Characterization 582 593	synchrotron
+T21	Characterization 594 618	X-ray powder diffraction
+T22	Characterization 623 649	neutron powder diffraction
+T23	SC 708 711	T c
+T24	Material 747 756	structure
+T25	Element 764 768	FeAs
+T26	Material 769 774	layer
+T27	Element 788 790	Ca
+T29	SC 837 854	superconductivity
+T31	SC 871 886	superconductors
+T32	Material 917 934	crystal structure
+T33	SC 940 943	T c
+T34	Element 978 983	FeAs4
+T38	Value 167 168	0
+T40	Value 171 174	0.5
+T41	Value 277 282	29.5K
+T43	Property 452 459	K-edges
+T30	Element 862 864	Fe
+T10	Characterization 182 207	magnetometry measurements
+T47	Material 984 994	tetrahedra
+T2	Doping 28 40	substitution
+T28	Doping 791 803	substitution
+R1	Equivalent Arg1:T11 Arg2:T41
+R2	Target Arg1:T41 Arg2:T12
+R3	Target Arg1:E1 Arg2:T7
+R4	Target Arg1:E2 Arg2:T25
+E1	Doping:T2 Site:T3 Dopant:T4
+E2	Doping:T28 Dopant:T27

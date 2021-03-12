@@ -1,0 +1,58 @@
+T1	Property 4 12	magnetic
+T2	SC 75 89	superconductor
+T3	Material 98 114	permanent magnet
+T4	Property 136 149	magnetization
+T5	SC 157 171	superconductor
+T6	Property 180 194	magnetic-field
+T7	Property 205 218	Magnetization
+T8	Material 280 287	ceramic
+T9	SC 288 303	superconductors
+T10	SC 310 313	T c
+T11	Property 374 382	magnetic
+T12	Property 427 440	Magnetization
+T13	Property 476 491	magnetic fields
+T14	Property 507 523	Hysteresis loops
+T15	Property 603 616	magnetization
+T16	Material 697 704	ceramic
+T20	Property 840 853	magnetization
+T24	Material 1201 1217	permanent magnet
+T25	SC 1231 1245	superconductor
+T26	Property 1307 1315	magnetic
+T27	SC 1334 1348	superconductor
+T28	Material 1357 1373	permanent magnet
+T29	Property 1375 1387	Calculations
+T30	Property 1410 1415	model
+T31	Property 1440 1448	magnetic
+T32	SC 1540 1554	superconductor
+T33	Material 1580 1596	permanent magnet
+T34	Property 1611 1617	damped
+T35	SC 1719 1733	superconductor
+T36	Property 1885 1893	magnetic
+T37	Value 1430 1434	77 K
+T39	Value 460 463	4.2
+T40	Value 468 472	77 K
+T42	Value 498 505	180 kOe
+T43	Main 264 279	YBa2Cu3O x -AgO
+T45	Value 545 552	1.2 kOe
+T46	Value 575 578	4.2
+T47	Value 580 582	77
+T51	Value 314 318	93 K
+T53	Value 778 783	4.2 K
+T54	Value 793 801	80 emu/g
+T55	Value 813 820	3 emu/g
+T56	Value 1077 1084	0.5 kOe
+T57	Value 824 828	77 K
+T58	Value 942 946	77 K
+T21	Property 973 995	positive magnetization
+T22	Property 1092 1114	positive magnetization
+T19	Property 759 774	remanent moment
+T23	Property 1148 1170	positive magnetization
+T38	Property 621 631	hysteresis
+T41	Property 858 868	hysteresis
+T48	Property 901 908	pinning
+T49	Property 928 938	hysteresis
+T17	SC 705 729	high-T c superconductors
+T18	Value 587 589	87
+T44	Value 593 597	88 K
+R1	Equivalent Arg1:T10 Arg2:T51
+R2	Target Arg1:T51 Arg2:T43

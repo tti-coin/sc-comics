@@ -1,0 +1,49 @@
+T1	Property 63 71	magnetic
+T2	Material 122 129	surface
+T3	Material 160 170	sub-micron
+T4	Material 185 200	heterostructure
+T6	Characterization 239 269	scanning tunnelling microscope
+T7	Characterization 271 274	STM
+T8	Characterization 279 302	atomic force microscope
+T9	Characterization 304 307	AFM
+T10	Property 409 417	magnetic
+T11	Property 584 599	magnetic fields
+T12	Property 658 676	magnetic induction
+T13	Process 722 737	low temperature
+T14	Property 749 757	vortices
+T15	SC 761 784	type II superconductors
+T16	Material 949 962	semiconductor
+T17	Material 963 978	heterostructure
+T18	Material 1027 1034	surface
+T19	Property 1073 1087	full potential
+T20	Property 1141 1147	vortex
+T21	SC 1182 1197	superconducting
+T23	Material 1211 1224	vortex chains
+T24	Property 1269 1280	anisotropic
+T26	Property 1329 1334	pairs
+T27	Property 1362 1375	ferromagnetic
+T28	SC 1376 1390	superconductor
+T29	Material 1391 1408	hybrid structures
+T30	Property 1420 1428	vortices
+T31	SC 1450 1464	superconductor
+T32	Element 1465 1472	Sr2RuO4
+T33	Characterization 0 30	Scanning Hall probe microscopy
+T34	Characterization 32 36	SHPM
+T35	Value 861 866	100nm
+T36	Characterization 920 924	SHPM
+T39	Characterization 426 430	SHPM
+T40	Property 504 516	non-invasive
+T42	Material 1233 1250	crossing lattices
+T5	Property 102 114	stray fields
+T22	Material 1311 1328	vortex–antivortex
+T43	Process 1476 1500	milliKelvin temperatures
+T44	Characterization 337 348	measurement
+T45	Characterization 993 1004	measurement
+T46	Property 1349 1358	nucleated
+T47	Material 171 184	semiconductor
+T38	Value 570 573	0.3
+T48	Value 574 578	300K
+T37	Value 601 602	0
+T49	Value 603 605	7T
+T25	SC 1289 1304	superconductors
+T50	Element 1281 1288	cuprate

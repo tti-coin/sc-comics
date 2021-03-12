@@ -1,0 +1,37 @@
+T1	SC 8 23	superconducting
+T4	Material 92 105	nanoparticles
+T5	SC 106 120	superconductor
+T6	Material 121 131	composites
+T7	Property 174 188	magnetic field
+T8	SC 219 239	critical temperature
+T10	Property 264 288	normal state resistivity
+T12	Element 336 338	Ag
+T13	Material 339 352	nanoparticles
+T14	SC 366 381	superconducting
+T15	Material 382 388	matrix
+T16	Property 454 477	external magnetic field
+T18	Property 552 583	external applied magnetic field
+T19	Property 686 694	magnetic
+T20	Property 695 703	vortices
+T21	Material 720 724	flux
+T22	Property 730 747	activation energy
+T23	Element 797 806	CuTl-1223
+T25	Element 830 832	Ag
+T26	Material 833 846	nanoparticles
+T27	Property 873 894	flux pinning strength
+T29	SC 898 912	superconductor
+T32	Value 62 63	0
+T33	Value 83 90	4.0wt %
+T34	Value 65 68	0.5
+T35	Value 70 73	1.0
+T36	Value 75 78	2.0
+T37	Value 199 201	8T
+T38	Element 356 365	CuTl-1223
+T11	SC 403 410	Tc°nset
+T28	SC 613 620	Tc°nset
+T24	Main 39 54	(Ag)x/CuTl-1223
+T39	Doping 818 826	addition
+T9	SC 241 246	Tc(0)
+T17	SC 505 511	Tc (0)
+R1	Target Arg1:E1 Arg2:T23
+E1	Doping:T39 Dopant:T25

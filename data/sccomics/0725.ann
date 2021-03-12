@@ -1,0 +1,21 @@
+T1	Main 159 167	cuprates
+T4	Property 214 229	s-wave symmetry
+T5	Property 262 277	order parameter
+T6	Property 321 339	q-fermionic theory
+T8	Property 445 465	critical temperature
+T10	Property 512 525	Specific heat
+T11	Property 534 547	phase diagram
+T12	Property 703 706	T c
+T13	Property 714 727	phase diagram
+T14	Property 138 150	gap equation
+T16	Property 430 433	gap
+T17	Property 15 31	algebraic method
+T7	Property 394 406	Fermi theory
+T2	Property 176 195	tight-binding model
+T3	Property 245 261	d x 2 - y 2 wave
+T15	Value 659 660	1
+T18	Property 122 130	q-analog
+T19	Property 92 97	Gauss
+T21	Property 4 14	q-deformed
+T9	Doping 469 475	doping
+E1	Doping:T9

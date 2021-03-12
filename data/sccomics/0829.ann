@@ -1,0 +1,43 @@
+T1	Main 0 28	Bi2Sr2Ca1 − x Yb x Cu2O8 + δ
+T2	Main 30 37	Bi-2212
+T3	Material 39 54	single crystals
+T4	Process 116 125	self-flux
+T5	Element 152 154	Yb
+T7	Material 186 198	dislocations
+T8	Material 206 224	lattice structures
+T10	Characterization 306 311	SQUID
+T11	Property 332 342	Bean model
+T12	Property 343 354	calculation
+T13	Property 368 392	critical current density
+T14	Property 394 396	Jc
+T15	Element 419 421	Yb
+T17	SC 462 464	Tc
+T18	Property 473 494	carrier concentration
+T19	Element 561 565	Ca–O
+T20	Element 570 575	Cu–O2
+T21	Material 576 582	layers
+T22	Material 596 607	dislocation
+T23	Property 608 615	density
+T24	Element 623 628	Cu–O2
+T25	Material 629 635	layers
+T26	Material 678 690	dislocations
+T27	Material 732 744	dislocations
+T28	Element 777 779	Yb
+T30	Element 850 857	Bi-2212
+T31	Material 858 873	single crystals
+T35	Value 64 69	0.000
+T37	Value 444 449	0.010
+T39	Value 78 83	0.010
+T40	Value 88 93	0.020
+T9	Characterization 539 544	HRTEM
+T41	Property 819 846	current carrying capability
+T42	Property 249 276	current carrying capability
+T43	Characterization 312 323	measurement
+T6	Doping 155 161	doping
+T16	Doping 422 428	doping
+T29	Doping 780 792	substitution
+T32	Value 71 76	0.005
+R2	Target Arg1:E4 Arg2:T30
+E2	Doping:T6 Dopant:T5
+E3	Doping:T16 Dopant:T15
+E4	Doping:T29 Dopant:T28

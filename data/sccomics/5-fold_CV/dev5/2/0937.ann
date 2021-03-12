@@ -1,0 +1,73 @@
+T1	Material 0 18	Single crystalline
+T3	SC 28 43	superconducting
+T4	Material 44 52	whiskers
+T6	Process 81 94	melt quenched
+T7	Main 95 111	Bi2SbSr2Ca2Cu3Ox
+T8	Process 137 151	heat treatment
+T9	Material 160 168	Whiskers
+T11	Process 252 267	Crystallization
+T12	Property 268 285	activation energy
+T13	Material 293 301	material
+T14	Material 367 377	Structural
+T15	Material 382 406	micro-structural changes
+T16	Characterization 458 461	XRD
+T17	Characterization 466 469	SEM
+T18	Characterization 470 473	EDX
+T19	Material 493 501	whiskers
+T20	Material 512 518	c-axis
+T21	Material 528 546	single crystalline
+T22	Element 547 560	Bi2Sr2CaCu2Ox
+T23	Element 562 569	Bi-2212
+T24	Material 587 601	smooth surface
+T25	Property 614 620	cracks
+T26	Material 625 637	dislocations
+T27	Element 639 646	Sb ions
+T28	Material 679 688	structure
+T29	Material 692 700	whiskers
+T30	Element 706 713	Sb ions
+T32	Material 767 775	whiskers
+T33	Property 777 799	Temperature dependence
+T34	Property 803 814	resistivity
+T35	Material 850 856	c-axis
+T36	SC 862 900	superconducting transition temperature
+T37	SC 902 904	Tc
+T38	Material 914 922	whiskers
+T39	Property 961 972	resistivity
+T40	Material 992 998	c-axis
+T41	Property 999 1010	resistivity
+T44	Property 1066 1069	J c
+T45	Property 1138 1162	Magnetization hysteresis
+T47	Property 1237 1245	Magnetic
+T48	Property 1246 1272	critical current densities
+T49	Property 1274 1277	J c
+T50	Material 1289 1297	whiskers
+T51	Property 1324 1336	Bean’s Model
+T10	Material 207 216	thickness
+T57	Value 939 945	93.8 K
+T58	Value 1093 1108	2.6 × 105 A/cm2
+T60	Material 954 960	a-axis
+T61	Value 977 983	90.9 K
+T46	Property 1164 1167	M–H
+T62	Value 1219 1221	10
+T63	Value 1112 1114	10
+T64	Value 1223 1225	20
+T65	Value 1230 1234	30 K
+T66	Value 334 345	609 kJmol−1
+T67	Property 349 365	Kissinger method
+T5	Value 1119 1128	1.1 × 105
+T59	Value 1132 1136	70 K
+T68	Property 1030 1064	transport critical current density
+T42	Process 416 433	heating treatment
+T31	Doping 714 719	added
+T2	Element 19 21	Bi
+T53	Value 199 200	6
+T54	Value 218 220	60
+T55	Value 237 238	1
+T56	Value 201 206	15 μm
+T69	Value 221 226	95 μm
+T70	Value 239 243	3 mm
+R1	Coref Arg1:T22 Arg2:T23
+R2	Coref Arg1:T36 Arg2:T37
+R3	Equivalent Arg1:T37 Arg2:T57
+R4	Equivalent Arg1:T37 Arg2:T61
+E1	Doping:T31 Dopant:T30

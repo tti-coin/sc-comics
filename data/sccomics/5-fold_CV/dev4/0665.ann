@@ -1,0 +1,54 @@
+T1	Element 14 30	polyacrylic acid
+T2	Element 32 35	PAA
+T4	Main 43 47	MgB2
+T5	Material 48 53	bulks
+T6	Material 139 154	phase formation
+T7	Material 156 163	lattice
+T8	Material 172 186	microstructure
+T9	Property 192 200	critical
+T10	Element 229 232	PAA
+T12	Element 251 254	PAA
+T14	Element 276 279	MgO
+T15	Material 291 305	grain boundary
+T16	Material 336 352	lattice constant
+T17	Property 357 377	critical temperature
+T18	Property 379 381	Tc
+T20	Element 428 429	B
+T21	Element 439 440	C
+T22	Element 444 448	MgB2
+T23	Property 467 491	critical current density
+T24	Property 493 495	Jc
+T25	Property 506 521	magnetic fields
+T26	Element 551 554	PAA
+T27	Element 590 593	PAA
+T28	Element 729 730	C
+T30	Material 757 762	grain
+T31	Element 775 778	PAA
+T33	Element 803 806	PAA
+T34	Material 823 829	dopant
+T35	Property 843 845	Jc
+T36	Element 865 869	MgB2
+T37	Material 329 335	a-axis
+T38	Value 566 576	5.99kA/cm2
+T39	Value 585 589	7wt%
+T41	Value 670 672	5K
+T42	Value 677 681	6.6T
+T43	Process 57 67	wet mixing
+T44	Process 72 96	in situ reaction process
+T3	Doping 37 42	doped
+T11	Doping 233 239	doping
+T13	Doping 255 261	doping
+T19	Doping 412 424	substitution
+T29	Doping 594 599	doped
+T32	Doping 731 743	substitution
+T40	Doping 779 785	doping
+R1	Coref Arg1:T1 Arg2:T2
+R3	Target Arg1:E1 Arg2:T4
+R4	Target Arg1:E4 Arg2:T22
+E1	Doping:T3 Dopant:T1
+E2	Doping:T11 Dopant:T10
+E3	Doping:T13 Dopant:T12
+E4	Doping:T19 Site:T20 Dopant:T21
+E5	Doping:T29 Dopant:T27
+E6	Doping:T32 Dopant:T28
+E7	Doping:T40 Dopant:T31

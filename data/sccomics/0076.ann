@@ -1,0 +1,58 @@
+T2	Property 132 151	non-superconducting
+T3	SC 171 186	superconducting
+T4	SC 257 274	superconductivity
+T5	SC 599 614	superconducting
+T6	SC 620 623	T c
+T8	SC 786 788	Tc
+T10	SC 981 984	T c
+T14	Element 28 30	La
+T15	Element 35 37	Ba
+T16	Element 41 43	Ca
+T17	Main 47 64	La1.5Ba1.5Cu3O7+δ
+T19	Main 65 74	336 phase
+T20	Element 152 161	336-phase
+T21	Element 187 197	1113-phase
+T22	Element 199 212	CaBaLaCu3O7−δ
+T27	Main 299 327	La1.5−x Ba1.5−x Ca2x Cu3O7−δ
+T31	Value 329 332	0.0
+T32	Value 335 338	1.0
+T38	Value 502 505	0.6
+T41	Value 399 402	0.3
+T42	Element 744 761	La1.5Ba1.5Cu3O7+δ
+T44	Value 572 575	0.2
+T46	Value 578 581	1.0
+T48	Element 841 865	La1.5(Ba1.0Ca0.5)Cu3O7+δ
+T51	Value 897 901	45 K
+T13	Element 936 960	(La1.0Ca0.5)Ba1.5Cu3O7−δ
+T53	Value 994 998	72 K
+T54	Element 1154 1167	1:1:1:3 ratio
+T55	Element 1111 1124	Ca-Ba-La-Cu-O
+T56	Value 468 471	0.3
+T57	Value 474 477	0.6
+T60	Element 702 704	La
+T61	Element 738 740	Ca
+T62	Element 708 710	Ba
+T63	Material 358 370	single phase
+T64	Material 538 553	impurity phases
+T65	Material 1044 1064	cationic composition
+T66	Material 821 840	nominal composition
+T11	SC 1073 1097	high-T c superconducting
+T1	Doping 13 24	replacement
+T7	Doping 680 691	replacement
+T12	Value 644 646	57
+T18	Value 647 651	72 K
+T9	SC 879 887	T c(R=0)
+R1	Equivalent Arg1:T10 Arg2:T53
+R2	Target Arg1:T51 Arg2:T48
+R3	Target Arg1:T53 Arg2:T13
+R4	Equivalent Arg1:T6 Arg2:T12
+R5	Equivalent Arg1:T6 Arg2:T18
+R6	Equivalent Arg1:T9 Arg2:T51
+R9	Target Arg1:E1 Arg2:T17
+R10	Target Arg1:E2 Arg2:T42
+R11	Target Arg1:E3 Arg2:T17
+R12	Target Arg1:E4 Arg2:T42
+E1	Doping:T1 Site:T14 Dopant:T16
+E2	Doping:T7 Site:T60 Dopant:T61
+E3	Doping:T1 Site:T15 Dopant:T16
+E4	Doping:T7 Dopant:T61 Site:T62

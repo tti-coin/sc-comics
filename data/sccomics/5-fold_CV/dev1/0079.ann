@@ -1,0 +1,39 @@
+T3	Material 101 111	thin films
+T4	Process 156 181	chemical vapor deposition
+T5	Material 281 286	films
+T6	SC 292 295	T c
+T8	Material 533 557	crystallite orientations
+T9	Material 570 575	films
+T11	Process 627 643	partial pressure
+T14	Material 705 710	films
+T15	Material 773 784	orientation
+T16	Material 819 823	film
+T17	Material 835 846	orientation
+T18	SC 908 923	superconducting
+T19	Material 945 955	thin films
+T20	Material 1053 1064	orientation
+T21	Material 1070 1074	film
+T22	Material 767 772	(110)
+T23	Material 743 748	(00l)
+T24	Element 811 818	Y2Cu2O5
+T25	Material 752 757	(100)
+T26	Material 829 834	(002)
+T27	Element 940 944	YBCO
+T28	Main 71 75	YBCO
+T29	Value 310 314	90 K
+T30	Element 269 280	YBa2Cu3O7-δ
+T32	Element 340 349	(100) YSZ
+T33	Element 354 363	(100) MgO
+T34	Element 867 869	Ba
+T35	Element 565 569	YBCO
+T37	Property 209 223	organometallic
+T38	Process 37 42	MOCVD
+T39	Material 256 268	Single phase
+T40	Process 610 625	oxidation agent
+T10	Material 364 374	substrates
+T41	Property 880 889	gas phase
+T42	Process 112 117	grown
+T1	SC 76 100	high-T c superconducting
+T2	Process 678 699	substrate temperature
+R1	Equivalent Arg1:T6 Arg2:T29
+R2	Target Arg1:T29 Arg2:T30

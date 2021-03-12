@@ -1,0 +1,42 @@
+T1	Process 0 20	Hydrostatic pressure
+T4	Process 63 79	room temperature
+T5	Main 117 131	NdFeAsO1−x F y
+T8	Process 178 186	pressure
+T9	Material 195 202	lattice
+T10	Characterization 222 233	synchrotron
+T11	Characterization 234 237	XRD
+T12	Material 296 313	lattice constants
+T13	Process 326 334	pressure
+T14	SC 353 368	superconducting
+T15	Element 420 434	SmFeAsO1−x F x
+T16	Element 436 442	Sm1111
+T17	Element 487 493	Nd1111
+T18	Element 501 507	Sm1111
+T19	Process 512 532	hydrostatic pressure
+T20	Characterization 533 551	Raman measurements
+T21	Element 582 592	rare earth
+T22	Material 593 597	atom
+T25	Property 680 690	hysteresis
+T26	Property 710 716	phonon
+T27	Property 730 736	phonon
+T28	Property 759 778	Grüneisen parameter
+T29	Element 787 789	Nd
+T30	Property 790 796	phonon
+T31	Element 844 858	SmFeAsO1−x F x
+T34	Element 916 918	As
+T35	Property 966 972	phonon
+T36	Characterization 1025 1041	XRD measurements
+T38	Material 1104 1111	lattice
+T40	SC 1165 1180	superconducting
+T23	Property 616 642	linear pressure dependence
+T32	Material 992 1000	ion size
+T6	Main 133 139	Nd1111
+T37	Element 141 153	oxypnictides
+T7	Characterization 1046 1051	Raman
+T46	Process 1087 1095	pressure
+T33	Doping 894 906	substitution
+T39	Doping 1131 1137	doping
+T24	Characterization 21 26	Raman
+T2	Characterization 31 59	synchrotron XRD measurements
+E1	Doping:T33
+E2	Doping:T39

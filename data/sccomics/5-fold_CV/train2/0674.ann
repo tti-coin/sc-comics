@@ -1,0 +1,22 @@
+T1	Property 4 24	critical temperature
+T3	Element 39 41	Ga
+T4	Property 42 55	concentration
+T5	Property 63 77	inter-metallic
+T6	Material 78 91	pseudo-binary
+T7	Main 92 110	Ca(Al1− x Ga x )Si
+T8	Property 145 158	tight binding
+T9	Property 159 171	calculations
+T10	Property 230 247	density of states
+T11	Property 255 266	Fermi level
+T14	Property 408 428	critical temperature
+T15	Element 435 437	Ga
+T17	Element 492 499	gallium
+T19	Property 517 532	electron–phonon
+T20	Property 630 636	Tc (x)
+T2	Material 378 391	non-monotonic
+T24	Value 688 691	0.7
+T16	Doping 500 512	substitution
+T18	Doping 438 444	doping
+T12	Property 289 302	Ca3d-orbitals
+E1	Doping:T16 Dopant:T17
+E2	Doping:T18 Dopant:T15

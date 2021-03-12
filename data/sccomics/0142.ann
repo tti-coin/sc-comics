@@ -1,0 +1,91 @@
+T2	SC 53 68	superconducting
+T3	Process 83 91	sintered
+T4	Material 92 96	bulk
+T6	Property 219 237	fracture toughness
+T9	Property 392 410	fracture toughness
+T11	Property 569 587	fracture toughness
+T13	Property 684 702	fracture toughness
+T15	SC 802 817	superconducting
+T16	Property 916 934	fracture toughness
+T18	Process 1022 1028	sinter
+T19	Process 1029 1036	forging
+T20	Process 1038 1050	hot pressing
+T21	Process 1056 1078	hot isostatic pressing
+T22	Property 1103 1111	hardness
+T23	Property 1189 1197	hardness
+T25	SC 1249 1264	superconducting
+T26	SC 1285 1288	T c
+T27	SC 1308 1323	superconductors
+T28	Main 97 106	YBa2Cu3Oδ
+T29	Main 108 112	YBCO
+T31	Main 115 130	Bi2Sr1.7CaCu2Oδ
+T32	Main 132 142	BSCCO-2212
+T34	Main 149 172	Bi1.8Pb0.4Sr2.2Ca2Cu3Oδ
+T35	Main 174 184	BSCCO-2223
+T37	Element 241 245	YBCO
+T38	Element 250 255	BSCCO
+T39	Element 287 289	Ag
+T40	Value 304 312	30 vol.%
+T41	Element 313 315	Ag
+T42	Value 329 338	30 vol. %
+T43	Element 339 341	Ag
+T44	Element 345 349	YBCO
+T47	Value 447 455	30 vol.%
+T48	Element 456 458	Ag
+T49	Element 462 466	2212
+T50	Element 471 475	2223
+T55	Element 745 747	Ag
+T56	Element 938 943	BSCCO
+T58	Element 953 955	Ag
+T59	Element 1004 1009	BSCCO
+T60	Element 1115 1119	YBCO
+T61	Element 1124 1129	BSCCO
+T62	Element 1156 1158	Ag
+T63	Element 1201 1203	Ag
+T64	Element 1217 1219	Ag
+T65	Property 1277 1280	J c
+T66	Element 1294 1298	YBCO
+T67	Element 1302 1307	BSCCO
+T68	Element 14 20	silver
+T5	Material 748 757	particles
+T8	Property 206 214	Strength
+T12	Property 360 368	strength
+T14	Property 486 494	strength
+T17	Property 671 679	strength
+T70	Property 836 853	crack propagation
+T71	Property 857 864	pinning
+T72	Property 881 887	cracks
+T1	Doping 21 30	additions
+T7	Doping 317 325	Addition
+T10	Doping 435 443	Addition
+T24	Doping 1205 1213	Addition
+T30	Value 374 376	87
+T33	Value 380 387	136 MPa
+T36	Value 416 420	1.82
+T45	Value 424 433	3.9 MPa√m
+T46	Value 500 502	58
+T51	Value 506 509	107
+T52	Value 514 516	41
+T73	Value 520 526	90 MPa
+T53	Value 598 602	1.89
+T74	Value 606 610	2.79
+T54	Value 615 619	1.09
+T75	Value 623 633	1.94 MPa√m
+T57	Value 944 952	30 vol.%
+T69	Property 774 794	compressive stresses
+R4	Target Arg1:E1 Arg2:T28
+R5	Target Arg1:E2 Arg2:T44
+R6	Target Arg1:E3 Arg2:T49
+R7	Target Arg1:E4 Arg2:T66
+R8	Target Arg1:E5 Arg2:T50
+R9	Target Arg1:E6 Arg2:T34
+R10	Target Arg1:E7 Arg2:T31
+R11	Target Arg1:E8 Arg2:T67
+E1	Doping:T1 Dopant:T68
+E2	Doping:T7 Dopant:T43
+E3	Doping:T10 Dopant:T48
+E4	Doping:T24 Dopant:T64
+E5	Doping:T10 Dopant:T48
+E6	Doping:T1 Dopant:T68
+E7	Doping:T1 Dopant:T68
+E8	Doping:T24 Dopant:T64

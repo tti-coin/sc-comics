@@ -1,0 +1,68 @@
+T1	Process 21 41	hydrostatic pressure
+T2	Property 73 85	conductivity
+T3	Property 100 109	pseudogap
+T5	Main 135 146	YBa2Cu3O7−δ
+T6	Material 147 162	single crystals
+T7	SC 164 167	T c
+T10	Property 286 295	pseudogap
+T11	Process 302 310	pressure
+T13	Material 393 408	single crystals
+T14	Property 505 513	strength
+T16	Element 533 541	cuprates
+T17	Process 558 566	pressure
+T18	SC 598 601	T c
+T19	SC 608 611	T c
+T20	SC 651 683	high-temperature superconductors
+T21	Process 739 747	pressure
+T22	Process 771 779	pressure
+T23	SC 790 793	T c
+T25	Element 908 912	YBCO
+T26	Material 913 928	single crystals
+T27	Process 971 979	pressure
+T28	SC 999 1002	T c
+T29	Process 1046 1054	pressure
+T30	SC 1061 1064	T c
+T32	Property 1144 1164	fluctuation theories
+T33	SC 1258 1261	T c
+T34	Property 1309 1329	fluctuation theories
+T35	SC 1472 1486	superconductor
+T36	Process 1565 1571	growth
+T37	Property 1664 1674	superfluid
+T38	Property 1675 1682	density
+T39	Property 1702 1709	density
+T40	Property 1725 1737	Cooper pairs
+T41	SC 1811 1814	T c
+T42	Value 50 58	0.95 GPa
+T43	Value 170 176	91.1 K
+T8	Process 180 196	ambient pressure
+T44	Value 325 329	0.32
+T45	Value 614 615	5
+T46	Value 623 628	0 GPa
+T47	Value 719 722	16%
+T48	Property 1098 1114	Aslamazov-Larkin
+T49	Property 1119 1121	AL
+T50	Property 1130 1143	Hikami-Larkin
+T53	Value 1357 1363	1.16 K
+T31	Property 1116 1118	3D
+T51	Property 1179 1184	3D–2D
+T52	Value 815 828	+0.73 K GPa−1
+T54	Value 848 866	(−17 ± 0.2)% GPa−1
+T56	Property 1127 1129	2D
+T57	Property 1435 1448	wave function
+T4	Doping 129 134	doped
+T12	Doping 387 392	doped
+T15	Doping 527 532	doped
+T24	Doping 902 907	doped
+T9	Value 357 361	1.12
+T55	Characterization 240 252	measurements
+T58	Property 217 239	electrical resistivity
+R1	Equivalent Arg1:T7 Arg2:T43
+R2	Target Arg1:T43 Arg2:T5
+R3	Target Arg1:E3 Arg2:T16
+R4	Target Arg1:E4 Arg2:T25
+R5	Target Arg1:E1 Arg2:T5
+R6	Condition Arg1:T43 Arg2:E1
+E1	Doping:T4
+E2	Doping:T12 Site:T13
+E3	Doping:T15
+E4	Doping:T24

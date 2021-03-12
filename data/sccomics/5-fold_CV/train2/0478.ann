@@ -1,0 +1,90 @@
+T1	SC 15 32	superconductivity
+T2	Element 36 51	Ba0.6K0.4Fe2As2
+T3	Process 109 120	crystallize
+T4	Element 126 134	ThCr2Si2
+T5	Material 135 144	structure
+T6	Element 158 166	AT 2 X 2
+T7	Element 170 176	alkali
+T8	Element 177 191	alkaline earth
+T9	Element 192 210	rare earth element
+T11	Element 288 297	silicides
+T12	Main 298 306	CaFe2Si2
+T13	Main 308 331	CaFe0.68(6)Rh1.32(6)Si2
+T14	Main 333 341	CaRh2Si2
+T15	Main 346 354	SrCo2Si2
+T17	Process 414 430	argon atmosphere
+T18	Material 432 447	Single crystals
+T19	Process 473 487	heat treatment
+T20	Process 491 497	welded
+T21	Element 498 505	niobium
+T22	Element 506 514	tantalum
+T23	Material 569 575	powder
+T24	Material 580 594	single crystal
+T25	Characterization 595 612	X-ray diffraction
+T26	Process 628 639	crystallize
+T27	Material 647 660	ThCr2Si2-type
+T28	Material 661 670	structure
+T29	Material 676 687	space group
+T30	Material 688 694	I4/mmm
+T31	Element 783 791	CaFe2Si2
+T32	Element 872 895	CaFe0.68(6)Rh1.32(6)Si2
+T33	Element 976 984	CaRh2Si2
+T34	Element 1067 1075	SrCo2Si2
+T35	Material 1081 1090	structure
+T36	Element 1094 1102	SrCo2Si2
+T37	Element 1121 1131	[Co2Si2]2−
+T38	Material 1135 1141	layers
+T39	Material 1152 1157	plane
+T40	Element 1169 1185	CaFe2−x Rh x Si2
+T41	Element 1190 1199	[T 2 Si2]
+T42	Material 1200 1206	layers
+T43	Element 1210 1212	Fe
+T44	Element 1217 1219	Rh
+T45	Material 1250 1256	c-axis
+T46	Element 1261 1266	Si3Si
+T47	Material 1267 1272	bonds
+T48	Material 1307 1309	3D
+T49	Element 1311 1321	[T 2Si2]2−
+T50	Material 1393 1406	ThCr2Si2-type
+T51	Material 1407 1416	structure
+T52	Element 1422 1430	SrCo2Si2
+T53	Element 1435 1443	CaRh2Si2
+T55	Element 1476 1493	122 iron–pnictide
+T56	SC 1494 1509	superconductors
+T57	Element 1510 1518	AeFe2As2
+T58	Element 1523 1546	alkaline earth elements
+T59	Element 1557 1565	CaFe2Si2
+T61	Element 1597 1599	As
+T62	Element 1600 1602	Si
+T63	Element 1607 1615	CaFe2As2
+T64	Material 1621 1628	crystal
+T65	Material 1643 1659	chemical bonding
+T66	Property 1709 1713	LMTO
+T67	Property 1714 1728	band structure
+T68	Property 1729 1741	calculations
+T77	Value 708 717	3.939(1)Å
+T78	Value 721 731	10.185(1)Å
+T79	Value 737 742	0.045
+T84	Value 795 804	4.0590(2)
+T86	Value 809 819	9.9390(8)Å
+T88	Value 825 830	0.030
+T89	Value 899 909	4.0695(1)Å
+T92	Value 913 923	9.9841(3)Å
+T94	Value 929 934	0.031
+T96	Value 992 1001	3.974(1)Å
+T98	Value 1005 1015	10.395(1)Å
+T100	Value 1021 1026	0.036
+T101	Material 1132 1134	2D
+T107	Element 1520 1522	Ae
+T69	Property 1779 1809	Electron Localization Function
+T108	Property 1811 1814	ELF
+T80	Material 1288 1305	three-dimentional
+T71	Material 1322 1332	polyanions
+T10	Element 214 230	transition metal
+T16	Characterization 1748 1768	topological analysis
+T54	Property 1448 1461	isoelectronic
+T60	Doping 1576 1587	substituted
+R1	Coref Arg1:T107 Arg2:T58
+R2	Coref Arg1:T80 Arg2:T48
+R3	Target Arg1:E1 Arg2:T59
+E1	Doping:T60 

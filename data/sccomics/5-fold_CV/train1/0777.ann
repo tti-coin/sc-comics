@@ -1,0 +1,71 @@
+T1	Main 0 4	MgB2
+T2	Material 5 10	bulks
+T3	Element 23 25	Mg
+T5	Process 63 72	sintering
+T6	Process 76 91	low temperature
+T7	Process 137 149	ball milling
+T8	Material 172 179	powders
+T9	Element 202 204	Mg
+T10	Element 209 210	B
+T11	Process 229 244	low temperature
+T12	Process 245 254	sintering
+T13	Element 322 324	Mg
+T14	Element 370 372	Mg
+T15	Process 386 395	sintering
+T16	Material 396 410	microstructure
+T17	Material 455 470	lattice defects
+T18	Property 475 493	mechanical strains
+T19	Material 553 558	grain
+T20	Element 599 601	Mg
+T22	Process 611 619	sintered
+T23	Process 623 638	low temperature
+T24	Element 665 669	MgB2
+T25	Process 677 685	sintered
+T26	Process 689 705	high temperature
+T27	Property 714 716	Jc
+T28	Property 840 842	Jc
+T29	Process 853 861	sintered
+T30	Element 862 866	MgB2
+T31	Material 867 871	bulk
+T32	Element 877 879	Mg
+T34	Property 1003 1006	J c
+T35	Element 1014 1018	MgB2
+T36	SC 1019 1034	superconductors
+T37	Material 1074 1081	dopants
+T38	Value 818 821	20K
+T39	Value 823 825	2T
+T40	Value 286 288	5h
+T41	Value 850 852	5h
+T42	Value 898 909	1×105 Acm−2
+T43	Property 795 801	fields
+T4	Doping 26 34	addition
+T21	Doping 602 610	addition
+T33	Doping 880 888	addition
+R1	Target Arg1:E1 Arg2:T1
+R2	Target Arg1:E3 Arg2:T30
+E1	Doping:T4 Dopant:T3
+E2	Doping:T21 Dopant:T20
+E3	Doping:T33 Dopant:T32
+#1	AnnotatorNotes T1	0-4
+#2	AnnotatorNotes T2	5-10
+#3	AnnotatorNotes T3	23-25
+#4	AnnotatorNotes T8	172-179
+#5	AnnotatorNotes T9	202-204
+#6	AnnotatorNotes T10	209-210
+#7	AnnotatorNotes T13	322-324
+#8	AnnotatorNotes T14	370-372
+#9	AnnotatorNotes T16	396-410
+#10	AnnotatorNotes T17	455-470
+#11	AnnotatorNotes T19	553-558
+#12	AnnotatorNotes T20	599-601
+#13	AnnotatorNotes T24	665-669
+#14	AnnotatorNotes T30	862-866
+#15	AnnotatorNotes T31	867-871
+#16	AnnotatorNotes T32	877-879
+#17	AnnotatorNotes T35	1014-1018
+#18	AnnotatorNotes T37	1074-1081
+#19	AnnotatorNotes T38	818-821
+#20	AnnotatorNotes T39	823-825
+#21	AnnotatorNotes T40	286-288
+#22	AnnotatorNotes T41	850-852
+#23	AnnotatorNotes T42	898-909

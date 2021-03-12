@@ -1,0 +1,32 @@
+T1	Property 47 64	spin-density-wave
+T2	Property 66 69	SDW
+T3	Property 71 76	order
+T4	SC 81 98	superconductivity
+T5	Main 102 116	iron-pnictides
+T6	Property 185 197	calculations
+T9	Property 302 315	Fermi surface
+T10	Property 340 352	normal state
+T12	Material 389 401	orthorhombic
+T13	Property 402 423	magnetic fluctuations
+T14	Property 445 450	pairs
+T15	Property 635 649	charge density
+T16	Property 685 702	density of states
+T17	Material 731 739	symmetry
+T18	Property 763 776	phase diagram
+T19	Property 858 861	SDW
+T20	Property 880 888	electron
+T22	Element 895 908	iron-pnictide
+T23	SC 909 924	superconductors
+T24	Property 133 179	self-consistent Bogoliubov-de Gennes equations
+T25	Material 24 34	nematicity
+T26	Material 218 231	nematic-order
+T8	Property 493 515	Fourier transformation
+T7	Property 257 260	dxz
+T11	Property 265 268	dyz
+T27	Characterization 556 581	experimental measurements
+T28	Material 797 810	nematic phase
+T29	Material 590 603	nematic phase
+T30	Property 713 724	d x 2 − y 2
+T21	Doping 889 894	doped
+R1	Target Arg1:E1 Arg2:T22
+E1	Doping:T21 Dopant:T20

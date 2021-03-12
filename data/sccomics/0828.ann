@@ -1,0 +1,37 @@
+T3	Property 53 65	calculations
+T4	SC 74 96	high-Tc superconductor
+T5	Main 97 113	La2− x Ba x CuO4
+T10	Property 273 279	phonon
+T11	Material 310 318	symmetry
+T12	Property 333 347	Brillouin zone
+T14	Process 405 413	pressure
+T15	Material 419 441	structural distortions
+T16	Property 459 466	phonons
+T17	Property 503 520	phase transitions
+T18	Process 530 546	high-temperature
+T19	Material 547 557	tetragonal
+T20	Process 577 592	low-temperature
+T21	Material 593 605	orthorhombic
+T22	Process 620 635	low-temperature
+T23	Material 636 646	tetragonal
+T25	Property 815 823	electron
+T26	Material 867 877	structural
+T27	SC 892 899	high-Tc
+T28	Element 900 908	cuprates
+T1	Property 27 52	density-functional theory
+T31	Value 234 238	0.20
+T24	Property 177 206	virtual crystal approximation
+T32	Material 559 562	HTT
+T34	Element 698 702	CuO6
+T35	Material 607 610	LTO
+T36	Material 648 651	LTT
+T38	Material 703 712	octahedra
+T6	Doping 127 133	doping
+T9	Doping 212 218	doping
+T13	Doping 394 400	doping
+T2	Property 155 165	dispersion
+T7	Property 148 154	phonon
+R1	Target Arg1:E1 Arg2:T5
+E1	Doping:T6 Dopant:T7
+E2	Doping:T9
+E3	Doping:T13

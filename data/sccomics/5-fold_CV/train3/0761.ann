@@ -1,0 +1,45 @@
+T1	SC 38 45	high-TC
+T2	Element 46 54	cuprates
+T3	Property 69 91	temperature dependence
+T4	Property 99 115	Hall coefficient
+T5	Property 130 142	hole density
+T6	Element 218 234	La2− x Sr x CuO4
+T7	Element 236 240	LSCO
+T8	Property 254 259	model
+T9	Property 275 280	holes
+T10	Element 285 287	Cu
+T11	Material 288 292	atom
+T12	Property 393 415	temperature dependence
+T13	Characterization 449 473	X-ray absorption spectra
+T14	Characterization 475 478	XAS
+T15	Element 487 491	CuL3
+T17	Main 540 565	Bi2− y Pb y Sr2CaCu2O8+ δ
+T18	Material 566 581	single crystals
+T19	Element 632 636	CuO2
+T20	Material 637 643	planes
+T21	Material 709 719	structures
+T22	Property 746 768	temperature dependence
+T23	Property 831 837	models
+T24	Property 851 855	band
+T25	Property 856 861	model
+T26	Property 883 905	temperature dependence
+T33	Value 728 731	10K
+T34	Value 736 740	300K
+T35	Property 150 173	Gor’kov and Teitel’baum
+T36	Property 175 177	GT
+T37	Property 117 119	RH
+T38	Property 144 146	nH
+T39	Property 293 295	nH
+T40	Property 419 421	nH
+T41	Property 622 624	nH
+T42	Property 681 683	nH
+T43	Property 930 932	GT
+T46	Property 1064 1066	nH
+T47	Property 1156 1158	GT
+T16	Doping 529 539	underdoped
+T27	Value 1019 1022	10K
+T28	Value 1026 1030	300K
+T29	Value 1185 1188	3/2
+R1	Coref Arg1:T6 Arg2:T7
+R2	Target Arg1:E1 Arg2:T17
+E1	Doping:T16 

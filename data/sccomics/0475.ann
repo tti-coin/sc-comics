@@ -1,0 +1,68 @@
+T1	Main 4 23	niobium oxynitrides
+T2	Element 42 51	magnesium
+T3	Element 55 62	silicon
+T6	Material 194 212	crystal structures
+T7	Material 214 227	Crystallinity
+T8	Process 244 253	annealing
+T9	Element 264 266	N2
+T10	Material 281 293	compositions
+T11	Main 299 325	(Nb0.95Mg0.05)(N0.92O0.08)
+T12	Main 340 371	(Nb0.87Si0.09□0.04)(N0.87O0.13)
+T13	Element 387 396	magnesium
+T14	Element 401 406	oxide
+T16	Element 440 447	niobium
+T17	Element 452 459	nitride
+T18	Element 496 501	δ-NbN
+T19	Material 502 509	lattice
+T20	Element 525 537	Silicon ions
+T22	Element 581 591	oxide ions
+T23	Element 616 619	NbN
+T24	Material 620 627	lattice
+T25	Element 633 635	Si
+T27	Material 755 761	cation
+T29	Material 762 771	vacancies
+T30	SC 773 790	Superconductivity
+T31	Process 807 816	annealing
+T32	SC 827 848	critical temperatures
+T33	SC 869 872	T c
+T34	Element 888 890	Mg
+T35	SC 896 899	T c
+T37	Element 927 946	niobium oxynitrides
+T38	Value 80 86	1000°C
+T39	Process 90 109	ammonia nitridation
+T4	Process 147 160	citrate route
+T5	Material 179 188	rock-salt
+T40	Value 257 263	0.5MPa
+T41	Value 329 335	1500°C
+T42	Value 375 381	1200°C
+T43	Material 472 482	octahedral
+T36	Element 918 920	Si
+T28	Element 113 118	oxide
+T44	Value 873 878	17.6K
+T48	Value 879 883	100%
+T45	Value 900 905	16.2K
+T49	Value 906 909	95%
+T50	Property 849 865	volume fractions
+T51	Material 697 707	octahedral
+T15	Doping 24 34	containing
+T21	Doping 425 435	substitute
+T26	Doping 561 566	doped
+T46	Doping 636 641	doped
+T52	Doping 921 926	doped
+R1	Equivalent Arg1:T33 Arg2:T44
+R2	Equivalent Arg1:T35 Arg2:T45
+R4	Target Arg1:E1 Arg2:T1
+R5	Target Arg1:E2 Arg2:T1
+R6	Target Arg1:E6 Arg2:T37
+R7	Condition Arg1:T44 Arg2:E6
+R8	Condition Arg1:T45 Arg2:E6
+R9	Target Arg1:T44 Arg2:T37
+R10	Target Arg1:T45 Arg2:T37
+E1	Doping:T15 Dopant:T3
+E2	Doping:T15 Dopant:T2
+E4	Doping:T21 Dopant:T13 Site:T16
+E5	Doping:T26 Dopant:T20 Site:T23
+E3	Doping:T46 Dopant:T25
+E6	Doping:T52 Dopant:T36
+E7	Doping:T21 Dopant:T14 Site:T17
+E8	Doping:T26 Dopant:T22 Site:T23

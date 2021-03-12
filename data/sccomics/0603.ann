@@ -1,0 +1,37 @@
+T1	Element 37 42	Al2O3
+T2	Material 43 56	nanoparticles
+T4	SC 77 92	superconducting
+T5	Property 93 113	transport properties
+T6	Main 117 143	(Cu0.5Tl0.5)Ba2Ca2Cu3O10–δ
+T7	Material 156 162	matrix
+T9	Element 180 185	Al2O3
+T10	Material 186 199	nanoparticles
+T11	Material 221 238	crystal structure
+T13	Material 307 320	nanoparticles
+T14	Material 332 346	inter-granular
+T15	Material 347 353	spaces
+T16	Property 369 389	resistive transition
+T17	Property 438 452	magnetic field
+T18	Property 523 554	vortex–antivortex pair-breaking
+T19	Property 566 580	magnetic field
+T20	Property 661 672	resistivity
+T21	Property 677 694	activation energy
+T25	Property 815 827	flux pinning
+T26	Property 828 836	strength
+T27	Element 864 869	Al2O3
+T28	Material 870 883	nanoparticles
+T31	Property 637 657	Dissipative behavior
+T22	Property 723 752	thermally activated flux flow
+T32	Property 754 758	TAFF
+T23	Property 696 704	U o(H,T)
+T24	Main 145 154	CuTl-1223
+T12	Element 247 256	CuTl-1223
+T29	Property 760 765	model
+T3	Doping 57 65	addition
+T8	Doping 168 176	addition
+T30	Value 458 459	0
+T33	Value 460 462	7T
+R2	Target Arg1:E1 Arg2:T6
+R3	Target Arg1:E2 Arg2:T12
+E1	Doping:T3 Dopant:T1
+E2	Doping:T8 Dopant:T9

@@ -1,0 +1,51 @@
+T1	Characterization 4 21	X-ray diffraction
+T2	Characterization 23 26	XRD
+T4	Property 76 87	resistivity
+T5	Main 106 131	Nd1.85− xRx Ce0.15CuO4± δ
+T6	Element 136 138	Gd
+T7	Element 143 145	Sm
+T8	Material 147 162	single crystals
+T9	Characterization 173 176	XRD
+T10	Material 207 223	lattice constant
+T11	Element 259 261	Gd
+T13	Element 283 285	Sm
+T16	Property 316 329	concentration
+T17	Element 338 340	Gd
+T19	Property 385 399	high frequency
+T20	Element 437 439	Sm
+T22	Material 474 483	unit cell
+T23	Characterization 501 504	XRD
+T24	Element 543 545	Gd
+T26	Element 567 569	Sm
+T28	Element 595 597	Gd
+T30	SC 609 624	superconducting
+T31	SC 625 628	T c
+T33	Property 674 687	concentration
+T34	SC 699 702	T c
+T35	Element 724 726	Sm
+T37	Element 750 752	Sm
+T38	Material 844 853	unit cell
+T3	Characterization 29 55	Fourier transform infrared
+T39	Characterization 57 61	FTIR
+T43	Characterization 181 185	FTIR
+T45	Characterization 509 513	FTIR
+T12	Doping 286 292	doping
+T14	Doping 262 268	doping
+T15	Doping 309 315	doping
+T18	Doping 341 347	doping
+T21	Doping 440 446	doping
+T25	Doping 546 552	doping
+T27	Doping 570 576	doping
+T29	Doping 598 604	doping
+T32	Doping 667 673	doping
+T36	Doping 727 733	doping
+E1	Doping:T12 Dopant:T13
+E2	Doping:T14 Dopant:T11
+E3	Doping:T15
+E4	Doping:T18 Dopant:T17
+E5	Doping:T21 Dopant:T20
+E6	Doping:T25 Dopant:T24
+E7	Doping:T27 Dopant:T26
+E8	Doping:T29 Dopant:T28
+E9	Doping:T32
+E10	Doping:T36 Dopant:T35

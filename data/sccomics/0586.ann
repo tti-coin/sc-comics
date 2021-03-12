@@ -1,0 +1,56 @@
+T1	Material 13 28	polycrystalline
+T2	Main 29 41	YBCO+xBaTiO3
+T3	SC 60 74	superconductor
+T4	Property 183 195	conductivity
+T5	Material 227 242	phase formation
+T6	Material 244 251	texture
+T7	Material 256 261	grain
+T8	Characterization 295 298	XRD
+T9	Characterization 303 306	SEM
+T10	Characterization 319 322	SEM
+T11	Material 347 352	grain
+T12	Material 373 383	morphology
+T14	Material 434 443	particles
+T16	Property 490 495	SCOPF
+T17	Property 512 535	electrical conductivity
+T18	Property 563 574	resistivity
+T20	SC 640 643	T c
+T23	Material 783 789	grains
+T24	Element 807 813	BaTiO3
+T26	Element 831 835	YBCO
+T27	Material 836 842	matrix
+T28	Property 875 885	mean field
+T29	Property 940 942	3D
+T30	Element 972 978	BaTiO3
+T31	Material 986 996	composites
+T32	Property 1109 1118	diffusion
+T33	Element 1136 1143	Ti ions
+T34	Material 1153 1159	grains
+T35	Property 1194 1204	conductive
+T36	Material 1278 1284	grains
+T37	Material 1323 1339	grain boundaries
+T38	Property 1354 1366	conductivity
+T39	Material 1427 1437	composites
+T41	Value 45 48	1.0
+T42	Value 50 53	2.5
+T43	Value 55 58	5.0
+T45	Material 108 119	granularity
+T46	Property 124 139	inhomogeneities
+T48	Property 445 488	Superconducting order parameter fluctuation
+T19	Value 967 971	1wt%
+T21	Property 684 686	2D
+T22	Property 690 692	3D
+T49	Property 693 714	crossover temperature
+T50	Property 716 720	T LD
+T51	Property 863 867	T LD
+T53	Material 1289 1299	mesoscopic
+T54	Property 1398 1418	thermal fluctuations
+T55	Material 1230 1241	microscopic
+T56	Material 1057 1068	microscopic
+T13	Doping 405 418	incorporation
+T25	Doping 814 827	incorporation
+T44	Element 166 172	BaTiO3
+T47	Element 427 433	BaTiO3
+R1	Target Arg1:E2 Arg2:T26
+E1	Doping:T13 Dopant:T47
+E2	Doping:T25 Dopant:T24

@@ -1,0 +1,40 @@
+T2	Characterization 137 140	XRD
+T5	SC 234 237	T c
+T6	Property 270 283	concentration
+T7	SC 297 300	T c
+T9	Characterization 396 399	XPS
+T11	Material 457 464	lattice
+T12	Material 497 502	bonds
+T14	Material 529 534	bonds
+T15	Material 569 574	bonds
+T16	SC 673 676	T c
+T18	Element 53 55	Cu
+T19	Element 38 40	Ni
+T20	Main 59 82	Bi2Ca1Sr2Ni x Cu2−x O y
+T24	Value 124 125	0
+T26	Value 128 131	0.2
+T28	Element 267 269	Ni
+T29	Value 320 327	2.5 K/%
+T30	Element 431 433	Ni
+T31	Material 472 480	divalent
+T32	Element 492 496	Ni-O
+T35	Element 524 528	Cu-O
+T36	Element 549 553	Bi-O
+T39	Element 555 559	Sr-O
+T41	Element 564 568	Ca-O
+T42	Element 597 599	Ni
+T43	Element 653 655	Cu
+T44	Element 691 693	Ni
+T3	SC 197 233	superconducting critical temperature
+T1	Doping 22 34	substitution
+T4	Doping 343 355	substitution
+T8	Doping 437 449	incorporated
+T10	Doping 503 515	substituting
+T13	Doping 694 706	substitution
+R1	Target Arg1:E1 Arg2:T20
+R2	Coref Arg1:T3 Arg2:T5
+E1	Doping:T1 Dopant:T19 Site:T18
+E2	Doping:T4 
+E3	Doping:T8 Dopant:T30
+E4	Doping:T10 Dopant:T32 Site:T35
+E5	Doping:T13 Dopant:T44

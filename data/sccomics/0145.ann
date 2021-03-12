@@ -1,0 +1,73 @@
+T1	SC 47 62	superconductors
+T2	Property 67 84	antiferromagnetic
+T3	Property 85 95	insulators
+T4	Property 129 137	electron
+T5	Property 149 157	magnetic
+T6	Material 158 167	unit cell
+T7	Property 173 188	charge carriers
+T9	Element 271 277	oxygen
+T11	Property 326 332	charge
+T12	Material 343 349	layers
+T13	Material 365 371	layers
+T14	Property 388 401	concentration
+T15	Property 405 411	mobile
+T16	Material 433 439	layers
+T17	SC 458 475	superconductivity
+T18	SC 492 494	Tc
+T19	Property 545 549	hole
+T20	Material 570 574	atom
+T21	SC 587 589	Tc
+T22	Property 608 627	non-superconducting
+T23	Property 628 636	metallic
+T24	Property 659 680	carrier concentration
+T25	Property 710 714	hole
+T26	Material 735 739	atom
+T27	Property 801 811	insulating
+T28	SC 817 832	superconducting
+T29	Property 841 860	non-superconducting
+T30	Property 861 869	metallic
+T31	SC 1041 1043	Tc
+T32	Property 1062 1081	non-superconducting
+T33	Property 1082 1090	metallic
+T34	Property 1145 1155	insulating
+T36	SC 1424 1426	Tc
+T37	Property 1444 1465	carrier concentration
+T39	Property 1512 1523	resistivity
+T40	Property 1581 1603	thermo-electric power,
+T41	SC 1680 1695	superconducting
+T42	Property 1696 1712	order parameters
+T43	SC 1758 1775	superconductivity
+T44	SC 1856 1873	superconductivity
+T45	SC 1986 2001	superconducting
+T46	Property 2115 2119	spin
+T47	Property 2189 2192	BCS
+T48	SC 2283 2298	superconducting
+T49	Element 28 40	copper oxide
+T50	Element 360 364	CuO2
+T51	Element 428 432	CuO2
+T52	Value 541 544	0.2
+T54	Value 706 709	0.5
+T55	Element 728 734	copper
+T56	Element 956 984	(Ca1-x Yx)Sr2(Tl1-zPbzCu2)O7
+T63	Value 1047 1051	108K
+T64	Element 1122 1136	CaSr2(TlCu2)O7
+T66	Value 1197 1200	0.5
+T35	Property 2120 2131	bi-polarons
+T68	Property 2066 2078	Cooper pairs
+T70	Material 244 251	cations
+T38	Property 1562 1579	Hall coefficients
+T71	Property 1604 1617	magnetisation
+T72	Property 1622 1635	specific heat
+T73	Property 1714 1731	critical currents
+T74	Property 1875 1887	thermo-power
+T75	Property 1892 1910	magneto-resistance
+T76	Property 2039 2054	carrier density
+T77	Property 2145 2160	carrier density
+T10	Doping 287 293	Doping
+T8	Doping 224 236	substitution
+T57	Value 1207 1210	0.6
+T53	Element 563 569	copper
+R1	Equivalent Arg1:T31 Arg2:T63
+R2	Target Arg1:T63 Arg2:T56
+E2	Doping:T10
+E1	Doping:T8 Site:T70

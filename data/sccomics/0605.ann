@@ -1,0 +1,57 @@
+T1	Process 32 40	pressure
+T3	Element 52 69	carbon nano-tubes
+T5	SC 109 141	high temperature superconductors
+T10	Material 288 303	polycrystalline
+T11	Main 304 315	YBa2Cu3O7−δ
+T12	Main 317 322	Y-123
+T13	Process 340 360	hydrostatic pressure
+T14	Property 404 426	resistivity transition
+T15	Element 434 437	CNT
+T18	Process 528 544	applied pressure
+T20	SC 609 632	transition temperatures
+T24	Process 707 723	applied pressure
+T25	SC 752 755	T c
+T29	Process 900 916	applied pressure
+T30	Property 967 978	resistivity
+T31	Property 1044 1055	resistivity
+T35	Property 1216 1225	fractures
+T36	Material 1247 1253	grains
+T38	SC 1379 1396	superconductivity
+T39	Element 1411 1416	Y-123
+T40	SC 1417 1432	superconductors
+T41	Process 1439 1455	applied pressure
+T4	Element 71 75	CNTs
+T6	Value 456 462	0.7wt%
+T7	Value 840 846	96.88K
+T8	Property 239 253	dc resistivity
+T43	Value 727 733	1.5GPa
+T44	Value 782 788	99.39K
+T45	Element 1361 1365	CNTs
+T32	Element 1063 1066	CNT
+T37	Element 1305 1308	CNT
+T47	Element 278 281	CNT
+T2	Doping 45 51	doping
+T9	Doping 282 287	doped
+T16	Doping 438 443	doped
+T19	Doping 550 555	doped
+T23	Doping 767 772	doped
+T26	Doping 853 858	doped
+T27	Doping 1067 1072	doped
+T28	Doping 1194 1199	doped
+T33	Doping 1309 1315	doping
+T17	SC 633 639	T c on
+T21	SC 644 651	T c mid
+R3	Equivalent Arg1:T25 Arg2:T7
+R4	Equivalent Arg1:T25 Arg2:T44
+R5	Target Arg1:E2 Arg2:T11
+R6	Condition Arg1:T44 Arg2:E5
+R7	Target Arg1:E9 Arg2:T39
+E1	Doping:T2 Dopant:T3
+E2	Doping:T9 Dopant:T47
+E3	Doping:T16 Dopant:T15
+E4	Doping:T19
+E5	Doping:T23
+E6	Doping:T26
+E7	Doping:T27 Dopant:T32
+E8	Doping:T28
+E9	Doping:T33 Dopant:T37

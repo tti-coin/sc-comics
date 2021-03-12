@@ -1,0 +1,53 @@
+T1	Property 26 32	phonon
+T2	Property 73 89	electron pairing
+T3	SC 128 145	superconductivity
+T4	SC 192 209	superconductivity
+T5	Material 235 244	materials
+T6	Property 269 280	diamagnetic
+T7	Property 308 315	charged
+T8	Material 328 337	molecules
+T9	Element 346 371	cyclopentadiene monoanion
+T10	Element 384 406	cyclobutadiene dianion
+T11	Property 436 456	diamagnetic currents
+T12	Property 464 482	negatively charged
+T13	Material 495 504	molecules
+T14	Element 513 518	5an −
+T15	Element 523 529	4an 2−
+T16	Property 584 587	BCS
+T17	Property 589 595	theory
+T18	Property 615 629	phonon-coupled
+T19	Property 655 664	electrons
+T20	Property 673 676	BCS
+T21	Property 677 683	phonon
+T22	Property 745 748	BCS
+T23	Element 812 817	5an −
+T24	Element 822 828	4an 2−
+T25	Property 909 918	electrons
+T26	Property 924 938	phonon-coupled
+T27	Property 955 961	phonon
+T28	Property 1025 1046	electronic structures
+T29	Property 1067 1087	conduction band gaps
+T30	Property 1102 1111	electrons
+T32	Property 1167 1172	spins
+T33	Property 1316 1325	electrons
+T34	Property 1385 1399	phonon-coupled
+T35	Property 1414 1428	electron pairs
+T36	Material 1468 1477	materials
+T37	SC 1500 1515	superconducting
+T38	SC 1544 1580	superconducting critical temperature
+T40	SC 1582 1585	T c
+T41	Material 1592 1601	molecular
+T42	Property 1661 1671	BCS theory
+T43	SC 1709 1726	superconductivity
+T44	Property 1765 1775	BCS theory
+T45	Property 557 582	Bardeen–Cooper–Schrieffer
+T46	Element 373 378	5an −
+T47	Property 38 52	photon-coupled
+T48	Element 408 414	4an 2−
+T49	Property 709 736	electron–electron repulsion
+T50	Property 858 872	photon-coupled
+T51	Property 898 904	nuclei
+T52	Property 1059 1066	valence
+T53	Property 1196 1210	photon-coupled
+T54	Property 1342 1356	photon-coupled
+T39	Property 1233 1239	photon

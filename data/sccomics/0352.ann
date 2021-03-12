@@ -1,0 +1,38 @@
+T2	Element 45 51	sulfur
+T3	Element 57 59	Te
+T4	Material 73 80	crystal
+T5	Property 82 92	electronic
+T6	Property 97 116	magnetic structures
+T8	Property 183 199	phase transition
+T9	Property 209 226	antiferromagnetic
+T10	Property 241 246	order
+T11	Property 282 287	order
+T13	SC 378 393	superconducting
+T14	Property 405 424	magnetic transition
+T15	Element 468 477	chalcogen
+T16	Material 494 503	unit cell
+T17	Property 518 530	normal-state
+T18	Element 545 553	Fe(Te,S)
+T19	Element 558 566	Fe(Se;S)
+T20	Property 638 659	magnetic fluctuations
+T21	SC 669 684	superconducting
+T22	Property 716 733	antiferromagnetic
+T23	Property 734 746	ground state
+T25	Property 822 845	antiferromagnetic order
+T26	SC 937 954	superconductivity
+T27	Element 958 966	Fe(Te,S)
+T29	Material 967 982	solid solutions
+T7	Property 144 160	DFT calculations
+T30	Main 120 124	FeTe
+T31	Element 256 260	FeTe
+T32	Property 623 637	nesting-driven
+T34	Element 292 293	S
+T12	Element 769 770	S
+T1	Doping 27 39	substitution
+T24	Doping 294 305	substituted
+T28	Doping 771 783	substitution
+R1	Target Arg1:E1 Arg2:T30
+R2	Target Arg1:E2 Arg2:T31
+E1	Doping:T1 Dopant:T2 Site:T3
+E2	Doping:T24 Dopant:T34
+E3	Doping:T28 Dopant:T12

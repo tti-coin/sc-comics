@@ -1,0 +1,42 @@
+T1	Property 30 50	microwave absorption
+T4	Property 222 233	resistivity
+T5	Characterization 243 255	magnetometry
+T7	SC 501 516	superconducting
+T8	SC 534 537	T c
+T9	SC 621 624	T c
+T10	Process 705 717	temperatures
+T11	Property 788 802	magnetic field
+T13	SC 962 976	superconductor
+T14	SC 1069 1084	superconducting
+T15	Property 1103 1122	non-superconducting
+T16	SC 1127 1142	superconducting
+T17	Value 421 426	116 K
+T18	Value 399 403	60 K
+T19	Value 540 545	116 K
+T20	Value 405 409	87 K
+T21	Value 411 416	112 K
+T22	Main 99 108	BiSrCaCuO
+T23	Value 180 184	87 K
+T24	Value 189 194	112 K
+T25	Material 88 98	multiphase
+T26	Value 627 631	60 K
+T27	Element 669 678	BiSrCaCuO
+T28	Element 753 762	BiSrCaCuO
+T29	Element 836 845	YBa2Cu3O7
+T30	Property 807 822	microwave power
+T31	Element 953 955	Bi
+T12	Material 1143 1153	multiphase
+T32	Material 1154 1162	matrices
+T33	Property 4 20	low-field signal
+T34	Property 22 25	LFS
+T35	Property 300 303	LFS
+T36	Characterization 55 58	ESR
+T6	Property 737 740	LFS
+T37	Material 880 901	intergrain morphology
+T38	Property 978 981	LFS
+T2	SC 130 145	superconducting
+R1	Equivalent Arg1:T9 Arg2:T26
+R2	Equivalent Arg1:T8 Arg2:T19
+R3	Target Arg1:T26 Arg2:T27
+R4	Equivalent Arg1:T2 Arg2:T23
+R5	Equivalent Arg1:T2 Arg2:T24

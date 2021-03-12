@@ -1,0 +1,30 @@
+T1	Process 16 25	sintering
+T3	Process 44 60	liquid quenching
+T6	SC 264 267	T c
+T7	Material 368 372	bulk
+T8	SC 373 376	T c
+T9	SC 437 440	T c
+T10	Material 484 502	lattice parameters
+T11	Material 519 525	powder
+T12	Characterization 526 543	X-ray diffraction
+T13	Process 567 575	quenched
+T14	Material 577 587	structural
+T15	Process 667 676	annealing
+T16	SC 718 721	T c
+T17	Material 782 799	crystal structure
+T18	Property 907 915	magnetic
+T19	Material 935 939	bulk
+T20	Property 940 951	resistivity
+T21	Material 197 205	granular
+T22	Main 133 146	Bi-Sr-Ca-Cu-O
+T23	Element 306 312	oxygen
+T24	Material 355 363	granular
+T25	Material 428 436	granular
+T26	Material 850 858	granular
+T28	Element 192 196	2212
+T29	Main 115 125	2212 phase
+T30	Element 807 817	2212 phase
+T2	Material 313 326	stoichiometry
+T31	SC 859 874	superconductive
+T5	SC 221 248	highest superconductive T c
+T4	SC 107 114	low-T c

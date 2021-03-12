@@ -1,0 +1,100 @@
+T1	Property 66 80	oxygen content
+T3	Material 197 202	atoms
+T4	SC 252 255	T c
+T5	SC 315 318	T c
+T6	SC 384 399	superconducting
+T7	Material 587 592	atoms
+T10	Property 766 773	domains
+T11	Property 796 802	domain
+T12	Property 822 829	domains
+T16	Material 961 966	atoms
+T17	Property 974 981	domains
+T18	Material 1038 1042	atom
+T19	Material 1122 1126	atom
+T20	Material 1145 1150	atoms
+T21	Element 853 858	Cu(1)
+T22	Element 1154 1159	Cu(1)
+T23	Element 609 614	Cu(1)
+T24	Element 524 528	57Fe
+T25	Main 4 30	YBa2(Cu0.99 57Fe0.01)3O7−y
+T28	Value 94 98	0.03
+T29	Value 101 105	0.80
+T32	Property 181 193	paramagnetic
+T33	Element 194 196	Fe
+T34	Element 207 209	Cu
+T36	Value 162 164	1%
+T38	SC 287 290	T c
+T39	Value 291 295	60 K
+T43	Value 334 337	0.2
+T44	Value 340 344	0.45
+T45	Value 428 431	0.5
+T9	Element 1115 1121	oxygen
+T46	Element 1142 1144	Fe
+T47	Element 958 960	Fe
+T48	Element 464 475	YBa2Cu3O6.5
+T49	Characterization 529 538	Mössbauer
+T50	Value 573 576	90%
+T51	Element 584 586	Fe
+T52	Element 626 630	iron
+T53	Element 705 711	oxygen
+T54	Value 730 733	70%
+T55	Element 741 743	Fe
+T56	Material 744 749	atoms
+T57	Value 785 788	20%
+T59	Material 897 906	pyramidal
+T61	Material 933 942	pyramidal
+T60	Element 907 913	oxygen
+T62	Material 914 927	coordinations
+T63	Element 1031 1037	oxygen
+T64	Element 1046 1052	oxygen
+T65	Material 1084 1097	planar square
+T15	Material 870 882	plane square
+T8	Material 354 376	decrease of the volume
+T2	Doping 165 177	substitution
+T13	Element 830 832	Fe
+T14	Material 833 838	atoms
+R1	Equivalent Arg1:T38 Arg2:T39
+E1	Doping:T2 Dopant:T33 Site:T34
+#1	AnnotatorNotes T3	197-202
+#2	AnnotatorNotes T7	587-592
+#3	AnnotatorNotes T16	961-966
+#4	AnnotatorNotes T18	1038-1042
+#5	AnnotatorNotes T19	1122-1126
+#6	AnnotatorNotes T20	1145-1150
+#7	AnnotatorNotes T21	853-858
+#8	AnnotatorNotes T22	1154-1159
+#9	AnnotatorNotes T23	609-614
+#10	AnnotatorNotes T24	524-528
+#11	AnnotatorNotes T25	4-30
+#12	AnnotatorNotes T28	94-98
+#13	AnnotatorNotes T29	101-105
+#14	AnnotatorNotes T33	194-196
+#15	AnnotatorNotes T34	207-209
+#16	AnnotatorNotes T36	162-164
+#17	AnnotatorNotes T39	291-295
+#18	AnnotatorNotes T43	334-337
+#19	AnnotatorNotes T44	340-344
+#20	AnnotatorNotes T45	428-431
+#21	AnnotatorNotes T9	1115-1121
+#22	AnnotatorNotes T46	1142-1144
+#23	AnnotatorNotes T47	958-960
+#24	AnnotatorNotes T48	464-475
+#25	AnnotatorNotes T50	573-576
+#26	AnnotatorNotes T51	584-586
+#27	AnnotatorNotes T52	626-630
+#28	AnnotatorNotes T53	705-711
+#29	AnnotatorNotes T54	730-733
+#30	AnnotatorNotes T55	741-743
+#31	AnnotatorNotes T56	744-749
+#32	AnnotatorNotes T57	785-788
+#33	AnnotatorNotes T59	897-906
+#34	AnnotatorNotes T61	933-942
+#35	AnnotatorNotes T60	907-913
+#36	AnnotatorNotes T62	914-927
+#37	AnnotatorNotes T63	1031-1037
+#38	AnnotatorNotes T64	1046-1052
+#39	AnnotatorNotes T65	1084-1097
+#40	AnnotatorNotes T15	870-882
+#41	AnnotatorNotes T8	354-376
+#42	AnnotatorNotes T13	830-832
+#43	AnnotatorNotes T14	833-838

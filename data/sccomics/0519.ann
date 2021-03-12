@@ -1,0 +1,27 @@
+T2	Element 32 42	fullerenes
+T3	Property 291 311	electronic structure
+T4	Main 315 325	fullerenes
+T6	Material 402 410	clusters
+T7	SC 462 479	superconductivity
+T8	Element 541 545	Sc3N
+T9	Element 547 551	Lu3N
+T10	Element 555 558	Y3N
+T11	Element 562 565	C80
+T12	Value 139 144	650nm
+T13	Value 251 259	0.5J/cm2
+T17	Value 736 741	0.3mJ
+T19	Value 674 682	0.3J/cm2
+T20	Material 85 109	passive optical limiters
+T21	Property 429 443	quantum states
+T22	Material 604 628	passive optical switches
+T24	Material 696 712	operation window
+T25	Property 714 734	average pulse energy
+T27	Property 0 28	Reverse saturable absorption
+T28	Material 181 196	passive optical
+T29	Material 391 401	endohedral
+T14	Property 577 590	HOMO–LUMO gap
+T1	Process 374 387	encapsulation
+T15	Process 524 537	encapsulation
+T16	Property 654 672	limiting threshold
+T5	Doping 357 363	doping
+E1	Doping:T5

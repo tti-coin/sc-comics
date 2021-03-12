@@ -1,0 +1,83 @@
+T3	Material 47 50	DMS
+T4	Main 53 65	Ni1−x Fe x O
+T5	Element 92 94	Fe
+T8	Element 184 201	polyvinyl alcohol
+T9	Element 203 206	PVA
+T10	Element 212 228	Ni(CH3COO)2·4H2O
+T11	Material 241 250	materials
+T12	Characterization 289 317	scanning electron microscopy
+T13	Characterization 319 322	SEM
+T14	Characterization 325 342	X-ray diffraction
+T15	Characterization 344 347	XRD
+T16	Characterization 350 368	Raman spectroscopy
+T19	Characterization 417 422	SQUID
+T20	Characterization 428 460	X-ray photoelectron spectroscopy
+T21	Characterization 462 465	XPS
+T22	Element 495 497	Fe
+T26	Element 564 567	NiO
+T27	Material 603 618	polycrystalline
+T28	Material 629 638	structure
+T30	Property 674 687	ferromagnetic
+T31	Property 718 731	magnetization
+T34	Element 789 791	Fe
+T36	Element 824 826	Fe
+T38	Element 858 861	NiO
+T39	Process 882 898	room-temperature
+T40	Element 921 933	Ni1−x Fe x O
+T42	Material 15 45	diluted magnetic semiconductor
+T45	Process 155 177	electrospinning method
+T46	Material 256 266	nanofibers
+T47	Characterization 370 415	superconductivity quantum interference device
+T48	Material 588 598	nanofibers
+T49	Material 568 578	nanofibers
+T50	Property 899 913	ferromagnetism
+T51	Material 934 944	nanofibers
+T52	Element 624 628	NaCl
+T53	Property 529 537	diameter
+T29	Element 644 646	Fe
+T24	Material 542 560	surface morphology
+T25	Material 66 76	nanofibers
+T1	Property 8 14	p-type
+T2	Property 772 785	concentration
+T7	Property 102 116	concentrations
+T6	Doping 95 101	doping
+T23	Doping 498 504	doping
+T32	Doping 647 652	doped
+T33	Doping 765 771	doping
+T35	Doping 818 823	doped
+T37	Doping 836 848	incorporated
+R1	Coref Arg1:T42 Arg2:T3
+R2	Coref Arg1:T8 Arg2:T9
+R3	Target Arg1:E1 Arg2:T4
+R4	Target Arg1:E2 Arg2:T26
+R5	Target Arg1:E6 Arg2:T38
+E1	Doping:T6 Dopant:T5
+E2	Doping:T23 Dopant:T22
+E3	Doping:T32 Dopant:T29
+E4	Doping:T33 Dopant:T34
+E5	Doping:T35 Dopant:T36
+E6	Doping:T37 Dopant:T36
+#1	AnnotatorNotes T3	47-50
+#2	AnnotatorNotes T4	53-65
+#3	AnnotatorNotes T5	92-94
+#4	AnnotatorNotes T8	184-201
+#5	AnnotatorNotes T9	203-206
+#6	AnnotatorNotes T10	212-228
+#7	AnnotatorNotes T11	241-250
+#8	AnnotatorNotes T22	495-497
+#9	AnnotatorNotes T26	564-567
+#10	AnnotatorNotes T27	603-618
+#11	AnnotatorNotes T28	629-638
+#12	AnnotatorNotes T34	789-791
+#13	AnnotatorNotes T36	824-826
+#14	AnnotatorNotes T38	858-861
+#15	AnnotatorNotes T40	921-933
+#16	AnnotatorNotes T42	15-45
+#17	AnnotatorNotes T46	256-266
+#18	AnnotatorNotes T48	588-598
+#19	AnnotatorNotes T49	568-578
+#20	AnnotatorNotes T51	934-944
+#21	AnnotatorNotes T52	624-628
+#22	AnnotatorNotes T29	644-646
+#23	AnnotatorNotes T24	542-560
+#24	AnnotatorNotes T25	66-76

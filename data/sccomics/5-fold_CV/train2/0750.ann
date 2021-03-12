@@ -1,0 +1,27 @@
+T1	Element 77 81	FeAs
+T2	Element 96 99	LaO
+T3	Main 109 126	LaFe1− x Co x AsO
+T5	SC 214 216	Tc
+T6	Element 261 268	SmOFeAs
+T7	Element 331 348	LaFe1− x Co x AsO
+T8	Property 412 420	electron
+T9	Element 428 430	Fe
+T10	Element 432 434	As
+T11	Element 464 468	FeAs
+T12	Material 469 474	layer
+T14	Element 525 542	LaFe1− x Co x AsO
+T16	SC 609 611	Tc
+T17	Element 642 650	LnOFeAsF
+T18	Element 651 657	LnLnLa
+T19	Element 659 661	Pr
+T20	Element 663 665	Nd
+T21	Element 667 669	Sm
+T22	Element 671 673	Gd
+T23	Property 735 750	charge-transfer
+T24	Property 751 756	model
+T25	Property 4 19	cohesive energy
+T4	Property 151 162	block model
+T15	Property 46 64	combinative energy
+T32	Property 191 209	combinative energy
+T33	Property 309 327	combinative energy
+T13	Property 586 604	combinative energy

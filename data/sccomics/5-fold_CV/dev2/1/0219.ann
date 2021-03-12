@@ -1,0 +1,25 @@
+T2	SC 18 50	high-temperature superconductors
+T3	SC 52 56	HTSC
+T4	SC 68 83	superconducting
+T5	SC 105 109	HTSC
+T6	SC 129 133	HTSC
+T7	Element 143 150	cuprate
+T8	Element 160 164	CuO2
+T9	Material 165 170	plane
+T11	Material 221 230	unit cell
+T13	Property 282 293	resistivity
+T14	SC 297 300	T c
+T15	Material 321 330	structure
+T16	Property 408 419	resistivity
+T18	Property 515 525	relaxation
+T19	Property 553 562	diffusion
+T21	SC 677 680	T c
+T22	SC 706 709	T c
+T10	Property 452 476	Einstein's diffusion law
+T17	Property 605 619	mean free path
+T1	Doping 8 14	doping
+T12	Doping 248 254	doping
+T20	Property 629 669	Einstein–Smoluchowski diffusion relation
+R1	Coref Arg1:T2 Arg2:T3
+E1	Doping:T1 
+E2	Doping:T12 

@@ -1,0 +1,47 @@
+T1	Property 5 8	J c
+T3	Main 18 22	MgB2
+T4	Material 23 28	disks
+T5	Property 78 89	high-energy
+T6	Process 90 102	ball milling
+T7	Material 141 160	nominal composition
+T8	Element 164 176	Mg0.8Ti0.2B4
+T9	Process 181 189	sintered
+T10	Element 252 254	Mg
+T12	Material 281 294	stoichiometry
+T13	Element 298 310	Mg0.9Ti0.1B2
+T14	Process 340 348	sintered
+T15	Material 377 391	microstructure
+T16	SC 396 413	superconductivity
+T17	Element 417 421	MgB2
+T18	Characterization 453 470	X-ray diffraction
+T19	Characterization 472 475	XRD
+T20	Characterization 478 506	scanning electron microscope
+T21	Characterization 508 511	SEM
+T24	Characterization 562 567	SQUID
+T25	Property 574 598	critical current density
+T26	Property 724 735	high-energy
+T27	Process 736 748	ball milling
+T28	Property 777 784	density
+T29	Material 794 799	grain
+T30	Material 805 809	bulk
+T31	Element 810 814	MgB2
+T32	Property 825 828	J c
+T33	Characterization 517 560	superconducting quantum interference device
+T34	Value 193 198	900°C
+T35	Value 203 205	2h
+T36	Value 352 357	750°C
+T37	Value 362 364	2h
+T38	Value 333 335	5h
+T39	Value 607 620	6.9×104 Acm−2
+T40	Value 624 627	20K
+T41	Value 632 634	1T
+T43	Element 9 11	Ti
+T44	Process 49 73	two-step reaction method
+T45	Process 322 328	milled
+T2	Process 695 719	two-step reaction method
+T11	Doping 12 17	doped
+T42	Doping 264 269	added
+R1	Target Arg1:E1 Arg2:T3
+R2	Target Arg1:E2 Arg2:T13
+E1	Doping:T11 Dopant:T43
+E2	Doping:T42 Dopant:T10

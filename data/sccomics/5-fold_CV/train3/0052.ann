@@ -1,0 +1,50 @@
+T1	Property 10 23	low frequency
+T3	Material 126 131	films
+T4	Material 224 229	films
+T6	Material 292 297	films
+T9	Material 497 502	films
+T12	SC 617 634	superconductivity
+T13	Property 688 702	magnetic field
+T14	Property 782 786	melt
+T15	Material 803 808	films
+T16	Process 888 900	temperatures
+T17	SC 907 910	T c
+T18	Property 960 982	resistivity transition
+T19	Property 1027 1053	magnetic field penetration
+T20	Material 1116 1121	films
+T25	SC 1350 1367	superconductivity
+T26	Material 1419 1424	films
+T28	Material 1664 1668	film
+T29	Material 1686 1690	film
+T30	Process 1783 1794	temperature
+T31	Material 1862 1866	bulk
+T32	Property 1952 1957	model
+T34	Value 112 117	10 wt
+T35	Value 119 121	9%
+T36	Element 122 124	Ag
+T37	Element 103 107	YBCO
+T38	Material 209 217	granular
+T39	Material 143 162	sapphire substrates
+T7	Property 327 353	external DC magnetic field
+T41	Material 482 490	granular
+T42	Element 1157 1165	Y2BaCuO5
+T43	Element 1638 1648	(211) YBCO
+T44	Element 1867 1871	YBCO
+T45	Material 1943 1951	granular
+T46	Material 1063 1089	inter- and intra- granular
+T47	Element 135 138	YSZ
+T5	Property 252 262	resistance
+T33	Characterization 395 408	four-point DC
+T8	Property 724 744	resistive transition
+T10	Property 873 883	inductance
+T22	Property 1278 1292	resistive tail
+T23	Property 1372 1391	inductive reactance
+T24	Property 1462 1482	capacitive reactance
+T27	Property 1581 1601	capacitive reactance
+T40	Property 576 585	reactance
+T48	Property 1728 1739	conductance
+T49	Property 1744 1755	susceptance
+T50	Property 1826 1840	susceptibility
+T11	SC 562 571	T c (R=0)
+T2	Property 24 33	impedance
+T21	Characterization 34 46	measurements

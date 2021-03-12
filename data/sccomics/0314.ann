@@ -1,0 +1,42 @@
+T1	Main 130 153	EuBa2(Cu1−x Al x )3O7−δ
+T4	SC 225 240	superconductors
+T5	Material 288 295	lattice
+T7	Element 369 373	Al3+
+T8	Element 386 388	Cu
+T10	Element 543 548	Al2O3
+T11	Process 586 604	lower temperatures
+T12	SC 629 632	T c
+T13	Property 712 715	BCS
+T15	Property 810 825	oxygen ordering
+T16	Element 836 840	Cu–O
+T17	Material 841 847	chains
+T19	Element 865 869	Al3+
+T20	Element 894 898	Cu–O
+T22	Material 899 910	chain sites
+T23	Property 936 951	oxygen ordering
+T24	Property 0 23	Ultrasonic longitudinal
+T25	Property 28 44	shear velocities
+T26	Value 48 52	9MHz
+T41	Value 327 328	0
+T42	Value 339 343	260K
+T47	Value 652 656	0.06
+T14	Property 716 749	electron–phonon coupling constant
+T48	Property 751 752	λ
+T2	Main 180 207	EuBa2Cu3O7−δ + y wt.% Al2O3
+T3	Value 158 159	0
+T31	Value 212 215	0.2
+T34	Value 395 399	0.06
+T35	Value 161 165	0.06
+T36	Value 170 174	0.10
+T38	Value 220 223	0.4
+T39	Value 404 408	0.10
+T6	Doping 353 365	substitution
+T9	Doping 531 539	addition
+T18	Doping 849 861	Substitution
+T21	Value 92 94	80
+T27	Value 95 99	280K
+T28	Value 104 106	80
+T29	Value 107 111	220K
+E1	Doping:T6 Dopant:T7 Site:T8
+E2	Doping:T9 Dopant:T10
+E3	Doping:T18 Dopant:T19 Site:T20

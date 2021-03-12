@@ -1,0 +1,58 @@
+T1	Property 0 23	Magnetic susceptibility
+T2	Characterization 28 31	NMR
+T3	Characterization 32 35	NQR
+T4	Process 135 143	annealed
+T5	Process 159 174	oxygen pressure
+T6	SC 189 204	superconductors
+T7	SC 210 213	T c
+T8	Property 310 314	spin
+T9	Property 337 349	normal state
+T11	Property 399 403	spin
+T12	SC 450 465	superconducting
+T13	Property 644 661	antiferromagnetic
+T14	Property 662 671	insulator
+T15	SC 675 689	superconductor
+T16	Property 713 726	concentration
+T17	SC 789 806	superconductivity
+T18	Characterization 901 904	NQR
+T19	Property 932 949	antiferromagnetic
+T20	SC 954 969	superconducting
+T21	Property 1021 1031	spin-glass
+T22	Property 1037 1043	domain
+T23	Property 1084 1093	frequency
+T24	Property 1133 1148	charge transfer
+T25	SC 1162 1179	superconductivity
+T26	Value 404 411	0.9 cm3
+T27	Element 412 419	Cu-mole
+T28	Main 67 87	Y1−x Ca x Sr2Cu2GaO7
+T31	Element 1068 1072	63Cu
+T32	Value 1059 1062	0.3
+T33	Value 1052 1053	0
+T37	Property 595 610	antiferromagnet
+T39	Value 104 107	0.3
+T40	Value 94 97	0.1
+T41	Value 99 102	0.2
+T42	Value 91 92	0
+T43	Value 178 184	30 MPa
+T44	Value 214 218	35 K
+T45	Value 147 152	600°C
+T46	Element 898 900	Ga
+T49	Value 225 228	0.2
+T50	Value 235 238	0.3
+T51	Element 890 892	Ca
+T52	Element 365 367	Ca
+T53	Material 592 594	2D
+T54	Element 500 502	Cu
+T55	Property 503 513	zero-field
+T56	Value 616 621	387 K
+T57	Element 781 783	Ca
+T58	Element 466 474	cuprates
+T59	Property 875 885	solubility
+T60	Element 1247 1258	YSr2Cu2GaO7
+T61	Property 315 329	susceptibility
+T62	Property 535 549	susceptibility
+T10	Doping 368 374	doping
+T29	Value 1109 1111	24
+T30	Value 1115 1121	28 MHz
+R1	Equivalent Arg1:T7 Arg2:T44
+E1	Doping:T10 Dopant:T52

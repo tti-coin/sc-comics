@@ -1,0 +1,64 @@
+T1	SC 0 15	Superconducting
+T2	Main 30 34	MgB2
+T3	Material 35 40	wires
+T4	Element 58 64	carbon
+T6	Element 110 116	Carbon
+T7	Material 117 126	particles
+T9	Material 184 189	Wires
+T10	Process 239 264	ultrasound homogenization
+T12	Characterization 364 367	SEM
+T13	Element 395 401	carbon
+T14	Element 405 409	MgB2
+T15	Process 449 460	anneal time
+T16	Material 463 481	lattice parameters
+T17	Characterization 516 521	X-ray
+T18	SC 532 547	Superconducting
+T19	SC 564 566	Tc
+T20	Element 571 575	MgB2
+T21	Material 576 581	wires
+T22	SC 601 603	Tc
+T23	Element 636 640	MgB2
+T24	Element 663 674	carbontubes
+T26	Element 708 711	SiC
+T28	Property 720 744	Critical current density
+T29	Property 755 770	magnetic fields
+T30	Material 805 810	wires
+T32	Element 838 842	MgB2
+T35	Value 78 85	10 at.%
+T36	Process 203 222	“in-situ” technique
+T37	Value 623 626	39K
+T38	Value 644 647	35K
+T39	Value 689 692	32K
+T41	Value 781 785	4.2K
+T42	Value 907 910	4 T
+T43	Element 179 182	SiC
+T8	Material 150 160	nano-tubes
+T44	Property 334 345	homogeneity
+T11	Material 283 308	nano- and micro-particles
+T31	Element 825 831	carbon
+T5	Doping 65 71	doping
+T25	Doping 675 681	doping
+T27	Doping 712 718	doping
+T45	Doping 832 837	doped
+T33	Value 140 142	10
+T46	Value 145 149	40nm
+T34	Value 164 166	10
+T47	Value 169 173	20nm
+T40	Value 771 772	2
+T48	Value 775 779	12 T
+R1	Equivalent Arg1:T22 Arg2:T37
+R2	Equivalent Arg1:T22 Arg2:T38
+R3	Equivalent Arg1:T22 Arg2:T39
+R4	Target Arg1:T37 Arg2:T23
+R5	Target Arg1:E1 Arg2:T2
+R6	Target Arg1:E4 Arg2:T32
+R7	Condition Arg1:T39 Arg2:E3
+R8	Condition Arg1:T38 Arg2:E2
+R9	Target Arg1:T38 Arg2:T23
+R10	Target Arg1:T39 Arg2:T23
+R11	Target Arg1:E2 Arg2:T23
+R12	Target Arg1:E3 Arg2:T23
+E1	Doping:T5 Dopant:T4
+E2	Doping:T25 Dopant:T24
+E3	Doping:T27 Dopant:T26
+E4	Doping:T45 Dopant:T31

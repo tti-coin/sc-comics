@@ -1,0 +1,69 @@
+T1	Main 47 57	RE–Ba–Cu–O
+T2	SC 58 73	superconducting
+T3	Material 74 79	bulks
+T4	SC 112 127	superconducting
+T5	Material 142 148	Binary
+T9	Material 160 173	nanoparticles
+T11	Element 190 200	Gd–Ba–Cu–O
+T12	SC 201 216	superconducting
+T13	Material 217 223	matrix
+T14	Property 235 239	melt
+T15	Material 240 248	textured
+T16	Process 249 255	growth
+T17	Element 287 291	HfO2
+T18	Material 292 301	particles
+T19	Material 327 333	matrix
+T20	Element 358 364	BaHfO3
+T21	Material 388 397	nanoscale
+T22	Property 438 442	melt
+T23	Process 443 449	growth
+T24	SC 463 501	superconducting transition temperature
+T25	SC 502 505	T C
+T26	Element 532 536	HfO2
+T28	SC 570 573	T C
+T29	Element 585 589	HfO2
+T32	Property 687 711	critical current density
+T33	Property 712 715	J C
+T34	Property 744 758	magnetic field
+T35	Element 772 778	BaHfO3
+T36	Material 779 788	particles
+T37	Material 809 821	liquid phase
+T38	Element 823 830	Ba–Cu–O
+T39	Element 832 836	Cu–O
+T40	Material 888 892	flux
+T41	Property 917 941	critical current density
+T6	Element 149 159	oxide HfO2
+T7	Value 577 584	0.8mol%
+T8	Value 631 635	0.1K
+T42	Property 893 912	trapping capability
+T10	Doping 179 184	added
+T27	Doping 537 545	addition
+T30	Doping 590 595	doped
+R1	Coref Arg1:T24 Arg2:T25
+R3	Target Arg1:E1 Arg2:T11
+E1	Doping:T10 Dopant:T6
+E2	Doping:T27 Dopant:T26
+E3	Doping:T30 Dopant:T29
+#1	AnnotatorNotes T1	47-57
+#2	AnnotatorNotes T3	74-79
+#3	AnnotatorNotes T5	142-148
+#4	AnnotatorNotes T9	160-173
+#5	AnnotatorNotes T11	190-200
+#6	AnnotatorNotes T13	217-223
+#7	AnnotatorNotes T15	240-248
+#8	AnnotatorNotes T17	287-291
+#9	AnnotatorNotes T18	292-301
+#10	AnnotatorNotes T19	327-333
+#11	AnnotatorNotes T20	358-364
+#12	AnnotatorNotes T21	388-397
+#13	AnnotatorNotes T26	532-536
+#14	AnnotatorNotes T29	585-589
+#15	AnnotatorNotes T35	772-778
+#16	AnnotatorNotes T36	779-788
+#17	AnnotatorNotes T37	809-821
+#18	AnnotatorNotes T38	823-830
+#19	AnnotatorNotes T39	832-836
+#20	AnnotatorNotes T40	888-892
+#21	AnnotatorNotes T6	149-159
+#22	AnnotatorNotes T7	577-584
+#23	AnnotatorNotes T8	631-635

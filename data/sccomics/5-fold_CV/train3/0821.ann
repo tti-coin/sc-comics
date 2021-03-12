@@ -1,0 +1,53 @@
+T1	Material 35 39	bulk
+T2	Element 40 44	MgB2
+T3	Property 129 153	critical current density
+T4	Material 199 203	disk
+T5	Main 211 215	MgB2
+T6	Material 216 220	bulk
+T7	SC 221 236	superconductors
+T9	Element 247 249	Ag
+T10	Element 315 317	Ag
+T12	Process 377 390	Ar atmosphere
+T13	Material 392 407	Microstructural
+T14	Characterization 423 451	scanning electron microscopy
+T15	Property 467 475	metallic
+T16	Element 476 478	Ag
+T17	Material 479 488	particles
+T18	Characterization 536 559	atomic force microscopy
+T21	Material 593 602	particles
+T22	Property 643 667	critical current density
+T23	Property 669 672	J c
+T24	Element 700 702	Ag
+T26	Element 732 736	MgB2
+T27	Material 737 741	bulk
+T28	Element 764 766	Ag
+T30	Property 798 801	J c
+T31	Property 826 836	self field
+T32	Property 853 856	J c
+T33	Property 915 925	self field
+T34	Material 1000 1004	bulk
+T35	Element 1005 1009	MgB2
+T36	Material 1010 1019	materials
+T37	Value 331 332	0
+T38	Value 759 763	4wt%
+T39	Value 805 814	293kA/cm2
+T40	Value 818 821	20K
+T41	Value 867 870	10K
+T42	Value 876 885	400kA/cm2
+T43	Value 887 896	300kA/cm2
+T44	Value 902 911	100kA/cm2
+T45	Value 927 929	1T
+T46	Value 934 936	2T
+T47	Value 334 335	2
+T48	Value 337 338	4
+T49	Value 340 341	6
+T50	Value 346 351	10wt%
+T51	Material 610 624	nanometer size
+T8	Doping 241 246	added
+T11	Doping 703 711	addition
+T25	Doping 767 775	addition
+T19	Element 575 592	silver-based MgB2
+R1	Target Arg1:E1 Arg2:T5
+E1	Doping:T8 Dopant:T9
+E2	Doping:T11 Dopant:T24
+E3	Doping:T25 Dopant:T28

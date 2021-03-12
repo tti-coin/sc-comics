@@ -1,0 +1,40 @@
+T1	Main 0 11	LaFeAs(O,F)
+T2	Material 12 21	epitaxial
+T3	Material 22 32	thin films
+T4	Process 38 43	grown
+T5	Element 47 51	GaAs
+T6	Material 52 62	substrates
+T7	Process 66 88	molecular beam epitaxy
+T8	Material 94 99	films
+T9	Process 105 110	grown
+T10	Process 126 132	growth
+T11	Material 143 147	film
+T12	Process 148 153	grown
+T13	Material 165 177	single phase
+T14	SC 198 224	superconducting transition
+T16	Element 257 265	fluorine
+T17	Material 290 294	film
+T18	Process 295 300	grown
+T19	Element 318 322	LaOF
+T20	Material 329 337	impurity
+T21	SC 358 384	superconducting transition
+T23	Property 447 463	Hall coefficient
+T24	Material 468 484	lattice constant
+T25	SC 515 530	superconducting
+T26	Material 531 535	film
+T28	Element 564 572	fluorine
+T29	SC 586 608	transition temperature
+T30	SC 610 613	T c
+T31	Material 675 679	film
+T32	SC 703 706	T c
+T33	Value 158 160	1h
+T34	Value 305 307	6h
+T35	Characterization 485 497	measurements
+T36	Process 416 430	heat treatment
+T22	Process 408 415	ex situ
+T15	Doping 251 256	doped
+T27	Doping 553 558	doped
+R2	Target Arg1:E1 Arg2:T16
+R3	Target Arg1:E2 Arg2:T28
+E1	Doping:T15
+E2	Doping:T27

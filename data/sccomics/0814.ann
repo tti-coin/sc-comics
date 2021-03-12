@@ -1,0 +1,54 @@
+T1	Material 0 15	Polycrystalline
+T2	Material 16 21	bulks
+T3	Main 22 49	Bi2Sr2− x Yb x CaCu2.0O8+ δ
+T4	Main 51 58	Bi-2212
+T5	Element 65 67	Yb
+T8	Process 144 153	sintering
+T9	Element 163 170	Bi-2212
+T10	Material 181 188	powders
+T11	Material 221 234	precipitation
+T12	Element 248 253	Yb2O3
+T13	Material 254 261	powders
+T15	Material 292 299	powders
+T16	Process 311 322	calcination
+T17	Material 334 341	dopants
+T18	Element 361 363	Yb
+T20	Material 384 401	lattice parameter
+T21	Material 403 417	microstructure
+T22	SC 430 445	superconducting
+T23	Material 495 504	amorphous
+T24	Material 527 543	grain boundaries
+T25	Material 661 669	porosity
+T26	Process 681 693	crystallized
+T27	Material 694 718	grain boundary structure
+T28	Element 725 727	Yb
+T30	Material 758 768	intergrain
+T32	Element 803 810	Yb ions
+T33	Element 816 823	Bi-2212
+T34	Material 824 830	matrix
+T35	Property 925 949	critical current density
+T36	Material 985 995	intergrain
+T37	Property 1012 1024	flux pinning
+T38	Property 1052 1076	critical current density
+T43	Value 89 90	0
+T45	Value 1128 1132	0.02
+T46	Property 876 882	pining
+T47	Value 92 96	0.01
+T48	Value 98 102	0.02
+T49	Value 107 111	0.05
+T7	Property 132 143	solid state
+T50	Characterization 563 568	HRTEM
+T6	Doping 68 74	doping
+T14	Doping 267 272	added
+T19	Doping 364 376	substitution
+T29	Doping 728 734	doping
+T31	Doping 793 799	doping
+T39	Doping 1107 1113	doping
+R2	Target Arg1:E1 Arg2:T3
+R3	Target Arg1:E5 Arg2:T33
+E1	Doping:T6 Dopant:T5
+E2	Doping:T14 Dopant:T12
+E3	Doping:T19 Dopant:T18
+E4	Doping:T29 Dopant:T28
+E5	Doping:T31 Dopant:T32
+E6	Doping:T39

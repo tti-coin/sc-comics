@@ -1,0 +1,51 @@
+T1	Material 47 54	surface
+T4	SC 120 135	superconducting
+T5	Characterization 156 181	electron-beam irradiation
+T6	Process 185 201	room temperature
+T7	Characterization 242 269	Auger electron spectroscopy
+T8	Characterization 271 274	AES
+T10	Property 362 375	decomposition
+T14	Process 509 523	electron beams
+T15	Material 554 568	single-crystal
+T16	SC 569 584	superconductors
+T20	Characterization 722 725	AES
+T21	Process 740 747	sputter
+T27	Material 1191 1200	thin-film
+T28	SC 1201 1216	superconductors
+T29	Material 1230 1245	single crystals
+T34	Value 995 1002	10 at.%
+T35	Element 1218 1229	YBa2Cu3O6.8
+T37	Value 502 508	10-keV
+T38	Element 542 553	YBa2Cu3O6.8
+T39	Main 89 105	Bi-Pb-Sr-Ca-Cu-O
+T40	Element 1043 1050	calcium
+T41	Element 1055 1061	copper
+T42	Element 934 936	Ag
+T44	Element 676 682	oxygen
+T47	Value 1024 1026	12
+T48	Value 1031 1038	15 at.%
+T52	Element 1007 1013	oxygen
+T46	Element 1171 1190	YBa2CugO7−x -SrTiO3
+T53	Main 110 119	Y-Ba-Cu-O
+T36	Value 926 933	10 wt.%
+T56	Element 901 925	Bi1.7Pb0.3Sr2Ca2Cu3O10.2
+T57	Element 885 891	silver
+T12	Value 443 461	1028 electrons m−2
+T33	Material 892 900	sheathed
+T43	Property 1307 1320	low radiation
+T31	Property 1344 1366	damage recovery effect
+T24	Material 963 985	surface concentrations
+T25	Material 1280 1299	surface composition
+T2	Material 59 76	bulk compositions
+T19	Material 1153 1170	epitaxially grown
+T9	Property 277 298	Electrons of energies
+T11	Process 406 430	electron radiation doses
+T17	Characterization 748 763	depth profiling
+T13	Process 1388 1412	electron radiation doses
+T30	Property 1114 1127	decomposition
+T3	SC 80 88	high-T c
+T22	Material 840 877	the surface and the bulk compositions
+T23	Value 307 308	5
+T26	Value 313 319	15 keV
+T18	Material 642 656	stoichiometric
+T32	Property 657 671	concentrations

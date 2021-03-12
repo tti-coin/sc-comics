@@ -1,0 +1,52 @@
+T1	Main 18 45	Fe1.02Se0.5Te0.5– x S x (I)
+T2	Main 50 78	Fe1.02Se0.4Te0.6– x S x (II)
+T3	Element 96 102	sulfur
+T4	Element 107 116	tellurium
+T6	Element 154 156	Se
+T7	Property 157 171	concentrations
+T8	Characterization 218 235	X-ray diffraction
+T9	Characterization 237 265	scanning electron microscopy
+T10	Property 267 289	electrical resistivity
+T11	Property 294 317	magnetic susceptibility
+T12	SC 336 351	superconducting
+T13	Material 352 360	PbO-type
+T14	Property 475 487	ionic radius
+T15	Element 491 497	sulfur
+T16	Element 517 526	tellurium
+T18	Element 546 555	tellurium
+T19	Element 559 565	sulfur
+T23	SC 626 641	superconducting
+T24	Material 677 684	ternary
+T25	Element 696 706	chalcogens
+T26	Material 726 744	lattice parameters
+T27	Element 759 760	S
+T28	Element 765 767	Te
+T30	Element 788 811	Fe1.02Se0.5Te0.5– x S x
+T31	Element 816 839	Fe1.02Se0.4Te0.6– x S x
+T32	Element 907 930	Fe1.02Te0.5Se0.5- x S x
+T33	Property 977 997	critical temperature
+T34	Material 1019 1037	lattice parameters
+T35	Property 1042 1062	critical temperature
+T36	Element 1066 1077	Fe(S,Se,Te)
+T37	Material 1078 1087	materials
+T38	Material 1097 1104	ternary
+T39	Element 1116 1126	chalcogens
+T41	Material 1198 1219	chemical compositions
+T42	Material 1238 1248	tetragonal
+T43	Material 1253 1262	hexagonal
+T48	Characterization 318 330	measurements
+T50	Value 417 420	0.4
+T52	Value 452 455	0.5
+T20	Material 602 611	unit cell
+T5	Doping 117 129	substitution
+T17	Doping 531 542	replacement
+T29	Doping 768 780	substitution
+T40	Doping 1130 1143	substitutions
+R1	Target Arg1:E1 Arg2:T2
+R2	Target Arg1:E5 Arg2:T30
+R3	Target Arg1:E1 Arg2:T1
+R4	Target Arg1:E5 Arg2:T31
+E1	Doping:T5 Dopant:T3 Site:T4
+E3	Doping:T17 Site:T18 Dopant:T19
+E5	Doping:T29 Dopant:T27 Site:T28
+E6	Doping:T40

@@ -1,0 +1,48 @@
+T1	Material 18 28	structural
+T3	Characterization 105 110	X-ray
+T6	Material 200 215	single crystals
+T7	Property 236 250	concentrations
+T10	Material 374 384	structural
+T15	Material 620 635	single crystals
+T16	Material 652 659	ceramic
+T17	Material 680 695	single crystals
+T18	SC 704 719	superconducting
+T21	SC 792 807	superconductors
+T22	Material 827 845	structural changes
+T24	Material 936 951	single crystals
+T25	Element 44 46	Ca
+T30	Element 233 235	Ca
+T31	Element 316 320	Ca2+
+T32	Element 335 339	Ba2+
+T33	Value 254 257	11%
+T34	Element 259 267	Y3+ ions
+T35	Element 457 461	Ba2+
+T36	Element 467 471	Ca2+
+T37	Element 571 573	Ca
+T38	Element 602 608	Ca-124
+T40	Element 613 619	Ca-247
+T44	Element 736 738	Al
+T26	Main 63 74	YBa2Cu3O7−σ
+T28	Element 673 679	Ca-123
+T29	Element 929 935	Ca-123
+T4	Material 111 135	single crystal structure
+T5	Characterization 169 190	structure refinements
+T9	Material 540 552	bond lengths
+T13	Main 76 82	Ca-123
+T2	Doping 47 59	substitution
+T8	Doping 272 283	substituted
+T11	Doping 326 334	replaces
+T12	Doping 440 452	substitution
+T14	Doping 574 580	doping
+T19	Doping 739 745	doping
+T20	Doping 786 791	doped
+T23	Doping 492 497	doped
+R2	Target Arg1:E1 Arg2:T26
+E1	Doping:T2 Dopant:T25
+E2	Doping:T8 Site:T34
+E3	Doping:T11 Dopant:T31 Site:T32
+E4	Doping:T12 Site:T35 Dopant:T36
+E5	Doping:T14 Dopant:T37
+E6	Doping:T19 Dopant:T44
+E7	Doping:T20
+E8	Doping:T23

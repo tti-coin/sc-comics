@@ -1,0 +1,36 @@
+T1	Property 0 20	Transport properties
+T2	Main 24 38	(Cu,C)Ba2CuO x
+T3	Main 41 51	Cu,C)-1201
+T4	Material 53 63	thin films
+T6	Property 125 136	resistivity
+T7	Process 155 161	vacuum
+T8	Process 171 181	deposition
+T10	Element 281 295	(Cu,C)Ba2CuO x
+T11	Material 296 301	films
+T12	SC 310 313	T c
+T13	Property 335 347	conductivity
+T15	Property 410 421	resistivity
+T19	SC 603 606	T c
+T20	Characterization 612 615	XPS
+T21	Element 634 640	(Cu,C)
+T22	Property 694 710	charge reservoir
+T9	Property 205 233	in situ transport properties
+T5	Property 91 121	in situ temperature dependence
+T26	Value 315 318	20K
+T27	Value 351 355	290K
+T14	Characterization 189 200	measurement
+T28	Characterization 234 246	measurements
+T29	Value 360 365	290 K
+T30	Value 428 440	1.5×10−3 K−1
+T31	Value 368 378	4×102 S/cm
+T32	Property 383 406	temperature coefficient
+T23	Property 738 748	anisotropy
+T16	Doping 446 452	doping
+T17	Doping 494 499	doped
+T18	Doping 514 519	doped
+R1	Coref Arg1:T2 Arg2:T3
+R2	Equivalent Arg1:T12 Arg2:T26
+R3	Target Arg1:T26 Arg2:T10
+E1	Doping:T16 
+E2	Doping:T17 
+E3	Doping:T18 

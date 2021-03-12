@@ -1,0 +1,28 @@
+T1	Main 0 24	(1−x)YBa2Cu3O7 + xBaTiO3
+T2	Material 25 35	composites
+T3	Process 76 96	solid state reaction
+T4	Material 130 153	morphological structure
+T5	Element 169 175	BaTiO3
+T6	Material 191 205	grain boundary
+T7	Material 213 221	granular
+T8	Material 222 228	matrix
+T9	Element 232 236	YBCO
+T11	Property 276 295	zero magnetic field
+T12	SC 310 325	superconducting
+T13	Element 352 358	BaTiO3
+T15	Property 392 413	crossover temperature
+T17	Element 500 506	BaTiO3
+T18	Property 507 520	concentration
+T20	Property 736 744	Gaussian
+T21	Property 746 754	critical
+T22	Property 759 775	short wavelength
+T25	Value 565 567	8T
+T19	Property 627 650	Aslamazov–Larkin theory
+T26	Property 533 552	magnetoconductivity
+T27	Property 238 262	Fluctuation conductivity
+T10	Property 419 421	2D
+T16	Property 425 427	3D
+T28	Property 826 842	paraconductivity
+T29	Material 579 603	dimensionality crossover
+T14	Doping 359 372	incorporation
+E1	Doping:T14 Dopant:T13

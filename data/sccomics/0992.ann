@@ -1,0 +1,89 @@
+T1	Property 18 26	critical
+T2	Main 41 58	M n +1AX n phases
+T3	Material 102 111	materials
+T4	Element 133 143	MAX phases
+T6	Material 159 178	hexagonal-structure
+T7	Material 179 186	ternary
+T9	Material 200 208	nitrides
+T10	Element 220 236	transition metal
+T11	Element 291 297	Ti2AlC
+T12	Element 299 306	Ti3SiC2
+T13	Element 312 319	Ti4AlN3
+T14	Element 418 428	MAX phases
+T15	Property 519 529	electrical
+T16	Property 535 556	mechanical properties
+T17	Material 608 614	metals
+T18	Material 619 627	ceramics
+T19	Element 642 652	MAX phases
+T20	Process 680 689	oxidation
+T21	Property 694 703	corrosion
+T22	Property 775 800	electrical conductivities
+T23	Characterization 838 842	stem
+T24	Material 876 893	crystal structure
+T26	Material 949 955	layers
+T27	Element 973 983	MAX phases
+T28	Material 1028 1037	thin-film
+T29	Process 1058 1078	Magnetron sputtering
+T30	Process 1087 1097	deposition
+T33	Material 1158 1174	epitaxial growth
+T34	Material 1213 1221	material
+T35	Material 1247 1254	surface
+T36	Property 1265 1278	decomposition
+T37	Element 1282 1292	M n +1AX n
+T38	Material 1293 1303	thin films
+T39	Element 1309 1311	MX
+T40	Property 1376 1389	decomposition
+T42	Material 1444 1457	bulk material
+T43	Process 1492 1517	low-temperature synthesis
+T44	Process 1542 1552	deposition
+T45	Material 1598 1608	substrates
+T46	Process 1616 1626	deposition
+T47	Element 1663 1670	Ti–Si–C
+T48	Element 1675 1682	Ti–Al–N
+T49	Element 1782 1787	V2GeC
+T50	Element 1792 1798	Cr2AlC
+T51	Process 1806 1815	deposited
+T52	Process 1833 1846	thermal spray
+T53	Element 1850 1856	Ti2AlC
+T54	Material 1857 1863	powder
+T55	Material 1889 1894	thick
+T56	Process 1895 1903	coatings
+T58	Property 1945 1973	first-principle calculations
+T59	Element 2002 2012	MAX phases
+T60	Material 2076 2085	materials
+T61	Element 2156 2166	MAX phases
+T62	Element 2175 2182	Ti4SiC3
+T63	Element 2184 2191	Ta4AlC3
+T64	Element 2197 2204	Ti3SnC2
+T65	Property 2313 2327	phase diagrams
+T66	Material 2360 2377	metastable phases
+T67	Property 2477 2487	anisotropy
+T68	Material 2489 2499	impurities
+T69	Material 2505 2514	vacancies
+T70	Property 2522 2543	electrical properties
+T71	SC 2579 2596	superconductivity
+T72	Property 2598 2607	magnetism
+T74	Value 1820 1825	450°C
+T75	Value 1737 1742	800°C
+T77	Element 1556 1566	MAX phases
+T78	Value 83 84	1
+T79	Value 92 93	3
+T80	Value 86 87	2
+T81	Element 61 71	MAX phases
+T5	Material 187 195	carbides
+T87	Material 211 212	X
+T86	Element 335 345	MAX phases
+T88	Element 900 909	M n +1X n
+T92	Element 1630 1640	MAX phases
+T32	Material 1131 1154	single-crystal material
+T101	Property 705 722	elastically stiff
+T57	Element 238 241	“M”
+T105	Material 862 875	nanolaminated
+T25	Doping 916 928	intercalated
+T8	Element 250 265	A-group element
+T84	Element 939 948	A-element
+T31	Value 332 334	60
+T41	Value 1341 1345	1000
+T73	Value 1346 1352	1100°C
+R4	Target Arg1:E1 Arg2:T88
+E1	Doping:T25 Dopant:T84

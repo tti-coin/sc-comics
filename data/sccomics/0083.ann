@@ -1,0 +1,47 @@
+T2	Process 171 185	annealing time
+T4	Process 190 211	annealing temperature
+T6	Material 335 349	microstructure
+T7	Characterization 433 461	scanning electron microscopy
+T8	Characterization 463 466	SEM
+T9	Characterization 469 505	energy dispersive X-ray fluorescence
+T11	Characterization 507 510	EDX
+T12	Characterization 516 544	electron probe microanalysis
+T13	Characterization 546 550	EPMA
+T14	Material 557 575	lattice parameters
+T15	Characterization 608 632	X-ray powder diffraction
+T18	Material 678 692	Single-crystal
+T19	Characterization 693 698	X-ray
+T20	Material 749 774	incommensurate modulation
+T21	SC 889 892	T c
+T22	SC 945 948	T c
+T23	Element 583 593	2223 phase
+T24	Element 16 18	Pb
+T25	Value 951 964	111.5 ± 1.5 K
+T26	Element 23 25	Bi
+T27	Material 29 44	polycrystalline
+T28	Main 46 71	Bi2−x Pb x Sr2Ca2Cu3O10−δ
+T32	Main 74 84	2223 phase
+T34	Element 136 138	Pb
+T35	Value 141 152	0.35 ± 0.03
+T36	Element 240 242	Pb
+T37	Property 114 130	solubility limit
+T38	Property 254 270	solubility limit
+T39	Material 297 305	liquidus
+T40	Material 373 394	chemical compositions
+T41	Element 667 669	Pb
+T42	Element 674 676	Bi
+T44	Element 796 798	Pb
+T45	Value 801 805	0.36
+T46	Element 877 887	2223 phase
+T47	Material 849 869	chemical composition
+T48	Material 714 740	superstructure along [010]
+T1	Doping 0 12	Substitution
+T3	Doping 228 236	Addition
+T5	Doping 650 663	incorporation
+R1	Equivalent Arg1:T22 Arg2:T25
+R2	Target Arg1:T25 Arg2:T46
+R4	Target Arg1:E1 Arg2:T28
+R5	Target Arg1:E3 Arg2:T23
+E1	Doping:T1 Dopant:T24 Site:T26
+E2	Doping:T3 Dopant:T36
+E3	Doping:T5 Dopant:T41 Site:T42

@@ -1,0 +1,51 @@
+T1	Element 0 13	Technetium-99
+T2	Material 54 73	radiotoxic isotopes
+T4	Material 205 210	solid
+T6	Element 314 319	Tc-99
+T9	Material 353 362	structure
+T10	Material 370 380	pyrochlore
+T11	Main 382 390	Nd2Tc2O7
+T12	Material 393 403	perovskite
+T13	Main 405 411	SrTcO3
+T14	Material 418 425	layered
+T15	Material 426 436	perovskite
+T16	Main 438 445	Sr2TcO4
+T17	Element 540 545	Tc-99
+T18	Characterization 639 668	Rietveld structure refinement
+T21	Material 864 877	crystallinity
+T22	Material 888 906	lattice parameters
+T23	Element 1039 1047	Nd2Tc2O7
+T24	Element 1049 1055	SrTcO3
+T25	Element 1061 1068	Sr2TcO4
+T26	Element 1088 1109	strontium technetates
+T27	Element 1111 1117	SrTcO3
+T28	Element 1122 1129	Sr2TcO4
+T29	SC 1136 1153	superconductivity
+T30	SC 1169 1190	critical temperatures
+T31	SC 1194 1196	Tc
+T32	Element 1226 1234	Nd2Tc2O7
+T33	Property 1263 1282	magnetic properties
+T34	Value 1002 1005	2.0
+T35	Value 1007 1010	2.4
+T36	Value 1016 1020	3.9%
+T37	Value 1199 1203	7.8K
+T38	Value 1208 1210	7K
+T40	Material 561 577	crystallographic
+T3	Material 694 710	crystallographic
+T8	Characterization 737 773	physical property measurement system
+T20	Characterization 775 779	PPMS
+T5	Doping 297 310	incorporation
+T39	Value 1289 1291	3K
+T7	Material 325 332	ternary
+T41	Element 333 339	oxides
+T19	Material 834 841	ternary
+T42	Element 842 848	oxides
+R1	Equivalent Arg1:T31 Arg2:T37
+R2	Equivalent Arg1:T31 Arg2:T38
+R3	Target Arg1:T37 Arg2:T27
+R4	Target Arg1:T38 Arg2:T28
+R5	Target Arg1:E2 Arg2:T16
+R6	Target Arg1:E2 Arg2:T11
+R7	Target Arg1:E2 Arg2:T13
+R8	Target Arg1:E2 Arg2:T41
+E2	Doping:T5 Dopant:T6

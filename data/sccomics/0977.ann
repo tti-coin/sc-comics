@@ -1,0 +1,51 @@
+T1	SC 15 53	superconducting transition temperature
+T2	SC 55 58	T c
+T3	SC 71 85	superconductor
+T4	Element 87 95	Fe1+x Se
+T5	Element 101 107	Fe-11’
+T6	Element 118 120	Cr
+T7	Element 145 147	Fe
+T8	Element 199 201	Cr
+T9	SC 226 240	superconductor
+T10	Main 244 260	Fe1+x Se0.5Te0.5
+T11	Element 264 266	Fe
+T13	Property 301 309	magnetic
+T14	Property 311 321	electrical
+T15	Property 322 331	transport
+T16	Property 333 350	thermal transport
+T17	Element 383 385	Cr
+T20	Element 467 469	Cr
+T21	Material 484 491	lattice
+T22	Property 493 501	Magnetic
+T24	SC 564 579	superconducting
+T26	SC 642 657	superconducting
+T27	Property 658 669	diamagnetic
+T28	SC 689 692	T c
+T30	Material 748 752	bulk
+T31	SC 753 768	superconducting
+T33	Property 844 859	charge carriers
+T34	Property 863 875	normal state
+T40	Property 709 722	Heat capacity
+T12	Element 597 599	Cr
+T43	Material 470 475	atoms
+T44	Material 289 299	structural
+T32	Property 506 526	electrical transport
+T45	Property 355 368	heat capacity
+T19	Doping 121 133	substitution
+T25	Doping 202 214	substitution
+T29	Doping 386 396	substitute
+T37	Doping 451 463	substitution
+T38	Doping 600 611	substituted
+T23	Characterization 527 539	measurements
+T35	Characterization 723 734	measurement
+T18	Characterization 408 425	x-ray diffraction
+T36	Characterization 426 437	measurement
+T39	Property 794 805	Thermopower
+T41	Characterization 806 817	measurement
+R2	Target Arg1:E2 Arg2:T10
+R3	Target Arg1:E1 Arg2:T5
+E1	Doping:T19 Dopant:T6 Site:T7
+E2	Doping:T25 Dopant:T8 Site:T11
+E3	Doping:T29 Dopant:T17
+E4	Doping:T37 Dopant:T20
+E5	Doping:T38 Dopant:T12

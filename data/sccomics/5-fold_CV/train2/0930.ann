@@ -1,0 +1,57 @@
+T1	SC 18 33	superconductors
+T2	Property 110 122	normal state
+T3	SC 164 181	superconductivity
+T4	SC 209 224	superconductors
+T5	Element 230 237	niobium
+T6	Element 241 245	lead
+T7	Property 251 263	normal state
+T8	Property 269 281	Fermi liquid
+T9	Property 302 315	Fermi surface
+T10	Property 357 370	Fermi surface
+T11	SC 372 389	Superconductivity
+T12	Property 422 435	Fermi surface
+T13	Property 436 447	instability
+T14	SC 455 470	superconducting
+T15	Property 519 533	electron pairs
+T16	Property 535 549	Cooper pairing
+T17	Process 556 572	high temperature
+T19	SC 653 670	superconductivity
+T21	Property 748 761	Fermi surface
+T22	Property 773 782	pseudogap
+T23	Property 797 811	quasiparticles
+T24	Property 846 858	normal state
+T25	SC 897 914	superconductivity
+T26	Property 957 970	Fermi surface
+T27	Property 983 997	quasiparticles
+T28	Property 1008 1021	Fermi surface
+T29	Property 1029 1041	normal state
+T30	Process 1059 1064	laser
+T31	Characterization 1071 1112	angle-resolved photoemission measurements
+T33	Element 1155 1159	iron
+T34	SC 1166 1180	superconductor
+T35	Element 1181 1198	(Ba0.6K0.4)Fe2As2
+T36	SC 1226 1241	superconducting
+T37	SC 1272 1287	superconducting
+T38	Property 1301 1305	hole
+T39	Property 1311 1324	Fermi surface
+T40	Material 1325 1331	sheets
+T41	Property 1336 1349	quasiparticle
+T42	Property 1373 1385	normal state
+T43	Property 1391 1401	electronic
+T44	Property 1437 1449	Fermi liquid
+T45	SC 1462 1477	superconducting
+T46	Property 1519 1541	temperature dependence
+T47	SC 1578 1593	superconducting
+T48	SC 1623 1626	T c
+T49	SC 1701 1718	superconductivity
+T50	Property 1724 1740	non-Fermi liquid
+T51	Property 1478 1481	gap
+T52	Property 333 346	quasipartcles
+T20	Doping 694 704	underdoped
+T18	Element 573 580	cuprate
+T53	SC 581 596	superconductors
+T32	Doping 1149 1154	doped
+R1	Target Arg1:E1 Arg2:T18
+R2	Target Arg1:E2 Arg2:T35
+E1	Doping:T20 
+E2	Doping:T32 

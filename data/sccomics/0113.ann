@@ -1,0 +1,44 @@
+T1	Property 54 58	S(T)
+T2	SC 106 132	superconducting transition
+T3	SC 205 208	T c
+T4	Property 238 242	S(T)
+T5	SC 259 262	T c
+T6	Property 310 314	S(T)
+T7	Property 448 452	S(T)
+T8	SC 462 488	superconducting transition
+T9	Property 552 556	S(T)
+T10	SC 568 571	T c
+T11	Property 714 728	oxygen content
+T13	Property 886 890	S(T)
+T14	Property 931 935	S(T)
+T15	Property 1073 1077	S(T)
+T16	SC 1083 1086	T c
+T17	Property 1145 1168	electrical conductivity
+T18	SC 1244 1259	superconductors
+T19	SC 1314 1341	superconducting transition,
+T20	Property 1449 1453	S(T)
+T21	Property 1497 1511	oxygen content
+T22	Property 1662 1666	S(T)
+T23	Property 1707 1721	magnetic field
+T24	Property 1842 1856	oxygen content
+T25	Property 2040 2044	S(T)
+T26	Material 2327 2335	crystals
+T27	Property 2341 2345	S(T)
+T28	Property 2390 2412	electrical resistivity
+T29	Material 2473 2481	crystals
+T30	Value 211 215	91 K
+T31	Main 162 174	Y1Ba2Cu3O7−δ
+T33	Process 151 161	oxygenated
+T34	Material 175 190	polycrystalline
+T35	Element 1090 1102	Y1Ba2Cu3O7−δ
+T37	Element 2460 2472	Y1Ba2Cu3O7−δ
+T40	Element 1231 1243	copper-oxide
+T41	Property 32 52	thermoelectric power
+T42	Process 276 286	oxygenated
+T43	Process 781 792	oxygenation
+T12	Property 1194 1221	thermoelectric coefficient,
+T44	Property 1929 1940	thermopower
+T45	Material 2102 2117	polycrystalline
+T39	Property 1222 1226	L(T)
+R1	Equivalent Arg1:T3 Arg2:T30
+R2	Target Arg1:T30 Arg2:T31

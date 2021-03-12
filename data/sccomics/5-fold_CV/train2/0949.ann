@@ -1,0 +1,72 @@
+T1	Material 25 40	polycrystalline
+T2	Element 41 43	Bi
+T3	SC 50 64	superconductor
+T4	Property 91 103	flux pinning
+T5	Material 122 139	granular networks
+T6	Process 154 170	high temperature
+T7	Property 183 198	magnetic fields
+T8	Property 210 230	flux pinning centers
+T9	SC 302 317	superconducting
+T10	Material 318 324	matrix
+T11	Property 340 352	flux pinning
+T12	Material 394 403	nanoscale
+T13	Property 404 420	magnetic pinning
+T15	SC 432 456	high T c superconductors
+T16	Element 527 530	NiO
+T18	Material 547 562	phase formation
+T19	Property 567 579	flux pinning
+T20	Material 587 602	polycrystalline
+T21	Main 603 657	( Bi 1.8 Pb 0.4 Sr 2 Ca 2.2 Cu 3 O δ ) 1 − x ( NiO ) x
+T22	Characterization 708 711	XRD
+T23	Characterization 713 716	SEM
+T24	Characterization 718 721	AFM
+T26	SC 835 855	critical temperature
+T27	SC 858 861	T c
+T29	SC 937 940	T c
+T30	Element 941 953	phase (2212)
+T31	SC 988 999	T c (onset)
+T32	Property 1050 1072	temperature dependence
+T33	Property 1089 1102	magnetization
+T35	Property 1194 1210	pinning strength
+T37	Process 1263 1279	high temperature
+T38	Property 1357 1365	magnetic
+T39	Material 1366 1379	nanoparticles
+T40	SC 1389 1404	superconducting
+T41	Material 1405 1411	matrix
+T42	SC 1457 1460	T c
+T43	Property 1475 1484	depinning
+T44	Property 1561 1573	flux pinning
+T45	Material 1582 1597	microstructures
+T46	Material 1639 1647	granular
+T47	SC 1648 1662	superconductor
+T48	Property 1690 1698	magnetic
+T49	Material 1699 1712	nanoparticles
+T50	Property 1724 1737	pinning sites
+T51	Material 1741 1749	granular
+T52	SC 1750 1765	superconductors
+T53	Property 1777 1791	magnetic field
+T54	Property 1873 1881	magnetic
+T57	Property 1926 1942	critical current
+T59	Value 669 674	0.000
+T61	Value 1286 1290	90 K
+T62	Value 1248 1253	0.002
+T64	Value 695 700	0.005
+T65	Value 684 689	0.002
+T66	Value 677 682	0.001
+T56	Property 807 822	volume fraction
+T25	Material 517 526	nanosized
+T69	Property 1516 1532	current carrying
+T70	Characterization 1030 1042	Measurements
+T17	Doping 531 539	addition
+T34	Doping 1157 1165	addition
+T55	Doping 1893 1901	addition
+T36	Property 727 740	magnetization
+T67	Characterization 741 753	measurements
+T28	Element 864 876	phase (2223)
+T60	Material 1148 1152	nano
+T68	Element 1153 1156	NiO
+R1	Coref Arg1:T26 Arg2:T27
+R2	Target Arg1:E1 Arg2:T21
+E1	Doping:T17 Dopant:T16
+E2	Doping:T34 Dopant:T68
+E3	Doping:T55 

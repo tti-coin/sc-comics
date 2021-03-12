@@ -1,0 +1,46 @@
+T2	Material 63 73	structural
+T3	SC 78 93	superconducting
+T4	Process 187 209	electrochemical method
+T5	Process 243 259	room temperature
+T7	Property 432 446	oxygen content
+T8	Property 535 550	electrochemical
+T10	SC 609 612	T c
+T11	Material 633 643	tetragonal
+T12	Property 658 672	oxygen content
+T13	SC 704 707	T c
+T14	SC 815 818	T c
+T15	Property 859 877	hole concentration
+T16	Property 889 904	electrochemical
+T18	SC 977 980	T c
+T20	Process 1013 1039	electrochemical conditions
+T21	Material 1067 1074	crystal
+T22	Material 1075 1083	symmetry
+T23	Main 42 49	Bi-2212
+T24	Element 146 165	Bi2Sr1.5Ca1.5Cu2O z
+T28	Value 337 338	0
+T29	Value 345 349	0.37
+T30	Element 354 378	Li y Bi2Sr1.5Ca1.5Cu2O z
+T33	Value 769 773	94 K
+T34	Value 797 801	zero
+T35	Process 519 529	lithiation
+T37	Characterization 302 314	1CP analysis
+T38	Element 11 18	lithium
+T39	Element 551 558	lithium
+T40	Element 905 912	lithium
+T41	Element 281 288	lithium
+T42	Process 166 175	lithiated
+T19	Characterization 461 482	coulometric titration
+T1	Doping 19 32	intercalation
+T6	Doping 275 280	doped
+T9	Doping 559 572	intercalation
+T17	Doping 913 919	doping
+R1	Equivalent Arg1:T13 Arg2:T33
+R2	Target Arg1:E2 Arg2:T30
+R3	Equivalent Arg1:T13 Arg2:T34
+R4	Target Arg1:E1 Arg2:T23
+R5	Condition Arg1:T33 Arg2:E3
+R6	Condition Arg1:T34 Arg2:E3
+E1	Doping:T1 Dopant:T38
+E2	Doping:T6 Dopant:T41
+E3	Doping:T9 Dopant:T39
+E4	Doping:T17 Dopant:T40

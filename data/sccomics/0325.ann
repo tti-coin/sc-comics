@@ -1,0 +1,38 @@
+T1	Material 36 52	phase separation
+T2	Element 75 83	Cu(1− y)
+T3	Material 84 94	deficiency
+T4	Material 137 150	stoichiometry
+T5	Main 151 166	RE2−x Ce x CuO4
+T6	Element 171 181	lanthanide
+T8	Process 246 249	air
+T9	Material 324 340	phase separation
+T10	Process 374 393	reductive annealing
+T11	Process 426 429	air
+T12	Process 444 455	evaporation
+T13	Element 459 461	Cu
+T14	Material 493 502	deficient
+T15	Element 569 583	Nd2O3–CeO2–CuO
+T16	Material 602 611	structure
+T17	Material 612 624	deficiencies
+T18	Process 671 690	reductive annealing
+T19	Material 697 705	defected
+T20	Material 706 717	T′ matrices
+T21	Element 759 765	oxygen
+T22	Element 805 810	+2 Cu
+T23	Property 811 818	valence
+T24	Element 828 830	Cu
+T25	Material 831 841	deficiency
+T26	Element 873 891	Nd1.95−x Ce x CuO4
+T28	Element 920 927	Cu ions
+T29	Property 933 942	electrons
+T30	SC 996 1013	superconductivity
+T34	Element 168 170	RE
+T41	Value 903 907	0.15
+T42	Element 485 487	RE
+T7	Material 206 218	T′ structure
+T44	Material 503 517	T′ skeleton(s)
+T45	Material 1017 1025	T′ phase
+T27	Doping 910 916	doping
+T33	Value 256 262	1000°C
+R1	Target Arg1:E1 Arg2:T26
+E1	Doping:T27 Dopant:T28

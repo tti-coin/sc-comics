@@ -1,0 +1,47 @@
+T1	Element 11 17	BaZrO3
+T2	Element 19 22	BZO
+T3	Element 28 32	Y2O3
+T4	Material 33 46	nanoparticles
+T5	Main 68 79	YBa2Cu3O7−x
+T6	Main 81 85	YBCO
+T7	Material 87 92	films
+T8	Process 109 119	deposition
+T9	Element 126 143	trifluoroacetates
+T10	Material 183 196	nanoparticles
+T11	Property 211 235	critical current density
+T12	Property 237 240	J c
+T16	Material 265 270	films
+T19	Property 322 325	T c
+T20	Element 353 357	YBCO
+T21	Material 358 363	films
+T22	Element 369 373	YBCO
+T23	Material 374 378	film
+T24	Element 393 396	BZO
+T25	Element 410 414	Y2O3
+T26	Property 422 425	T c
+T27	Property 443 446	J c
+T28	Property 469 479	self-field
+T29	Property 513 525	flux pinning
+T30	Property 547 561	magnetic field
+T31	Material 606 624	crystal structures
+T32	Element 628 631	BZO
+T33	Element 636 640	Y2O3
+T34	Element 260 264	YBCO
+T17	Property 289 320	critical transition temperature
+T18	Value 435 438	90K
+T35	Value 384 392	7.0mol.%
+T36	Value 401 409	7.0mol.%
+T37	Value 456 465	6.5mA/cm2
+T38	Value 481 483	0T
+T39	Value 485 488	77K
+T40	Element 145 152	TFA-MOD
+T41	Element 662 669	TFA-MOD
+T43	Element 245 253	Y2O3/BZO
+T13	Material 96 108	metalorganic
+T14	Doping 254 259	doped
+R3	Coref Arg1:T5 Arg2:T6
+R4	Coref Arg1:T9 Arg2:T40
+R5	Coref Arg1:T1 Arg2:T2
+R7	Target Arg1:E1 Arg2:T34
+E1	Doping:T14 Dopant:T43
+R6	Target Arg1:T18 Arg2:T22	

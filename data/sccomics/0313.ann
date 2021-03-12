@@ -1,0 +1,58 @@
+T1	SC 52 69	superconductivity
+T2	Property 74 93	charge density wave
+T3	Property 95 112	spin density wave
+T4	Property 117 126	magnetism
+T7	SC 180 183	T c
+T8	Element 188 195	cuprate
+T9	Element 197 201	iron
+T10	Property 213 226	heavy Fermion
+T11	SC 227 242	superconductors
+T12	Property 255 277	quantum critical point
+T13	Material 291 297	metals
+T15	SC 353 356	T c
+T16	SC 364 379	superconductors
+T17	SC 442 459	superconductivity
+T18	Material 469 476	layered
+T19	Element 477 479	Cu
+T20	Main 495 506	RE2Cu5As3O2
+T21	Element 513 515	La
+T22	Element 517 519	Pr
+T23	Element 521 523	Nd
+T24	SC 539 542	T c
+T25	SC 587 590	T c
+T27	Element 635 637	Cu
+T28	Element 657 659	Ni
+T29	Material 686 707	structural parameters
+T30	Element 713 718	As-As
+T31	Material 719 730	bond length
+T32	Element 779 781	Ni
+T33	SC 845 862	superconductivity
+T34	Element 877 879	Ni
+T36	Material 911 919	impurity
+T37	SC 953 970	superconductivity
+T38	Material 986 993	layered
+T39	Material 994 1003	materials
+T40	Property 244 253	Pesudogap
+T43	Value 594 597	2.5
+T44	Value 599 602	1.2
+T45	Value 608 613	1.0 K
+T46	Value 870 873	60%
+T14	Doping 318 324	doping
+T26	Doping 619 631	substitution
+T35	Doping 782 788	doping
+T47	Doping 880 886	doping
+T5	SC 142 178	superconducting critical temperature
+R1	Equivalent Arg1:T25 Arg2:T43
+R2	Equivalent Arg1:T25 Arg2:T44
+R3	Equivalent Arg1:T25 Arg2:T45
+R4	Target Arg1:E2 Arg2:T20
+R6	Condition Arg1:T43 Arg2:E2
+R7	Condition Arg1:T44 Arg2:E2
+R8	Condition Arg1:T45 Arg2:E2
+R9	Target Arg1:T43 Arg2:T20
+R10	Target Arg1:T44 Arg2:T20
+R11	Target Arg1:T45 Arg2:T20
+E1	Doping:T14
+E2	Doping:T26 Site:T27 Dopant:T28
+E3	Doping:T35 Dopant:T32
+E4	Doping:T47 Dopant:T34

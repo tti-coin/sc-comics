@@ -1,0 +1,130 @@
+T1	Process 3 12	deposited
+T2	Element 30 31	B
+T3	Main 38 45	diamond
+T4	Material 46 51	layer
+T5	Material 95 99	film
+T6	Material 100 110	morphology
+T7	Property 134 142	metallic
+T8	SC 146 161	superconducting
+T9	Element 162 169	diamond
+T10	Element 179 180	B
+T12	Element 202 209	diamond
+T13	Material 210 216	layers
+T14	Process 222 231	deposited
+T16	Material 258 273	polycrystalline
+T17	Material 282 287	films
+T20	Material 360 370	thin films
+T21	Material 378 387	pyramidal
+T22	Material 388 395	surface
+T23	Material 416 421	thick
+T25	Element 430 433	HOD
+T26	Material 434 439	films
+T27	Material 447 456	pyramidal
+T28	Material 457 464	surface
+T29	Element 488 489	B
+T30	Material 496 501	layer
+T31	Characterization 561 589	scanning electron microscopy
+T32	Characterization 591 594	SEM
+T33	SC 609 632	transition temperatures
+T34	SC 638 648	T c(onset)
+T35	SC 658 667	T c(zero)
+T36	Element 681 682	B
+T37	Material 689 694	layer
+T38	Process 695 704	deposited
+T39	Material 710 715	thick
+T40	Element 716 719	HOD
+T41	Material 720 724	film
+T42	Material 732 741	pyramidal
+T43	Material 742 749	surface
+T45	SC 792 802	T c(onset)
+T46	Element 826 827	B
+T47	Element 834 841	diamond
+T48	Material 842 847	layer
+T49	Process 848 857	deposited
+T50	Material 872 876	film
+T51	Material 884 893	pyramidal
+T52	Material 894 901	surface
+T53	Element 930 931	B
+T54	Element 938 945	diamond
+T55	Material 946 951	layer
+T56	Process 952 961	deposited
+T58	Material 976 991	polycrystalline
+T60	SC 1027 1030	T c
+T61	Material 1063 1071	disorder
+T62	Property 1086 1098	hole-carrier
+T64	Process 1162 1171	deposited
+T65	Element 1187 1188	B
+T66	Material 1195 1206	[100] layer
+T67	Process 1236 1246	depositing
+T68	Material 1249 1254	[100]
+T69	Material 1259 1263	film
+T72	Process 1303 1313	depositing
+T73	Material 1321 1325	film
+T74	Material 1333 1342	pyramidal
+T75	Material 1343 1350	surface
+T76	Process 1369 1379	depositing
+T77	Material 1382 1396	[100]-oriented
+T78	Element 1397 1398	B
+T79	Material 1405 1410	layer
+T80	Property 1430 1440	electronic
+T81	Element 1459 1460	B
+T82	Material 1479 1484	films
+T83	Material 1493 1497	film
+T84	Material 1498 1508	morphology
+T85	Characterization 1530 1562	x-ray photoelectron spectroscopy
+T86	Characterization 1564 1567	XPS
+T89	Material 15 29	[100]-oriented
+T11	Material 187 201	[100]-oriented
+T92	Element 274 281	diamond
+T94	Element 355 358	HOD
+T95	Element 322 353	highly oriented undoped diamond
+T97	Material 526 557	oriented in the [100] direction
+T98	Value 649 653	5.0K
+T99	Value 668 672	3.1K
+T101	Value 807 811	4.1K
+T103	Element 868 871	HOD
+T104	Value 911 915	3.9K
+T107	Element 1255 1258	HOD
+T108	Element 1317 1320	HOD
+T111	Element 1471 1478	diamond
+T112	Material 293 304	[111] faces
+T44	Property 758 777	zero magnetic field
+T87	Property 1586 1603	band calculations
+T59	Element 992 999	diamond
+T88	Material 1000 1004	film
+T15	Doping 32 37	doped
+T18	Doping 181 186	doped
+T90	Doping 490 495	doped
+T91	Doping 683 688	doped
+T96	Doping 828 833	doped
+T100	Doping 932 937	doped
+T105	Doping 1099 1105	doping
+T106	Doping 1189 1194	doped
+T109	Doping 1399 1404	doped
+T110	Doping 1461 1467	doping
+T19	Element 1269 1271	Si
+T24	Material 1272 1287	[100] substrate
+R1	Coref Arg1:T95 Arg2:T94
+R2	Equivalent Arg1:T34 Arg2:T98
+R3	Equivalent Arg1:T35 Arg2:T99
+R4	Equivalent Arg1:T45 Arg2:T101
+R5	Target Arg1:T104 Arg2:T54
+R6	Equivalent Arg1:T45 Arg2:T104
+R7	Target Arg1:E1 Arg2:T3
+R8	Target Arg1:E2 Arg2:T12
+R9	Target Arg1:E8 Arg2:T47
+R10	Target Arg1:E9 Arg2:T54
+R11	Target Arg1:E14 Arg2:T111
+R12	Target Arg1:T101 Arg2:T47
+R13	Condition Arg1:T101 Arg2:E8
+R14	Condition Arg1:T104 Arg2:E9
+E1	Doping:T15 Dopant:T2
+E2	Doping:T18 Dopant:T10
+E6	Doping:T90 Dopant:T29
+E7	Doping:T91 Dopant:T36
+E8	Doping:T96 Dopant:T46
+E9	Doping:T100 Dopant:T53
+E11	Doping:T105 Dopant:T62
+E12	Doping:T106 Dopant:T65
+E13	Doping:T109 Dopant:T78
+E14	Doping:T110 Dopant:T81

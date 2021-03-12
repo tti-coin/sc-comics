@@ -1,0 +1,53 @@
+T1	Material 0 4	Bulk
+T2	Material 38 51	single-domain
+T3	Material 52 58	grains
+T4	Process 109 131	melt-texturing process
+T6	Material 275 280	plane
+T9	Property 448 469	mechanical properties
+T10	Property 589 602	magnetization
+T11	SC 620 634	superconductor
+T14	Property 769 787	fracture toughness
+T15	Material 835 840	steel
+T16	Material 897 901	bulk
+T17	SC 902 916	superconductor
+T19	SC 1022 1037	superconducting
+T20	Material 1043 1060	permanent magnets
+T21	SC 1064 1079	superconducting
+T22	Property 1080 1097	magnetic bearings
+T23	SC 1139 1153	superconductor
+T24	Process 1215 1237	pulsed magnetic fields
+T25	Main 5 16	YBa2Cu3O7−x
+T27	Main 18 22	YBCO
+T28	Value 65 69	35mm
+T29	Value 169 173	1.1T
+T30	Value 177 180	77K
+T31	Element 217 221	YBCO
+T32	Value 227 231	25mm
+T33	Element 266 268	Zn
+T34	Element 272 274	Cu
+T35	Value 304 306	9T
+T36	Value 310 313	43K
+T37	Value 407 410	50K
+T38	Value 667 672	14.4T
+T39	Value 690 693	22K
+T40	Element 718 722	YBCO
+T41	Element 941 945	YBCO
+T42	Value 979 984	11.5T
+T43	Value 1001 1004	17K
+T44	Element 1038 1042	YBCO
+T45	Element 1190 1194	YBCO
+T46	Element 748 754	silver
+T13	Material 222 226	disk
+T7	Property 474 482	cracking
+T8	Property 532 548	tensile stresses
+T47	Material 723 728	disks
+T48	Material 946 950	disk
+T49	Property 1123 1134	magnetizing
+T50	Property 1178 1189	magnetizing
+T5	Doping 256 262	doping
+T12	Doping 736 744	addition
+T18	Property 556 570	Lorentz forces
+R2	Target Arg1:E1 Arg2:T31
+R3	Target Arg1:E2 Arg2:T40
+E1	Doping:T5 Dopant:T33 Site:T34
+E2	Doping:T12 Dopant:T46

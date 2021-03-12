@@ -1,0 +1,33 @@
+T1	SC 57 72	superconducting
+T3	Element 102 113	Bi(Pb)-2223
+T5	Main 133 159	Bi1.85Pb0.35Sr2Ca2Cu3O10±y
+T7	Process 175 195	Solid-state reaction
+T8	Element 200 216	ammonium nitrate
+T13	Element 336 341	BSCCO
+T14	Material 369 379	Structural
+T15	Property 381 391	electrical
+T16	Property 393 401	magnetic
+T17	Characterization 461 485	X-ray powder diffraction
+T18	Characterization 487 490	XRD
+T19	Characterization 497 525	Scanning Electron Microscopy
+T20	Characterization 527 530	SEM
+T24	Property 571 592	Vickers microhardness
+T27	Material 636 648	phase purity
+T30	Material 673 686	crystallinity
+T32	Property 781 799	fracture toughness
+T33	Property 811 825	yield strength
+T34	Process 870 884	annealing time
+T35	Material 928 937	materials
+T36	Material 160 173	stoichiometry
+T6	Process 318 332	annealing time
+T12	Property 533 547	DC resistivity
+T37	Property 549 566	AC susceptibility
+T21	SC 603 634	critical transition temperature
+T22	Material 650 668	surface morphology
+T26	Property 746 756	Elasticity
+T28	Property 762 773	brittleness
+T2	Material 406 419	microhardness
+T4	Material 114 118	bulk
+T11	Process 217 238	precipitation methods
+T23	Material 703 707	bulk
+T10	Material 277 281	bulk

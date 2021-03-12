@@ -1,0 +1,112 @@
+T1	Process 4 20	high-temperature
+T2	Main 21 33	SmBa2Cu3O7−δ
+T3	Main 35 41	Sm-123
+T4	SC 43 58	superconducting
+T7	SC 133 136	T c
+T8	Property 150 174	critical current density
+T9	Property 176 179	J c
+T10	Element 220 222	Sm
+T11	Element 223 225	Ba
+T13	SC 246 261	superconducting
+T14	Element 262 274	Sm-123 phase
+T15	Material 275 281	matrix
+T16	Material 319 325	grains
+T17	Process 326 331	grown
+T18	Process 335 338	air
+T19	SC 380 383	T c
+T20	Material 423 428	grain
+T21	Element 462 464	Sm
+T22	Element 465 467	Ba
+T24	Element 488 505	Sm1+xBa2−xCu3O7−δ
+T25	Material 512 518	matrix
+T26	Element 520 525	SmBCO
+T27	Element 550 552	Sm
+T28	Element 553 555	Ba
+T30	Element 582 587	SmBCO
+T31	Property 599 607	critical
+T32	SC 626 641	superconducting
+T33	Material 661 669	material
+T35	Characterization 728 732	EPMA
+T36	Material 774 785	composition
+T37	Element 822 830	Ag-SmBCO
+T38	Material 831 835	bulk
+T39	Material 836 849	single grains
+T41	Material 976 990	single crystal
+T42	Process 1024 1036	grain growth
+T44	Material 1111 1122	composition
+T45	Element 1132 1140	Ag-SmBCO
+T46	Material 1141 1145	bulk
+T47	Material 1146 1158	single grain
+T48	Element 1214 1216	Sm
+T49	Element 1217 1219	Ba
+T51	Element 1246 1251	SmBCO
+T52	Characterization 1307 1311	EPMA
+T53	Element 1343 1345	Sm
+T54	Element 1346 1348	Ba
+T56	Process 1395 1398	air
+T57	Element 1493 1495	Sm
+T58	Element 1496 1498	Ba
+T60	SC 1528 1543	superconducting
+T61	Element 1544 1549	SmBCO
+T64	Characterization 697 726	Electron Probe Micro-Analysis
+T70	Property 1004 1012	nucleate
+T34	Material 1550 1563	single grains
+T12	Doping 226 238	substitution
+T23	Doping 468 480	substitution
+T29	Doping 556 568	substitution
+T40	Doping 868 880	substitution
+T50	Doping 1220 1232	substitution
+T55	Doping 1499 1511	substitution
+T59	Doping 1349 1361	substitution
+T5	SC 100 131	critical transition temperature
+T6	Value 1097 1102	0.080
+R1	Coref Arg1:T2 Arg2:T3
+R2	Target Arg1:E1 Arg2:T14
+R3	Target Arg1:E2 Arg2:T24
+R4	Target Arg1:E3 Arg2:T30
+R5	Target Arg1:E5 Arg2:T51
+R6	Target Arg1:E6 Arg2:T61
+E1	Doping:T12 Site:T11 Dopant:T10
+E2	Doping:T23 Dopant:T21 Site:T22
+E3	Doping:T29 Dopant:T27 Site:T28
+E4	Doping:T40 
+E5	Doping:T50 Dopant:T48 Site:T49
+E6	Doping:T55 Dopant:T57 Site:T58
+E7	Doping:T59 Dopant:T53 Site:T54
+#1	AnnotatorNotes T2	21-33
+#2	AnnotatorNotes T3	35-41
+#3	AnnotatorNotes T10	220-222
+#4	AnnotatorNotes T11	223-225
+#5	AnnotatorNotes T14	262-274
+#6	AnnotatorNotes T15	275-281
+#7	AnnotatorNotes T16	319-325
+#8	AnnotatorNotes T20	423-428
+#9	AnnotatorNotes T21	462-464
+#10	AnnotatorNotes T22	465-467
+#11	AnnotatorNotes T24	488-505
+#12	AnnotatorNotes T25	512-518
+#13	AnnotatorNotes T26	520-525
+#14	AnnotatorNotes T27	550-552
+#15	AnnotatorNotes T28	553-555
+#16	AnnotatorNotes T30	582-587
+#17	AnnotatorNotes T33	661-669
+#18	AnnotatorNotes T36	774-785
+#19	AnnotatorNotes T37	822-830
+#20	AnnotatorNotes T38	831-835
+#21	AnnotatorNotes T39	836-849
+#22	AnnotatorNotes T41	976-990
+#23	AnnotatorNotes T44	1111-1122
+#24	AnnotatorNotes T45	1132-1140
+#25	AnnotatorNotes T46	1141-1145
+#26	AnnotatorNotes T47	1146-1158
+#27	AnnotatorNotes T48	1214-1216
+#28	AnnotatorNotes T49	1217-1219
+#29	AnnotatorNotes T51	1246-1251
+#30	AnnotatorNotes T53	1343-1345
+#31	AnnotatorNotes T54	1346-1348
+#32	AnnotatorNotes T57	1493-1495
+#33	AnnotatorNotes T58	1496-1498
+#34	AnnotatorNotes T61	1544-1549
+#35	AnnotatorNotes T34	1550-1563
+#36	AnnotatorNotes T6	1097-1102
+R7	Coref Arg1:T5 Arg2:T7	

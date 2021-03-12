@@ -1,0 +1,51 @@
+T1	Property 28 32	spin
+T2	Property 33 43	relaxation
+T3	Material 63 70	layered
+T4	Main 71 86	La2−x Sr x NiO4
+T5	Main 108 123	La2−x Ba x CuO4
+T6	Main 128 143	La2−x Sr x CuO4
+T7	Property 171 175	spin
+T8	Property 176 188	stripe order
+T9	Property 222 234	stripe order
+T10	SC 240 257	superconductivity
+T11	Element 261 263	Nd
+T12	Element 268 270	Eu
+T14	Element 277 292	La2−x Sr x CuO4
+T17	Property 381 389	magnetic
+T18	SC 394 409	superconducting
+T19	Property 410 426	order parameters
+T20	Element 441 451	rare-earth
+T21	Element 456 458	Sr
+T23	Element 476 498	La2−x−y RE y Sr x CuO4
+T24	Property 512 530	strong correlation
+T25	Property 541 545	spin
+T26	Property 546 558	stripe order
+T27	Material 568 589	structural distortion
+T28	Process 597 612	low temperature
+T29	Material 613 623	tetragonal
+T30	SC 665 680	superconducting
+T31	Property 681 693	ground state
+T32	Property 700 714	magnetic field
+T34	Property 794 811	electronic phases
+T35	Property 849 855	charge
+T36	Element 877 887	nickelates
+T37	Element 892 900	cuprates
+T38	Process 904 920	low temperatures
+T33	Property 757 776	ground state energy
+T50	Element 87 96	nickelate
+T51	Element 293 301	cuprates
+T53	Material 625 628	LTT
+T54	Property 340 365	electronic phase diagrams
+T15	Property 818 841	transverse fluctuations
+T13	Doping 271 276	doped
+T16	Doping 459 465	doping
+R1	Target Arg1:E1 Arg2:T14
+R2	Target Arg1:E2 Arg2:T14
+R3	Target Arg1:E5 Arg2:T23
+R4	Target Arg1:E1 Arg2:T51
+R5	Target Arg1:E2 Arg2:T51
+R6	Target Arg1:E3 Arg2:T23
+E1	Doping:T13 Dopant:T12
+E2	Doping:T13 Dopant:T11
+E5	Doping:T16 Dopant:T20
+E3	Doping:T16 Dopant:T21

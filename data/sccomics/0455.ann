@@ -1,0 +1,24 @@
+T2	Property 28 41	quasiparticle
+T3	Property 58 62	hole
+T5	Main 69 85	Ba-122 pnictides
+T7	SC 140 155	superconducting
+T8	Property 186 190	hole
+T10	Property 230 240	relaxation
+T12	Property 310 328	excitation density
+T13	Property 356 366	relaxation
+T15	Property 385 404	excitation strength
+T16	Property 470 484	quasiparticles
+T17	Property 496 506	hole bands
+T19	Property 694 712	excitation density
+T21	Property 761 771	hole bands
+T24	Property 790 816	anisotropic electron bands
+T1	Characterization 98 131	ultrafast pump-probe spectroscopy
+T6	Property 572 616	thermal recombination rate of quasiparticles
+T11	Property 13 17	band
+T14	Property 515 524	intraband
+T18	Property 529 538	interband
+T4	Doping 63 68	doped
+T9	Doping 191 196	doped
+R1	Target Arg1:E1 Arg2:T5
+E1	Doping:T4 Dopant:T3
+E2	Doping:T9 Dopant:T8

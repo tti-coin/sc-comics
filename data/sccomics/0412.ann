@@ -1,0 +1,38 @@
+T1	Material 14 28	single crystal
+T3	Element 39 47	antimony
+T5	Element 54 65	Fe 1 + y Te
+T6	Element 70 92	Fe 1 + y Te 0.5 Se 0.5
+T7	Main 95 117	Fe 1 + y Sb x Te 1 − x
+T8	Main 136 168	Fe 1 + y Te 0.49 Se 0.49 Sb 0.02
+T10	Material 268 283	single crystals
+T11	Property 289 306	antiferromagnetic
+T12	Property 308 311	AFM
+T13	Property 327 330	T N
+T16	Element 414 425	Fe 1 + y Te
+T17	Element 449 458	chalcogen
+T18	Material 471 478	ternary
+T19	Element 488 510	Fe 1 + y Te 0.5 Se 0.5
+T21	Element 525 527	Sb
+T22	SC 529 546	superconductivity
+T23	SC 571 609	superconducting transition temperature
+T24	SC 611 614	T C
+T25	Process 650 659	reduction
+T26	SC 670 685	superconducting
+T28	Process 185 211	horizontal Bridgman method
+T29	Value 332 337	62.2K
+T30	Process 383 400	lower temperature
+T14	Property 349 371	first order transition
+T36	Value 121 126	0, 2%
+T37	Value 128 130	5%
+T9	Property 686 701	volume fraction
+T4	Doping 48 53	doped
+T15	Doping 404 410	doping
+T20	Doping 514 519	doped
+R2	Target Arg1:E1 Arg2:T5
+R3	Target Arg1:E2 Arg2:T6
+R4	Target Arg1:E4 Arg2:T19
+R5	Target Arg1:E3 Arg2:T16
+E1	Doping:T4 Dopant:T3
+E2	Doping:T4 Dopant:T3
+E3	Doping:T15
+E4	Doping:T20 Dopant:T21

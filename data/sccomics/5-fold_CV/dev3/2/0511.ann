@@ -1,0 +1,47 @@
+T1	Main 37 72	Bi1.7Pb0.4Sr2−x Ce x Ca1.1Cu2.1O8+δ
+T2	Element 105 107	Ce
+T3	Process 134 155	sintering temperature
+T4	Element 204 214	rare earth
+T6	Process 226 247	sintering temperature
+T8	Property 278 298	transport properties
+T9	Characterization 343 360	X-ray diffraction
+T10	Property 378 394	solid solubility
+T11	Element 398 400	Ce
+T12	Element 408 420	(Bi,Pb)-2212
+T13	Material 421 427	matrix
+T14	Property 451 462	resistivity
+T15	SC 481 495	superconductor
+T16	Property 499 508	insulator
+T17	Property 510 519	insulator
+T18	Material 523 528	metal
+T19	Material 533 538	metal
+T20	Property 542 551	insulator
+T21	Element 587 599	(Bi,Pb)-2212
+T22	Element 644 646	Ce
+T23	Property 708 729	carrier concentration
+T24	Element 733 745	(Bi,Pb)-2212
+T25	Element 773 775	Ce
+T28	Property 847 859	hole filling
+T29	SC 881 884	T C
+T30	SC 904 921	superconductivity
+T31	Material 945 953	disorder
+T32	Property 1005 1026	electronic conduction
+T36	Value 117 120	0.2
+T37	Value 125 128	0.6
+T38	Process 249 252	T S
+T40	Value 157 162	845°C
+T41	Value 169 174	865°C
+T45	Value 437 440	0.6
+T49	Property 1047 1065	thermal activation
+T50	SC 1086 1105	multiphonon hopping
+T7	Material 263 273	structural
+T43	Property 979 996	existing carriers
+T5	Doping 215 221	doping
+T26	Doping 793 802	overdoped
+T27	Doping 810 820	underdoped
+R1	Target Arg1:E1 Arg2:T1
+R2	Target Arg1:E2 Arg2:T24
+R3	Target Arg1:E3 Arg2:T24
+E1	Doping:T5 Dopant:T4
+E2	Doping:T26 Dopant:T25
+E3	Doping:T27 Dopant:T25

@@ -1,0 +1,218 @@
+T1	Material 22 35	semiconductor
+T2	Material 293 300	lattice
+T3	Property 496 507	first-order
+T4	Characterization 543 562	neutron diffraction
+T6	Property 632 653	structural transition
+T7	SC 682 699	superconductivity
+T8	Property 900 904	hole
+T9	SC 938 953	superconducting
+T10	Material 1074 1084	structural
+T11	Material 1225 1229	bond
+T12	Property 1267 1282	Charge transfer
+T13	Material 1306 1312	planes
+T14	Property 1452 1460	ordering
+T15	Property 1572 1588	Néel temperature
+T16	Property 1627 1633	phonon
+T17	Property 1803 1807	hole
+T19	Property 1828 1830	AF
+T20	Property 1857 1868	percolation
+T21	SC 1876 1891	superconducting
+T22	Material 2025 2043	lattice parameters
+T23	Material 2072 2087	orthorhombicity
+T24	SC 2099 2102	T c
+T25	SC 2255 2258	T c
+T26	Material 2329 2335	planes
+T27	Property 2380 2386	phonon
+T28	Property 2387 2396	frequency
+T31	SC 2651 2654	T c
+T32	Material 2829 2844	orthorhombicity
+T33	Property 3075 3086	diamagnetic
+T37	SC 3325 3340	superconducting
+T40	Material 3596 3611	orthorhombicity
+T41	Material 3727 3733	planes
+T42	Material 3748 3767	lattice distortions
+T44	Property 3944 3951	domains
+T45	Characterization 4112 4132	Electron diffraction
+T46	Material 4189 4194	plane
+T47	Property 4241 4255	charge density
+T48	Material 4374 4379	plane
+T49	Property 4486 4492	strain
+T50	Property 4544 4560	bond valence sum
+T51	Material 4579 4589	perovskite
+T52	Material 4590 4597	lattice
+T53	Property 4668 4673	model
+T54	Characterization 4724 4729	EXAFS
+T55	Material 4771 4776	atoms
+T56	Material 4839 4858	Lattice distortions
+T57	SC 4879 4882	T c
+T58	Property 4891 4895	spin
+T60	SC 5111 5126	superconducting
+T61	Property 5289 5295	phonon
+T62	Property 5296 5305	frequency
+T63	Material 5483 5497	chain-ordering
+T65	Material 5711 5721	structural
+T66	SC 5735 5738	T c
+T67	Material 5802 5813	apical bond
+T68	SC 5826 5829	T c
+T70	Property 5886 5899	magnetization
+T71	Property 5967 5978	diamagnetic
+T72	Material 6134 6136	c2
+T76	Characterization 6339 6344	EXAFS
+T78	Property 6459 6464	model
+T79	Material 6569 6576	lattice
+T80	Property 6648 6653	holes
+T81	Property 6799 6804	holes
+T83	SC 6866 6881	superconducting
+T85	Property 7175 7180	holes
+T86	Material 7206 7213	lattice
+T87	SC 7323 7326	T c
+T88	Property 7334 7355	carrier concentration
+T90	SC 7482 7497	superconducting
+T91	Material 7590 7600	structural
+T92	Material 7619 7626	lattice
+T93	Property 7627 7634	strains
+T94	Property 7781 7786	model
+T95	Main 342 349	123-O x
+T97	Element 987 994	123-O x
+T100	Value 1594 1598	6.22
+T101	Element 1711 1714	123
+T103	Value 1776 1780	6.22
+T105	Value 1918 1922	6.40
+T107	Value 1986 1990	6.75
+T109	Value 2411 2415	6.75
+T112	Value 2739 2743	6.95
+T115	Value 3375 3379	6.15
+T117	Value 3385 3389	6.40
+T118	Value 3395 3399	6.95
+T120	Value 3405 3409	7.00
+T121	Element 3472 3475	123
+T122	Element 3463 3465	Ca
+T124	Value 3512 3516	6.75
+T125	Value 3521 3525	6.95
+T126	Element 3656 3658	O2
+T127	Element 3659 3661	O3
+T128	Element 3699 3702	Cu2
+T129	Element 3904 3910	oxygen
+T130	Element 4167 4170	Cu2
+T131	Element 4175 4177	O1
+T132	Element 5697 5704	123-O x
+T134	Element 5846 5848	Ca
+T135	Element 6188 6196	123O6.92
+T136	Element 6226 6228	Ca
+T137	Element 6266 6268	Ca
+T138	Element 6417 6419	Ca
+T139	Element 6545 6551	Ca-123
+T140	Element 6719 6724	Y-123
+T141	Element 6668 6670	Ca
+T142	Element 6747 6753	Ca-123
+T143	Element 6814 6816	Ca
+T144	Element 6839 6844	Y-123
+T145	Element 6907 6909	Ca
+T146	Element 6972 6978	Ca-123
+T147	Element 7032 7034	Ca
+T148	Value 7069 7072	17%
+T149	Element 7073 7075	Ca
+T150	Element 7088 7094	oxygen
+T151	Element 7172 7174	Ca
+T152	Element 7239 7247	Ca-123O6
+T153	Element 7360 7363	123
+T154	Element 7409 7414	123O6
+T155	Element 7438 7440	Ca
+T158	Value 425 428	6.4
+T160	Element 1445 1451	oxygen
+T161	Element 6180 6181	O
+T163	Element 6051 6052	O
+T165	Element 6063 6066	123
+T166	Element 5688 5690	Ca
+T167	Element 4767 4770	Cu2
+T168	Element 4757 4759	O2
+T169	Element 4759 4762	,03
+T170	Element 3136 3142	oxygen
+T171	Element 7019 7020	O
+T173	Element 4575 4578	123
+T174	Material 1218 1224	apical
+T175	Value 3956 3958	10
+T176	Value 6365 6368	5 Å
+T178	Element 919 927	cuprates
+T184	Property 4428 4444	coherence length
+T187	Process 5914 5924	oxygenated
+T188	SC 120 123	HTc
+T189	Material 508 534	martensitic transformation
+T190	Characterization 1506 1526	Raman investigations
+T191	Material 1745 1761	phase separation
+T30	Material 2460 2471	bond length
+T192	Property 2604 2621	thermal expansion
+T193	Material 3000 3015	phase-separated
+T194	Characterization 3173 3191	Raman measurements
+T195	Element 4097 4108	La cuprates
+T196	Material 4467 4478	distortions
+T197	Material 4651 4667	phase separation
+T59	Material 5065 5081	phase separation
+T198	Material 5188 5204	phase separation
+T199	Material 5371 5386	superstructures
+T200	Characterization 5546 5558	Raman shifts
+T201	Material 6005 6021	phase separation
+T202	Characterization 6107 6118	Raman modes
+T203	SC 7392 7407	superconducting
+T18	Doping 1808 1813	doped
+T29	Doping 2266 2275	overdoped
+T35	Doping 2439 2445	doping
+T36	Doping 2718 2727	overdoped
+T39	Doping 3016 3025	overdoped
+T43	Doping 3143 3149	doping
+T64	Doping 3242 3251	overdoped
+T69	Doping 3289 3294	doped
+T73	Doping 3466 3471	doped
+T74	Doping 3791 3801	underdoped
+T75	Doping 3816 3821	doped
+T77	Doping 5142 5152	underdoped
+T82	Doping 5691 5696	doped
+T84	Doping 5779 5789	overdoping
+T89	Doping 5849 5855	doping
+T164	Doping 6053 6062	overdoped
+T177	Doping 6182 6187	doped
+T179	Doping 6229 6235	doping
+T180	Doping 6269 6275	doping
+T181	Doping 6420 6426	doping
+T182	Doping 6765 6775	overdoping
+T183	Doping 6805 6810	doped
+T185	Doping 7144 7156	substitution
+T186	Doping 7415 7420	doped
+T34	SC 3101 3105	T c2
+T96	SC 3155 3159	T c1
+T110	Value 7455 7456	0
+T113	Value 7457 7460	22%
+T5	Property 620 631	first-order
+T38	SC 3416 3420	T c2
+R1	Target Arg1:E9 Arg2:T121
+R2	Target Arg1:E13 Arg2:T132
+R3	Target Arg1:E16 Arg2:T165
+R4	Target Arg1:E17 Arg2:T135
+R5	Target Arg1:E22 Arg2:T144
+R6	Target Arg1:E24 Arg2:T154
+R7	Target Arg1:E25 Arg2:T144
+E1	Doping:T18 Dopant:T17
+E2	Doping:T29 
+E3	Doping:T35 
+E4	Doping:T36 
+E5	Doping:T39 
+E6	Doping:T43 Dopant:T170
+E7	Doping:T64 
+E8	Doping:T69 
+E9	Doping:T73 Dopant:T122
+E10	Doping:T74 
+E11	Doping:T75 
+E12	Doping:T77 
+E13	Doping:T82 Dopant:T166
+E14	Doping:T84 
+E15	Doping:T89 Dopant:T134
+E16	Doping:T164 Dopant:T163
+E17	Doping:T177 Dopant:T161
+E18	Doping:T179 Dopant:T136
+E19	Doping:T180 Dopant:T137
+E20	Doping:T181 Dopant:T138
+E21	Doping:T182 
+E22	Doping:T183 Dopant:T81
+E23	Doping:T185 
+E24	Doping:T186 Dopant:T155
+E25	Doping:T183 Dopant:T143

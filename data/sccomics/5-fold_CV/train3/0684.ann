@@ -1,0 +1,28 @@
+T2	Main 56 60	LSCO
+T3	Material 61 71	thin films
+T6	SC 150 164	superconductor
+T7	SC 194 209	superconducting
+T8	Property 221 229	spectrum
+T9	Property 282 294	conductivity
+T17	Material 694 703	materials
+T18	SC 733 750	superconductivity
+T20	Property 947 956	pseudogap
+T21	Property 990 1003	quasiparticle
+T22	Property 1093 1102	pseudogap
+T23	Property 37 50	σ ˜ ( ω , T )
+T1	Property 15 35	complex conductivity
+T5	Property 96 111	THz frequencies
+T11	SC 411 435	onset of superconducting
+T24	SC 506 535	superconductiving fluctuation
+T13	SC 537 543	T c MF
+T14	SC 548 554	T c CF
+T15	Property 634 647	Nernst signal
+T16	Property 1005 1007	QP
+T25	Property 1072 1074	QP
+T26	Property 210 213	gap
+T10	SC 376 379	T c
+T4	Doping 85 92	dopings
+T12	Doping 860 870	underdoped
+R1	Target Arg1:E1 Arg2:T2
+E1	Doping:T4 
+E2	Doping:T12 

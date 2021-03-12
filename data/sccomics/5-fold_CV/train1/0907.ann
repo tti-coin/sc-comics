@@ -1,0 +1,29 @@
+T1	Property 64 74	multi-band
+T2	Property 98 120	temperature dependence
+T3	SC 128 143	superconducting
+T4	Element 152 156	iron
+T5	SC 163 178	superconductors
+T6	Material 225 233	matrices
+T7	Property 247 257	multi-band
+T8	Property 288 294	charge
+T9	SC 331 346	superconducting
+T10	Property 378 386	electron
+T11	Property 391 395	hole
+T13	Main 423 438	Ba0.6K0.4Fe2As2
+T14	Characterization 466 508	angle resolved photo-emission spectroscopy
+T15	Property 566 588	temperature dependence
+T16	Property 602 626	strong-coupling theories
+T17	Property 643 663	single weak-coupling
+T18	Property 698 706	electron
+T19	Property 730 734	hole
+T20	Property 739 747	electron
+T21	SC 843 846	T c
+T22	Material 856 865	materials
+T23	Property 18 54	Chebyshev–Bogoliubov–deGennes method
+T24	Property 347 351	gaps
+T25	Property 144 148	gaps
+T26	Property 562 565	gap
+T27	Property 923 927	gaps
+T12	Doping 417 422	doped
+R1	Target Arg1:E1 Arg2:T13
+E1	Doping:T12 

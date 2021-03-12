@@ -1,0 +1,23 @@
+T1	Material 15 29	bulk materials
+T3	SC 76 91	superconductors
+T4	Process 120 136	room temperature
+T5	Material 151 155	Bulk
+T6	Main 156 161	GdBCO
+T7	Material 171 188	crystal formation
+T8	SC 193 195	Tc
+T9	Element 205 209	YBCO
+T11	Property 275 301	AC magnetic susceptibility
+T12	Material 351 359	granular
+T13	Property 393 407	magnetic field
+T14	Property 441 458	DC magnetic field
+T16	Element 490 494	YBCO
+T17	Element 496 501	GdBCO
+T19	Property 553 570	DC magnetic field
+T21	Element 677 682	GdBCO
+T22	Property 705 720	magnetic fields
+T2	Property 627 634	AC loss
+T10	Process 249 266	solid state route
+T15	Characterization 302 313	measurement
+T20	Property 653 655	χ”
+T18	Doping 541 549	addition
+E1	Doping:T18 

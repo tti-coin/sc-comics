@@ -1,0 +1,58 @@
+T1	Element 0 10	Rare earth
+T3	Main 66 70	MgB2
+T4	SC 98 115	superconductivity
+T5	Element 119 123	MgB2
+T7	Element 147 149	RE
+T10	SC 267 305	superconducting transition temperature
+T11	Property 307 327	upper critical field
+T12	Property 329 350	irreversibility field
+T13	Property 356 380	critical current density
+T14	Property 382 385	J c
+T16	Property 484 487	J c
+T17	Element 503 514	REB y phase
+T19	Element 542 546	MgB2
+T20	Property 555 570	pinning centers
+T21	Property 603 606	J c
+T22	Element 610 614	MgB2
+T24	Element 626 627	Y
+T25	Element 629 631	La
+T26	Element 633 635	Dy
+T27	Element 637 639	Ho
+T28	Element 641 643	Nd
+T29	Property 684 700	magnetic moments
+T31	Property 729 749	flux pinning centers
+T32	Property 762 776	pinning forces
+T34	Property 838 851	ferromagnetic
+T35	Material 863 869	metals
+T36	Element 873 877	MgB2
+T38	Element 904 906	RE
+T39	Material 918 925	dopants
+T41	Element 12 14	RE
+T42	Element 163 175	RE compounds
+T43	Element 668 671	REs
+T2	Doping 55 60	doped
+T6	Doping 129 135	doping
+T8	Doping 213 219	doping
+T9	Doping 417 423	doping
+T15	Doping 615 620	doped
+T23	Doping 806 812	doping
+T30	Doping 886 892	doping
+T33	Doping 988 994	doping
+R2	Target Arg1:E1 Arg2:T3
+R3	Target Arg1:E5 Arg2:T22
+R4	Target Arg1:E6 Arg2:T22
+R5	Target Arg1:E7 Arg2:T22
+R6	Target Arg1:E8 Arg2:T22
+R7	Target Arg1:E9 Arg2:T22
+E1	Doping:T2 Dopant:T1
+E2	Doping:T6 Dopant:T7
+E3	Doping:T8
+E4	Doping:T9
+E5	Doping:T15 Dopant:T28
+E6	Doping:T15 Dopant:T27
+E7	Doping:T15 Dopant:T26
+E8	Doping:T15 Dopant:T25
+E9	Doping:T15 Dopant:T24
+E10	Doping:T23
+E11	Doping:T30 Dopant:T38
+E12	Doping:T33

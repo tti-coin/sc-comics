@@ -1,0 +1,20 @@
+T2	Property 56 65	BCS model
+T4	Property 156 170	magnetic field
+T5	SC 336 351	superconducting
+T6	SC 377 380	T c
+T7	SC 708 725	superconductivity
+T8	SC 899 913	superconductor
+T9	Element 1090 1092	Sn
+T11	SC 1160 1175	superconductors
+T12	Property 13 36	Bethe–Salpeter equation
+T14	Property 216 235	Landau quantization
+T15	Property 237 239	LQ
+T19	Value 385 386	0
+T21	Value 393 394	0
+T26	Property 658 689	de Haas-van Alphen oscillations
+T27	Property 823 836	Landau levels
+T29	Value 987 988	0
+T30	Value 1079 1084	2.05K
+T1	Doping 38 51	incorporating
+T3	SC 1130 1137	T c (H)
+E1	Doping:T1 

@@ -1,0 +1,53 @@
+T1	Material 0 10	Thin films
+T2	Property 18 26	electron
+T4	SC 33 47	superconductor
+T6	Process 216 226	deposition
+T7	SC 228 243	superconducting
+T8	Material 244 254	thin films
+T9	SC 262 284	transition temperature
+T12	SC 463 478	superconducting
+T13	Material 528 533	films
+T14	Property 587 598	resistivity
+T15	Property 644 659	magnetic fields
+T17	Material 794 799	films
+T18	SC 805 808	T c
+T19	Material 839 844	plane
+T20	Property 901 909	magnetic
+T21	Property 991 999	magnetic
+T22	Property 1133 1155	Ginzburg-Landau theory
+T23	Property 345 348	J c
+T24	Main 48 66	Nd1.85Ce0.15CuO4−y
+T26	Main 68 72	NCCO
+T27	Material 111 121	substrates
+T28	Element 98 110	(100) SrTiO3
+T29	Process 143 163	magnetron sputtering
+T5	Value 351 367	1.7 × 106 A/cm 2
+T11	Value 375 380	4.2 K
+T30	Property 320 344	critical current density
+T31	Value 298 304	22.5 K
+T32	Element 416 420	YBCO
+T33	Material 406 415	epitaxial
+T34	Element 421 425	NCCO
+T35	Material 426 434	bilayers
+T36	Element 523 527	NCCO
+T37	Value 666 669	6 T
+T38	Material 694 700	c-axis
+T39	Property 309 319	zero-field
+T40	Value 868 874	80 A ̊
+T16	Value 767 776	−0.35 T/K
+T41	Value 811 815	22 K
+T42	Property 845 861	coherence length
+T43	Property 862 865	ξab
+T44	Value 947 964	−2.4 × 10−13 J/Km
+T45	Value 1033 1050	1.6 × 10−14 J/K m
+T46	Value 1058 1062	18 K
+T47	Value 1071 1076	0.5 T
+T48	Property 729 749	upper critical field
+T50	Property 614 620	Nernst
+T51	Property 625 632	Seebeck
+T3	Doping 27 32	doped
+T10	SC 285 295	T c(R = 0)
+R1	Equivalent Arg1:T18 Arg2:T41
+R4	Equivalent Arg1:T10 Arg2:T31
+R5	Target Arg1:E1 Arg2:T24
+E1	Doping:T3 Dopant:T2

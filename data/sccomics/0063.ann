@@ -1,0 +1,75 @@
+T3	Material 210 217	surface
+T4	Material 263 270	surface
+T6	Material 371 384	buffer layers
+T7	Material 424 429	cubic
+T8	Material 437 442	films
+T9	Process 541 551	deposition
+T10	Process 607 615	pressure
+T11	Process 646 656	deposition
+T12	Process 667 675	pressure
+T13	Material 736 741	films
+T14	Characterization 763 780	X-ray diffraction
+T16	Characterization 832 836	HREM
+T17	Characterization 842 878	Rutherford backscattering channeling
+T18	Characterization 895 900	X-ray
+T20	Material 968 972	film
+T21	Material 973 980	surface
+T22	Characterization 1008 1011	RBS
+T23	Property 1012 1020	spectrum
+T24	Material 1093 1098	films
+T25	Characterization 1118 1122	HREM
+T26	Material 1149 1158	interface
+T28	Material 1279 1284	layer
+T29	SC 1343 1358	superconducting
+T30	Material 1359 1364	films
+T31	Material 1437 1449	buffer layer
+T32	SC 1455 1458	T c
+T33	Element 430 436	Y-ZrO2
+T34	Element 20 26	Y-ZrO2
+T35	Main 73 85	Y1Ba2Cu3O7−δ
+T37	Element 89 97	Si (100)
+T38	Material 98 107	substrate
+T39	Value 153 159	248 nm
+T40	Value 1496 1505	105 A/cm2
+T41	Element 218 223	oxide
+T42	Element 227 234	silicon
+T43	Material 253 262	substrate
+T44	Process 302 323	substrate temperature
+T45	Material 331 344	crystallinity
+T46	Element 364 370	Y-ZrO2
+T47	Material 460 471	epitaxially
+T48	Element 475 483	Si (100)
+T49	Process 0 16	Epitaxial growth
+T51	Element 600 606	oxygen
+T52	Value 570 575	800°C
+T53	Value 617 630	1 x 10−6 Torr
+T50	Value 677 690	5 x 10−4 Torr
+T54	Element 521 533	native oxide
+T55	Material 697 708	crystalline
+T56	Material 935 953	c-axis orientation
+T19	Element 1138 1144	Y-ZrO2
+T57	Element 1146 1148	Si
+T58	Value 1054 1056	8%
+T59	Value 1061 1064	13%
+T60	Element 1069 1075	Y-ZrO2
+T61	Element 1080 1092	Y1Ba2Cu3O7−δ
+T27	Material 1173 1188	epitaxial layer
+T63	Element 1192 1198	Y-ZrO2
+T65	Material 1233 1250	silicon substrate
+T64	Material 1221 1232	crystalline
+T66	Element 1320 1325	SiO x
+T68	Material 1288 1297	amorphous
+T69	Material 1302 1318	microcrystalline
+T70	Value 1470 1474	88 K
+T71	Value 1509 1513	77 K
+T72	Value 1378 1384	5000 Å
+T73	Value 1413 1419	1500 Å
+T74	Element 1398 1405	silicon
+T75	Material 1420 1429	epitaxial
+T76	Element 1430 1436	Y-ZrO2
+T77	Property 1479 1482	J c
+T15	Characterization 782 830	high resolution transmission electron microscopy
+T78	Process 129 149	pulsed excimer laser
+T2	SC 64 72	high-T c
+T1	Material 27 39	buffer layer
+R1	Equivalent Arg1:T32 Arg2:T70

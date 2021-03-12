@@ -1,0 +1,36 @@
+T1	SC 0 17	Superconductivity
+T2	Material 39 54	single crystals
+T5	Main 85 105	SrFe 2 - x Ni x As 2
+T6	Process 106 111	grown
+T7	Process 115 124	self-flux
+T8	Material 125 133	solution
+T9	Property 146 169	antiferromagnetic order
+T10	Element 242 253	SrFe 2 As 2
+T11	Element 294 296	Ni
+T12	Property 297 310	concentration
+T13	Material 317 321	bulk
+T14	SC 328 345	superconductivity
+T15	Property 356 367	diamagnetic
+T17	SC 440 462	transition temperature
+T18	SC 463 466	T c
+T19	Process 497 513	high-temperature
+T20	Process 514 523	annealing
+T21	Process 530 535	grown
+T22	Process 562 576	heat treatment
+T23	SC 589 592	T c
+T24	Value 469 474	9.8 K
+T28	Element 62 64	Ni
+T30	Value 606 610	50 %
+T32	Value 420 424	0.15
+T3	Element 71 75	FeAs
+T4	Property 190 218	magnetostructural transition
+T16	Doping 65 70	doped
+T26	Doping 406 412	doping
+R1	Coref Arg1:T17 Arg2:T18
+R2	Equivalent Arg1:T18 Arg2:T24
+R3	Target Arg1:E1 Arg2:T3
+R4	Condition Arg1:T24 Arg2:E2
+R5	Target Arg1:E2 Arg2:T10
+R6	Target Arg1:T24 Arg2:T10
+E1	Doping:T16 Dopant:T28
+E2	Doping:T26 

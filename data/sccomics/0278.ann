@@ -1,0 +1,58 @@
+T2	Characterization 0 27	Electronic Raman scattering
+T3	Property 64 68	hole
+T5	Element 75 87	copper oxide
+T6	Main 89 96	cuprate
+T7	SC 98 113	superconductors
+T9	SC 168 183	superconducting
+T12	Property 341 354	Fermi surface
+T13	Property 387 401	quasiparticles
+T14	SC 423 440	superconductivity
+T16	SC 589 609	critical temperature
+T17	SC 610 613	T c
+T18	Property 687 693	d-wave
+T19	SC 694 709	superconducting
+T20	Property 722 734	normal state
+T21	Property 758 772	quasiparticles
+T22	Property 773 788	spectral weight
+T23	SC 805 820	superconducting
+T24	Property 844 859	spectral weight
+T26	Property 939 953	quasiparticles
+T28	Element 977 985	cuprates
+T29	SC 1051 1066	superconducting
+T30	Property 1099 1108	pseudogap
+T31	Property 1116 1128	normal state
+T32	Property 1143 1145	3D
+T33	Property 1146 1159	phase diagram
+T34	Property 1195 1216	energy phase diagrams
+T35	Property 1250 1252	3D
+T36	Process 1285 1300	low temperature
+T37	Property 1301 1317	phase transition
+T38	SC 1329 1344	superconducting
+T39	Property 1398 1409	excitations
+T40	Property 1443 1456	Fermi surface
+T41	SC 1481 1489	high T c
+T42	SC 1498 1513	superconductors
+T45	Property 191 199	coherent
+T10	Property 200 225	Bogoliubov quasiparticles
+T46	Property 521 527	energy
+T25	Property 887 896	pseudogap
+T47	Property 1030 1036	energy
+T43	Property 1533 1553	Mott insulating side
+T48	Characterization 28 40	measurements
+T50	Property 710 713	gap
+T51	Property 566 569	gap
+T1	Property 332 340	coherent
+T49	Element 1490 1497	cuprate
+T52	Property 119 142	function of temperature
+T4	Doping 69 74	doped
+T8	Doping 147 153	doping
+T11	Doping 278 288	underdoped
+T15	Doping 470 476	doping
+T27	Doping 966 976	underdoped
+R2	Target Arg1:E5 Arg2:T28
+R3	Target Arg1:E1 Arg2:T5
+E1	Doping:T4 Dopant:T3
+E2	Doping:T8
+E3	Doping:T11
+E4	Doping:T15
+E5	Doping:T27

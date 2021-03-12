@@ -1,0 +1,37 @@
+T1	Process 17 23	growth
+T2	Main 27 38	NdFeAs(O,F)
+T3	SC 39 54	superconducting
+T4	Material 55 65	thin films
+T5	Process 69 91	molecular beam epitaxy
+T6	Element 109 113	NdOF
+T7	Material 124 129	layer
+T8	Element 153 161	fluorine
+T10	Process 226 232	growth
+T11	SC 238 253	superconducting
+T12	Material 254 258	film
+T13	Material 303 312	materials
+T14	Material 320 329	substrate
+T15	Process 394 412	growth temperature
+T16	Material 431 442	crystalline
+T17	Element 461 468	NdFeAsO
+T18	Material 469 479	thin films
+T19	Process 495 505	atmosphere
+T20	Process 532 538	growth
+T21	Material 568 585	crucible material
+T22	Element 593 595	Fe
+T23	Material 616 624	textured
+T24	Element 625 636	NdFeAs(O,F)
+T25	Material 637 647	thin films
+T26	SC 653 674	critical temperatures
+T28	Material 768 783	two-dimensional
+T29	Process 784 790	growth
+T30	Material 837 844	surface
+T31	Element 927 938	NdFeAs(O,F)
+T32	Material 939 948	thin film
+T33	Value 681 684	50K
+T34	Characterization 730 753	atomic force microscope
+T9	Doping 162 168	doping
+R1	Equivalent Arg1:T26 Arg2:T33
+R2	Target Arg1:T33 Arg2:T24
+R3	Target Arg1:E1 Arg2:T6
+E1	Doping:T9 Dopant:T8

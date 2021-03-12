@@ -1,0 +1,55 @@
+T1	Property 22 30	electric
+T2	Property 35 56	mechanical properties
+T3	Element 62 72	MAX phases
+T5	Material 140 149	materials
+T6	Element 158 163	steel
+T7	Element 165 171	copper
+T8	Element 176 184	tungsten
+T9	SC 288 303	superconducting
+T10	Property 517 530	thermodynamic
+T11	SC 545 560	superconducting
+T12	Main 570 576	Nb2InC
+T13	Property 604 621	Eliashberg theory
+T14	SC 625 642	superconductivity
+T17	SC 699 702	T c
+T19	Property 776 789	thermodynamic
+T20	Property 790 804	critical field
+T22	SC 851 873	transition temperature
+T23	Material 910 914	bulk
+T24	Material 915 923	material
+T25	Property 948 954	strain
+T26	Property 978 991	thermodynamic
+T27	SC 1006 1021	superconducting
+T28	Property 1104 1110	strain
+T29	SC 1207 1227	critical temperature
+T30	Property 1262 1268	strain
+T31	SC 1340 1362	transition temperature
+T32	Property 1452 1458	stress
+T33	Material 1466 1474	material
+T34	Property 1510 1523	thermodynamic
+T35	SC 1542 1557	superconducting
+T36	Property 1607 1618	free energy
+T37	Property 1654 1667	specific heat
+T38	Property 1694 1701	strains
+T39	Property 1766 1776	BCS theory
+T40	Property 806 809	H c
+T41	Property 840 842	ΔC
+T21	Property 820 838	specific heat jump
+T18	Property 742 766	order parameter function
+T42	Property 768 769	Δ
+T45	Element 444 454	MAX phases
+T4	Doping 111 122	replacement
+T15	SC 661 697	superconducting critical temperature
+T16	Value 1376 1379	0 K
+T44	Value 1389 1393	35 K
+T43	Value 1287 1290	4 %
+T46	Value 1296 1299	8 %
+R1	Target Arg1:E1 Arg2:T3
+R2	Target Arg1:E2 Arg2:T3
+R3	Target Arg1:E3 Arg2:T3
+R4	Coref Arg1:T15 Arg2:T17
+R5	Equivalent Arg1:T31 Arg2:T16
+R6	Equivalent Arg1:T31 Arg2:T44
+E1	Doping:T4 Dopant:T6
+E2	Doping:T4 Dopant:T8
+E3	Doping:T4 Dopant:T7

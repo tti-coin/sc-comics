@@ -1,0 +1,53 @@
+T1	SC 41 56	superconductors
+T2	Property 106 126	transport properties
+T3	Property 202 212	insulating
+T4	SC 242 264	type II superconductor
+T5	SC 364 379	superconducting
+T6	Material 406 410	bulk
+T7	SC 411 426	superconductors
+T8	Material 547 561	microstructure
+T9	Material 565 569	bulk
+T10	Characterization 622 650	scanning electron microscopy
+T11	Material 732 748	grain boundaries
+T12	Material 765 771	grains
+T13	Material 775 779	bulk
+T14	Process 780 788	sintered
+T18	SC 1005 1008	T c
+T21	Property 1279 1293	magnetic field
+T23	Property 328 329	ξ
+T26	Property 822 846	critical current density
+T27	Property 882 885	J c
+T30	Element 1108 1112	YBCO
+T31	Element 472 476	TiO2
+T34	Element 760 764	YBCO
+T35	Element 1354 1358	TiO2
+T36	Value 1425 1428	77K
+T37	Element 570 574	YBCO
+T38	Property 310 326	coherence length
+T39	Property 1208 1232	critical current density
+T41	Material 454 468	nano particles
+T29	Material 1132 1146	nano particles
+T43	Material 1359 1367	particle
+T24	Main 394 405	YBa2Cu3O7-δ
+T44	Material 664 691	randomly oriented particles
+T45	Material 213 226	nano particle
+T48	Value 872 873	3
+T49	Value 1087 1094	8 times
+T50	Property 20 37	flux line pinning
+T51	Property 270 284	pinning center
+T15	Property 1053 1071	flux pinning force
+T52	Property 1161 1181	flux pinning centers
+T19	Property 1382 1389	pinning
+T16	SC 966 1003	superconductor transition temperature
+T17	Doping 575 580	added
+T20	Doping 1337 1342	added
+T22	Value 491 492	0
+T25	Value 493 498	3wt %
+T28	Value 1035 1038	92K
+T32	Value 1042 1047	90.5K
+T40	Material 586 600	nano particles
+R2	Equivalent Arg1:T16 Arg2:T28
+R3	Equivalent Arg1:T16 Arg2:T32
+R4	Target Arg1:E1 Arg2:T37
+E1	Doping:T17 Dopant:T40
+E2	Doping:T20 Dopant:T35

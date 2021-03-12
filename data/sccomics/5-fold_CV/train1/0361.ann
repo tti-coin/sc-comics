@@ -1,0 +1,39 @@
+T1	Main 0 10	La3Co4Sn13
+T2	Main 15 25	La3Ru4Sn13
+T3	Property 46 49	BCS
+T4	SC 50 65	superconductors
+T5	Property 84 98	critical field
+T7	Element 110 120	La3Ru4Sn13
+T8	SC 139 154	superconducting
+T9	SC 175 195	critical temperature
+T10	SC 196 199	T c
+T11	SC 236 251	superconductors
+T12	Element 259 269	La3Co4Sn13
+T13	Material 276 280	bulk
+T14	SC 281 298	superconductivity
+T15	SC 305 308	T c
+T16	Property 336 357	critical temperatures
+T17	Process 363 380	external pressure
+T18	Property 385 399	magnetic field
+T19	Element 438 448	La3Ru4Sn13
+T20	SC 464 467	T c
+T21	SC 480 483	T c
+T22	Process 496 504	pressure
+T23	SC 520 523	T c
+T25	Material 611 618	lattice
+T26	SC 656 671	superconducting
+T27	Element 681 699	La3Co x Ru4−x Sn13
+T28	SC 708 711	T c
+T29	SC 734 737	T c
+T30	Material 826 834	disorder
+T31	Process 856 873	chemical pressure
+T32	Element 879 881	Ru
+T33	Material 882 887	atoms
+T35	Element 922 924	Co
+T36	Material 925 930	atoms
+T24	Property 557 572	McMillan theory
+T38	Value 746 747	4
+T43	Process 619 629	stiffening
+T6	Doping 902 910	replaced
+R1	Coref Arg1:T9 Arg2:T10
+E1	Doping:T6 Site:T32 Dopant:T35

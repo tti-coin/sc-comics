@@ -1,0 +1,52 @@
+T1	Main 15 25	Mn3Ni(Cu)N
+T2	Material 26 36	thin films
+T3	Element 52 54	Cu
+T4	Element 80 82	Si
+T5	Material 83 92	substrate
+T6	Process 105 125	magnetron sputtering
+T7	Element 142 144	Cu
+T9	Material 161 178	crystal structure
+T10	Material 180 187	surface
+T11	Material 188 198	morphology
+T12	Property 203 220	magnetic property
+T13	Element 224 234	Mn3Ni(Cu)N
+T14	Material 235 245	thin films
+T15	Material 292 303	orientation
+T17	Element 339 349	Mn3Ni(Cu)N
+T19	Element 379 381	Cu
+T20	Material 394 401	lattice
+T21	Material 420 425	films
+T22	Material 473 480	crystal
+T23	Material 481 492	orientation
+T25	Element 517 519	Cu
+T26	Element 524 526	Ni
+T27	Material 549 556	surface
+T28	Material 557 569	morphologies
+T30	Element 653 655	Cu
+T31	Property 676 688	ground state
+T32	Property 694 711	antiferromagnetic
+T33	Property 713 716	AFM
+T36	Property 906 909	AFM
+T38	Material 1020 1038	magnetic materials
+T39	Property 721 734	ferrimagnetic
+T40	Property 736 738	FI
+T42	Element 939 941	Cu
+T43	Property 899 901	FI
+T45	Element 598 600	Cu
+T47	Element 322 324	Cu
+T8	Doping 145 153	addition
+T16	Doping 325 331	doping
+T18	Doping 367 375	addition
+T24	Doping 501 513	substitution
+T29	Doping 601 607	doping
+T37	Doping 942 948	doping
+R1	Target Arg1:E1 Arg2:T13
+R2	Target Arg1:E2 Arg2:T17
+R3	Target Arg1:E3 Arg2:T17
+E1	Doping:T8 Dopant:T7
+E2	Doping:T16 Dopant:T47
+E3	Doping:T18 Dopant:T19
+E4	Doping:T24 Dopant:T25 Site:T26
+E5	Doping:T29 Dopant:T45
+E6	Doping:T37 Dopant:T42
+T34	Property 754 785	magnetic transition temperature

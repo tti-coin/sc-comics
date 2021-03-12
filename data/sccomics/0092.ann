@@ -1,0 +1,41 @@
+T1	SC 17 32	superconducting
+T2	Material 33 38	films
+T3	Process 111 120	annealing
+T5	Material 171 176	films
+T6	Process 180 202	substrate temperatures
+T7	Characterization 278 295	X-ray diffraction
+T8	Characterization 297 324	Auger electron spectroscopy
+T9	Characterization 326 329	AES
+T10	Characterization 335 362	ion-scattering spectroscopy
+T11	Characterization 364 367	ISS
+T12	Material 419 424	films
+T13	Characterization 512 515	ISS
+T14	Property 542 564	fluorine concentration
+T15	Material 583 587	film
+T16	Material 588 595	surface
+T18	Characterization 614 617	AES
+T19	Material 669 673	film
+T20	Material 674 681	surface
+T21	Material 682 691	interface
+T22	Property 711 720	diffusion
+T23	Material 761 766	films
+T24	Process 793 815	substrate temperatures
+T25	Main 5 16	YBa2Cu3O7-x
+T26	Element 756 760	YBCO
+T28	Process 56 69	coevaporation
+T29	Element 85 87	Cu
+T30	Element 76 80	BaF2
+T31	Element 73 74	Y
+T32	Value 238 243	720°C
+T33	Element 136 142	oxygen
+T34	Element 227 232	Al2O3
+T35	Element 248 254	SrTiO3
+T37	Process 444 457	coevaporation
+T38	Process 478 490	preannealing
+T39	Element 500 506	oxygen
+T40	Element 653 661	fluorine
+T41	Material 724 733	substrate
+T17	Process 467 473	vacuum
+T42	Element 391 399	fluorine
+T4	SC 162 170	high-T c
+T27	Value 217 222	600°C

@@ -1,0 +1,33 @@
+T1	Property 4 22	magneto-resistance
+T2	Material 26 30	bulk
+T3	Material 31 46	polycrystalline
+T4	Main 47 66	(1−x) YBCO+x BaTiO3
+T5	SC 67 81	superconductor
+T6	SC 115 132	superconductivity
+T7	SC 137 159	transition temperature
+T8	Element 175 181	BaTiO3
+T10	Property 210 224	magnetic field
+T11	SC 257 274	superconductivity
+T12	SC 278 281	T c
+T13	Property 346 360	magnetic field
+T14	Property 366 383	activation energy
+T16	Property 474 488	magnetic field
+T17	Property 531 553	temperature dependence
+T18	Property 561 578	activation energy
+T21	SC 697 700	T c
+T22	Property 708 728	upper critical field
+T24	Element 928 934	BaTiO3
+T25	Value 843 847	100K
+T27	Property 605 645	Ambegaokar and Halperin phase-slip model
+T28	Property 762 797	Werthamer–Helfand–Hohenberg formula
+T31	Property 454 468	Arrhenius plot
+T23	Material 821 836	metallic region
+T38	Value 684 687	3/2
+T19	Property 900 909	psuedogap
+T20	Value 521 524	0.5
+T29	Property 391 420	thermally activated flux flow
+T30	Property 856 880	weak localization effect
+T9	Doping 182 195	incorporation
+T15	Doping 935 944	insertion
+E1	Doping:T9 Dopant:T8
+E2	Doping:T15 Dopant:T24

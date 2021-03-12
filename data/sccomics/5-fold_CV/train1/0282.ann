@@ -1,0 +1,31 @@
+T1	SC 307 322	superconducting
+T2	Property 610 612	3D
+T3	Property 760 762	3D
+T4	Material 763 771	geometry
+T6	Element 955 958	SHe
+T10	Material 1328 1338	geometries
+T12	Property 33 39	porous
+T13	Element 82 109	Cable-in-Conduit Conductors
+T14	Element 111 116	CICCs
+T11	Element 230 234	CICC
+T15	Property 243 257	Toroidal Field
+T16	Property 259 261	TF
+T18	Characterization 613 641	Computational Fluid Dynamics
+T19	Characterization 643 646	CFD
+T20	Element 673 677	CICC
+T21	Element 706 710	CICC
+T7	Process 980 997	pressure gradient
+T8	Material 1038 1054	transverse plane
+T26	Element 1196 1199	SHe
+T27	Element 1203 1207	CICC
+T24	Characterization 1234 1237	CFD
+T25	Element 1347 1351	CICC
+T23	Property 562 577	thermohydraulic
+T28	Characterization 126 174	International Thermonuclear Experimental Reactor
+T29	Characterization 176 180	ITER
+T30	Material 490 503	porous medium
+T17	Property 933 946	supercritical
+T31	Element 947 953	helium
+T5	Value 918 919	6
+T9	Value 922 928	10 g/s
+R1	Coref Arg1:T13 Arg2:T14

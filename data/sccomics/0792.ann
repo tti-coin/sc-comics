@@ -1,0 +1,28 @@
+T1	Material 25 42	crystal structure
+T2	SC 47 62	superconducting
+T3	Element 81 85	BiS2
+T4	Material 92 99	layered
+T5	SC 100 114	superconductor
+T6	Main 115 139	Ce1− x Nd x O0.5F0.5BiS2
+T7	Material 141 145	Bulk
+T8	SC 146 163	superconductivity
+T9	SC 197 219	transition temperature
+T10	Element 249 251	Nd
+T11	Property 252 265	concentration
+T12	SC 271 301	highest transition temperature
+T13	Element 339 341	Nd
+T14	Property 342 355	concentration
+T15	Material 417 423	c axis
+T16	Process 462 479	chemical pressure
+T17	Element 502 504	Nd
+T19	Material 561 565	bulk
+T20	SC 566 583	superconductivity
+T21	Process 603 620	chemical pressure
+T22	Process 674 682	pressure
+T23	Value 184 187	0.4
+T27	Value 318 321	1.0
+T30	Value 306 310	4.8K
+T31	Material 375 381	a axis
+T18	Doping 505 517	substitution
+R1	Equivalent Arg1:T12 Arg2:T30
+E1	Doping:T18 Dopant:T17

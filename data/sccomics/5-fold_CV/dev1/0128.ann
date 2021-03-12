@@ -1,0 +1,38 @@
+T1	SC 20 35	superconducting
+T2	Material 71 77	layers
+T3	Material 159 165	layers
+T4	SC 180 195	superconducting
+T5	SC 219 241	transition temperature
+T6	SC 242 245	T c
+T8	Material 331 335	bulk
+T9	Material 362 367	layer
+T11	SC 419 422	T c
+T12	Material 519 525	layers
+T13	SC 564 567	T c
+T17	Material 681 687	layers
+T18	SC 743 746	T c
+T19	Property 257 271	critical field
+T20	Element 141 158	(PrxY1-x)Ba2Cu3O7
+T23	Main 61 70	YBa2Cu3O7
+T24	Material 84 93	trilayers
+T25	Element 97 106	YBa2Cu3O7
+T26	Property 126 140	semiconducting
+T27	Property 289 313	Pippard coherence length
+T28	Property 314 317	ξ 0
+T29	Property 705 729	Pippard coherence length
+T30	Property 730 733	ξ 0
+T31	Element 352 361	YBa2Cu3O7
+T32	Element 443 452	YBa2Cu3O7
+T7	Element 468 470	Pr
+T34	Material 471 482	composition
+T35	Element 492 509	(PrxY1-x)Ba2Cu3O7
+T37	Element 780 784	YBCO
+T39	Property 849 863	Fermi velocity
+T15	Element 676 680	YBCO
+T42	Value 757 760	0.1
+T10	Material 389 399	unit cells
+T16	Value 651 652	1
+T21	Value 656 669	100 unit-cell
+T22	Value 766 767	1
+T33	Value 768 779	8 unit-cell
+R1	Coref Arg1:T5 Arg2:T6

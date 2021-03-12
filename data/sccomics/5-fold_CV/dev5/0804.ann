@@ -1,0 +1,43 @@
+T1	Element 58 65	Fe ions
+T2	Element 74 79	Cu(1)
+T3	Element 84 89	Cu(2)
+T4	Main 100 121	FeSr 2 RECu 2 O 6 + y
+T5	Element 126 128	Eu
+T6	Element 130 132	Er
+T7	Element 134 136	Gd
+T8	Element 138 140	Nd
+T9	Element 145 146	Y
+T12	Property 180 188	magnetic
+T13	Property 193 201	electric
+T14	Process 232 241	annealing
+T15	SC 258 275	superconductivity
+T16	Element 301 315	Ba 2 YCu 3 O 6
+T17	Material 322 332	tetragonal
+T18	Material 333 350	crystal structure
+T19	Material 359 376	lattice constants
+T21	Property 407 423	Zero resistivity
+T22	Element 441 461	FeSr 2 YCu 2 O 6 + y
+T23	Element 464 485	FeSr 2 ErCu 2 O 6 + y
+T24	Element 490 511	FeSr 2 GdCu 2 O 6 + y
+T25	Element 514 518	57Fe
+T26	Characterization 519 528	Mössbauer
+T27	Element 572 593	FeSr 2 NdCu 2 O 6 + y
+T28	Element 613 620	Fe ions
+T29	Element 637 642	Cu(2)
+T30	Process 669 679	annealings
+T31	Element 698 719	FeSr 2 RECu 2 O 6 + y
+T32	Element 727 748	FeSr 2 NdCu 2 O 6 + y
+T33	Element 772 778	Fe ion
+T35	Element 795 800	Cu(2)
+T37	Element 832 837	CuO 2
+T38	Material 838 843	plane
+T45	Value 602 605	10%
+T20	Element 392 398	RE ion
+T48	Property 814 821	carrier
+T10	Material 168 178	structural
+T34	Doping 779 791	substitution
+T36	Doping 822 828	doping
+R1	Target Arg1:E1 Arg2:T31
+R2	Target Arg1:E2 Arg2:T31
+E1	Doping:T34 Dopant:T33 Site:T35
+E2	Doping:T36 Dopant:T48 Site:T37

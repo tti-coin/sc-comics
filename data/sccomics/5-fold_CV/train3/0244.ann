@@ -1,0 +1,42 @@
+T1	Material 52 62	structures
+T2	Main 103 132	transition metal (M) pnictide
+T3	Element 136 137	P
+T4	Element 139 141	As
+T5	Material 243 261	magnetic materials
+T6	Property 287 295	electric
+T7	Property 296 308	conductivity
+T8	SC 314 331	superconductivity
+T10	Property 352 372	catalytic activities
+T11	Process 395 415	hydrodesulfurization
+T12	Process 417 437	hydrodenitrogenation
+T13	Element 443 448	water
+T14	Material 510 517	mineral
+T15	Material 648 654	metals
+T16	Material 677 682	metal
+T17	Element 697 704	element
+T19	Material 772 787	stoichiometries
+T20	Process 788 801	crystallizing
+T21	Material 819 835	crystal lattices
+T22	Element 857 867	phosphorus
+T23	Element 871 878	arsenic
+T24	Material 914 924	structures
+T25	Element 945 947	En
+T26	Material 964 973	pyramidal
+T27	Element 974 979	P(P)3
+T28	Element 992 994	P6
+T30	Material 1026 1032	chains
+T29	Property 263 285	magnetocaloric effects
+T9	Element 534 544	meteorites
+T31	Element 476 483	M x E y
+T32	Material 995 1000	rings
+T33	Material 1046 1068	2-dimensional networks
+T34	Material 1034 1041	ribbons
+T36	Element 713 714	M
+T35	Value 731 734	7.5
+T38	Value 735 736	1
+T39	Value 740 741	1
+T40	Value 742 744	10
+T18	Element 764 767	231
+T41	Element 805 808	289
+T45	Value 958 959	2
+T46	Value 960 961	4

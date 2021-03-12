@@ -1,0 +1,70 @@
+T1	Material 14 19	films
+T3	SC 246 249	T c
+T4	Characterization 251 256	X-ray
+T5	SC 305 320	superconducting
+T6	Material 321 326	films
+T7	SC 332 335	T c
+T8	Material 355 360	films
+T9	SC 458 461	T c
+T10	Material 481 501	unit cell parameters
+T11	Material 537 542	films
+T12	Material 590 594	atom
+T13	Property 595 605	vibrations
+T14	Process 642 659	recrystallization
+T15	Material 781 786	films
+T17	SC 899 921	transition temperature
+T18	SC 922 925	T c
+T19	Property 958 968	vibrations
+T20	Material 1072 1076	film
+T21	Main 0 13	Tl based 2212
+T22	Element 37 40	MgO
+T23	Element 45 48	YSZ
+T24	Element 81 91	BaCaCuO
+T25	Process 177 188	oxygenation
+T26	Process 160 172	thallination
+T27	Element 261 267	oxygen
+T29	Element 570 574	O(1)
+T30	Element 576 580	O(2)
+T31	Element 585 589	O(3)
+T32	Element 953 957	O(2)
+T33	Element 818 830	oxygen-anion
+T16	Element 801 813	metal-cation
+T34	Element 1058 1064	oxygen
+T35	Characterization 507 520	Raman spectra
+T36	Characterization 276 287	Raman modes
+T37	Characterization 934 945	Raman shift
+T2	SC 224 245	Critical temperatures
+T38	Material 49 59	substrates
+T39	Process 108 117	deposited
+T40	Process 126 133	aerosol
+T41	Material 676 685	amorphous
+T28	Value 389 393	95.0
+T42	Value 397 404	103.5 K
+R1	Coref Arg1:T17 Arg2:T18
+R2	Coref Arg1:T2 Arg2:T3
+R3	Equivalent Arg1:T7 Arg2:T28
+R4	Equivalent Arg1:T7 Arg2:T42
+#1	AnnotatorNotes T1	14-19
+#2	AnnotatorNotes T6	321-326
+#3	AnnotatorNotes T8	355-360
+#4	AnnotatorNotes T10	481-501
+#5	AnnotatorNotes T11	537-542
+#6	AnnotatorNotes T12	590-594
+#7	AnnotatorNotes T15	781-786
+#8	AnnotatorNotes T20	1072-1076
+#9	AnnotatorNotes T21	0-13
+#10	AnnotatorNotes T22	37-40
+#11	AnnotatorNotes T23	45-48
+#12	AnnotatorNotes T24	81-91
+#13	AnnotatorNotes T27	261-267
+#14	AnnotatorNotes T29	570-574
+#15	AnnotatorNotes T30	576-580
+#16	AnnotatorNotes T31	585-589
+#17	AnnotatorNotes T32	953-957
+#18	AnnotatorNotes T33	818-830
+#19	AnnotatorNotes T16	801-813
+#20	AnnotatorNotes T34	1058-1064
+#21	AnnotatorNotes T38	49-59
+#22	AnnotatorNotes T41	676-685
+#23	AnnotatorNotes T28	389-393
+#24	AnnotatorNotes T42	397-404

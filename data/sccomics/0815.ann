@@ -1,0 +1,27 @@
+T1	Main 0 26	Na x (H3O) z CoO 2 · y H2O
+T2	Material 40 55	two-dimensional
+T4	Element 78 85	Co ions
+T5	SC 103 129	superconducting transition
+T6	SC 133 136	T C
+T7	SC 200 214	superconductor
+T8	SC 223 238	superconducting
+T9	Material 269 278	structure
+T10	SC 284 299	superconducting
+T11	Property 300 313	phase diagram
+T12	SC 329 346	superconductivity
+T13	Property 373 381	magnetic
+T15	Property 408 421	phase diagram
+T16	Property 454 466	normal state
+T17	Property 475 483	magnetic
+T18	SC 507 524	superconductivity
+T19	Property 539 560	magnetic fluctuations
+T20	Element 598 624	Na x (H3O) z CoO 2 · y H2O
+T21	Property 735 757	Fermi surface topology
+T22	SC 762 777	superconducting
+T23	Property 778 785	pairing
+T24	Material 786 794	symmetry
+T28	Value 139 144	4.7 K
+T32	Property 239 242	gap
+T33	Material 56 74	triangular lattice
+R1	Equivalent Arg1:T6 Arg2:T28
+R2	Target Arg1:T28 Arg2:T1

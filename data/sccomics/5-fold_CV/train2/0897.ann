@@ -1,0 +1,41 @@
+T1	Element 8 18	FeSe1-xTex
+T2	Material 19 31	bulk samples
+T3	Element 41 43	Te
+T4	Material 76 88	single phase
+T5	Material 96 112	phase separation
+T6	SC 118 133	superconducting
+T7	Material 134 143	epitaxial
+T8	Main 144 156	FeSe0.8Te0.2
+T9	Material 157 167	thin films
+T10	Material 178 190	phase purity
+T11	Material 205 218	crystallinity
+T12	Element 237 247	CaF2 (00l)
+T13	Material 248 258	substrates
+T14	Process 262 285	pulsed laser deposition
+T15	SC 291 306	superconducting
+T16	Material 372 382	structural
+T18	Material 455 460	films
+T19	Material 466 475	thickness
+T20	Material 490 496	c-axis
+T21	Material 526 541	impurity phases
+T25	SC 592 594	Tc
+T26	Property 624 645	upper critical fields
+T27	Element 720 732	FeSe0.5Te0.5
+T28	Material 733 738	films
+T30	Property 757 791	transport critical current density
+T31	Property 792 794	Jc
+T32	Property 834 844	self-field
+T34	Property 905 912	Pinning
+T35	Property 961 976	pinning centers
+T38	Value 479 485	150 nm
+T39	Value 611 615	24 K
+T40	Value 813 830	5.05 × 105 A cm−2
+T41	Value 848 853	4.2 K
+T42	Value 892 896	2.34
+T43	Value 900 903	9 T
+T33	Property 872 888	anisotropy value
+T22	Characterization 398 416	elemental analysis
+T23	SC 560 591	critical transition temperature
+T17	Property 422 431	transport
+T24	Characterization 432 444	measurements
+R1	Equivalent Arg1:T25 Arg2:T39

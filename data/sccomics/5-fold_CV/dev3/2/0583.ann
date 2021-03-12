@@ -1,0 +1,27 @@
+T1	Property 37 68	electronic transport properties
+T3	Main 72 80	graphene
+T4	Element 156 164	graphene
+T5	Property 188 208	transport properties
+T9	Element 369 377	graphene
+T10	Element 395 398	SNS
+T11	Property 440 461	tunneling conductance
+T13	Element 512 520	graphene
+T17	Material 563 573	electrodes
+T19	Property 616 624	spectrum
+T20	Material 698 704	defect
+T21	Material 712 716	bulk
+T22	Property 733 754	tunneling conductance
+T23	Material 777 795	Josephson junction
+T2	SC 347 361	superconductor
+T24	Property 362 368	normal
+T25	SC 379 393	superconductor
+T27	Property 466 475	Josephson
+T28	SC 547 562	superconducting
+T15	Property 628 641	Andreev bound
+T16	Property 805 822	sign oscillations
+T29	Property 280 315	Dirac–Bogoliubov–de-Gennes equation
+T6	Element 212 220	graphene
+T7	Property 540 546	s-wave
+T8	Doping 534 539	doped
+R1	Target Arg1:E1 Arg2:T13
+E1	Doping:T8 

@@ -1,0 +1,27 @@
+T1	Property 4 23	magnetic properties
+T2	Main 27 44	La1−x Nd x Mn2Si2
+T3	Property 162 178	magnetic entropy
+T4	Element 196 213	La1−x Nd x Mn2Si2
+T6	Property 308 316	critical
+T7	Element 329 346	La1−x Nd x Mn2Si2
+T8	Property 438 454	magnetic entropy
+T9	Property 507 525	critical exponents
+T10	Property 531 539	critical
+T11	Property 570 591	magnetic interactions
+T12	Property 655 658	T C
+T13	Property 732 735	T C
+T14	Material 776 786	multiphase
+T20	Value 120 125	375 K
+T21	Value 110 113	5 K
+T25	Value 219 223	0.35
+T26	Value 228 232	0.40
+T27	Value 271 272	5
+T28	Value 279 284	375 K
+T30	Value 352 356	0.35
+T31	Value 361 365	0.40
+T33	Value 604 608	0.35
+T36	Value 751 755	0.40
+T37	Value 681 685	0.40
+T38	Property 390 408	Curie temperatures
+T16	Value 50 54	0.30
+T17	Value 55 59	0.45

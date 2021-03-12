@@ -1,0 +1,46 @@
+T1	Material 44 59	single crystals
+T4	Property 268 280	normal-state
+T5	Property 281 293	conductivity
+T6	Property 302 310	metallic
+T8	Property 368 380	conductivity
+T9	Property 394 402	metallic
+T12	SC 576 579	T c
+T13	SC 588 603	superconducting
+T15	SC 681 684	T c
+T16	Property 707 719	conductivity
+T17	Property 728 741	low frequency
+T18	SC 833 850	superconductivity
+T19	Property 874 886	conductivity
+T20	Property 969 980	frequencies
+T21	Property 1029 1032	BCS
+T22	SC 1049 1052	T c
+T23	Main 63 74	YBa2Cu3O6+x
+T29	Value 540 548	290 cm−1
+T30	Value 248 252	0.95
+T33	Material 168 174	c-axis
+T34	Value 1042 1046	3.5k
+T35	Material 763 778	anisotropic gap
+T36	Property 1015 1028	weak-coupling
+T40	Property 4 15	reflectance
+T10	Property 785 799	gap with nodes
+T2	Doping 85 91	doping
+T3	Doping 237 242	doped
+T7	Doping 338 345	dopings
+T11	Doping 445 452	dopings
+T14	Doping 628 633	doped
+T25	Value 102 106	0.50
+T37	Value 109 113	0.95
+T31	Value 182 189	50 cm−1
+T41	Value 193 202	5000 cm−1
+T32	Value 211 215	10 K
+T42	Value 220 225	300 K
+T38	Value 351 355	0.85
+T43	Value 358 362	0.90
+T39	Value 458 462	0.50
+T44	Value 465 469	0.80
+R1	Target Arg1:E1 Arg2:T23
+E1	Doping:T2 
+E2	Doping:T3 
+E3	Doping:T7 
+E4	Doping:T11 
+E5	Doping:T14 

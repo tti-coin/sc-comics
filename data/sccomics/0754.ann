@@ -1,0 +1,33 @@
+T1	Material 0 15	Polycrystalline
+T2	Material 34 41	layered
+T3	SC 42 56	superconductor
+T4	Main 57 64	Bi4O4S3
+T5	Process 96 116	solid-state reaction
+T6	Element 133 135	Bi
+T7	Element 137 138	S
+T8	Element 143 148	Bi2O3
+T9	Material 149 156	powders
+T10	Process 171 191	solid state reaction
+T11	SC 197 235	superconducting transition temperature
+T12	SC 238 247	T c onset
+T14	SC 264 302	zero resistance transition temperature
+T16	Property 325 359	diamagnetic transition temperature
+T17	Property 398 408	electrical
+T18	Property 409 418	transport
+T19	Property 423 431	magnetic
+T20	SC 483 505	type II-superconductor
+T21	Property 523 538	charge carriers
+T22	Property 550 558	electron
+T24	Property 586 600	thermoelectric
+T25	Property 642 656	thermoelectric
+T26	Value 250 255	4.5 K
+T13	SC 304 308	T c0
+T27	Value 310 315	4.07K
+T28	Value 361 366	4.02K
+T29	Value 373 378	10 Oe
+T31	Value 687 691	0.03
+T32	Value 695 699	300K
+T23	Property 628 641	dimensionless
+T15	Characterization 432 444	measurements
+R1	Equivalent Arg1:T12 Arg2:T26
+R2	Equivalent Arg1:T13 Arg2:T27

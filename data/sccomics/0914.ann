@@ -1,0 +1,57 @@
+T1	Element 0 11	Silver ions
+T3	Main 24 52	samarium strontium manganite
+T4	Main 54 76	Sm0.55Sr0.30Ag0.15MnO3
+T5	Element 114 131	respective oxides
+T6	Material 135 149	stoichiometric
+T7	Process 164 184	solid state reaction
+T8	Element 325 336	silver ions
+T10	Material 340 358	pervoskite lattice
+T11	Characterization 360 377	X-ray diffraction
+T12	Material 399 421	single phase formation
+T14	Material 428 444	grain morphology
+T16	Characterization 448 451	SEM
+T17	Material 496 502	grains
+T18	Material 523 528	metal
+T21	Process 571 579	quenched
+T22	Material 580 588	disorder
+T23	Property 593 610	magnetoresistance
+T24	Property 626 643	magnetoresistance
+T25	Property 680 690	resistance
+T26	Process 709 721	grain growth
+T27	Element 756 764	Ag+ ions
+T28	Material 772 779	lattice
+T29	Process 785 794	reduction
+T30	Property 798 808	hysteresis
+T31	Property 828 845	antiferromagnetic
+T32	Property 848 861	ferromagnetic
+T33	Property 863 865	TN
+T34	Property 871 884	ferromagnetic
+T35	Property 887 899	paramagnetic
+T36	Property 901 903	Tc
+T37	Material 940 948	disorder
+T38	Material 952 970	perovskite lattice
+T40	Element 974 982	Ag+ ions
+T42	Property 1016 1031	magnetic moment
+T44	Property 1069 1083	magnetic field
+T45	Element 1113 1119	silver
+T47	Property 1148 1152	spin
+T48	Material 1170 1176	grains
+T49	Material 1220 1230	disordered
+T50	Property 1231 1252	magnetic fluctuations
+T51	Property 1270 1284	magnetic field
+T52	Property 1338 1349	first order
+T53	Property 1360 1369	magnetism
+T54	Material 78 88	pervoskite
+T9	Property 653 676	temperature coefficient
+T55	Value 1421 1424	95%
+T56	Value 1103 1106	99%
+T13	Property 645 647	MR
+T15	Property 1097 1099	MR
+T2	Doping 12 23	substituted
+T39	Doping 983 995	substitution
+T41	Doping 1120 1126	doping
+T19	Property 532 564	insulator transition temperature
+R2	Target Arg1:E1 Arg2:T3
+E1	Doping:T2 Dopant:T1
+E2	Doping:T39 Dopant:T40
+E3	Doping:T41 Dopant:T45

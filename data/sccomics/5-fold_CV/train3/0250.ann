@@ -1,0 +1,61 @@
+T1	Material 0 14	Microstructure
+T2	SC 19 34	superconducting
+T5	Material 98 107	materials
+T6	Material 141 149	textured
+T7	Process 155 167	hot-pressing
+T9	Material 215 230	microstructural
+T10	Element 255 262	Bi-2212
+T11	Element 263 265	Ag
+T12	Material 266 276	composites
+T13	Material 292 297	grain
+T14	Material 316 327	grain sizes
+T15	Material 349 365	secondary phases
+T16	Material 402 426	microstructural features
+T17	Property 448 469	electrical properties
+T18	Process 488 504	room temperature
+T19	Property 505 516	resistivity
+T20	Element 556 558	Ag
+T22	SC 587 590	T c
+T23	Property 609 628	magnetic properties
+T24	Element 645 647	Ag
+T26	Material 706 713	surface
+T27	Property 733 736	J c
+T28	Material 803 827	microstructural features
+T29	Material 870 886	grain boundaries
+T30	Material 926 931	grain
+T31	Property 943 951	metallic
+T32	Element 952 954	Ag
+T35	Value 79 80	0
+T36	Value 85 86	3
+T37	Process 122 129	sol–gel
+T3	Main 49 65	Bi2Sr2Ca1Cu2O8+δ
+T4	Material 200 210	Structural
+T8	Property 696 705	M–H loops
+T39	Element 73 75	Ag
+T21	Doping 562 567	added
+T25	Doping 648 656	addition
+E1	Doping:T21 Dopant:T20
+E2	Doping:T25 Dopant:T24
+#1	AnnotatorNotes T1	0-14
+#2	AnnotatorNotes T5	98-107
+#3	AnnotatorNotes T6	141-149
+#4	AnnotatorNotes T9	215-230
+#5	AnnotatorNotes T10	255-262
+#6	AnnotatorNotes T11	263-265
+#7	AnnotatorNotes T12	266-276
+#8	AnnotatorNotes T13	292-297
+#9	AnnotatorNotes T14	316-327
+#10	AnnotatorNotes T15	349-365
+#11	AnnotatorNotes T16	402-426
+#12	AnnotatorNotes T20	556-558
+#13	AnnotatorNotes T24	645-647
+#14	AnnotatorNotes T26	706-713
+#15	AnnotatorNotes T28	803-827
+#16	AnnotatorNotes T29	870-886
+#17	AnnotatorNotes T30	926-931
+#18	AnnotatorNotes T32	952-954
+#19	AnnotatorNotes T35	79-80
+#20	AnnotatorNotes T36	85-86
+#21	AnnotatorNotes T3	49-65
+#22	AnnotatorNotes T4	200-210
+#23	AnnotatorNotes T39	73-75

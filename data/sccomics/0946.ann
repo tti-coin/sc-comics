@@ -1,0 +1,47 @@
+T1	Property 11 17	theory
+T2	Property 45 53	polarons
+T5	Material 127 153	nanoscale phase separation
+T6	Property 157 161	hole
+T8	Main 168 176	cuprates
+T9	Property 271 286	charge carriers
+T10	Material 302 311	materials
+T11	Material 327 335	impurity
+T12	Property 363 371	polarons
+T14	Property 397 418	carrier-defect-phonon
+T15	Property 423 437	carrier-phonon
+T16	Property 469 475	charge
+T17	Property 542 550	ordering
+T18	Material 596 609	superlattices
+T20	Material 628 654	nanoscale phase separation
+T22	Element 744 752	cuprates
+T24	Element 783 791	cuprates
+T25	Element 792 811	La 2 - x Sr x CuO 4
+T26	Element 816 834	YBa 2 Cu 3 O 7 - δ
+T27	Property 847 857	insulating
+T28	Property 872 880	metallic
+T30	SC 1012 1021	high- T c
+T31	Material 1022 1031	materials
+T37	Property 87 115	metal-insulating transitions
+T3	Property 117 121	MITs
+T4	Property 516 523	carrier
+T13	Property 564 572	carriers
+T19	Property 554 563	polaronic
+T32	Property 619 623	MITs
+T38	Property 953 975	quantitative agreement
+T7	Doping 162 167	doped
+T21	Doping 777 782	doped
+T29	Doping 905 911	doping
+T23	Doping 733 743	underdoped
+T34	Value 922 926	0.03
+T35	Value 928 932	0.13
+R1	Target Arg1:E1 Arg2:T8
+R2	Target Arg1:E2 Arg2:T24
+R3	Target Arg1:E4 Arg2:T26
+R4	Target Arg1:E5 Arg2:T25
+R5	Target Arg1:E3 Arg2:T22
+E1	Doping:T7 Dopant:T6
+E2	Doping:T21
+E4	Doping:T21
+E5	Doping:T21
+E6	Doping:T29
+E3	Doping:T23

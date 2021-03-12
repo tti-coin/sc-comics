@@ -1,0 +1,80 @@
+T1	SC 35 52	superconductivity
+T2	Main 56 69	Zr 4 Rh 2 O x
+T3	Process 117 128	crystallize
+T4	Element 136 145	η-carbide
+T5	Material 146 155	structure
+T6	Material 198 211	intermetallic
+T7	Element 212 219	Ti 2 Ni
+T8	Material 220 229	structure
+T9	Element 258 271	Zr 4 Rh 2 O x
+T10	Element 310 316	oxygen
+T12	Element 341 350	η-carbide
+T13	Material 351 360	structure
+T14	Material 382 395	intermetallic
+T15	Element 396 402	CuAl 2
+T16	Element 428 435	Zr 2 Rh
+T17	Process 436 448	crystallizes
+T19	Element 463 478	Zr 4 Rh 2 O 0.7
+T20	Element 483 494	Zr 4 Rh 2 O
+T21	Material 499 503	bulk
+T22	SC 504 519	superconductors
+T23	SC 525 546	critical temperatures
+T24	SC 550 553	T c
+T25	Property 579 590	resistivity
+T26	SC 626 641	superconducting
+T27	SC 690 713	type-II superconductors
+T28	Property 719 734	critical fields
+T29	Element 821 831	η-carbides
+T30	Material 910 922	interstitial
+T32	SC 969 986	superconductivity
+T35	Value 556 561	2.8 K
+T36	Value 566 571	4.7 K
+T37	Value 784 790	6.08 T
+T38	Value 757 763	8.8 mT
+T41	Property 933 952	physical properties
+T44	Property 838 847	versatile
+T33	Value 75 78	0.4
+T46	Value 80 83	0.5
+T47	Value 85 88	0.6
+T48	Value 90 93	0.7
+T49	Value 95 98	1.0
+T53	Value 302 305	0.4
+T18	Process 326 336	stabilizes
+T42	Material 403 417	structure-type
+T11	Doping 317 325	addition
+T31	Doping 923 929	doping
+R1	Equivalent Arg1:T24 Arg2:T35
+R2	Equivalent Arg1:T24 Arg2:T36
+R3	Target Arg1:T35 Arg2:T19
+R4	Target Arg1:T36 Arg2:T20
+E1	Doping:T11 Dopant:T10
+E2	Doping:T31 
+#1	AnnotatorNotes T2	56-69
+#2	AnnotatorNotes T4	136-145
+#3	AnnotatorNotes T5	146-155
+#4	AnnotatorNotes T6	198-211
+#5	AnnotatorNotes T7	212-219
+#6	AnnotatorNotes T8	220-229
+#7	AnnotatorNotes T9	258-271
+#8	AnnotatorNotes T10	310-316
+#9	AnnotatorNotes T12	341-350
+#10	AnnotatorNotes T13	351-360
+#11	AnnotatorNotes T14	382-395
+#12	AnnotatorNotes T15	396-402
+#13	AnnotatorNotes T16	428-435
+#14	AnnotatorNotes T19	463-478
+#15	AnnotatorNotes T20	483-494
+#16	AnnotatorNotes T21	499-503
+#17	AnnotatorNotes T29	821-831
+#18	AnnotatorNotes T30	910-922
+#19	AnnotatorNotes T35	556-561
+#20	AnnotatorNotes T36	566-571
+#21	AnnotatorNotes T37	784-790
+#22	AnnotatorNotes T38	757-763
+#23	AnnotatorNotes T33	75-78
+#24	AnnotatorNotes T46	80-83
+#25	AnnotatorNotes T47	85-88
+#26	AnnotatorNotes T48	90-93
+#27	AnnotatorNotes T49	95-98
+#28	AnnotatorNotes T53	302-305
+#29	AnnotatorNotes T42	403-417

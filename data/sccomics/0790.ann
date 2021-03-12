@@ -1,0 +1,53 @@
+T3	SC 29 44	superconductors
+T4	Main 45 69	Ax (C2H8N2) y Fe2− z Se2
+T5	Element 74 76	Li
+T6	Element 78 80	Na
+T7	SC 87 90	T c
+T9	Element 162 176	alkaline metal
+T11	Element 180 195	ethylenediamine
+T12	Material 201 215	c-axis lengths
+T13	Element 219 243	Ax (C2H8N2) y Fe2− z Se2
+T14	Element 248 250	Li
+T15	Element 252 254	Na
+T16	Element 336 346	K x Fe2Se2
+T17	Element 373 387	alkaline metal
+T18	Element 397 412	ethylenediamine
+T22	Material 447 453	layers
+T23	Element 457 461	FeSe
+T24	SC 481 489	high-T c
+T25	Element 493 517	Ax (C2H8N2) y Fe2− z Se2
+T26	Element 522 524	Li
+T27	Element 526 528	Na
+T28	Material 556 571	two-dimensional
+T29	Property 572 592	electronic structure
+T30	Material 610 623	c-axis length
+T31	Process 637 651	post-annealing
+T32	Material 668 673	glass
+T33	SC 703 706	T c
+T34	Process 733 759	post-annealing temperature
+T35	Element 788 791	EDA
+T37	Process 839 855	low temperatures
+T50	Value 92 95	45K
+T52	Value 260 269	20.74(7)Å
+T53	Value 274 282	21.9(1)Å
+T54	Value 312 315	50%
+T58	Value 862 867	250°C
+T1	Element 4 8	iron
+T59	Material 674 678	tube
+T2	Doping 15 28	intercalation
+T8	Doping 135 148	intercalation
+T10	Doping 416 428	intercalated
+T19	Element 441 446	Se–Se
+T20	Doping 804 816	intercalated
+R1	Equivalent Arg1:T7 Arg2:T50
+R2	Target Arg1:T50 Arg2:T4
+R3	Target Arg1:E1 Arg2:T4
+R4	Target Arg1:E3 Arg2:T23
+R5	Target Arg1:E2 Arg2:T4
+R6	Condition Arg1:T50 Arg2:E1
+R7	Target Arg1:E5 Arg2:T23
+E1	Doping:T2 Site:T1
+E2	Doping:T8 Dopant:T9 Site:T11
+E3	Doping:T10 Site:T19 Dopant:T17
+E4	Doping:T20
+E5	Doping:T10 Dopant:T18 Site:T19

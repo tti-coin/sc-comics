@@ -1,0 +1,66 @@
+T1	SC 0 15	Superconducting
+T2	Material 27 46	nominal composition
+T3	Main 50 86	(Cu0.5Tl0.5− x Ti x )Ba2Ca2Cu3O10− δ
+T4	Process 160 180	solid-state reaction
+T5	Process 194 210	ambient pressure
+T6	Characterization 255 279	X-ray powder diffraction
+T7	Characterization 281 284	XRD
+T8	Characterization 287 315	scanning electron microscope
+T9	Characterization 317 320	SEM
+T12	Characterization 353 356	EDX
+T13	Characterization 359 362	XRD
+T14	Element 410 427	(Cu0.5Tl0.5)-1223
+T15	SC 495 533	superconducting transition temperature
+T16	SC 535 538	T c
+T17	Property 555 577	electrical resistivity
+T18	Property 703 715	conductivity
+T19	Property 782 788	theory
+T20	Property 891 906	two dimensional
+T21	Property 913 930	three dimensional
+T22	Property 932 934	3D
+T23	Property 940 948	critical
+T24	SC 972 987	superconducting
+T25	Property 1027 1039	conductivity
+T26	Element 1066 1068	Ti
+T28	Property 1104 1120	coherence length
+T29	Material 1131 1137	c-axis
+T31	Material 1165 1172	spacing
+T32	Property 1283 1302	interlayer coupling
+T33	Property 1344 1357	weak coupling
+T34	Element 1366 1370	CuO2
+T35	Material 1371 1377	planes
+T36	Property 1400 1402	3D
+T39	Value 91 94	0.0
+T10	Characterization 326 351	electron dispersive X-ray
+T43	Value 485 489	0.10
+T47	Value 672 678	116.5K
+T49	Value 686 690	0.25
+T50	Property 760 776	Aslamazov–Larkin
+T51	Property 778 780	AL
+T52	Property 908 910	2D
+T55	Value 1209 1213	0.10
+T57	Property 1407 1409	2D
+T30	Property 950 952	cr
+T58	Value 123 127	0.25
+T59	Value 96 100	0.05
+T60	Value 102 106	0.10
+T61	Value 108 112	0.15
+T62	Value 114 118	0.20
+T11	Characterization 716 724	analysis
+T63	Characterization 1040 1048	analysis
+T64	Property 391 406	volume fraction
+T27	Doping 1069 1081	substitution
+T37	Value 443 448	85.6%
+T38	Value 452 457	88.2%
+T41	Value 599 604	122.9
+T44	Value 608 614	125.3K
+T46	Value 635 638	0.0
+T66	Value 642 646	0.10
+T67	Property 874 884	short wave
+T68	Property 886 888	sw
+T65	Property 1139 1145	ξ c(0)
+R1	Coref Arg1:T15 Arg2:T16
+R2	Equivalent Arg1:T16 Arg2:T47
+R3	Equivalent Arg1:T16 Arg2:T41
+R4	Equivalent Arg1:T16 Arg2:T44
+E1	Doping:T27 Dopant:T26

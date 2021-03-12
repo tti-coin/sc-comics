@@ -1,0 +1,117 @@
+T1	Element 40 49	zirconium
+T2	Element 51 53	Zr
+T3	Property 55 64	diffusion
+T4	SC 72 87	superconducting
+T5	Material 102 117	microstructural
+T6	Main 132 144	YBa2Cu3O7− δ
+T7	Main 146 150	Y123
+T8	Material 152 156	bulk
+T9	SC 157 172	superconductors
+T10	Process 202 222	solid-state reaction
+T11	Characterization 246 274	scanning electron microscopy
+T12	Characterization 276 279	SEM
+T15	Characterization 309 312	EDX
+T16	Characterization 315 332	X-ray diffraction
+T17	Characterization 334 337	XRD
+T18	Property 340 362	electrical resistivity
+T21	Property 409 412	J c
+T22	Property 440 461	diffusion coefficient
+T23	Property 470 487	activation energy
+T24	Element 491 500	zirconium
+T25	Element 504 508	Y123
+T26	Element 536 538	Zr
+T27	Property 539 548	diffusion
+T28	Material 621 639	lattice parameters
+T29	Characterization 659 662	XRD
+T30	Process 700 716	room-temperature
+T31	Property 717 728	resistivity
+T32	Element 760 767	Zr ions
+T37	SC 894 915	critical temperatures
+T38	Element 962 964	Zr
+T39	Property 1064 1085	critical temperatures
+T40	Material 1115 1128	crystallinity
+T41	Material 1156 1161	grain
+T42	Element 1198 1200	Zr
+T43	Material 1201 1206	atoms
+T44	Property 1226 1229	J c
+T45	Property 1307 1319	flux pinning
+T46	Material 1357 1363	faults
+T47	Material 1382 1389	defects
+T48	Characterization 1400 1416	XRD measurements
+T49	Material 1476 1491	polycrystalline
+T50	SC 1492 1507	superconducting
+T51	Element 1579 1589	Y123 phase
+T53	Element 1630 1632	Zr
+T54	Material 1633 1638	atoms
+T55	Material 1648 1669	crystalline structure
+T57	Material 1724 1739	cell parameters
+T58	Material 1764 1785	structural modulation
+T59	Element 1791 1793	Zr
+T60	Property 1794 1803	diffusion
+T61	Process 1827 1836	reduction
+T62	Material 1848 1866	lattice parameters
+T63	Material 1893 1909	cell parameter c
+T64	Characterization 1993 2011	SEM investigations
+T65	Material 2017 2030	crystallinity
+T66	Material 2035 2040	grain
+T67	Element 2071 2073	Zr
+T68	Property 2074 2083	diffusion
+T69	SC 2124 2133	T c onset
+T70	SC 2136 2146	T c offset
+T71	Property 2151 2154	J c
+T72	Material 2221 2235	microstructure
+T73	Characterization 2247 2263	EDX measurements
+T74	Element 2353 2356	Y3+
+T75	Element 2361 2373	Ba2+ cations
+T77	Element 2403 2412	Zr4+ ions
+T79	Element 2441 2443	Cu
+T80	SC 2485 2500	superconducting
+T82	Property 2589 2610	diffusion coefficient
+T83	Element 2618 2620	Zr
+T84	Element 2624 2628	Y123
+T85	Property 2726 2743	activation energy
+T86	Element 2782 2784	Zr
+T87	Property 2785 2794	diffusion
+T88	Process 2798 2816	lower temperatures
+T89	Element 2850 2857	Zr ions
+T90	Material 2884 2891	defects
+T91	Material 2899 2914	polycrystalline
+T92	Value 1917 1922	0.24%
+T93	Value 938 943	94.4K
+T94	Value 948 953	91.5K
+T95	Characterization 282 307	electron dispersive X-ray
+T13	Property 364 367	ρ–T
+T96	Property 373 407	transport critical current density
+T35	SC 856 865	T c onset
+T36	SC 881 891	T c offset
+T98	Value 1274 1277	77K
+T100	Value 992 997	93.7K
+T101	Value 1002 1007	89.4K
+T102	Value 2753 2760	1.010eV
+T81	Element 2519 2521	Zr
+T111	Element 1677 1679	Zr
+T20	Characterization 414 426	measurements
+T19	Doping 1613 1626	incorporation
+T52	Doping 1680 1688	diffused
+T56	Doping 2388 2399	substituted
+T76	Doping 2421 2433	substitution
+T78	Doping 2522 2530	diffused
+T14	Value 586 589	500
+T97	Value 590 595	945°C
+T99	Value 1250 1258	128Acm−2
+T105	Value 1262 1270	160Acm−2
+T103	Value 2650 2653	500
+T104	Value 2654 2659	945°C
+T106	Value 2689 2699	4.12×10−10
+T107	Value 2703 2720	9.77×10−8 cm2 s−1
+R2	Equivalent Arg1:T35 Arg2:T93
+R3	Equivalent Arg1:T36 Arg2:T94
+R4	Equivalent Arg1:T35 Arg2:T100
+R5	Equivalent Arg1:T36 Arg2:T101
+E1	Doping:T19 Dopant:T53
+E2	Doping:T52 Dopant:T111
+E3	Doping:T56 Dopant:T77 Site:T75
+E4	Doping:T56 Dopant:T77 Site:T74
+E5	Doping:T76 Site:T79
+E6	Doping:T78 Dopant:T81
+T33	SC 787 818	critical transition temperature

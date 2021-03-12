@@ -1,0 +1,33 @@
+T2	Main 49 69	Nd1−x Ca x Ba2Cu3O y
+T3	Main 71 76	NCBCO
+T4	Property 120 131	resistivity
+T5	Property 193 206	concentration
+T7	Property 221 233	normal state
+T8	Property 234 243	transport
+T9	Property 288 300	normal state
+T10	Property 301 312	resistivity
+T11	Element 316 321	NCBCO
+T12	Property 336 344	metallic
+T14	Property 454 466	normal state
+T15	Material 499 512	intergranular
+T17	SC 568 583	superconducting
+T18	Material 584 590	layers
+T19	Element 656 661	NCBCO
+T20	Property 721 733	normal state
+T21	Property 734 745	resistivity
+T22	Process 776 785	reduction
+T23	Material 793 801	disorder
+T24	Element 811 815	CuO2
+T25	Material 816 822	planes
+T36	Value 329 332	0.5
+T38	Value 368 369	0
+T39	Material 383 394	nonmetallic
+T40	Material 517 539	intragranular networks
+T16	Value 81 82	0
+T30	Value 84 87	0.1
+T31	Value 89 92	0.3
+T32	Value 97 100	0.5
+T1	Doping 38 48	underdoped
+T6	Element 210 212	Ca
+R2	Target Arg1:E1 Arg2:T2
+E1	Doping:T1

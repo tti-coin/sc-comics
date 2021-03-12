@@ -1,0 +1,35 @@
+T1	Element 0 4	57Fe
+T4	SC 125 140	superconducting
+T5	Main 141 154	RbGd2Fe4As4O2
+T6	SC 160 162	Tc
+T7	Property 180 187	Singlet
+T8	Property 296 310	magnetic order
+T9	Element 318 320	Fe
+T10	Element 396 404	RbFe2As2
+T11	Element 409 416	GdFeAsO
+T13	Property 456 476	electronic structure
+T14	Property 514 534	magnetic fluctuation
+T15	Property 646 667	magnetic fluctuations
+T16	Element 675 681	Gd 3 +
+T17	Property 682 689	moments
+T18	Property 706 727	magnetic fluctuations
+T19	Element 735 737	Fe
+T20	Material 738 743	atoms
+T23	Value 174 178	35 K
+T24	Value 572 576	15 K
+T25	Value 583 588	100 K
+T2	Characterization 5 22	Mössbauer spectra
+T26	Process 221 239	lowest temperature
+T27	Material 344 350	isomer
+T3	Doping 119 124	doped
+T21	Value 71 76	5.9 K
+T22	Value 81 86	300 K
+T12	Doping 435 441	doping
+R1	Equivalent Arg1:T6 Arg2:T23
+R2	Target Arg1:T23 Arg2:T5
+R3	Target Arg1:E1 Arg2:T5
+R4	Condition Arg1:T23 Arg2:E1
+R5	Target Arg1:E2 Arg2:T10
+R6	Target Arg1:E2 Arg2:T11
+E1	Doping:T3
+E2	Doping:T12

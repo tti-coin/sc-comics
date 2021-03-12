@@ -1,0 +1,27 @@
+T1	Element 0 12	75As-nuclear
+T2	Property 13 21	magnetic
+T3	Property 22 32	relaxation
+T5	Process 65 73	pressure
+T6	Main 77 91	LaFeAsO1−x F x
+T9	Process 177 193	ambient pressure
+T10	Property 205 208	T c
+T11	Process 230 238	pressure
+T12	Property 286 289	T c
+T14	Property 369 372	DOS
+T15	Process 380 388	pressure
+T16	Property 429 432	T c
+T18	Property 514 517	T c
+T19	Property 614 631	antiferromagnetic
+T20	Property 632 648	spin fluctuation
+T21	Property 676 679	DOS
+T25	Value 96 100	0.08
+T26	Value 105 109	0.14
+T28	Value 573 577	0.14
+T30	Value 123 127	0.14
+T32	Value 453 457	0.08
+T4	Property 292 295	1/T
+T8	Property 459 462	1/T
+T17	Property 143 146	1/T
+T7	Doping 128 133	doped
+T13	Property 39 42	1/T
+E1	Doping:T7

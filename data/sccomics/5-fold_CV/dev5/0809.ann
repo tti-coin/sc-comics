@@ -1,0 +1,47 @@
+T1	Material 83 92	nanoscale
+T2	Property 93 103	electronic
+T3	Main 135 154	Bi2Sr2CaCu2 O 8 + δ
+T4	Characterization 158 187	scanning tunneling microscopy
+T5	Characterization 188 200	spectroscopy
+T6	Characterization 202 205	STM
+T7	Property 257 267	pseudogaps
+T8	Process 271 287	high-temperature
+T9	SC 296 311	superconductors
+T10	SC 313 317	HTCS
+T12	Property 340 361	temperature dependent
+T13	Property 408 412	hole
+T14	Property 441 451	pseudogaps
+T15	Element 499 503	CuO2
+T16	Material 504 509	plane
+T17	Element 554 558	CuO2
+T18	Material 559 565	planes
+T19	Property 569 574	INSEG
+T20	Property 609 619	pseudogaps
+T21	Property 675 685	pseudogaps
+T22	Property 728 746	pseudogap energies
+T23	Element 822 826	CuO2
+T24	Material 827 833	planes
+T25	SC 877 894	superconductivity
+T28	Property 963 972	pseudogap
+T29	Material 984 999	microscopically
+T30	Element 1039 1043	CuO2
+T31	Material 1044 1050	planes
+T33	Property 104 108	gaps
+T34	Value 524 527	50%
+T35	Value 532 536	100%
+T36	Value 1018 1022	100%
+T37	Characterization 206 207	S
+T38	SC 1097 1124	high- T c superconductivity
+T39	Element 288 295	cuprate
+T41	Property 110 115	INSEG
+T42	Property 362 367	INSEG
+T43	Property 841 846	INSEG
+T44	Property 513 518	INSEG
+T45	Property 867 872	INSEG
+T47	Property 1058 1063	INSEG
+T11	Doping 910 920	underdoped
+T26	Doping 928 937	overdoped
+T27	Doping 329 335	doping
+E1	Doping:T11 
+E2	Doping:T26 
+E3	Doping:T27 

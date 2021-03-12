@@ -1,0 +1,51 @@
+T1	Material 41 46	grain
+T2	Material 47 53	c-axis
+T3	Main 63 74	GdBa2Cu3O y
+T4	Main 79 90	SmBa2Cu3O y
+T5	Material 91 95	bulk
+T6	SC 96 111	superconductors
+T7	Process 146 149	air
+T8	Material 157 166	thin film
+T9	Element 167 173	Nd-123
+T10	Process 180 185	grown
+T11	Element 189 192	MgO
+T12	Material 193 201	crystals
+T13	Material 222 229	crystal
+T14	Material 268 281	single domain
+T15	Element 282 288	Gd-123
+T16	Property 363 376	Magnetization
+T17	SC 425 451	superconducting transition
+T19	Element 500 506	Sm-123
+T20	Element 562 566	BaO2
+T21	Element 581 583	Sm
+T22	Element 584 586	Ba
+T23	Material 587 592	solid
+T24	Process 634 637	air
+T25	Property 643 656	magnetization
+T26	SC 680 706	superconducting transition
+T27	Element 741 745	BaO2
+T28	Property 746 759	concentration
+T30	Element 897 903	Sm-123
+T31	Element 920 924	BaO2
+T35	Value 302 306	50mm
+T36	Value 477 480	93K
+T37	Value 765 770	91.5K
+T38	Value 775 779	0wt%
+T39	Value 783 786	93K
+T40	Value 846 850	2.1T
+T41	Value 855 859	1.5T
+T42	Value 863 866	20K
+T43	Value 880 884	16mm
+T45	Property 829 842	trapped field
+T46	Process 123 135	cold seeding
+T32	Doping 925 933	addition
+T18	SC 461 469	onset Tc
+T29	Value 791 794	0.2
+T33	Value 799 805	0.3wt%
+T34	Value 909 910	3
+T44	Value 915 919	1wt%
+R1	Equivalent Arg1:T26 Arg2:T37
+R2	Equivalent Arg1:T26 Arg2:T39
+R3	Target Arg1:E1 Arg2:T30
+R4	Equivalent Arg1:T18 Arg2:T36
+E1	Doping:T32 Dopant:T31

@@ -1,0 +1,41 @@
+T1	Material 12 27	polycrystalline
+T2	Material 41 61	nominal compositions
+T3	Main 65 94	(Ba0.5Sr0.5)Fe2(As1− x P x )2
+T4	Material 139 151	single-phase
+T5	Characterization 188 208	Rietveld refinements
+T6	Material 216 222	powder
+T7	Characterization 223 226	XRD
+T8	Material 250 261	cell volume
+T9	Element 304 305	P
+T11	Element 368 373	Ba122
+T12	Element 375 382	Ba122:P
+T13	Element 388 393	Sr122
+T14	Element 395 402	Sr122:P
+T16	Element 424 432	BaSr)122
+T18	Material 483 492	structure
+T19	Element 500 511	Fe2(As, P)2
+T20	SC 630 633	T c
+T21	Element 677 684	Ba122:P
+T22	Element 689 696	Sr122:P
+T26	Value 99 103	0. 2
+T28	Element 354 355	P
+T17	Material 456 477	structural properties
+T29	Element 563 586	alkaline earth elements
+T31	Value 607 610	0.4
+T32	Value 637 640	29K
+T33	Value 105 108	0.3
+T34	Value 110 114	0.35
+T35	Value 116 119	0.4
+T36	Value 121 124	0.5
+T37	Value 126 129	0.6
+T15	Element 409 410	P
+T10	Doping 356 367	substituted
+T38	Doping 411 422	substituted
+R3	Equivalent Arg1:T20 Arg2:T32
+R4	Target Arg1:T32 Arg2:T21
+R5	Target Arg1:T32 Arg2:T22
+R6	Target Arg1:E1 Arg2:T11
+R7	Target Arg1:E3 Arg2:T16
+R8	Target Arg1:E1 Arg2:T13
+E1	Doping:T10 Dopant:T28
+E3	Doping:T38 Dopant:T15

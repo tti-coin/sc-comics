@@ -1,0 +1,48 @@
+T2	Main 0 35	(CoFe2O4)x/Cu0.5Tl0.5Ba2Ca2Cu3O10−δ
+T4	Main 37 57	(CoFe2O4)x/CuTl-1223
+T5	Material 72 85	nanoparticles
+T6	SC 86 100	superconductor
+T7	Material 101 111	composites
+T8	Property 244 261	Activation energy
+T10	SC 379 394	superconductors
+T11	Property 440 460	resistive transition
+T12	SC 484 490	Tc (0)
+T13	Property 593 613	upper critical field
+T14	Property 617 629	vortex state
+T15	Property 667 681	magnetic field
+T17	Property 695 703	magnetic
+T18	Element 704 711	CoFe2O4
+T19	Material 712 725	nanoparticles
+T20	Material 779 786	defects
+T21	Element 799 808	CuTl-1223
+T22	SC 809 824	superconducting
+T23	Material 825 831	matrix
+T24	Property 856 876	flux pinning centers
+T25	Property 905 922	activation energy
+T26	Property 975 983	magnetic
+T27	Element 984 991	CoFe2O4
+T28	Material 992 1005	nanoparticles
+T29	Property 1036 1048	flux pinning
+T30	Element 1065 1072	CoFe2O4
+T31	Property 1073 1081	magnetic
+T32	Material 1082 1095	nanoparticles
+T33	Element 1127 1136	CuTl-1223
+T34	SC 1137 1152	superconducting
+T35	Material 1153 1159	matrix
+T36	Value 61 62	0
+T38	Value 69 70	2
+T42	Property 923 928	Uo(H)
+T43	Value 1114 1123	1.5 wt. %
+T45	Property 738 745	fluxoid
+T46	Property 263 268	Uo(H)
+T47	Property 290 305	Arrhenius plots
+T48	Property 411 418	fluxoid
+T49	Process 132 152	solid–state reaction
+T51	Material 768 778	nano-sized
+T52	Characterization 217 229	measurements
+T1	Doping 683 691	Addition
+T3	Property 317 328	resistivity
+T9	Characterization 329 341	measurements
+R1	Coref Arg1:T2 Arg2:T4
+R2	Target Arg1:E1 Arg2:T21
+E1	Doping:T1 Dopant:T18

@@ -1,0 +1,31 @@
+T1	Material 0 15	Polycrystalline
+T2	Main 27 51	( R e 1 − x F e x ) 6 Hf
+T3	Process 72 83	arc-melting
+T4	Material 99 111	phase purity
+T5	Characterization 144 168	powder X-ray diffraction
+T6	Element 206 208	Fe
+T8	Process 226 234	pressure
+T9	SC 265 279	superconductor
+T10	SC 294 332	superconducting transition temperature
+T11	SC 334 336	TC
+T12	Property 375 398	magnetic susceptibility
+T13	Property 400 422	electrical resistivity
+T14	SC 495 497	TC
+T15	Element 533 535	Fe
+T16	Property 549 569	upper critical field
+T17	Property 617 627	WHH theory
+T18	Property 647 669	temperature dependence
+T19	Process 712 729	external pressure
+T20	SC 749 751	TC
+T21	Value 799 809	0.01 GPa−1
+T25	Value 431 435	0.22
+T27	Value 678 681	2 K
+T28	Value 473 476	2 K
+T29	Element 280 288	R e 6 Hf
+T30	Value 736 743	2.5 GPa
+T32	Characterization 359 371	measurements
+T31	Property 570 574	Hc 2
+T7	Doping 209 221	substitution
+R1	Coref Arg1:T10 Arg2:T11
+R2	Target Arg1:E1 Arg2:T29
+E1	Doping:T7 Dopant:T6

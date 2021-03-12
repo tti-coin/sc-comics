@@ -1,0 +1,33 @@
+T2	SC 43 46	T c
+T3	Process 128 140	gas pressure
+T5	Process 238 254	applied pressure
+T6	Process 263 282	storage temperature
+T8	Property 359 374	oxygen ordering
+T9	Process 381 389	pressure
+T11	SC 431 434	T c
+T15	Process 638 646	pressure
+T17	Process 686 694	pressure
+T18	SC 701 704	T c
+T22	Process 820 828	pressure
+T24	SC 856 859	T c
+T25	Process 902 910	pressure
+T27	SC 957 960	T c
+T29	Process 1023 1031	pressure
+T30	Property 1040 1055	oxygen ordering
+T32	Property 1135 1150	oxygen ordering
+T33	Material 50 65	polycrystalline
+T34	Main 66 77	YBa2Cu3O6.7
+T35	Process 113 124	hydrostatic
+T36	Element 125 127	He
+T40	Value 1072 1081	4.1 K/GPa
+T41	Value 976 981	−0.02
+T42	Value 1173 1183	11.5 K/GPa
+T43	Value 485 494	7.4 K/GPa
+T44	Property 207 222	oxygen ordering
+T1	SC 4 42	superconducting transition temperature
+T7	Value 325 330	240 K
+T10	Value 560 565	240 K
+T12	Value 1106 1111	240 K
+T4	Element 571 577	oxygen
+T13	Material 578 588	sublattice
+R1	Coref Arg1:T1 Arg2:T2

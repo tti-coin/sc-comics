@@ -1,0 +1,58 @@
+T1	Material 13 34	crystalline structure
+T2	SC 39 54	superconducting
+T3	Main 69 75	γ-Mo2N
+T4	Material 76 86	thin films
+T5	Process 87 92	grown
+T6	Process 105 118	DC sputtering
+T7	Element 122 125	AlN
+T8	Element 135 143	Si (001)
+T9	Material 144 154	substrates
+T10	Material 160 165	films
+T11	Process 171 176	grown
+T12	Process 180 196	room temperature
+T13	Material 202 216	microstructure
+T14	Material 224 229	films
+T15	Characterization 252 269	X-ray diffraction
+T16	Characterization 274 306	transmission electron microscopy
+T17	Material 316 328	single-phase
+T18	Material 345 351	grains
+T19	Material 352 360	textured
+T20	Material 392 397	films
+T21	Material 421 430	thickness
+T22	SC 469 505	superconducting critical temperature
+T24	SC 506 508	Tc
+T25	Material 554 563	thickness
+T27	Material 664 669	films
+T28	Property 698 708	electronic
+T29	Material 729 734	films
+T30	SC 746 761	superconducting
+T31	Property 779 799	upper critical field
+T32	Material 819 824	films
+T33	Material 830 839	thickness
+T34	Material 862 867	films
+T35	Material 873 882	thickness
+T37	Property 915 941	critical current densities
+T38	Property 942 945	J c
+T40	Property 1031 1044	thermodynamic
+T41	Property 1045 1059	critical field
+T42	Value 452 463	20 × 20 μm2
+T26	Property 598 618	residual-resistivity
+T44	Property 800 807	Hc2 (0)
+T45	Value 810 814	12 T
+T46	Value 843 848	40 nm
+T47	Value 854 857	9 T
+T48	Value 886 891	10 nm
+T36	Property 953 964	vortex-free
+T39	Property 1060 1067	H c (0)
+T49	Value 1071 1082	500 ± 80 Oe
+T50	Material 371 386	(200) direction
+T51	Value 1011 1024	(800 ± 50) nm
+T52	Property 986 1003	penetration depth
+T53	Property 709 723	mean free path
+T23	Value 528 533	6.6 K
+T54	Value 539 544	3.0 K
+T43	Value 579 584	40 nm
+T55	Value 588 592	5 nm
+R1	Coref Arg1:T22 Arg2:T24
+R2	Equivalent Arg1:T24 Arg2:T23
+R3	Equivalent Arg1:T24 Arg2:T54

@@ -1,0 +1,37 @@
+T3	Property 95 116	Vickers microhardness
+T4	Main 120 126	Gd-123
+T5	SC 127 142	superconducting
+T6	Element 177 186	(SWCNTs)x
+T7	Element 191 212	(MWCNTs)xGdBa2Cu3O7−δ
+T8	Process 262 282	solid-state reaction
+T9	Characterization 327 351	X-ray powder diffraction
+T10	Characterization 353 356	XRD
+T11	Characterization 359 387	scanning electron microscope
+T12	Characterization 389 392	SEM
+T15	Characterization 429 432	TEM
+T16	Property 482 504	electrical resistivity
+T17	Property 509 530	Vickers microhardness
+T18	Material 582 597	phase formation
+T19	Material 602 608	grains
+T20	Element 650 656	SWCNTs
+T21	Element 661 667	MWCNTs
+T23	SC 710 748	superconducting transition temperature
+T24	SC 749 751	Tc
+T25	Element 785 789	CNTs
+T28	Property 864 885	Vickers microhardness
+T33	Element 46 52	SWCNTs
+T35	Element 85 91	MWCNTs
+T37	Element 57 84	multi wall carbon nanotubes
+T31	Property 1015 1024	PSR model
+T13	Characterization 395 427	transmission electron microscope
+T14	Value 628 632	0.06
+T44	Value 637 645	0.08wt.%
+T26	Property 812 833	higher concentrations
+T30	Property 982 1014	proportional specimen resistance
+T40	Value 231 234	0.0
+T41	Value 237 244	0.1wt.%
+T42	Characterization 886 898	measurements
+T22	Doping 668 673	added
+T1	Element 17 45	single wall carbon nanotubes
+E1	Doping:T22 Dopant:T21
+E2	Doping:T22 Dopant:T20

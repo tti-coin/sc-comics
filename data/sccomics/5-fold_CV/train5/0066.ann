@@ -1,0 +1,56 @@
+T2	Property 51 57	domain
+T3	Process 70 78	sintered
+T5	Process 197 205	sintered
+T6	Property 239 253	oxygen content
+T7	Process 261 280	electron-irradiated
+T8	Process 319 327	sintered
+T11	Material 421 436	single crystals
+T12	Material 451 461	thin films
+T13	SC 598 613	superconducting
+T14	Material 614 620	grains
+T15	Property 901 914	decomposition
+T16	Characterization 987 1007	Electron irradiation
+T19	Property 1533 1548	magnetic fields
+T21	SC 1766 1781	superconducting
+T22	Material 1794 1800	grains
+T23	SC 1858 1873	superconducting
+T24	Material 1874 1880	grains
+T25	Property 1933 1948	magnetic fields
+T1	Characterization 10 33	high-resolution Faraday
+T26	Characterization 35 38	HRF
+T27	Main 79 92	YBa2Cu3O7 − δ
+T29	Element 206 217	YBa2Cu3O7−δ
+T31	Element 125 129	Ag2O
+T32	Element 134 142	Y2BaCuO5
+T33	Material 391 409	single crystalline
+T34	Material 441 450	epitaxial
+T35	Element 922 926	Ag2O
+T36	Property 867 891	critical current density
+T37	Property 690 716	critical current densities
+T38	Property 1043 1069	critical current densities
+T39	Property 1083 1099	oxygen reduction
+T40	Property 1205 1231	critical current densities
+T41	Value 1423 1429	10 wt%
+T42	Property 1458 1482	critical current density
+T43	Element 1782 1793	YBa2Cu3O7−δ
+T45	Element 1695 1699	Ag2O
+T46	Property 1967 1993	critical current densities
+T47	Property 948 968	oxygen stoichiometry
+T48	Element 1430 1442	silver oxide
+T49	Property 1367 1391	critical current density
+T50	Material 762 779	chemical impurity
+T51	Property 805 831	intragranular flux density
+T53	Property 1611 1638	Josephson penetration depth
+T9	SC 328 352	high-T c superconductors
+T4	Doping 112 121	additions
+T10	Doping 1172 1181	additions
+T17	Doping 1411 1419	addition
+T18	Doping 1700 1709	additions
+T20	Characterization 1271 1283	measurements
+T28	Property 1242 1270	four-point transport current
+R1	Target Arg1:E1 Arg2:T27
+R2	Target Arg1:E4 Arg2:T43
+E1	Doping:T4 Dopant:T31
+E2	Doping:T10 
+E3	Doping:T17 Dopant:T48
+E4	Doping:T18 Dopant:T45

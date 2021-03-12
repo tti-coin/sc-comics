@@ -1,0 +1,35 @@
+T1	Characterization 11 34	ultrasonic measurements
+T2	SC 38 53	superconducting
+T3	Main 54 71	BaFe2− x Ni x As2
+T4	Material 72 80	crystals
+T6	Material 162 169	crystal
+T7	Material 218 245	structural phase transition
+T8	Process 249 266	high temperatures
+T11	SC 387 390	T c
+T12	SC 443 469	superconducting transition
+T13	SC 519 534	superconductors
+T15	Material 553 560	crystal
+T17	SC 658 661	T c
+T18	SC 668 683	Superconducting
+T19	Property 684 694	energy gap
+T20	SC 854 869	superconducting
+T21	Element 870 887	BaFe2− x Ni x As2
+T22	Material 888 896	crystals
+T26	Value 89 93	0.07
+T28	Value 101 105	0.15
+T29	Element 129 133	C 33
+T30	Element 138 142	C 44
+T32	Value 174 178	0.07
+T33	Value 392 395	17K
+T35	Value 565 569	0.15
+T36	Element 584 588	C 66
+T37	Value 663 666	13K
+T5	Doping 151 161	underdoped
+T14	Doping 543 552	overdoped
+T9	SC 354 386	superconducting phase transition
+T10	SC 630 657	superconducting temperature
+R1	Equivalent Arg1:T17 Arg2:T37
+R2	Equivalent Arg1:T11 Arg2:T33
+E1	Doping:T5 Dopant:T30
+E2	Doping:T5 Dopant:T29
+E3	Doping:T14

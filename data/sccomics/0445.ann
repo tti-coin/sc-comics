@@ -1,0 +1,44 @@
+T1	Element 16 18	Ca
+T3	Main 30 36	Bi2Se3
+T5	Property 64 75	Fermi level
+T6	Property 113 121	band gap
+T8	Property 151 168	bulk conductivity
+T9	Property 170 182	Non-metallic
+T10	Element 183 189	Bi2Se3
+T11	Material 190 198	crystals
+T12	Element 236 242	Bi2Se3
+T13	Property 243 264	topological insulator
+T14	Material 297 301	bulk
+T15	SC 302 316	superconductor
+T16	SC 323 326	T c
+T17	Element 337 343	copper
+T19	Element 396 402	Bi2Se3
+T20	Material 403 409	layers
+T22	Material 433 440	crystal
+T23	Property 444 452	metallic
+T24	Element 453 459	Bi2Te3
+T25	Property 481 493	non-metallic
+T26	Material 494 501	crystal
+T27	Element 529 531	Te
+T28	Element 545 551	Bi2Te3
+T29	Property 552 573	topological insulator
+T30	SC 597 614	superconductivity
+T31	SC 620 623	T c
+T32	Element 648 650	Pd
+T33	Material 659 668	materials
+T34	Element 681 692	Pd z Bi2Te3
+T36	Value 625 629	5.5K
+T37	Value 328 332	3.8K
+T38	Property 37 58	topological insulator
+T4	Property 365 383	van der Waals gaps
+T2	Doping 19 25	doping
+T7	Doping 344 357	intercalation
+R1	Equivalent Arg1:T31 Arg2:T36
+R2	Equivalent Arg1:T16 Arg2:T37
+R3	Target Arg1:T36 Arg2:T34
+R4	Target Arg1:T37 Arg2:T12
+R5	Target Arg1:E1 Arg2:T3
+R6	Target Arg1:E2 Arg2:T19
+R7	Condition Arg1:T37 Arg2:E2
+E1	Doping:T2 Dopant:T1
+E2	Doping:T7 Dopant:T17

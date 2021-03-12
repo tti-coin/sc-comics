@@ -1,0 +1,37 @@
+T1	SC 32 70	superconducting transition temperature
+T2	SC 73 76	T c
+T3	Element 84 92	chromium
+T4	Element 94 96	Cr
+T6	Element 130 134	iron
+T7	Element 136 138	Fe
+T8	Main 146 155	FeCr x Se
+T9	SC 225 240	superconducting
+T10	SC 262 265	T c
+T11	Element 300 302	Cr
+T13	SC 335 338	T c
+T14	Material 369 379	tetragonal
+T15	Element 380 382	Fe
+T16	Element 397 405	Fe1+x Se
+T17	Process 440 457	chemical pressure
+T18	Material 474 479	ionic
+T19	Element 502 504	Fe
+T20	Element 515 517	Cr
+T22	SC 545 560	superconducting
+T23	Value 287 293	11.2 K
+T26	Value 161 165	0.01
+T27	Value 168 172	0.02
+T28	Value 177 181	0.03
+T29	Value 297 299	2%
+T30	Value 342 347	8.5 K
+T32	Property 241 256	volume fraction
+T5	Doping 101 112	substituted
+T12	Doping 303 315	substitution
+T21	Doping 518 530	substitution
+R4	Equivalent Arg1:T13 Arg2:T30
+R5	Target Arg1:T30 Arg2:T16
+R6	Equivalent Arg1:T10 Arg2:T23
+R7	Condition Arg1:T23 Arg2:E2
+R8	Target Arg1:E1 Arg2:T8
+E1	Doping:T5 Dopant:T3 Site:T6
+E2	Doping:T12 Dopant:T11
+E3	Doping:T21 Site:T19 Dopant:T20

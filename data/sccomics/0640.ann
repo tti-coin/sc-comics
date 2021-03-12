@@ -1,0 +1,25 @@
+T2	Main 93 104	HgBa2CuO4+δ
+T3	Material 105 119	single crystal
+T4	Material 132 140	geometry
+T5	Material 205 211	c-axis
+T6	Property 283 294	sensitivity
+T7	Property 315 327	conductivity
+T8	Property 352 361	pseudogap
+T11	SC 455 458	T c
+T12	SC 487 502	superconducting
+T13	SC 572 575	T c
+T14	Property 643 657	magnetic field
+T15	Property 676 696	microwave absorption
+T16	Property 775 784	pseudogap
+T17	SC 793 808	superconducting
+T18	Property 809 817	ordering
+T19	Value 377 389	185 ( 15 ) K
+T20	Value 461 467	94.3 K
+T21	Value 588 599	105 ( 2 ) K
+T23	Characterization 34 55	microwave measurement
+T1	Doping 87 92	doped
+T9	SC 418 454	superconducting critical temperature
+R1	Equivalent Arg1:T11 Arg2:T20
+R2	Target Arg1:E1 Arg2:T2
+E1	Doping:T1
+R4	Equivalent Arg1:T13 Arg2:T21

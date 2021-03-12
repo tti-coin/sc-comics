@@ -1,0 +1,68 @@
+T1	Material 46 58	compositions
+T2	Main 59 66	LnRhAsO
+T3	Element 71 73	Ce
+T4	Element 75 77	Nd
+T5	Main 83 90	LnIrAsO
+T6	Element 95 97	La
+T7	Element 99 101	Ce
+T8	Element 103 105	Nd
+T9	Process 137 148	crystallize
+T10	Element 156 164	ZrCuSiAs
+T11	Material 170 179	structure
+T12	Material 181 194	isostructural
+T13	Element 198 211	iron pnictide
+T14	Element 212 219	LnFeAsO
+T15	Material 220 229	materials
+T17	Element 252 254	Rh
+T18	Element 259 261	Fe
+T19	Material 268 294	a and c lattice parameters
+T20	Property 316 318	3d
+T22	Element 361 363	Ir
+T24	Element 383 385	Rh
+T25	Material 470 487	lattice parameter
+T26	Element 535 537	Ir
+T27	Element 549 556	CeRhAsO
+T28	Element 561 568	CeIrAsO
+T29	Material 569 581	compositions
+T31	Property 680 693	magnetization
+T32	Property 701 723	transition temperature
+T16	Value 622 623	7
+T38	Property 511 531	metal–metal distance
+T21	Element 319 335	transition metal
+T30	Material 390 401	a-parameter
+T39	Material 431 442	c-parameter
+T40	Property 607 618	resistivity
+T33	Value 628 631	10K
+T23	Doping 236 248	substitution
+T35	Doping 367 378	substituted
+E1	Doping:T23 Dopant:T17 Site:T18
+E2	Doping:T35 Dopant:T22 Site:T24
+#1	AnnotatorNotes T1	46-58
+#2	AnnotatorNotes T2	59-66
+#3	AnnotatorNotes T3	71-73
+#4	AnnotatorNotes T4	75-77
+#5	AnnotatorNotes T5	83-90
+#6	AnnotatorNotes T6	95-97
+#7	AnnotatorNotes T7	99-101
+#8	AnnotatorNotes T8	103-105
+#9	AnnotatorNotes T10	156-164
+#10	AnnotatorNotes T11	170-179
+#11	AnnotatorNotes T12	181-194
+#12	AnnotatorNotes T13	198-211
+#13	AnnotatorNotes T14	212-219
+#14	AnnotatorNotes T15	220-229
+#15	AnnotatorNotes T17	252-254
+#16	AnnotatorNotes T18	259-261
+#17	AnnotatorNotes T19	268-294
+#18	AnnotatorNotes T22	361-363
+#19	AnnotatorNotes T24	383-385
+#20	AnnotatorNotes T25	470-487
+#21	AnnotatorNotes T26	535-537
+#22	AnnotatorNotes T27	549-556
+#23	AnnotatorNotes T28	561-568
+#24	AnnotatorNotes T29	569-581
+#25	AnnotatorNotes T16	622-623
+#26	AnnotatorNotes T21	319-335
+#27	AnnotatorNotes T30	390-401
+#28	AnnotatorNotes T39	431-442
+#29	AnnotatorNotes T33	628-631

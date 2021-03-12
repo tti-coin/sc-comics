@@ -1,0 +1,51 @@
+T2	Main 12 16	MgB2
+T3	Material 17 22	wires
+T5	Element 83 85	Nb
+T6	Element 86 88	Cu
+T7	Material 140 147	powders
+T8	Element 151 160	magnesium
+T9	Element 162 167	boron
+T10	Element 172 177	C10H8
+T11	Material 187 200	stoichiometry
+T14	Process 317 333	argon atmosphere
+T15	Material 400 415	phase formation
+T16	Material 420 435	microstructures
+T17	Characterization 468 485	X-ray diffraction
+T18	Characterization 487 490	XRD
+T19	Characterization 493 521	scanning electron microscopy
+T20	Characterization 523 526	SEM
+T23	SC 594 597	T c
+T24	Element 633 638	C10H8
+T26	Property 668 678	resistance
+T27	Property 749 773	critical current density
+T28	Property 775 778	J c
+T29	Property 856 859	J c
+T30	Value 389 394	2.5 h
+T32	Value 367 370	650
+T35	Value 228 229	0
+T36	Value 231 232	2
+T37	Value 234 235	5
+T38	Value 237 238	8
+T40	Value 796 797	8
+T42	Value 889 896	3.1×104
+T43	Value 879 880	5
+T1	Element 0 5	C10H8
+T47	Material 89 93	tube
+T33	Value 807 814	1.1×105
+T4	Process 55 69	Powder in Tube
+T46	Process 42 53	in-situ PIT
+T12	Element 204 218	MgB2+xwt%C10H8
+T45	Value 372 375	700
+T51	Value 377 383	750 °C
+T13	Value 819 832	3.8×104 A/cm2
+T31	Value 712 716	25 K
+T52	Value 708 710	20
+T53	Value 901 914	1.2×104 A/cm2
+T25	Doping 6 11	doped
+T44	Doping 639 645	doping
+T48	Value 261 266	Φ2 mm
+T49	Value 271 276	Φ1 mm
+T21	SC 561 592	critical transition temperature
+R1	Target Arg1:E1 Arg2:T2
+E1	Doping:T25 Dopant:T1
+E2	Doping:T44 Dopant:T24

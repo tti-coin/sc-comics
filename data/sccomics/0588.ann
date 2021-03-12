@@ -1,0 +1,57 @@
+T3	SC 168 171	DSC
+T4	Property 234 249	two-dimensional
+T5	Property 255 268	Hubbard model
+T7	Material 322 338	phase separation
+T9	Property 381 398	Coulomb repulsion
+T10	SC 498 501	DSC
+T11	Property 507 516	π-pairing
+T12	Property 533 549	order parameters
+T13	Property 583 600	spin fluctuations
+T14	Property 632 648	spin fluctuation
+T15	Property 649 656	pairing
+T16	Property 756 769	Fermi surface
+T17	Material 790 796	square
+T18	Material 797 804	lattice
+T19	SC 865 868	DSC
+T21	Property 919 941	quantum critical point
+T22	Property 1032 1037	order
+T23	SC 1042 1080	superconducting transition temperature
+T24	SC 1081 1084	T c
+T25	SC 1121 1138	superconductivity
+T26	Property 1150 1157	pairing
+T27	Property 1221 1238	spin fluctuations
+T29	Property 1342 1358	order parameters
+T32	SC 1471 1474	DSC
+T33	Property 1481 1494	Hubbard model
+T34	Property 1513 1529	spin fluctuation
+T35	Property 1604 1621	spin fluctuations
+T36	Property 1631 1636	model
+T37	Property 1637 1649	calculations
+T38	Property 1657 1670	weak-coupling
+T39	Property 1710 1727	antiferromagnetic
+T40	Property 1728 1739	instability
+T41	Property 117 131	d-density wave
+T1	Property 133 136	DDW
+T42	Property 184 204	fluctuation-exchange
+T43	Property 206 210	FLEX
+T44	Property 251 253	2D
+T6	Property 296 299	DDW
+T45	Property 422 448	Hartree–Fock approximation
+T46	Property 471 484	gap equations
+T47	Property 493 496	DDW
+T48	Characterization 698 716	FLEX approximation
+T50	Property 961 970	DDW state
+T51	Property 943 946	QCP
+T52	Property 1028 1031	DDW
+T53	Characterization 1546 1564	FLEX approximation
+T54	Property 1463 1466	DDW
+T56	Property 1478 1480	2D
+T57	Property 873 876	DDW
+T49	Property 1246 1249	DDW
+T58	Property 1250 1253	gap
+T28	Property 1255 1264	π-pairing
+T55	Property 1415 1435	weak-coupling theory
+T30	Value 1695 1698	3.4
+T60	Property 1582 1593	self-energy
+T2	SC 149 166	superconductivity
+T8	Property 142 148	d-wave

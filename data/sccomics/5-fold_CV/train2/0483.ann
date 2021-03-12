@@ -1,0 +1,88 @@
+T1	Element 0 8	Selenium
+T3	Material 15 24	NaCl-type
+T4	SC 25 39	superconductor
+T5	Main 40 50	SnAs1−xSex
+T6	Process 80 100	solid state reaction
+T7	Characterization 102 105	EDS
+T8	Element 124 126	Se
+T9	Element 150 152	Se
+T12	Element 180 192	SnAs0.9Se0.1
+T13	Element 197 211	SnAs0.87Se0.13
+T15	Element 295 299	SnAs
+T16	Material 305 320	cell parameters
+T18	Element 330 334	SnAs
+T19	Characterization 357 377	Rietveld refinements
+T20	Material 385 400	cell parameters
+T21	Material 454 468	Single crystal
+T22	Material 524 536	interstitial
+T23	Material 537 541	atom
+T25	Element 551 555	SnAs
+T26	Element 574 576	Se
+T27	Material 577 582	atoms
+T28	Material 602 607	atoms
+T29	Element 611 615	SnAs
+T32	SC 657 666	T c onset
+T33	Property 676 690	magnetic field
+T34	Element 703 707	SnAs
+T35	Element 743 745	Se
+T37	Element 783 785	Se
+T39	Property 836 844	metallic
+T40	Property 846 866	Upper critical field
+T42	Element 893 895	Se
+T50	Value 449 452	13%
+T54	Value 739 742	10%
+T56	Value 889 892	10%
+T57	Value 694 698	10Oe
+T58	Value 220 224	2.7%
+T59	Characterization 469 492	diffraction measurement
+T60	Characterization 227 231	PXRD
+T52	Value 768 770	1%
+T53	Value 772 774	5%
+T55	Value 779 782	10%
+T61	Value 914 919	294Oe
+T62	Value 921 926	649Oe
+T63	Value 931 937	1011Oe
+T41	Value 882 884	5%
+T64	Value 878 880	1%
+T2	Doping 9 14	doped
+T10	Doping 153 159	doping
+T11	Doping 171 176	doped
+T14	Doping 277 282	doped
+T17	Doping 324 329	doped
+T24	Doping 545 550	doped
+T36	Doping 746 752	doping
+T38	Doping 786 791	doped
+T43	Doping 896 901	doped
+T44	Value 54 55	0
+T45	Value 56 60	0.13
+T47	Doping 587 601	substitutional
+T30	SC 621 655	superconducting onset temperatures
+T31	Value 723 727	3.8K
+T51	Value 731 735	4.5K
+R1	Target Arg1:E1 Arg2:T5
+R2	Target Arg1:E7 Arg2:T18
+R3	Target Arg1:E8 Arg2:T25
+R4	Target Arg1:E2 Arg2:T12
+R5	Target Arg1:E2 Arg2:T13
+R6	Target Arg1:E5 Arg2:T12
+R7	Target Arg1:E5 Arg2:T13
+R8	Target Arg1:E6 Arg2:T15
+R9	Target Arg1:E3 Arg2:T29
+R10	Coref Arg1:T30 Arg2:T32
+R11	Equivalent Arg1:T30 Arg2:T31
+R12	Equivalent Arg1:T30 Arg2:T51
+R13	Condition Arg1:T31 Arg2:E9
+R14	Condition Arg1:T51 Arg2:E9
+R15	Target Arg1:T31 Arg2:T34
+R16	Target Arg1:T51 Arg2:T34
+R17	Target Arg1:E9 Arg2:T34
+E1	Doping:T2 Dopant:T1
+E2	Doping:T10 Dopant:T9
+E5	Doping:T11 Dopant:T9
+E6	Doping:T14 
+E7	Doping:T17 
+E8	Doping:T24 
+E9	Doping:T36 Dopant:T35
+E10	Doping:T38 Dopant:T37
+E11	Doping:T43 Dopant:T42
+E3	Doping:T47 Dopant:T26

@@ -1,0 +1,50 @@
+T2	SC 71 103	high temperature superconductors
+T3	Characterization 117 120	TEM
+T4	Property 122 133	resistivity
+T5	Property 139 147	magnetic
+T6	Process 165 189	irradiation temperatures
+T7	Material 253 267	single-crystal
+T8	Characterization 361 381	electron diffraction
+T12	SC 629 667	superconducting transition temperature
+T13	SC 669 672	T c
+T15	Property 731 751	thermal conductivity
+T16	SC 778 781	T c
+T17	Process 789 812	irradiation temperature
+T18	Property 834 854	thermal conductivity
+T19	Property 883 891	recovery
+T20	SC 997 1000	T c
+T21	SC 1030 1033	T c
+T22	Material 1089 1093	atom
+T23	SC 1275 1278	T c
+T24	Property 1327 1340	magnetization
+T25	Material 1400 1404	bulk
+T26	Material 1428 1440	point defect
+T29	Property 1583 1595	normal state
+T31	Element 1152 1155	He+
+T32	Element 1157 1160	O2+
+T33	Element 1162 1166	Au5+
+T34	Value 1475 1481	0.4 eV
+T35	Value 1550 1562	100 to 650 K
+T36	Value 213 220	1.5 MeV
+T37	Element 221 224	Kr+
+T38	Element 229 236	Xe+ ion
+T39	Element 268 275	Tl-1212
+T40	Main 280 287	Tl-1212
+T41	Main 288 301	TlBaCaCuO
+T42	SC 302 306	HTSC
+T43	SC 105 109	HTSC
+T44	Element 62 64	Tl
+T45	Material 308 323	microstructural
+T46	Material 1137 1150	incident ions
+T47	Property 1223 1240	atomic collisions
+T48	Characterization 0 15	Ion irradiation
+T1	Characterization 237 249	irradiations
+T9	Characterization 462 474	irradiations
+T10	Characterization 966 981	Ion irradiation
+T11	Characterization 1486 1501	ion irradiation
+T14	Characterization 1637 1648	irradiation
+T27	Value 193 195	20
+T28	Value 199 204	650 K
+R1	Coref Arg1:T2 Arg2:T43
+R2	Coref Arg1:T12 Arg2:T13
+R3	Coref Arg1:T40 Arg2:T41

@@ -1,0 +1,52 @@
+T1	Process 25 42	thermal treatment
+T2	Element 47 49	La
+T4	Element 64 66	Sr
+T5	SC 108 122	superconductor
+T6	Main 123 138	TlSr4Cu2Oz(SO4)
+T7	SC 146 174	zero-resistivity temperature
+T9	Process 217 229	crystallizes
+T10	Material 237 247	tetragonal
+T11	Material 256 262	p4/mmm
+T12	Property 288 299	Resistivity
+T13	Process 304 320	room-temperature
+T15	Element 357 372	TlSr4Cu2Oz(SO4)
+T17	Process 426 439	Ar atmosphere
+T18	Property 502 506	hole
+T20	Element 527 549	Tl(Sr4-xLax)Cu2Oz(SO4)
+T21	SC 570 587	superconductivity
+T22	Element 609 611	La
+T24	SC 658 680	transition temperature
+T25	Element 702 704	La
+T27	Element 775 784	TlSr2CuOz
+T28	Property 795 808	decomposition
+T29	Element 816 831	TlSr4Cu2Oz(SO4)
+T30	Element 876 891	TlSr4Cu2Oz(SO4)
+T31	Element 922 924	La
+T33	Element 939 941	Sr
+T34	Element 973 982	TlSr2CuOz
+T36	Value 268 274	3.83 Å
+T37	Value 279 285	16.6 Å
+T39	Value 555 560	0–1.0
+T50	Process 381 393	heat-treated
+T3	Doping 50 56	doping
+T16	Doping 507 512	doped
+T19	Doping 612 618	doping
+T23	Doping 705 711	doping
+T26	Doping 925 931	doping
+T32	Value 196 200	70 K
+T35	Value 416 422	500 °C
+T38	Value 726 729	0.1
+T8	Property 321 335	thermoelectric
+T14	Characterization 336 348	measurements
+R1	Target Arg1:E1 Arg2:T6
+R2	Target Arg1:E3 Arg2:T20
+R3	Target Arg1:E4 Arg2:T20
+R4	Target Arg1:E5 Arg2:T30
+R5	Equivalent Arg1:T7 Arg2:T32
+R6	Target Arg1:T32 Arg2:T6
+R7	Condition Arg1:T32 Arg2:E1
+E1	Doping:T3 Dopant:T2 Site:T4
+E2	Doping:T16 Dopant:T18
+E3	Doping:T19 Dopant:T22
+E4	Doping:T23 Dopant:T25
+E5	Doping:T26 Dopant:T31 Site:T33

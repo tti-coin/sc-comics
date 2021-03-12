@@ -1,0 +1,41 @@
+T1	SC 13 28	superconducting
+T2	Property 33 41	magnetic
+T3	Material 66 73	layered
+T4	SC 74 99	high- T c superconductors
+T5	Main 100 136	Ba 2 Ca 3 Cu 4 O 8 ( F y O 1 - y ) 2
+T6	Element 149 157	fluorine
+T7	Property 166 176	zero-field
+T8	Element 177 179	Cu
+T9	Property 202 212	zero-field
+T10	Characterization 213 216	NMR
+T11	Property 240 263	internal magnetic field
+T12	Property 276 293	antiferromagnetic
+T13	Property 295 298	AFM
+T14	Property 300 307	ordered
+T15	Property 308 315	moments
+T16	Property 347 368	local carrier density
+T17	Property 383 386	AFM
+T18	Property 433 441	magnetic
+T19	Property 442 450	critical
+T20	Property 467 470	AFM
+T21	Property 471 476	order
+T22	Property 516 519	AFM
+T23	Property 520 525	order
+T24	Element 545 550	CuO 2
+T25	Material 551 557	layers
+T26	SC 568 594	superconducting transition
+T27	SC 610 613	T c
+T28	Property 653 656	AFM
+T29	Property 657 662	order
+T30	SC 687 704	superconductivity
+T31	Element 717 722	CuO 2
+T32	Material 723 728	plane
+T37	Value 616 620	55 K
+T39	Value 506 509	1.0
+T40	Value 413 417	0.15
+T41	Material 142 148	apical
+T34	Characterization 180 196	NMR measurements
+T42	Property 217 224	spectra
+T33	Doping 735 745	underdoped
+R1	Equivalent Arg1:T27 Arg2:T37
+E1	Doping:T33

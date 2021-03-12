@@ -1,0 +1,42 @@
+T1	Element 30 37	Iridium
+T3	Element 46 61	Rh17−x Ir x S15
+T4	Element 70 77	rhodium
+T5	Property 91 110	strongly correlated
+T6	SC 111 125	superconductor
+T7	Main 126 133	Rh17S15
+T9	SC 208 223	superconducting
+T11	Process 305 314	reduction
+T12	Property 322 339	density of states
+T13	Property 347 358	Fermi level
+T14	Property 372 392	Pauli susceptibility
+T16	Property 463 476	magnetization
+T17	Property 489 513	isothermal magnetization
+T18	Property 564 577	magnetization
+T20	Material 598 605	crystal
+T22	Property 646 668	temperature dependence
+T23	Property 672 683	resistivity
+T25	Material 697 705	crystals
+T27	Material 768 775	crystal
+T28	Process 811 829	lower temperatures
+T29	Element 927 934	Iridium
+T30	Material 954 958	atom
+T31	Element 964 971	rhodium
+T32	Material 984 991	lattice
+T33	Property 1013 1021	electron
+T34	Element 1092 1099	rhodium
+T35	Material 1100 1105	atoms
+T40	Value 168 169	1
+T41	Value 174 175	2
+T42	Property 397 419	Sommerfeld coefficient
+T2	Doping 38 44	doping
+T8	Doping 157 163	doping
+T10	Doping 427 432	doped
+T15	Doping 627 632	doped
+T19	Doping 691 696	doped
+R1	Target Arg1:E1 Arg2:T3
+R2	Target Arg1:E1 Arg2:T7
+E1	Doping:T2 Dopant:T1 Site:T4
+E2	Doping:T8
+E3	Doping:T10
+E4	Doping:T15
+E5	Doping:T19

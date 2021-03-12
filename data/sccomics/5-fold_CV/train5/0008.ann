@@ -1,0 +1,24 @@
+T4	Property 73 88	Mott insulators
+T5	Property 118 131	Hubbard model
+T7	Property 205 210	holes
+T8	Property 254 272	antiferromagnetism
+T9	SC 298 313	superconducting
+T11	SC 354 369	superconducting
+T12	Property 386 391	order
+T14	Property 423 437	Mott insulator
+T15	Property 460 465	model
+T20	Element 672 681	YBa2Cu3O7
+T21	Main 55 62	La2CuO4
+T10	SC 325 345	critical temperature
+T13	Property 399 415	Néel temperature
+T19	Property 536 549	specific heat
+T1	SC 19 42	high Tc superconductors
+T22	Property 160 175	antiferromagnet
+T16	SC 470 506	superconducting critical temperature
+T3	Doping 67 72	doped
+T6	Doping 180 186	doping
+R1	Target Arg1:E2 Arg2:T21
+E2	Doping:T3 
+E3	Doping:T6 Dopant:T7
+#1	AnnotatorNotes T20	672-681
+#2	AnnotatorNotes T21	55-62

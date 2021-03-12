@@ -1,0 +1,32 @@
+T1	Material 40 46	c-axis
+T2	Material 95 114	Josephson junctions
+T3	Main 125 140	Bi2Sr2CaCu2O8+y
+T5	SC 311 326	superconducting
+T6	SC 347 383	superconducting critical temperature
+T8	SC 384 387	T c
+T9	SC 391 415	high-T c superconductors
+T11	Property 530 536	vortex
+T12	Property 555 561	vortex
+T13	Material 562 569	lattice
+T15	Property 606 623	melting transitio
+T18	Property 710 720	anisotropy
+T20	Property 826 836	relaxation
+T21	Material 844 850	c-axis
+T22	Property 851 861	resistance
+T23	Process 865 881	room-temperature
+T25	Property 922 932	anisotropy
+T26	Material 116 120	IJJs
+T28	Material 480 484	IJJs
+T30	Property 752 769	threshold voltage
+T31	Material 820 824	IJJs
+T7	Process 284 291	in-situ
+T4	Doping 151 157	doping
+T10	Doping 437 443	doping
+T16	Doping 670 676	doping
+T17	Doping 796 802	doping
+T14	Property 570 588	melting transition
+R3	Target Arg1:E1 Arg2:T3
+E1	Doping:T4
+E2	Doping:T10
+E3	Doping:T16
+E4	Doping:T17

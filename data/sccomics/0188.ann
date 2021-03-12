@@ -1,0 +1,66 @@
+T1	Material 21 34	nanoparticles
+T3	Material 47 61	microstructure
+T4	SC 128 143	superconductors
+T5	Characterization 183 200	X-ray diffraction
+T6	Characterization 202 205	XRD
+T8	Characterization 238 241	SEM
+T9	Material 461 473	orthorhombic
+T10	Material 518 530	orthorhombic
+T11	Material 534 544	tetragonal
+T12	Material 607 612	grain
+T15	Process 707 719	grain growth
+T16	SC 766 781	superconducting
+T19	Material 967 974	vacancy
+T21	Material 1138 1144	grains
+T24	Material 1325 1338	nanoparticles
+T25	Element 15 20	Nd2O3
+T26	Element 350 361	Y-123 phase
+T27	Element 405 410	Nd2O3
+T28	Property 277 279	AC
+T29	Element 385 390	Y-211
+T30	Element 687 692	Nd2O3
+T31	Element 659 664	Nd2O3
+T32	Element 723 727	Y123
+T33	Property 993 1007	susceptibility
+T34	Main 109 120	YBa2Cu3O7-δ
+T35	Property 77 79	AC
+T36	Main 122 126	Y123
+T37	Property 80 94	susceptibility
+T39	Element 960 966	oxygen
+T41	Value 901 904	0.0
+T42	Element 1319 1324	Nd2O3
+T43	Element 1099 1104	Nd2O3
+T44	Element 1252 1257	Nd2O3
+T46	Value 1298 1301	0.6
+T47	Element 1367 1371	Y123
+T48	Value 919 927	1.0 wt.%
+T49	Value 890 894	92 K
+T7	Characterization 208 236	scanning electron micrograph
+T51	Material 411 427	secondary phases
+T52	Material 1020 1045	inter- and intra-granular
+T53	Material 1372 1378	matrix
+T57	Property 990 992	AC
+T58	Property 1193 1217	critical current density
+T56	Property 63 72	transport
+T59	Characterization 280 292	spectrometer
+T61	Property 1348 1355	pinning
+T17	SC 813 851	superconducting transition temperature
+T55	Value 908 912	78 K
+T2	Doping 35 43	addition
+T13	Doping 647 655	addition
+T14	Doping 670 678	addition
+T20	Doping 1105 1113	addition
+T23	Doping 1258 1266	addition
+T18	SC 853 862	T c onset
+T38	Property 1219 1223	J cm
+T50	Characterization 249 272	point probe measurement
+T54	Material 1178 1192	inter-granular
+R3	Equivalent Arg1:T17 Arg2:T49
+R4	Equivalent Arg1:T17 Arg2:T55
+R5	Target Arg1:E3 Arg2:T32
+R6	Target Arg1:E1 Arg2:T34
+E1	Doping:T2 Dopant:T25
+E2	Doping:T13 Dopant:T31
+E3	Doping:T14 Dopant:T30
+E4	Doping:T20 Dopant:T43
+E5	Doping:T23 Dopant:T44

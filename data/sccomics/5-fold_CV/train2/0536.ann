@@ -1,0 +1,23 @@
+T1	Property 36 60	critical current density
+T2	Main 64 68	YBCO
+T3	Material 69 86	coated conductors
+T4	Material 88 90	CC
+T5	Property 142 156	magnetic field
+T6	Property 245 253	magnetic
+T8	Material 452 455	CCs
+T10	Process 491 500	reduction
+T11	Property 508 528	critical temperature
+T12	Property 576 597	irreversibility field
+T13	Property 603 605	Tc
+T14	Process 703 712	reduction
+T15	Element 779 783	YBCO
+T16	Material 784 789	layer
+T17	Value 217 220	77K
+T9	Property 338 343	Icr/w
+T7	Property 292 336	critical current per unit width of conductor
+T18	Property 660 665	Icr/w
+T19	Property 720 739	Josephson behaviour
+T20	Characterization 175 187	measurements
+T21	Characterization 416 428	measurements
+T22	Property 391 404	applied field
+R1	Coref Arg1:T3 Arg2:T4

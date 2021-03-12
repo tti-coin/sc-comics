@@ -1,0 +1,65 @@
+T1	Property 30 37	pinning
+T3	SC 51 66	superconducting
+T4	Material 67 77	thin films
+T5	Main 81 95	YBa2Cu3O 6 + x
+T6	Main 97 101	YBCO
+T7	Element 133 141	IBAD-MgO
+T9	Element 167 171	YBCO
+T10	Property 177 196	non-superconducting
+T11	Element 197 203	BaCeO3
+T12	Element 205 208	BCO
+T13	Element 214 220	BaZrO3
+T14	Element 222 225	BZO
+T15	Material 237 242	films
+T16	Element 248 252	YBCO
+T17	Property 261 268	ordered
+T18	Material 285 301	grain boundaries
+T20	Material 333 342	particles
+T21	Element 378 381	BZO
+T22	Process 382 387	grows
+T23	Material 468 484	grain boundaries
+T24	Process 503 509	growth
+T25	Property 540 552	flux pinning
+T26	Property 558 570	flux pinning
+T27	Property 605 611	vortex
+T28	Property 617 622	model
+T29	Property 634 641	pinning
+T30	Element 663 666	BZO
+T32	Element 681 684	BCO
+T34	Material 691 696	films
+T35	Element 701 704	BZO
+T37	Material 711 716	films
+T38	Property 722 730	vortices
+T39	Property 735 741	pinned
+T40	Property 755 768	pinning force
+T41	Property 782 806	critical current density
+T42	Property 807 810	J c
+T43	Element 829 832	BCO
+T45	Material 839 844	films
+T46	Property 865 880	magnetic fields
+T47	Property 906 909	J c
+T48	Element 933 937	YBCO
+T49	Property 976 983	pinning
+T50	Element 1036 1039	BZO
+T51	Property 1063 1071	vortices
+T54	Element 1139 1143	YBCO
+T55	Material 1144 1150	c-axis
+T2	Material 38 47	structure
+T57	Material 938 949	c-direction
+T58	Property 1105 1119	vortex pinning
+T52	Material 1040 1048	nanorods
+T8	Doping 160 166	doping
+T31	Doping 685 690	doped
+T33	Doping 667 672	doped
+T36	Doping 705 710	doped
+T44	Doping 833 838	doped
+T19	Element 329 332	BCO
+T53	Property 319 328	isotropic
+R4	Target Arg1:E1 Arg2:T9
+R5	Target Arg1:E2 Arg2:T9
+E1	Doping:T8 Dopant:T11
+E2	Doping:T8 Dopant:T13
+E3	Doping:T31 Dopant:T32
+E4	Doping:T33 Dopant:T30
+E5	Doping:T36 Dopant:T35
+E6	Doping:T44 Dopant:T43

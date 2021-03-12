@@ -1,0 +1,56 @@
+T1	Property 52 61	magnetism
+T2	SC 66 83	superconductivity
+T4	SC 107 121	superconductor
+T5	Main 131 153	Fe 1 + y Te 1 − x Se x
+T6	Element 222 233	Fe 1 + y Te
+T7	Property 240 255	antiferromagnet
+T8	Element 262 264	Se
+T11	SC 342 359	superconductivity
+T12	SC 369 386	superconductivity
+T15	Material 492 500	in-plane
+T16	Property 501 518	magnetic ordering
+T17	Material 557 567	tetragonal
+T18	Element 586 588	Fe
+T19	Material 589 594	atoms
+T20	Element 611 613	Se
+T22	Property 643 658	spectral weight
+T23	SC 751 768	superconductivity
+T26	SC 836 839	T c
+T27	SC 872 889	superconductivity
+T28	Property 906 920	magnetic field
+T29	Property 980 989	magnetism
+T30	SC 994 1011	superconductivity
+T31	Property 1073 1087	magnetic order
+T32	SC 1117 1134	superconductivity
+T33	Property 1140 1144	spin
+T34	Property 1145 1156	excitations
+T35	Property 1247 1256	magnetism
+T37	Material 1300 1306	metals
+T43	Value 408 412	50 %
+T44	Value 459 463	15 K
+T13	SC 422 449	superconducting temperature
+T14	SC 450 453	T c
+T24	Property 772 784	neutron-spin
+T49	Material 1285 1299	3 d transition
+T10	Property 273 290	antiferromagnetic
+T50	Property 599 603	cell
+T9	Doping 265 271	doping
+T36	Doping 1261 1273	substitution
+T38	Value 539 542	0.5
+T39	Value 543 544	0
+T40	Value 708 711	0.5
+T41	Value 712 715	0.5
+T25	Value 821 824	0.5
+T45	Value 825 828	0.5
+T46	Value 1096 1099	0.5
+T47	Value 1100 1101	0
+T48	Value 1165 1168	0.5
+T51	Value 1169 1172	0.5
+T21	Property 614 627	concentration
+T3	Element 98 100	Fe
+R1	Equivalent Arg1:T14 Arg2:T44
+R3	Target Arg1:E1 Arg2:T6
+R4	Target Arg1:T44 Arg2:T6
+R5	Condition Arg1:T44 Arg2:E1
+E1	Doping:T9 Dopant:T8
+E2	Doping:T36

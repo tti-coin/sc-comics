@@ -1,0 +1,33 @@
+T1	Element 14 26	praseodymium
+T3	Property 52 73	electrical resistance
+T4	Main 77 97	Y1−y Pr y Ba2Cu3O7−δ
+T5	Material 98 113	single crystals
+T8	Property 173 183	resistance
+T9	Property 263 285	variable-range hopping
+T10	Property 286 301	charge transfer
+T11	Property 326 350	fluctuation conductivity
+T12	Property 358 360	3D
+T14	Element 405 407	Pr
+T15	Property 408 421	concentration
+T16	Property 477 490	concentration
+T17	Property 591 603	conductivity
+T18	Property 641 663	variable-range hopping
+T19	Element 691 693	Pr
+T20	Property 694 707	concentration
+T21	Characterization 728 747	electron scattering
+T22	Material 751 761	impurities
+T23	SC 807 822	superconducting
+T24	Property 863 873	anisotropy
+T25	Property 881 897	coherence length
+T26	Property 931 943	Cooper pairs
+T27	Material 977 983	layers
+T28	Property 994 1000	orders
+T29	Material 1031 1039	in-plane
+T33	Value 497 501	0.34
+T35	Value 508 512	0.43
+T7	Property 361 383	Aslamazov–Larkin model
+T2	Doping 27 33	doping
+T6	Property 133 154	electrical resistance
+T13	Characterization 155 167	measurements
+R1	Target Arg1:E1 Arg2:T4
+E1	Doping:T2 Dopant:T1

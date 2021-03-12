@@ -1,0 +1,66 @@
+T1	Property 62 64	4f
+T2	Material 104 110	alloys
+T3	Characterization 334 352	neutron scattering
+T4	Property 421 439	magnetic structure
+T5	Property 453 480	elastic magnetic scattering
+T6	Property 486 494	magnetic
+T7	Property 503 511	magnetic
+T8	Property 512 523	excitations
+T9	Property 558 577	elastic excitations
+T10	Property 589 602	crystal field
+T11	Property 608 618	spin-orbit
+T12	Property 636 643	phonons
+T13	Property 659 670	excitations
+T14	Property 774 791	spin fluctuations
+T16	Property 1029 1046	spin fluctuations
+T21	Property 1368 1385	spin correlations
+T23	Property 1433 1447	magnetic order
+T24	Property 1455 1472	spin correlations
+T26	Property 1553 1566	spin-ordering
+T28	Property 1596 1613	spin correlations
+T31	SC 2193 2208	superconducting
+T32	SC 2256 2271	superconducting
+T34	Property 2335 2354	magnetic structures
+T35	Property 2379 2396	antiferromagnetic
+T36	Property 2401 2413	spiral order
+T37	Property 2496 2503	moments
+T39	Property 2612 2625	crystal field
+T40	Property 2657 2659	4f
+T41	Characterization 2688 2706	neutron scattering
+T44	Property 3045 3052	phonons
+T46	Property 3153 3159	phonon
+T47	Property 3184 3190	phonon
+T48	Material 3212 3231	lattice deformation
+T49	Property 3261 3287	crystalline electric field
+T50	Property 3313 3335	spin-orbit interaction
+T51	Element 82 84	Ce
+T52	Element 86 88	Sm
+T53	Element 90 92	Eu
+T54	Element 94 96	Tm
+T55	Element 101 103	Yb
+T56	Element 1876 1878	Yb
+T57	Element 1881 1883	Sm
+T58	Element 1886 1888	Eu
+T59	Element 1973 1975	Yb
+T60	Element 1977 1979	Sm
+T61	Element 1981 1983	Eu
+T62	Element 1989 1991	Tm
+T63	Element 2176 2184	CeCu2Si2
+T64	Element 2139 2141	Ce
+T65	Element 1957 1959	Ce
+T33	Element 2032 2034	Ce
+T38	Element 1753 1755	Ce
+T45	Property 3242 3247	R ion
+T66	Property 24 43	valence-fluctuation
+T67	Property 48 61	heavy-fermion
+T68	Characterization 383 400	means of neutrons
+T69	Property 580 587	magnons
+T70	Property 799 811	Kondo effect
+T15	Element 1895 1897	Tm
+T17	Property 2364 2377	ferromagnetic
+T18	Property 2418 2431	metamagnetism
+T19	Property 2537 2549	Kondo effect
+T22	Property 2742 2747	Kondo
+T25	Property 2891 2908	Kondo temperature
+T27	Property 3014 3034	Valence fluctuations
+T20	Property 2570 2582	Kondo effect

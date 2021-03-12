@@ -1,0 +1,38 @@
+T1	SC 71 86	superconducting
+T2	Characterization 114 131	X-ray diffraction
+T3	Characterization 133 136	XRD
+T4	Characterization 142 170	scanning electron microscopy
+T5	Characterization 172 175	SEM
+T6	SC 200 208	high-T c
+T9	Process 306 321	melt processing
+T15	Process 701 710	annealing
+T18	Process 839 853	melt treatment
+T20	Material 913 918	grain
+T21	Process 984 998	melt treatment
+T24	Main 53 70	Bi(Pb)-Sr-Ca-Cu-O
+T25	Element 41 43	Ag
+T7	Process 270 289	melting temperature
+T10	Process 332 351	melting temperature
+T31	Material 44 52	sheathed
+T33	Property 894 901	density
+T8	Element 373 385	(2223) phase
+T28	Element 544 556	(2223) phase
+T34	Element 460 466	(2223)
+T35	Element 471 484	(2212) phases
+T36	Element 653 665	(2223) phase
+T37	Element 774 786	(2223) phase
+T38	Property 942 947	H-J c
+T39	Material 87 92	wires
+T13	Process 732 747	melt processing
+T14	Material 869 881	melted tapes
+T12	SC 417 424	low-T c
+T16	Element 215 236	(Bi, Pb)2Sr2Ca2Cu3O y
+T17	Element 238 242	2223
+T19	Value 362 367	859°C
+T22	Value 598 603	853°C
+T23	Value 519 524	854°C
+T26	Value 529 534	858°C
+T27	Element 425 445	(Bi, Pb)2Sr2CaCu2O y
+T29	Element 447 451	2212
+T11	Material 33 37	core
+T30	Element 27 32	oxide

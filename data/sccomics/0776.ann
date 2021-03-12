@@ -1,0 +1,43 @@
+T1	Element 0 9	Y–Ba–Cu–O
+T2	Element 11 15	YBCO
+T3	Element 17 22	Y-123
+T4	Material 24 36	single-grain
+T5	Material 37 41	bulk
+T6	SC 42 57	superconductors
+T7	Material 65 84	nominal composition
+T8	Main 85 98	Y1.5Ba2Cu3O x
+T9	Element 108 112	CeO2
+T12	Process 153 183	Top-Seeded Melt-Growth process
+T13	Material 191 209	single-crystalline
+T14	Element 230 241	SmBa2Cu3O y
+T15	Element 243 249	Sm-123
+T16	Material 251 255	bulk
+T17	Material 281 297	epitaxial growth
+T19	Element 416 425	ytterbium
+T20	Material 435 444	substrate
+T22	Material 519 532	contamination
+T23	Material 540 552	bulk samples
+T24	Element 566 574	Y2BaCuO5
+T25	Element 576 581	Y-211
+T26	Property 609 618	diffusion
+T27	Property 636 642	melted
+T28	Element 671 681	NdBa2Cu3Oz
+T29	Element 683 689	Nd-123
+T30	Element 717 721	Y2O3
+T31	Element 726 731	Yb2O3
+T32	Material 732 741	substrate
+T34	SC 778 780	Tc
+T37	Value 103 107	1wt%
+T38	Value 787 793	91.54K
+T39	Characterization 299 333	Wavelength-dispersive spectrometry
+T40	Characterization 335 338	WDS
+T41	Element 388 396	samarium
+T42	Process 463 490	maximum melting temperature
+T44	Element 600 608	samarium
+T21	Value 782 785	50%
+T10	Doping 113 121	addition
+R7	Equivalent Arg1:T34 Arg2:T38
+R8	Target Arg1:E1 Arg2:T8
+R9	Target Arg1:T38 Arg2:T28
+E1	Doping:T10 Dopant:T9
+T11	SC 751 776	high critical temperature

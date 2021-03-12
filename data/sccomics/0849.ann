@@ -1,0 +1,40 @@
+T1	Property 20 42	temperature dependence
+T2	Material 50 58	in-plane
+T3	Property 59 67	magnetic
+T5	Element 176 189	iron pnictide
+T6	Main 190 211	BaFe2(As 1 − x P x )2
+T8	SC 233 235	Tc
+T9	Property 295 318	magnetic susceptibility
+T10	Material 327 342	single crystals
+T11	Material 352 361	thickness
+T12	Material 372 380	crystals
+T13	Material 381 387	c-axis
+T14	Property 395 410	magnetic fields
+T15	Material 430 436	layers
+T16	Property 466 482	flux penetration
+T17	Characterization 587 595	Meissner
+T18	Process 607 623	low temperatures
+T19	Property 666 688	temperature dependence
+T20	SC 772 787	superconducting
+T21	Property 788 803	order parameter
+T22	Property 867 889	temperature dependence
+T23	SC 896 898	Tc
+T24	Property 906 916	superfluid
+T25	Property 917 924	density
+T26	SC 1007 1009	Tc
+T27	Characterization 0 12	Measurements
+T30	Value 238 241	28K
+T31	Value 346 351	20 µm
+T33	Value 629 635	0.25Tc
+T4	Doping 225 231	doping
+T7	Doping 164 175	substituted
+T28	Value 519 521	10
+T29	Value 524 527	4 T
+R1	Equivalent Arg1:T8 Arg2:T30
+R2	Target Arg1:T30 Arg2:T6
+R3	Condition Arg1:T30 Arg2:E1
+R4	Target Arg1:E2 Arg2:T5
+R5	Target Arg1:E2 Arg2:T6
+R6	Target Arg1:E1 Arg2:T6
+E1	Doping:T4
+E2	Doping:T7

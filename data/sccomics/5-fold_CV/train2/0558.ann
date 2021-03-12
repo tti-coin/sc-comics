@@ -1,0 +1,68 @@
+T1	Main 0 20	(Bi,Pb)2Sr2Ca2Cu3O y
+T2	Main 23 33	Bi,Pb)2333
+T3	Property 44 64	critical temperature
+T4	Property 66 69	T c
+T5	Element 83 94	REBa2Cu3O y
+T6	Element 106 117	(Bi,Pb)2223
+T7	Property 146 170	critical current density
+T8	Property 172 175	J c
+T9	Property 199 214	magnetic fields
+T10	Element 242 253	(Bi,Pb)2223
+T11	Material 254 263	epitaxial
+T12	Material 264 274	thin films
+T13	Process 278 301	pulsed laser deposition
+T14	Process 303 306	PLD
+T15	Element 321 327	Nd:YAG
+T16	Process 328 351	pulsed laser deposition
+T17	Process 356 378	post-annealing process
+T19	Property 413 416	J c
+T20	Property 424 439	magnetic fields
+T21	Element 455 459	Y2O3
+T22	Element 463 468	Al2O3
+T23	Property 472 498	artificial pinning centers
+T24	Element 534 545	(Bi,Pb)2223
+T25	Material 546 556	thin films
+T26	Property 571 574	J c
+T27	Property 578 588	self field
+T28	Material 633 643	thin films
+T29	Element 655 659	Y2O3
+T30	Element 664 670	Bi2212
+T31	Material 713 723	thin films
+T32	Element 735 740	Al2O3
+T33	Element 745 751	Bi2223
+T34	Element 779 786	Ca2PbO4
+T35	Property 814 817	J c
+T38	Value 592 595	77K
+T39	Value 599 609	0.4 MA/cm2
+T40	Property 500 504	APCs
+T18	Doping 443 454	introducing
+T41	Doping 644 654	introduced
+T42	Doping 724 734	introduced
+R1	Coref Arg1:T1 Arg2:T2
+R3	Target Arg1:E3 Arg2:T30
+R4	Target Arg1:E4 Arg2:T33
+E1	Doping:T18 Dopant:T21
+E2	Doping:T18 Dopant:T22
+E3	Doping:T41 Dopant:T29
+E4	Doping:T42 Dopant:T32
+#1	AnnotatorNotes T1	0-20
+#2	AnnotatorNotes T2	23-33
+#3	AnnotatorNotes T5	83-94
+#4	AnnotatorNotes T6	106-117
+#5	AnnotatorNotes T10	242-253
+#6	AnnotatorNotes T11	254-263
+#7	AnnotatorNotes T12	264-274
+#8	AnnotatorNotes T15	321-327
+#9	AnnotatorNotes T21	455-459
+#10	AnnotatorNotes T22	463-468
+#11	AnnotatorNotes T24	534-545
+#12	AnnotatorNotes T25	546-556
+#13	AnnotatorNotes T28	633-643
+#14	AnnotatorNotes T29	655-659
+#15	AnnotatorNotes T30	664-670
+#16	AnnotatorNotes T31	713-723
+#17	AnnotatorNotes T32	735-740
+#18	AnnotatorNotes T33	745-751
+#19	AnnotatorNotes T34	779-786
+#20	AnnotatorNotes T38	592-595
+#21	AnnotatorNotes T39	599-609

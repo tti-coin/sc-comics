@@ -1,0 +1,49 @@
+T1	Property 11 33	tunneling conductances
+T2	Property 37 45	electron
+T4	Main 52 70	Pr0.82LaCe0.18CuO4
+T5	Main 72 77	PLCCO
+T6	Material 79 94	single crystals
+T7	SC 100 103	T c
+T9	SC 171 186	superconducting
+T10	Property 282 289	d -wave
+T11	Property 306 312	d-wave
+T12	Material 313 321	symmetry
+T13	Element 336 341	PLCCO
+T14	SC 347 361	superconductor
+T15	Property 409 431	temperature dependence
+T16	Property 456 459	BCS
+T17	SC 487 490	T c
+T18	Property 549 555	d-wave
+T19	Property 556 571	order parameter
+T20	Property 579 588	pseudogap
+T21	SC 595 598	T c
+T22	Property 604 612	electron
+T24	Element 619 627	cuprates
+T26	Property 690 694	hole
+T28	Element 701 709	cuprates
+T30	Value 200 214	4.44 ± 0.71 mV
+T31	Value 106 110	16 K
+T32	Property 373 376	gap
+T33	Property 187 190	gap
+T34	Property 223 229	subgap
+T3	Doping 46 51	doped
+T8	Doping 123 132	overdoped
+T23	Doping 613 618	doped
+T25	Doping 635 644	overdoped
+T27	Doping 695 700	doped
+T29	Doping 717 726	overdoped
+R1	Coref Arg1:T4 Arg2:T5
+R2	Equivalent Arg1:T7 Arg2:T31
+R3	Target Arg1:T31 Arg2:T4
+R4	Target Arg1:E1 Arg2:T4
+R5	Target Arg1:E3 Arg2:T24
+R6	Target Arg1:E5 Arg2:T28
+R7	Condition Arg1:T31 Arg2:E2
+R8	Target Arg1:E4 Arg2:T24
+R9	Target Arg1:E6 Arg2:T28
+E1	Doping:T3 Dopant:T2
+E2	Doping:T8 
+E3	Doping:T23 Dopant:T22
+E4	Doping:T25 
+E5	Doping:T27 Dopant:T26
+E6	Doping:T29 

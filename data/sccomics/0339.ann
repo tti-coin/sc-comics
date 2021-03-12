@@ -1,0 +1,37 @@
+T1	Property 41 60	magnetic properties
+T2	Material 68 75	layered
+T3	Element 76 88	oxyselenides
+T4	Main 89 118	Sr2Co1 − x Mn x O2Cu2 − δ Se2
+T5	Process 135 146	crystallize
+T6	Material 161 182	intergrowth structure
+T7	Element 188 194	Cu2Se2
+T8	Element 199 208	(Co,Mn)O2
+T9	Material 209 215	layers
+T10	Element 229 236	Sr ions
+T11	Characterization 260 277	X-ray diffraction
+T12	Element 310 316	copper
+T13	Element 333 335	Co
+T15	Element 354 356	Mn
+T16	Element 392 401	Mn2+ ions
+T17	Property 407 424	antiferromagnetic
+T18	Property 426 429	AFM
+T19	Property 431 453	transition temperature
+T20	Property 455 458	T N
+T22	Property 539 542	AFM
+T23	Property 546 559	ferromagnetic
+T24	Element 570 572	Mn
+T26	Property 600 603	AFM
+T27	Property 604 609	order
+T28	Material 639 651	compositions
+T33	Value 120 121	0
+T34	Value 126 127	1
+T36	Value 657 661	0.25
+T38	Value 667 670	0.5
+T40	Process 377 388	oxidization
+T41	Property 561 563	FM
+T21	Material 505 513	in plane
+T42	Material 317 327	deficiency
+T14	Doping 573 579	doping
+T25	Doping 339 350	substituted
+E1	Doping:T14 Dopant:T24
+E2	Doping:T25 Site:T13 Dopant:T15

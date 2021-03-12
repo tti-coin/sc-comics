@@ -1,0 +1,119 @@
+T1	Main 0 32	Transition metal dichalcogenides
+T2	Material 50 65	two-dimensional
+T3	Material 66 73	layered
+T4	Property 127 146	charge-density wave
+T5	SC 167 184	superconductivity
+T6	SC 186 188	SC
+T7	Material 214 232	interlayer bonding
+T8	Material 241 257	hexagonal layers
+T10	Material 275 283	trigonal
+T11	Element 294 297	TMD
+T12	Material 352 364	single layer
+T13	Material 378 387	materials
+T14	Material 430 438	pristine
+T15	SC 452 467	superconducting
+T16	Property 504 518	Fermi surfaces
+T17	Property 530 535	bands
+T18	Property 555 564	orderings
+T19	SC 598 600	SC
+T20	Property 601 610	orderings
+T21	SC 616 618	SC
+T22	Element 630 634	MgB2
+T23	Property 640 643	CDW
+T24	Property 668 678	pseudogaps
+T25	Property 706 709	CDW
+T26	Property 710 719	orderings
+T28	SC 789 804	superconducting
+T29	SC 865 892	superconducting transitions
+T30	SC 906 909	T c
+T31	Property 932 948	order parameters
+T33	SC 1024 1026	SC
+T34	Property 1179 1189	pseudogaps
+T35	SC 1202 1211	high- T c
+T36	Element 1212 1220	cuprates
+T37	Element 1225 1233	2H-NbSe2
+T38	Property 1252 1255	CDW
+T39	Property 1276 1282	s-wave
+T41	SC 1283 1285	SC
+T42	Material 1297 1305	symmetry
+T44	Property 1375 1383	strength
+T45	SC 1418 1420	SC
+T46	Element 1422 1424	Pb
+T47	Material 1437 1445	pristine
+T48	Element 1446 1450	TMDs
+T49	Element 1498 1500	Pb
+T50	Property 1548 1561	ferromagnetic
+T51	SC 1562 1577	superconductors
+T52	Element 1586 1591	URhGe
+T53	Process 1593 1609	Applied pressure
+T55	SC 1683 1685	SC
+T56	Material 1722 1731	materials
+T57	Material 1758 1766	compound
+T59	Element 1794 1803	2 H -TMDs
+T62	Material 1822 1829	organic
+T63	Material 1841 1850	molecules
+T64	Element 1860 1877	TaS2(pyridine)1/2
+T65	Material 1906 1912	c-axis
+T66	Property 1913 1922	transport
+T67	Material 1989 2008	Josephson junctions
+T68	Property 2088 2108	upper critical field
+T70	Property 2137 2149	normal state
+T71	SC 2154 2169	superconducting
+T72	Material 2190 2213	intercalation compounds
+T73	SC 2252 2276	high- T c superconductor
+T74	Element 2278 2293	Bi2Sr2CaCu2O8+δ
+T75	Material 2305 2312	organic
+T76	Material 2313 2320	layered
+T77	SC 2321 2335	superconductor
+T78	Element 2337 2356	κ-(ET)2Cu[N(CN)2]Br
+T79	Element 2364 2366	ET
+T80	Element 2370 2408	bis(ethylenedithio) tetrathiafulvalene
+T82	Element 2440 2444	TMDs
+T83	Element 2450 2455	water
+T84	Element 2460 2473	metallic ions
+T85	Element 2525 2535	cobaltates
+T86	Element 2544 2562	Na x CoO 2 · y H2O
+T87	Main 34 38	TMDs
+T88	Property 148 151	CDW
+T89	Material 261 271	octahedral
+T90	Value 365 368	1 T
+T91	Property 401 404	CDW
+T92	Element 439 443	TMDs
+T93	Value 473 476	2 H
+T94	Property 590 593	CDW
+T95	Property 619 623	gaps
+T96	Property 644 648	gaps
+T97	Property 763 766	CDW
+T98	Property 767 771	gaps
+T99	Property 805 808	gap
+T100	Property 814 817	CDW
+T40	Property 950 953	OPs
+T32	Property 1027 1030	OPs
+T101	Property 1109 1113	CDWs
+T102	Element 1135 1139	TMDs
+T103	Property 1286 1288	OP
+T43	Material 1356 1374	Josephson coupling
+T104	Element 1651 1654	TMD
+T105	Property 1655 1659	CDWs
+T106	Value 1709 1712	1 T
+T58	Element 1767 1784	(LaSe)1.14(NbSe2)
+T107	Property 2069 2080	Pauli limit
+T69	Element 2112 2129	(LaSe)1.14(NbSe2)
+T110	Property 832 835	CDW
+T111	Property 697 700	CDW
+T9	Property 200 213	van der Waals
+T113	Material 284 293	prismatic
+T27	Property 1924 1945	dimensional-crossover
+T54	Doping 1614 1627	intercalation
+T60	Doping 1744 1757	intercalation
+T61	Doping 1804 1816	intercalated
+T81	Doping 2423 2436	intercalation
+R4	Target Arg1:E2 Arg2:T58
+R5	Target Arg1:E4 Arg2:T59
+R6	Target Arg1:E5 Arg2:T82
+R7	Target Arg1:E3 Arg2:T82
+E1	Doping:T54
+E2	Doping:T60
+E4	Doping:T61 Dopant:T64
+E5	Doping:T81 Dopant:T83
+E3	Doping:T81 Dopant:T84

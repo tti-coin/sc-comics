@@ -1,0 +1,14 @@
+T5	Property 162 173	diamagnetic
+T6	Property 203 211	magnetic
+T9	Property 498 506	magnetic
+T10	SC 528 543	superconductors
+T11	Property 625 630	model
+T14	Property 717 722	order
+T15	Property 773 784	calculation
+T16	Material 286 306	toroidal field coils
+T17	Property 145 158	ferromagnetic
+T18	Property 212 222	hysteresis
+T1	SC 80 104	high T c superconductors
+T2	SC 106 130	High T c superconductors
+T3	SC 441 465	high T c superconductors
+T4	SC 660 684	high T c superconductors

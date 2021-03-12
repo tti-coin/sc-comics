@@ -1,0 +1,25 @@
+T2	Characterization 21 62	angle-resolved photoemission spectroscopy
+T3	Property 76 84	electron
+T5	Main 91 107	BaFe2−x Co x As2
+T6	Characterization 118 139	synchrotron-radiation
+T7	Property 172 187	band dispersion
+T8	Property 197 208	Fermi level
+T9	Element 220 236	BaFe2−x Co x As2
+T10	Material 294 309	crystal surface
+T12	Property 351 355	band
+T14	Property 402 416	Brillouin zone
+T16	Property 477 481	band
+T17	Property 580 584	hole
+T18	Property 589 597	electron
+T19	Property 623 640	antiferromagnetic
+T20	SC 697 714	superconductivity
+T21	Value 526 531	20meV
+T27	Value 241 244	0.3
+T11	Property 468 476	holelike
+T1	Property 211 214	E F
+T13	Property 371 374	E F
+T4	Doping 85 90	doped
+T15	Doping 449 454	doped
+R1	Target Arg1:E1 Arg2:T5
+E1	Doping:T4 Dopant:T3
+E2	Doping:T15 

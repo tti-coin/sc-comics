@@ -1,0 +1,29 @@
+T1	Property 127 147	electronic structure
+T2	Main 151 167	CeO0.5 F0.5 BiS2
+T3	Element 189 193	BiS2
+T4	SC 200 215	superconductors
+T6	SC 293 331	superconducting transition temperature
+T7	SC 332 335	T c
+T8	Process 357 377	hydrostatic pressure
+T9	Property 465 470	model
+T10	Property 478 497	kinetic energy part
+T11	Property 516 525	ab initio
+T12	Property 526 538	calculations
+T13	Property 559 563	pair
+T14	Property 607 617	mean-field
+T15	Property 721 725	pair
+T16	SC 795 810	superconducting
+T17	SC 831 834	T c
+T18	SC 893 896	T c
+T19	SC 994 1011	superconductivity
+T20	SC 1126 1129	T c
+T21	Process 1135 1143	pressure
+T5	Property 984 993	multi-gap
+T22	Property 564 574	scattering
+T23	Property 726 736	scattering
+T24	Characterization 7 25	ARPES measurements
+T25	Property 435 450	one-dimensional
+T26	Property 94 109	one-dimensional
+T27	Property 451 464	three-orbital
+T28	Property 638 641	gap
+T29	Property 848 866	chemical potential

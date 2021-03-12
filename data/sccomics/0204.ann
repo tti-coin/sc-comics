@@ -1,0 +1,94 @@
+T2	Property 91 101	dielectric
+T5	Material 299 307	disorder
+T8	Element 570 586	Pb(Mg1/3Nb2/3)O3
+T9	Element 594 610	Pb(Mg1/3Ta2/3)O3
+T10	Element 622 638	Pb(Sc1/2Ta1/2)O3
+T13	Process 739 755	room temperature
+T14	Process 814 820	growth
+T15	Property 824 837	ferroelectric
+T16	Property 964 977	ferroelectric
+T17	Property 978 986	ordering
+T19	Material 1027 1035	disorder
+T21	Material 1253 1261	particle
+T22	Property 1281 1297	phase transition
+T23	Property 1301 1311	dielectric
+T24	Material 1312 1321	materials
+T26	Material 1390 1398	particle
+T27	Material 1415 1423	ceramics
+T28	Material 1473 1480	surface
+T29	Material 1513 1517	atom
+T30	Material 1523 1530	surface
+T31	Material 1571 1579	particle
+T32	Material 1594 1601	surface
+T33	Material 1677 1685	particle
+T34	Property 1705 1721	phase transition
+T35	Property 1740 1750	dielectric
+T36	Element 1762 1770	BaZnGeO4
+T37	Element 1771 1774	BZG
+T39	Property 1808 1821	critical size
+T40	Property 1830 1846	phase transition
+T41	Property 1948 1964	phase transition
+T43	Property 2085 2101	phase transition
+T44	Property 2107 2123	phase transition
+T45	Material 2142 2150	crystals
+T46	Property 2160 2167	kinetic
+T47	Process 2229 2243	annealing time
+T48	Property 2259 2287	phase transition temperature
+T51	Process 2309 2315	growth
+T53	Material 2406 2419	heterogeneous
+T54	Material 2420 2430	nucleation
+T56	Material 2489 2497	particle
+T57	Property 2517 2533	phase transition
+T61	Property 2689 2705	phase transition
+T62	Material 2816 2825	materials
+T66	Element 588 591	PMN
+T67	Element 612 615	PMT
+T68	Element 640 643	PST
+T52	Property 2364 2376	Avrami model
+T55	Property 2435 2451	growth mechanism
+T38	Element 1780 1787	CsZnPO4
+T70	Element 1789 1792	CZP
+T71	Value 1901 1905	1 mm
+T72	Value 1862 1866	1 mm
+T11	Material 667 687	perovskite structure
+T1	Material 117 123	stable
+T3	Material 35 45	functional
+T7	Property 2651 2663	ferroelastic
+T12	Property 2611 2623	ferroelastic
+T18	Property 2323 2336	heat capacity
+T20	Property 2182 2195	heat capacity
+T6	Property 1915 1928	heat capacity
+T25	Material 1638 1653	nanometer scale
+T4	Property 1973 1986	heat capacity
+T50	Property 164 176	Gibbs energy
+T58	Property 12 25	heat capacity
+T63	Property 467 474	entropy
+T64	Property 198 206	enthalpy
+T65	Property 215 222	entropy
+T73	Property 263 270	entropy
+T75	Characterization 502 514	measurements
+T76	Property 768 781	heat capacity
+T77	Property 866 873	entropy
+T49	Property 2763 2780	thermal agitation
+T80	Property 2799 2812	heat capacity
+T42	Property 697 710	heat capacity
+T69	Material 994 1003	materials
+T83	Process 1063 1080	lower temperature
+T84	Material 2632 2641	materials
+T85	Material 46 55	materials
+T86	Material 3042 3052	functional
+T87	Material 3053 3062	materials
+T88	Material 2976 2985	materials
+T89	Process 2585 2601	high-temperature
+T90	Property 2953 2966	thermodynamic
+T91	Property 1181 1194	thermodynamic
+T92	Material 315 323	material
+T74	Property 356 369	thermodynamic
+T94	Property 1345 1358	thermodynamic
+T59	Property 408 421	heat capacity
+T60	Characterization 422 433	measurement
+T78	Property 1127 1140	heat capacity
+T79	Characterization 1141 1153	measurements
+T81	Characterization 2855 2867	measurements
+T82	Property 2841 2854	heat capacity
+T93	Process 384 402	finite temperature

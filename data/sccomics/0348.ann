@@ -1,0 +1,80 @@
+T1	Material 0 15	Polycrystalline
+T2	Main 16 20	MgB2
+T3	Element 78 104	Bi1.8Pb0.26Sr2Ca2Cu3O10+ x
+T4	SC 107 122	superconducting
+T5	Material 123 129	powder
+T6	Process 154 174	solid state reaction
+T7	Material 176 192	Micro-structural
+T8	Element 231 241	MgB2 phase
+T9	Material 265 281	hexagonal grains
+T11	Characterization 283 286	XRD
+T13	Element 355 359	2223
+T14	Material 372 378	grains
+T15	Material 383 391	clusters
+T17	SC 428 450	transition temperature
+T18	SC 452 454	Tc
+T19	Element 460 464	MgB2
+T20	Element 501 505	2223
+T22	Element 518 522	MgB2
+T23	Property 524 546	Temperature dependence
+T24	Property 550 570	thermal conductivity
+T26	SC 647 649	Tc
+T27	Property 678 698	thermal conductivity
+T29	Element 740 744	2223
+T30	Property 820 830	electronic
+T31	Property 849 869	thermal conductivity
+T32	Property 875 879	band
+T33	Property 896 906	electronic
+T34	Property 907 927	thermal conductivity
+T35	SC 931 946	superconducting
+T36	Property 974 980	π band
+T39	Element 1043 1047	MgB2
+T40	Material 1064 1071	defects
+T41	Material 1072 1080	disorder
+T42	Property 1118 1128	π band gap
+T43	Property 1152 1162	relaxation
+T44	Element 1176 1180	MgB2
+T45	Property 1201 1211	σ band gap
+T46	Element 1215 1219	MgB2
+T48	Element 1260 1264	2223
+T49	Material 1266 1273	Lattice
+T50	Property 1274 1294	thermal conductivity
+T51	Property 1372 1389	phonon scattering
+T52	Material 1405 1418	point defects
+T53	Material 1423 1428	sheet
+T54	Material 1434 1440	faults
+T55	Property 1478 1495	phonon scattering
+T56	Material 1501 1506	sheet
+T57	Material 1512 1518	faults
+T58	Material 1538 1545	lattice
+T59	Property 1546 1566	thermal conductivity
+T60	Element 1584 1588	2223
+T61	Element 1595 1599	MgB2
+T25	Element 63 76	(Bi, Pb)-2223
+T10	Value 53 59	10wt.%
+T63	Value 40 41	0
+T64	Value 46 47	7
+T65	Value 43 44	3
+T66	Characterization 408 413	FESEM
+T67	Property 752 773	Wiedemann–Franz’s law
+T68	Property 1310 1331	Callaway’s expression
+T69	Element 1035 1039	2223
+T12	Doping 29 39	containing
+T16	Doping 309 321	substitution
+T21	Doping 506 514	addition
+T28	Doping 728 736	addition
+T37	Doping 1023 1031	addition
+T38	Doping 1248 1256	addition
+T47	Doping 1589 1594	added
+R3	Target Arg1:E1 Arg2:T2
+R4	Target Arg1:E3 Arg2:T22
+R5	Target Arg1:E5 Arg2:T39
+R6	Target Arg1:E7 Arg2:T61
+R7	Target Arg1:E6 Arg2:T46
+E1	Doping:T12 Dopant:T25
+E2	Doping:T16
+E3	Doping:T21 Dopant:T20
+E4	Doping:T28 Dopant:T29
+E5	Doping:T37 Dopant:T69
+E6	Doping:T38 Dopant:T48
+E7	Doping:T47 Dopant:T60

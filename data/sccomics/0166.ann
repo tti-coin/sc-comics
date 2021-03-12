@@ -1,0 +1,64 @@
+T1	Element 17 33	transition metal
+T3	SC 87 90	T c
+T8	Material 579 583	atom
+T9	Property 584 597	concentration
+T12	SC 754 771	superconductivity
+T14	SC 928 931	T c
+T15	SC 949 964	superconductors
+T16	Element 65 67	Zn
+T17	Element 75 77	Cu
+T32	Element 333 335	Fe
+T35	Element 340 342	Co
+T38	Value 447 451	0.15
+T39	Element 49 51	Ni
+T40	Element 371 373	Ni
+T41	Element 378 380	Zn
+T26	Value 202 206	0.15
+T30	Value 227 231	0.20
+T45	Material 932 939	isotope
+T18	Element 99 105	oxygen
+T46	Material 106 113	isotope
+T22	Main 156 179	La2−y Sr y Cu1−x M x O4
+T23	Value 516 521	0.011
+T24	Value 505 508	1.3
+T27	Element 419 421	Fe
+T11	Property 734 750	phonon mechanism
+T13	Property 829 854	electron density of state
+T33	Property 1007 1013	N(E F)
+T36	Element 639 648	strontium
+T42	Material 545 552	isotope
+T43	Property 361 370	isovalent
+T47	Element 1077 1086	strontium
+T48	Material 1087 1098	composition
+T50	Element 53 55	Fe
+T51	Element 57 59	Co
+T52	Property 855 861	N(E F)
+T53	Property 897 909	paramagnetic
+T2	Doping 34 47	substitutions
+T4	Doping 212 221	overdoped
+T5	Doping 343 356	substitutions
+T6	Doping 381 394	substitutions
+T7	Doping 422 427	doped
+T10	Doping 567 578	substituted
+T44	Doping 649 655	doping
+T49	Doping 1110 1119	overdoped
+R1	Target Arg1:E2 Arg2:T22
+R2	Target Arg1:E1 Arg2:T22
+R3	Target Arg1:E9 Arg2:T22
+R4	Target Arg1:E10 Arg2:T22
+R5	Target Arg1:E11 Arg2:T22
+R6	Target Arg1:E12 Arg2:T22
+E1	Doping:T2 Dopant:T39 Site:T17
+E2	Doping:T4
+E3	Doping:T5 Dopant:T32
+E4	Doping:T6 Dopant:T41
+E5	Doping:T7 Dopant:T27
+E6	Doping:T10
+E7	Doping:T44 Dopant:T36
+E8	Doping:T49
+E9	Doping:T2 Dopant:T16 Site:T17
+E10	Doping:T2 Dopant:T51 Site:T17
+E11	Doping:T2 Dopant:T50 Site:T17
+E12	Doping:T2 Dopant:T1 Site:T17
+E13	Doping:T5 Dopant:T35
+E14	Doping:T6 Dopant:T40

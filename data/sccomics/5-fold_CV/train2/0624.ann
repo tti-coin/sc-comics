@@ -1,0 +1,32 @@
+T1	Property 36 40	hole
+T3	Material 47 65	layered perovskite
+T5	Main 67 81	La1.2Sr0.8CoO4
+T6	Property 100 113	concentration
+T7	Property 121 126	holes
+T8	Material 135 141	matrix
+T9	Element 163 167	Co2+
+T10	Property 177 185	magnetic
+T11	Property 186 199	phase diagram
+T13	Property 214 224	spin-state
+T14	Element 232 241	Co3+ ions
+T15	Property 267 288	magnetic correlations
+T16	Property 290 303	Magnetization
+T17	Material 363 370	cluster
+T18	Material 371 376	glass
+T19	Property 390 400	spin-glass
+T20	Property 405 418	ferromagnetic
+T21	Property 419 427	ordering
+T22	Property 429 432	T c
+T24	Property 492 507	order parameter
+T25	Property 530 540	spin-state
+T26	Element 555 559	Co3+
+T27	Property 587 603	magnetic moments
+T29	Process 612 620	quenched
+T30	Property 663 678	magnetic moment
+T32	Process 682 698	low temperatures
+T33	Value 435 440	211 K
+T4	Element 168 172	Co3+
+T2	Doping 41 46	doped
+T12	Characterization 304 316	measurements
+R1	Target Arg1:E1 Arg2:T5
+E1	Doping:T2 Dopant:T1

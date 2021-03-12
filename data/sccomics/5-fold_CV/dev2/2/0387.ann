@@ -1,0 +1,90 @@
+T2	Main 79 83	MgB2
+T3	SC 84 98	superconductor
+T4	Material 159 174	polycrystalline
+T5	Material 175 179	disk
+T6	Element 187 191	MgB2
+T7	Element 201 207	C24H12
+T8	Element 305 307	Ar
+T9	Process 308 318	atmosphere
+T10	Process 326 338	hot pressing
+T11	Characterization 350 353	XRD
+T12	Material 387 405	lattice parameters
+T15	Element 461 467	carbon
+T16	Element 471 476	boron
+T17	Material 499 506	lattice
+T18	Property 507 513	strain
+T19	Material 532 537	grain
+T20	Element 567 573	carbon
+T22	Property 652 662	zero-field
+T23	Process 663 669	cooled
+T24	Process 680 686	cooled
+T26	Property 826 836	high-field
+T27	Property 837 861	critical current density
+T28	Element 865 869	MgB2
+T29	Property 875 878	J c
+T30	Element 959 967	coronene
+T33	Element 1063 1071	coronene
+T35	Element 1220 1228	coronene
+T37	Element 1364 1375	hydrocarbon
+T38	Element 1379 1385	C24H12
+T41	Element 1433 1437	MgB2
+T42	Element 1501 1505	MgB2
+T43	SC 1506 1521	superconductors
+T44	Element 14 22	coronene
+T45	Element 24 30	C24H12
+T46	Value 342 348	200 °C
+T55	Value 292 298	850 °C
+T56	Characterization 263 281	pellet/closed tube
+T57	Element 409 417	coronene
+T61	Element 780 788	coronene
+T62	Value 903 918	4.6 × 103 Acm−2
+T63	Value 923 938	1.3 × 104 Acm−2
+T64	Value 952 958	4 wt %
+T65	Value 985 989	20 K
+T66	Value 994 997	4 T
+T32	Value 1056 1062	4 wt %
+T67	Value 1213 1219	4 wt %
+T68	Value 1174 1178	20 K
+T69	Value 1301 1309	6.73 N/g
+T70	Value 1313 1317	20 K
+T71	Value 1257 1265	7.58 N/g
+T73	Property 1192 1208	levitation force
+T74	Property 1141 1157	levitation force
+T75	Property 1475 1485	levitation
+T49	Value 221 222	0
+T51	Value 224 225	2
+T52	Value 227 228	4
+T53	Value 230 231	6
+T54	Value 233 234	8
+T58	Value 236 238	10
+T50	Value 741 743	20
+T59	Value 745 747	25
+T60	Value 752 756	30 K
+T77	Process 1321 1331	ZFC regime
+T1	Doping 32 40	addition
+T13	Doping 418 423	added
+T14	Doping 445 457	substitution
+T21	Doping 574 586	substitution
+T25	Doping 789 797	addition
+T31	Doping 968 973	added
+T34	Doping 1072 1078	adding
+T36	Doping 1229 1234	added
+T40	Doping 1420 1428	additive
+T39	Element 1402 1408	carbon
+T47	Material 595 603	Vertical
+T79	Characterization 633 645	measurements
+T72	Property 1016 1032	levitation force
+T78	Property 608 632	lateral levitation force
+R1	Coref Arg1:T44 Arg2:T45
+R2	Target Arg1:E1 Arg2:T2
+R3	Target Arg1:E9 Arg2:T41
+R4	Target Arg1:E5 Arg2:T28
+E1	Doping:T1 Dopant:T44
+E2	Doping:T13 Dopant:T57
+E3	Doping:T14 Dopant:T15 Site:T16
+E4	Doping:T21 Dopant:T20
+E5	Doping:T25 Dopant:T61
+E6	Doping:T31 Dopant:T30
+E7	Doping:T34 Dopant:T33
+E8	Doping:T36 Dopant:T35
+E9	Doping:T40 Dopant:T39

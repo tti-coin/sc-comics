@@ -1,0 +1,49 @@
+T1	Property 11 15	hole
+T3	SC 22 29	high-Tc
+T4	Element 30 38	cuprates
+T7	Material 119 127	impurity
+T10	SC 268 271	T c
+T11	Property 281 290	transport
+T12	Element 319 321	Ni
+T13	Material 322 330	impurity
+T15	Main 337 352	Bi2Sr2CaCu2O8+δ
+T16	Material 353 368	single crystals
+T18	Property 413 427	thermoelectric
+T19	Property 445 460	oxygen contents
+T20	Element 481 483	Ni
+T21	Property 484 491	valence
+T22	Element 510 512	Cu
+T24	Property 555 564	pseudogap
+T25	Element 608 610	Ni
+T26	Material 611 619	impurity
+T29	Property 718 731	pair breaking
+T30	Material 828 836	impurity
+T32	Value 189 193	0.16
+T33	Value 820 824	0.16
+T34	Value 95 99	0.16
+T36	Value 478 479	1
+T37	Value 514 515	2
+T38	Value 552 553	3
+T2	Doping 16 21	doped
+T5	Doping 52 58	doping
+T6	Doping 78 84	doping
+T8	Doping 128 135	dopings
+T9	Doping 247 253	doping
+T14	Doping 331 336	doped
+T17	Doping 370 376	Doping
+T23	Doping 544 550	doping
+T28	Doping 701 707	doping
+T31	Doping 837 842	doped
+T27	Characterization 428 440	measurements
+R1	Target Arg1:E1 Arg2:T4
+R2	Target Arg1:E6 Arg2:T15
+E1	Doping:T2 Dopant:T1
+E2	Doping:T5
+E3	Doping:T6
+E4	Doping:T8
+E5	Doping:T9
+E6	Doping:T14 Dopant:T12
+E7	Doping:T17
+E8	Doping:T23
+E9	Doping:T28
+E10	Doping:T31

@@ -1,0 +1,41 @@
+T1	SC 29 44	superconductors
+T2	SC 54 61	high-Tc
+T3	Element 62 68	oxides
+T4	Property 126 140	phase diagrams
+T7	Material 275 293	lattice distortion
+T8	Property 298 313	charge ordering
+T9	Main 334 349	Ruthenocuprates
+T10	Property 354 362	magnetic
+T11	SC 363 378	superconductors
+T15	SC 448 484	critical superconducting temperature
+T16	Property 566 574	magnetic
+T17	Element 575 577	Ru
+T18	Material 578 589	sub-lattice
+T20	Element 730 733	CuO
+T22	Material 765 775	perovskite
+T23	Material 796 806	perovskite
+T24	Element 816 835	Sr2GdRu1−x Re x O y
+T25	Characterization 961 978	X-ray diffraction
+T26	Characterization 1015 1034	Rietveld refinement
+T27	Property 1047 1055	magnetic
+T29	Material 1220 1227	lattice
+T30	Property 1228 1233	model
+T31	Element 1238 1253	ruthenocuprates
+T32	Element 1278 1282	RuO2
+T33	Property 1284 1292	magnetic
+T34	Element 1298 1302	CuO2
+T35	SC 1304 1318	superconductor
+T36	Material 1320 1332	sub-lattices
+T19	Main 624 646	Ru1−x Re x Sr2GdCu2O y
+T39	Element 647 661	ruthenocuprate
+T40	Material 719 729	perovskite
+T6	Material 245 266	structural properties
+T44	Property 1078 1101	function of temperature
+T45	Property 223 231	orbitals
+T5	Doping 145 151	doping
+T21	Doping 747 753	doping
+T14	Property 1132 1141	transport
+T28	Characterization 1142 1154	measurements
+E1	Doping:T5 
+E2	Doping:T21 Dopant:T22
+T12	Property 392 423	magnetic transition temperature

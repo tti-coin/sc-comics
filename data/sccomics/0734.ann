@@ -1,0 +1,49 @@
+T2	Element 41 43	Ca
+T3	Element 48 50	Mg
+T4	Material 54 64	structural
+T5	Property 84 103	magnetic properties
+T6	Main 107 118	YBa2Cu3O7−δ
+T7	Material 119 134	polycrystalline
+T8	Material 201 213	single phase
+T11	Element 290 299	magnesium
+T12	Characterization 371 374	EDS
+T13	Element 421 423	Ca
+T14	Element 428 430	Mg
+T15	Property 447 464	DC susceptibility
+T16	SC 488 526	superconducting transition temperature
+T17	SC 527 529	Tc
+T18	Element 544 546	Ca
+T19	Element 586 588	Mg
+T21	Element 699 701	Ca
+T22	Element 706 708	Mg
+T23	Process 821 823	FC
+T24	Property 824 838	magnetisations
+T25	Property 844 868	critical current density
+T26	Property 869 871	Jc
+T27	Property 891 912	M(H) hysteresis loops
+T29	Element 971 973	Ca
+T30	Element 994 996	Mg
+T31	Element 1009 1011	Ca
+T32	Property 1026 1028	Jc
+T33	Element 1060 1062	Ca
+T34	Element 1064 1066	Mg
+T35	Process 1091 1100	reduction
+T36	Property 1104 1106	Jc
+T37	Property 1143 1159	solubility limit
+T38	Property 1173 1175	Jc
+T40	Value 284 286	2%
+T41	Characterization 339 369	Energy Dispersive Spectrometry
+T43	Characterization 596 608	measurements
+T44	Value 1036 1039	0.1
+T45	Process 813 816	ZFC
+T46	Property 405 417	distribution
+T20	Value 1041 1044	0.2
+T10	Doping 258 270	Substitution
+T1	Doping 25 37	substitution
+T9	Element 237 239	Ba
+T39	Characterization 465 477	measurements
+R2	Target Arg1:E1 Arg2:T6
+R3	Target Arg1:E3 Arg2:T6
+E2	Doping:T10 Dopant:T11
+E1	Doping:T1 Dopant:T2
+E3	Doping:T1 Dopant:T3

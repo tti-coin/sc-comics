@@ -1,0 +1,67 @@
+T1	Element 54 58	TiO2
+T2	Material 78 91	nanoparticles
+T3	Material 93 95	NP
+T5	Property 109 121	flux pinning
+T6	SC 126 141	superconducting
+T7	Main 161 171	YB2Cu3O7-d
+T8	Element 173 178	Y-123
+T9	Element 182 186	YBCO
+T10	Material 188 196	material
+T11	Process 230 250	solid-state reaction
+T12	Material 268 282	microstructure
+T13	Material 362 364	NP
+T15	Material 422 438	grain boundaries
+T17	Element 465 476	Y-123 phase
+T20	Element 523 527	TiO2
+T21	SC 575 590	superconducting
+T23	Element 649 653	TiO2
+T25	Property 758 784	critical current densities
+T26	Property 824 847	applied magnetic fields
+T29	Property 909 921	flux pinning
+T30	Material 986 995	structure
+T31	SC 1000 1015	superconducting
+T32	Property 1137 1152	pinning centers
+T34	Property 1178 1192	vortex pinning
+T37	Property 1275 1290	charge carriers
+T38	Element 1315 1319	TiO2
+T39	Material 1320 1322	NP
+T42	Element 1374 1378	TiO2
+T44	Material 59 68	nanowires
+T45	Material 70 72	NW
+T46	Process 252 255	SSR
+T47	Material 401 410	nanowires
+T48	Value 548 555	0.1 wt%
+T49	Value 865 872	0.1 wt%
+T50	Value 638 645	0.1 wt%
+T51	Material 654 667	nano-entities
+T52	Value 1366 1373	0.1 wt%
+T53	Value 1307 1314	0.1 wt%
+T54	Material 443 445	NW
+T55	Material 961 967	shapes
+T58	Material 1379 1381	NW
+T27	Element 873 877	TiO2
+T59	Material 878 880	NP
+T18	SC 1233 1235	Tc
+T36	SC 1238 1243	δ T c
+T35	Material 971 984	nano-entities
+T57	Material 528 541	nano-entities
+T56	Material 333 357	nanometer scale entities
+T60	Property 1253 1267	mean free path
+T4	Doping 97 105	addition
+T14	Doping 365 370	added
+T16	Doping 446 451	added
+T19	Doping 511 519	addition
+T22	Doping 627 632	added
+T28	Doping 881 886	added
+T33	Doping 1323 1328	added
+T41	Doping 1382 1387	added
+R5	Target Arg1:E1 Arg2:T7
+R6	Target Arg1:E4 Arg2:T17
+E1	Doping:T4 Dopant:T1
+E2	Doping:T14 Dopant:T13
+E3	Doping:T16 Dopant:T54
+E4	Doping:T19 Dopant:T20
+E5	Doping:T22 Dopant:T23
+E7	Doping:T28 Dopant:T27
+E8	Doping:T33 Dopant:T38
+E10	Doping:T41 Dopant:T42

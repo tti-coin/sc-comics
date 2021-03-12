@@ -1,0 +1,41 @@
+T1	Property 15 28	thermodynamic
+T2	Property 30 38	magnetic
+T3	Material 40 50	structural
+T4	Property 184 197	phase diagram
+T5	Property 262 282	critical temperature
+T6	Property 283 286	T c
+T7	Material 307 314	ceramic
+T8	Process 454 462	sintered
+T10	Property 551 565	magnetic field
+T11	Characterization 617 620	NQR
+T12	Material 637 644	ceramic
+T13	Material 657 671	single-crystal
+T14	Characterization 672 677	X-ray
+T15	Material 707 717	structural
+T16	Material 802 809	defects
+T18	Property 859 862	T c
+T19	Material 889 897	crystals
+T21	Element 163 172	247 phase
+T23	Value 756 760	90 K
+T25	Element 885 888	247
+T26	Main 82 95	Y2Ba4Cu7O14+x
+T28	Element 238 241	124
+T29	Process 296 306	oxygenated
+T31	Element 368 377	carbonate
+T33	Value 512 516	93 K
+T34	Material 932 938	apical
+T35	Property 749 752	T c
+T36	Material 939 950	bond length
+T20	Element 480 483	CO2
+T37	Property 408 422	Susceptibility
+T32	Main 97 100	247
+T38	Element 246 249	123
+T27	Value 335 337	50
+T30	Value 341 345	93 K
+T22	Value 391 395	6000
+T39	Value 399 406	500 ppm
+T9	Property 499 508	T c onset
+T24	Value 868 869	4
+T40	Value 873 877	90 K
+T41	Value 753 755	62
+T17	Property 838 841	T c

@@ -1,0 +1,18 @@
+T5	Material 258 274	permanent magnet
+T6	SC 281 295	superconductor
+T10	Process 489 497	sintered
+T11	Property 506 510	melt
+T12	Process 511 519	quenched
+T13	Property 531 535	melt
+T14	Material 536 542	powder
+T15	Property 543 547	melt
+T16	Property 675 680	model
+T19	Property 311 323	flux pinning
+T20	Element 498 504	YBaCuO
+T21	Element 520 526	YBaCuO
+T22	Element 555 564	BiSrCaCuO
+T9	Property 651 661	hysteresis
+T1	SC 23 47	high-T c superconductors
+T2	SC 112 136	high-T c superconducting
+T3	SC 327 351	high-T c superconductors
+T4	SC 699 722	high-T c superconductor

@@ -1,0 +1,26 @@
+T1	SC 15 30	superconducting
+T3	Main 90 107	GdBa2Cu3−xCoxO6.9
+T4	SC 128 143	superconducting
+T5	Element 159 161	Co
+T6	SC 171 197	superconducting transition
+T8	Element 349 351	Co
+T9	Element 369 371	Cu
+T10	Element 515 517	Co
+T12	SC 551 577	superconducting transition
+T13	Property 619 640	magnetic fluctuations
+T14	Property 670 674	spin
+T16	Property 845 866	magnetic fluctuations
+T18	Value 201 206	56.1K
+T7	Property 55 73	inhomogeneous spin
+T2	Property 765 784	Kosterlitz-Thouless
+T19	Property 786 788	KT
+T20	Property 258 292	nonlinear to linear transformation
+T21	Property 388 406	nonsuperconducting
+T22	Process 445 462	lower temperature
+T23	Property 738 763	current-voltage behaviour
+T24	Process 293 320	above a certain temperature
+T11	Doping 518 530	substitution
+T15	Doping 675 687	substitution
+R1	Equivalent Arg1:T6 Arg2:T18
+E1	Doping:T11 Dopant:T10
+E2	Doping:T15 

@@ -1,0 +1,36 @@
+T1	Material 76 91	polycrystalline
+T2	Material 119 131	crystallites
+T5	SC 204 207	HTS
+T6	Property 216 228	normal state
+T8	Material 344 355	orientation
+T10	Material 500 512	crystallites
+T12	Material 571 582	orientation
+T13	Property 631 637	models
+T14	Property 645 665	transport properties
+T15	SC 669 672	HTS
+T17	Property 788 800	normal state
+T18	Material 804 812	granular
+T19	SC 822 837	superconducting
+T20	Material 838 847	materials
+T21	Material 861 868	texture
+T22	Material 913 927	microstructure
+T23	Property 932 942	electrical
+T24	Property 943 963	transport properties
+T25	Property 1002 1007	model
+T26	Material 1060 1073	intragranular
+T27	Material 1081 1088	defects
+T28	Material 1096 1111	polycrystalline
+T29	SC 1112 1127	superconductors
+T30	Property 1177 1188	resistivity
+T31	Element 1239 1241	Bi
+T7	Material 375 381	grains
+T9	Characterization 1149 1160	measurement
+T11	Material 383 389	a-axes
+T32	Property 276 286	anisotropy
+T33	Property 34 64	effective medium approximation
+T34	Property 66 69	EMA
+T35	Property 471 481	anisotropy
+T16	Property 751 771	electrical transport
+T36	Characterization 772 784	measurements
+T3	SC 161 202	high critical temperature superconductors
+R1	Coref Arg1:T3 Arg2:T5	

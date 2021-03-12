@@ -1,0 +1,46 @@
+T1	SC 4 21	superconductivity
+T3	Main 65 71	SWCNTs
+T4	SC 151 168	superconductivity
+T6	Property 217 239	van Hove singularities
+T7	Property 247 275	electronic density of states
+T8	Property 283 294	Fermi level
+T9	Property 323 340	Debye temperature
+T10	SC 399 414	superconducting
+T11	SC 520 537	superconductivity
+T12	SC 574 612	superconducting transition temperature
+T13	Element 629 645	carbon nanotubes
+T14	Property 661 685	electron-phonon coupling
+T15	Property 692 701	ab-initio
+T18	Material 791 803	bond lengths
+T19	Material 823 831	geometry
+T20	Element 839 855	carbon nanotubes
+T21	SC 867 870	T c
+T22	SC 929 932	T c
+T23	Material 952 957	chain
+T27	Material 1085 1090	chain
+T28	SC 1136 1139	T c
+T26	Value 29 32	4-Å
+T30	Element 195 211	carbon compounds
+T2	Main 33 63	single-walled carbon nanotubes
+T31	Element 348 354	SWCNTs
+T32	Element 551 557	SWCNTs
+T34	Property 702 708	method
+T16	Process 744 759	radial pressure
+T17	Material 771 780	chirality
+T35	Value 874 878	60 K
+T36	Element 1148 1164	carbon composite
+T37	Property 415 418	gap
+T38	Value 1180 1183	2.2
+T39	Element 1078 1084	carbon
+T5	Element 990 996	SWCNTs
+T24	Element 1032 1048	carbon nanotubes
+T25	Element 1216 1222	SWCNTs
+T29	Value 985 986	5
+T33	Value 987 988	0
+T40	Value 1027 1028	5
+T41	Value 1029 1030	0
+T42	Value 1211 1212	5
+T43	Value 1213 1214	0
+R1	Coref Arg1:T2 Arg2:T3
+R2	Equivalent Arg1:T21 Arg2:T35
+R3	Target Arg1:T35 Arg2:T20

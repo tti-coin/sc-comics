@@ -1,0 +1,29 @@
+T1	Material 25 32	texture
+T2	Process 40 49	annealing
+T3	Property 81 91	simulation
+T4	Property 97 102	model
+T5	Material 163 168	layer
+T7	SC 193 208	superconducting
+T8	Material 209 216	crystal
+T9	Property 235 240	model
+T10	Property 404 411	strains
+T11	Property 438 446	ordering
+T12	Process 454 463	quenching
+T13	Process 471 487	high temperature
+T14	Material 514 522	twinning
+T15	Material 593 600	spacing
+T16	Material 609 621	domain walls
+T17	Process 672 678	anneal
+T18	Process 680 689	Annealing
+T19	Process 693 711	lower temperatures
+T20	SC 726 729	T c
+T21	Process 780 789	annealing
+T22	Property 802 808	domain
+T23	Material 854 866	domain walls
+T25	Element 148 154	oxygen
+T26	Main 220 229	YBa2Cu3O7
+T27	Element 431 437	oxygen
+T31	Property 361 390	ferroelastic phase transition
+T32	Property 650 660	coarsening
+T33	Material 756 772	stripe structure
+T34	Material 155 162	deficit

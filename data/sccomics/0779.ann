@@ -1,0 +1,67 @@
+T1	Material 54 70	secondary phases
+T2	Property 87 95	magnetic
+T3	Property 96 116	flux pinning centers
+T4	Material 120 128	textured
+T5	Main 129 139	Gd–Ba–Cu–O
+T6	Material 140 144	bulk
+T7	SC 145 160	superconductors
+T8	Element 186 190	TiO2
+T9	Element 195 199	BaO2
+T12	Element 232 238	BaTiO3
+T13	Material 277 287	perovskite
+T14	Material 288 297	structure
+T15	Element 304 308	TiO2
+T16	Element 313 317	BaO2
+T18	Material 344 359	crystal lattice
+T19	SC 367 382	superconducting
+T20	Material 383 389	matrix
+T21	Material 393 398	ionic
+T23	Element 479 485	BaTiO3
+T25	Property 515 522	pinning
+T26	Material 572 586	precipitations
+T28	Material 619 630	composition
+T29	Element 638 644	BaTiO3
+T31	Material 660 673	precipitation
+T32	Process 715 734	growth temperatures
+T33	Property 740 750	self-field
+T34	Property 751 754	J c
+T35	Process 800 805	grown
+T36	Process 817 835	growth temperature
+T42	Property 1169 1176	pinning
+T44	Element 1228 1234	BaTiO3
+T47	Element 1339 1345	BaTiO3
+T48	Material 1376 1382	dopant
+T49	Property 1394 1406	flux pinning
+T50	Element 1419 1429	Gd–Ba–Cu–O
+T51	Material 1430 1434	bulk
+T52	SC 1435 1450	superconductors
+T53	Value 784 787	77K
+T55	Property 960 973	J c–B diagram
+T56	Property 460 473	J c–B diagram
+T41	Process 1084 1090	growth
+T40	Property 1064 1083	anisotropic crystal
+T10	Doping 200 206	doping
+T11	Doping 220 228	addition
+T17	Doping 318 324	doping
+T22	Doping 486 492	doping
+T24	Doping 604 613	additions
+T27	Doping 645 651	doping
+T30	Doping 894 903	additions
+T37	Doping 1002 1008	doping
+T38	Doping 1217 1226	additions
+T39	Doping 1235 1241	doping
+T43	Value 943 947	1.25
+T45	Value 948 952	1.5T
+E1	Doping:T10 Dopant:T8
+E2	Doping:T11 Dopant:T12
+E3	Doping:T17 Dopant:T15
+E4	Doping:T22 Dopant:T23
+E5	Doping:T24
+E6	Doping:T27 Dopant:T29
+E7	Doping:T30
+E8	Doping:T37
+E9	Doping:T38
+E10	Doping:T39 Dopant:T44
+E11	Doping:T10 Dopant:T9
+E12	Doping:T17 Dopant:T16
+T46	SC 1282 1326	onset superconducting transition temperature

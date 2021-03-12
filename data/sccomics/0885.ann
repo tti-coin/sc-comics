@@ -1,0 +1,32 @@
+T2	Property 19 36	density of states
+T3	Property 38 41	DOS
+T4	SC 88 108	critical temperature
+T5	SC 109 112	T c
+T6	SC 180 194	superconductor
+T7	Property 195 204	insulator
+T8	SC 205 219	superconductor
+T9	Material 221 224	SIS
+T10	Main 270 288	Bi2Sr2CaCu2O 8 + δ
+T11	SC 329 346	superconductivity
+T12	Property 365 374	pseudogap
+T13	Property 393 414	temperature-dependent
+T14	Material 460 470	structures
+T15	Property 488 491	DOS
+T16	SC 564 579	superconducting
+T18	Material 651 661	derivative
+T19	Property 675 678	DOS
+T20	Property 768 777	pseudogap
+T21	SC 782 799	superconductivity
+T22	Material 809 818	materials
+T24	Property 956 963	pairing
+T25	Element 978 986	cuprates
+T26	Value 64 69	4.2 K
+T28	Property 298 305	Bosonic
+T29	Property 543 550	bosonic
+T30	Property 877 893	charged carriers
+T31	Property 902 909	bosonic
+T32	Property 964 970	gluons
+T23	Process 46 58	temperatures
+T1	Property 4 18	quasi-particle
+T17	Doping 608 618	underdoped
+E1	Doping:T17

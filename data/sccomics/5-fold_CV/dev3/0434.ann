@@ -1,0 +1,71 @@
+T1	SC 0 15	Superconducting
+T2	Main 27 39	SmBa2Cu3O7−δ
+T3	Main 41 47	Sm-123
+T5	Element 89 96	MnFe2O4
+T8	Material 213 228	phase formation
+T9	Material 233 247	microstructure
+T10	Characterization 285 309	X-ray powder diffraction
+T11	Characterization 311 314	XRD
+T12	Characterization 317 345	scanning electron microscopy
+T13	Characterization 347 350	SEM
+T14	Characterization 353 376	energy dispersive X-ray
+T15	Characterization 378 381	EDX
+T17	Characterization 415 419	PIXE
+T18	Characterization 425 463	Rutherford backscattering spectrometry
+T19	Characterization 465 468	RBS
+T20	Characterization 471 474	XRD
+T21	Element 517 523	Sm-123
+T22	Element 547 554	MnFe2O4
+T23	Property 611 625	oxygen content
+T24	Characterization 644 648	PIXE
+T25	Characterization 653 656	RBS
+T26	Property 662 676	oxygen content
+T27	Element 699 706	MnFe2O4
+T28	SC 726 764	superconducting transition temperature
+T29	SC 766 769	T c
+T30	Property 775 799	critical current density
+T31	Property 801 804	J c
+T32	Property 850 872	electrical resistivity
+T33	Property 877 886	transport
+T34	Property 887 911	critical current density
+T35	SC 944 947	T c
+T36	Element 971 978	MnFe2O4
+T38	Property 1005 1008	J c
+T39	Property 1047 1069	temperature dependence
+T40	Property 1073 1085	normal state
+T41	Property 1086 1108	electrical resistivity
+T42	Property 1136 1145	pseudogap
+T45	Element 1232 1239	MnFe2O4
+T47	Element 1276 1283	MnFe2O4
+T49	SC 1352 1357	HTSCs
+T51	Property 1368 1376	magnetic
+T52	Material 1377 1387	impurities
+T53	Property 1418 1430	conductivity
+T54	SC 1440 1442	Tc
+T7	Process 180 207	solid-state reaction method
+T56	Characterization 384 413	proton induced X-ray emission
+T57	Value 571 578	0.02wt%
+T58	Value 1024 1031	0.02wt%
+T44	Property 1180 1201	pseudogap temperature
+T48	Property 1329 1338	pseudogap
+T63	Property 498 513	volume fraction
+T43	Material 537 546	nanosized
+T59	Material 79 88	nanosized
+T61	Material 1222 1231	nanosized
+T4	Doping 49 54	added
+T6	Doping 97 105	addition
+T37	Doping 979 987	addition
+T46	Doping 1240 1248	addition
+T50	Doping 1361 1367	adding
+T55	Value 107 110	0.0
+T62	Value 111 118	0.20wt%
+T16	Characterization 912 924	measurements
+R1	Coref Arg1:T2 Arg2:T3
+R2	Coref Arg1:T28 Arg2:T29
+R3	Target Arg1:E1 Arg2:T2
+R4	Target Arg1:E2 Arg2:T2
+E1	Doping:T4 Dopant:T5
+E2	Doping:T6 Dopant:T5
+E3	Doping:T37 Dopant:T36
+E4	Doping:T46 Dopant:T45
+E5	Doping:T50 

@@ -1,0 +1,57 @@
+T1	Main 37 50	Bi2Sr2CaCu2Oy
+T2	Main 52 58	Bi2212
+T3	Material 60 68	ceramics
+T4	Process 77 85	sintered
+T5	Process 89 104	low temperature
+T6	Property 144 165	electrical resistance
+T7	Characterization 170 194	powder X-ray diffraction
+T8	Characterization 196 199	XRD
+T9	Element 217 219	Pr
+T11	Element 259 265	Bi2212
+T13	SC 296 311	superconducting
+T14	Process 366 386	solid-state reaction
+T15	Element 399 405	oxides
+T16	Material 420 427	powders
+T17	Material 446 465	nominal composition
+T18	Element 466 504	Bi2.12Sr1.90Ca1.02Cu1.96Li0.15Cl0.15Oy
+T20	Element 516 534	praseodymium oxide
+T21	Element 536 541	Pr2O3
+T22	Process 548 556	sintered
+T23	Process 560 563	air
+T24	Element 578 583	Pr2O3
+T26	Element 661 673	Bi2212 phase
+T27	Process 677 692	low temperature
+T28	Element 755 760	(200)
+T29	Characterization 772 775	XRD
+T31	SC 892 919	zero resistance temperature
+T32	SC 921 924	T c
+T33	Element 976 981	Pr2O3
+T35	Process 994 1003	sintering
+T37	Element 1073 1085	Bi2212 phase
+T38	Value 941 946	82.5K
+T39	Value 967 975	0.6mass%
+T40	Value 1012 1017	710°C
+T41	Value 1034 1039	150°C
+T42	Value 609 617	0.1mass%
+T43	Value 622 630	1.2mass%
+T44	Value 870 878	0.6mass%
+T45	Value 567 572	710°C
+T46	Property 708 734	full-width at half maximum
+T47	Property 736 740	FWHM
+T12	Material 281 291	structural
+T48	Material 765 771	(0010)
+T10	Doping 220 226	doping
+T19	Doping 505 510	added
+T25	Doping 584 592	addition
+T30	Doping 834 840	doping
+T34	Doping 982 990	addition
+R4	Target Arg1:E1 Arg2:T11
+R5	Target Arg1:E2 Arg2:T18
+R6	Target Arg1:E3 Arg2:T26
+R7	Equivalent Arg1:T31 Arg2:T38
+R8	Condition Arg1:T38 Arg2:E5
+E1	Doping:T10 Dopant:T9
+E2	Doping:T19 Dopant:T20
+E3	Doping:T25 Dopant:T24
+E4	Doping:T30
+E5	Doping:T34 Dopant:T33

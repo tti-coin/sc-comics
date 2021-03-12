@@ -1,0 +1,49 @@
+T1	Element 0 4	Iron
+T2	Property 18 33	magnetic moment
+T4	SC 88 105	superconductivity
+T6	Property 164 178	electron spins
+T8	Property 208 222	electron pairs
+T9	Property 224 236	Cooper pairs
+T11	SC 291 294	T c
+T14	Process 455 460	grown
+T15	SC 486 510	high-T c superconductors
+T16	SC 523 531	high-T c
+T17	Element 532 540	cuprates
+T18	Material 720 729	materials
+T20	Material 925 935	thin films
+T21	Material 941 946	wires
+T23	Material 990 998	material
+T24	Property 1057 1067	high-field
+T26	Material 1101 1111	thin films
+T27	Property 1122 1146	critical current density
+T28	Property 1148 1151	J c
+T29	Property 1192 1195	J c
+T30	Material 1369 1394	crystallographic symmetry
+T31	SC 1402 1417	superconducting
+T33	Property 1432 1455	critical magnetic field
+T34	Property 1468 1476	critical
+T35	Material 1477 1491	grain boundary
+T36	Property 1515 1518	J c
+T37	Property 1591 1606	magnetic fields
+T39	SC 323 327	IBSC
+T40	Element 438 443	IBSCs
+T41	Element 622 627	IBSCs
+T42	Value 1153 1160	1MA/cm2
+T44	Value 1165 1168	10T
+T45	Value 1173 1175	4K
+T46	Value 1199 1212	1.3×104 A/cm2
+T47	Value 1216 1219	10T
+T48	Value 1224 1226	4K
+T49	Material 911 923	bulk magnets
+T51	Element 1344 1349	IBSCs
+T52	Element 1547 1552	IBSCs
+T53	Element 951 956	IBSCs
+T54	SC 715 719	IBSC
+T5	Property 145 160	static ordering
+T25	Material 1068 1080	bulk magnets
+T22	Material 1242 1265	100-m-class-length wire
+T3	Value 1093 1095	15
+T7	Value 1096 1099	25K
+T12	Main 296 300	iron
+T10	SC 264 289	high critical temperature
+R1	Coref Arg1:T10 Arg2:T11	

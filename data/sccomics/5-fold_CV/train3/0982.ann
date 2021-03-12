@@ -1,0 +1,73 @@
+T1	Main 0 4	MgB2
+T2	SC 5 19	superconductor
+T4	Element 51 56	Al2O3
+T5	Element 72 75	SiC
+T6	Property 92 105	magnetization
+T7	Property 108 122	magnetic field
+T8	Property 178 202	critical current density
+T9	Property 230 240	Bean model
+T10	Property 250 271	irreversibility field
+T11	Property 324 331	pinning
+T13	Element 373 375	Al
+T14	Element 383 386	SiC
+T16	Property 477 490	pinning force
+T17	Property 528 542	magnetic field
+T18	Property 582 589	pinning
+T19	Property 619 636	Dew-Houghes model
+T24	Property 794 808	magnetic field
+T25	Property 813 835	temperature dependence
+T26	Property 874 885	NVP pinning
+T27	Property 959 966	pinning
+T28	Property 1008 1022	magnetic field
+T29	Property 1033 1055	temperature dependence
+T30	Property 1063 1087	critical current density
+T31	Property 1110 1117	pinning
+T32	Property 1118 1124	theory
+T33	Property 1156 1163	pinning
+T34	Property 1199 1213	charge-carrier
+T35	Property 1237 1241	δT c
+T36	Property 1242 1249	pinning
+T37	Property 1304 1326	transition temperature
+T38	Property 1338 1357	zero magnetic field
+T40	Property 1388 1402	charge-carrier
+T41	Property 1430 1437	pinning
+T42	Property 1465 1472	pinning
+T43	Property 1486 1510	non-zero magnetic fields
+T45	Value 42 49	0.02 wt
+T46	Value 370 372	2%
+T47	Value 380 382	5%
+T48	Property 305 318	Kramer method
+T15	Property 660 680	normal point pinning
+T20	Property 682 685	NPP
+T21	Property 692 714	normal surface pinning
+T22	Property 716 719	NSP
+T23	Property 730 751	normal volume pinning
+T49	Property 753 756	NVP
+T50	Property 860 863	NPP
+T51	Property 865 868	NSP
+T52	Characterization 134 146	measurements
+T53	Property 1214 1228	mean free path
+T54	Property 1403 1417	mean-free-path
+T55	Property 124 127	M-H
+T44	Value 61 62	0
+T56	Value 63 71	0.05 wt.
+T3	Doping 31 36	doped
+T12	Doping 352 357	doped
+T39	Doping 1364 1369	doped
+R1	Target Arg1:E1 Arg2:T1
+R2	Target Arg1:E4 Arg2:T1
+E1	Doping:T3 Dopant:T4
+E2	Doping:T12 Dopant:T13
+E3	Doping:T39 
+E4	Doping:T3 Dopant:T5
+E5	Doping:T12 Dopant:T14
+#1	AnnotatorNotes T1	0-4
+#2	AnnotatorNotes T4	51-56
+#3	AnnotatorNotes T5	72-75
+#4	AnnotatorNotes T13	373-375
+#5	AnnotatorNotes T14	383-386
+#6	AnnotatorNotes T45	42-49
+#7	AnnotatorNotes T46	370-372
+#8	AnnotatorNotes T47	380-382
+#9	AnnotatorNotes T44	61-62
+#10	AnnotatorNotes T56	63-71

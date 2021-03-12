@@ -1,0 +1,44 @@
+T3	Material 38 58	conjugated structure
+T4	SC 88 120	high temperature superconductors
+T5	Main 141 156	p-quinquephenyl
+T6	SC 216 231	superconducting
+T8	Element 262 271	potassium
+T9	SC 280 300	critical temperature
+T12	Property 397 412	Meissner effect
+T13	Element 416 425	potassium
+T14	Element 432 447	p-quinquephenyl
+T15	Property 470 487	ac susceptibility
+T16	SC 507 529	transition temperature
+T19	Property 647 663	zero-resistivity
+T20	Material 669 686	crystal structure
+T21	SC 713 728	superconducting
+T23	Material 764 769	P 2 1
+T24	Material 770 781	space-group
+T25	Material 785 802	layered structure
+T27	Characterization 845 858	Raman spectra
+T28	Element 870 885	potassium metal
+T30	Element 904 919	p-quinquephenyl
+T31	Property 960 981	elementary excitation
+T32	SC 992 1009	superconductivity
+T1	Value 304 308	7.3K
+T17	Property 541 557	dc magnetization
+T18	Material 199 212	para position
+T33	Property 822 832	bipolarons
+T2	Material 15 32	organic compounds
+T29	Material 173 185	phenyl rings
+T22	Element 738 758	K p 3 -quinquephenyl
+T35	Material 4 14	chain-like
+T7	Doping 253 258	doped
+T11	Doping 426 431	doped
+T26	Doping 886 898	intercalated
+T10	Property 314 340	dc magnetic susceptibility
+T34	Characterization 341 353	measurements
+R1	Equivalent Arg1:T9 Arg2:T1
+R2	Target Arg1:T1 Arg2:T5
+R3	Target Arg1:E1 Arg2:T5
+R4	Target Arg1:E2 Arg2:T14
+R5	Target Arg1:E3 Arg2:T30
+R6	Condition Arg1:T1 Arg2:E1
+E1	Doping:T7 Dopant:T8
+E2	Doping:T11 Dopant:T13
+E3	Doping:T26 Dopant:T28

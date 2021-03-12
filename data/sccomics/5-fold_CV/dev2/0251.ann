@@ -1,0 +1,57 @@
+T1	Element 0 14	Nickel ferrite
+T2	Element 16 23	NiFe2O4
+T3	Material 25 38	nanoparticles
+T5	Main 56 82	(Cu0.5Tl0.5)Ba2Ca2Cu3O10−δ
+T6	SC 95 110	superconducting
+T7	Material 111 117	matrix
+T9	Main 125 147	(NiFe2O4) x /CuTl-1223
+T10	Material 148 158	composites
+T11	Material 195 227	inverse spinel (cubic) structure
+T14	Element 231 238	NiFe2O4
+T15	Material 239 252	nanoparticles
+T16	Material 257 277	tetragonal structure
+T18	Element 281 290	CuTl-1223
+T19	SC 291 306	superconducting
+T20	Material 307 313	matrix
+T21	Characterization 338 355	x-ray diffraction
+T22	Characterization 357 360	XRD
+T23	Material 416 434	lattice parameters
+T24	Material 442 462	tetragonal structure
+T26	Element 466 475	CuTl-1223
+T27	SC 476 491	superconducting
+T28	Material 492 498	matrix
+T32	SC 586 589	T c
+T33	Property 613 637	normal state resistivity
+T37	Property 735 755	Cooper pair-breaking
+T38	Property 776 782	mobile
+T39	Property 783 796	free carriers
+T40	Property 810 818	magnetic
+T41	Material 819 832	nanoparticles
+T42	Property 853 870	activation energy
+T44	Property 1018 1026	magnetic
+T45	Material 1027 1040	nanoparticles
+T46	SC 1058 1075	superconductivity
+T50	Material 1177 1187	composites
+T51	Value 166 167	0
+T52	Value 169 173	0.25
+T53	Value 175 179	0.50
+T54	Value 185 189	1wt%
+T56	Value 641 645	300K
+T57	Main 84 93	CuTl-1223
+T61	Material 1046 1057	microscopic
+T60	Property 1103 1135	fluctuation induced conductivity
+T47	Property 1137 1140	FIC
+T13	Material 995 1008	agglomeration
+T8	Element 1154 1176	(NiFe2O4) x /CuTl-1223
+T4	Doping 44 49	added
+T12	Material 515 527	nanoparticle
+T25	Material 677 689	nanoparticle
+T29	SC 547 584	zero resistivity critical temperature
+T31	Material 909 921	nanoparticle
+T30	Property 528 541	concentration
+T17	Property 690 703	concentration
+T34	Property 922 935	concentration
+R1	Coref Arg1:T1 Arg2:T2
+R2	Coref Arg1:T5 Arg2:T57
+R3	Target Arg1:E1 Arg2:T5
+E1	Doping:T4 Dopant:T1

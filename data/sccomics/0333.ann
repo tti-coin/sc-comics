@@ -1,0 +1,66 @@
+T1	Main 0 47	(Cu0.5Tl0.5)Ba2(Ca2− y Mg y )(Cu2.5Cd0.5)O10− δ
+T2	SC 88 103	superconductors
+T3	Process 129 144	normal pressure
+T4	Material 150 163	c-axis length
+T6	Element 276 280	CuO2
+T7	Element 281 285	CdO2
+T8	Material 286 292	planes
+T10	SC 342 359	superconductivity
+T11	Property 367 378	resistivity
+T14	SC 448 457	Tc (R =0)
+T15	Element 528 530	Mg
+T17	Element 558 560	Mg
+T18	Element 564 566	Ca
+T19	Material 580 589	unit cell
+T20	Characterization 641 659	absorption spectra
+T21	Element 665 669	CuO2
+T22	Element 670 674	CdO2
+T23	Element 682 688	oxygen
+T24	Element 741 747	oxygen
+T26	Element 809 811	Mg
+T27	Element 819 821	Ca
+T28	Element 876 882	oxygen
+T29	Material 920 925	plane
+T31	Element 989 991	Cd
+T32	Material 992 997	atoms
+T33	Element 1005 1009	CuO2
+T34	Material 1010 1016	planes
+T35	Property 1022 1028	phonon
+T36	Property 1072 1096	an-harmonic oscillations
+T40	SC 1228 1245	superconductivity
+T41	Property 1286 1301	electron–phonon
+T42	SC 1335 1360	high Tc superconductivity
+T49	Element 231 233	Mg
+T51	Value 196 200	0.05
+T52	Element 437 439	Mg
+T56	Characterization 636 640	FTIR
+T57	Value 769 776	530cm−1
+T58	Element 947 949	Mg
+T60	Element 1145 1149	CuO2
+T61	Property 475 487	diamagnetism
+T62	Element 318 320	Mg
+T46	Value 52 53	0
+T47	Value 55 59	0.05
+T64	Value 61 64	0.1
+T65	Value 66 70	0.25
+T66	Value 72 75	0.5
+T67	Value 77 81	0.75
+T68	Value 83 86	1.0
+T5	Element 1150 1154	CdO2
+T9	Material 1155 1160	plane
+T13	Value 761 764	480
+T37	Property 1199 1213	phonon density
+T16	Doping 234 240	doping
+T25	Doping 321 327	doping
+T30	Doping 440 446	doping
+T38	Doping 541 554	Incorporation
+T39	Doping 799 805	doping
+T48	Doping 950 956	doping
+T12	Property 383 400	ac-susceptibility
+T43	Characterization 401 413	measurements
+E1	Doping:T16 Dopant:T49
+E2	Doping:T25 Dopant:T62
+E3	Doping:T30 Dopant:T52
+E4	Doping:T38 Dopant:T17 Site:T18
+E5	Doping:T39 Dopant:T26 Site:T27
+E6	Doping:T48 Dopant:T58

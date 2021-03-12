@@ -1,0 +1,41 @@
+T1	Material 30 39	interface
+T2	Material 181 190	thin film
+T3	Material 248 268	micro- and nanoscale
+T4	Material 302 318	heterostructures
+T5	Material 323 333	interfaces
+T6	SC 428 445	superconductivity
+T7	Property 447 456	magnetism
+T8	Property 477 495	optical properties
+T9	Property 501 519	ionic conductivity
+T12	Property 631 637	strain
+T13	Material 645 654	interface
+T14	Material 725 730	ionic
+T15	Property 736 741	order
+T17	Property 771 793	charge carrier density
+T18	Element 805 810	oxide
+T21	Property 891 896	order
+T22	Material 917 922	ionic
+T23	Material 1062 1077	microstructures
+T25	Material 1165 1174	materials
+T26	Property 1191 1197	strain
+T27	Material 1348 1353	ionic
+T28	Property 1354 1371	carrier transport
+T30	Element 1480 1485	oxide
+T31	Property 1510 1516	strain
+T32	Material 1575 1588	semiconductor
+T33	Property 1602 1613	electronics
+T35	Property 1675 1683	strained
+T36	Element 1684 1691	silicon
+T39	Process 1734 1747	heteroepitaxy
+T40	Material 1782 1791	materials
+T41	Element 1797 1799	Si
+T42	Material 1800 1806	wafers
+T19	Property 1707 1726	electronic mobility
+T20	Property 1631 1652	electronic conducting
+T34	Process 1752 1774	monolithic integration
+T10	Material 856 870	mobile defects
+T11	Property 603 623	space charge effects
+T16	Doping 1099 1105	doping
+T24	Doping 1456 1462	doping
+E1	Doping:T16 
+E2	Doping:T24 

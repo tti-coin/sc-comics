@@ -1,0 +1,32 @@
+T1	Property 33 46	Fermi-surface
+T2	Material 125 131	metals
+T3	Property 152 166	Fermi surfaces
+T5	Property 236 249	Fermi surface
+T8	Property 430 443	Fermi surface
+T10	Property 466 482	first-principles
+T11	Property 646 657	anisotropic
+T12	SC 658 675	superconductivity
+T13	Element 679 690	YNi 2 B 2 C
+T15	Property 895 909	Fermi surfaces
+T16	Property 961 982	electronic properties
+T17	SC 992 1009	superconductivity
+T18	Material 1035 1041	metals
+T20	Property 1176 1190	Fermi surfaces
+T22	Property 1280 1294	Fermi surfaces
+T23	Property 1353 1367	Fermi surfaces
+T24	Property 1530 1544	Fermi surfaces
+T25	Characterization 0 11	FermiSurfer
+T4	Property 365 380	extremal orbits
+T6	Property 352 363	nodal lines
+T26	Property 412 422	empty side
+T27	Characterization 523 534	FermiSurfer
+T28	Characterization 567 578	FermiSurfer
+T29	Property 279 290	Fermi lines
+T30	Characterization 723 734	FermiSurfer
+T21	Characterization 1229 1240	FermiSurfer
+T14	Property 928 936	orbitals
+T9	Property 867 877	anisotropy
+T19	Property 1057 1067	anisotropy
+T31	Property 1250 1268	tetrahedron method
+T7	Doping 400 408	occupied
+E1	Doping:T7 

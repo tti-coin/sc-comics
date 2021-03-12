@@ -1,0 +1,75 @@
+T1	SC 13 28	superconductors
+T2	Material 29 46	ceramic materials
+T4	Element 66 79	copper oxides
+T5	Element 91 110	rare earth elements
+T6	Element 119 126	yttrium
+T7	Element 136 137	Y
+T8	SC 144 175	high temperature superconductor
+T9	Main 176 189	Y3Ba5Cu8O18-δ
+T10	Main 191 195	Y358
+T11	Element 276 278	Ag
+T12	Element 279 281	Cu
+T16	Element 362 363	Y
+T17	Element 365 367	Ba
+T18	Element 369 371	Cu
+T19	Element 376 378	Ag
+T21	Element 411 413	Ag
+T22	Material 414 419	atoms
+T23	Element 438 449	Y3Ba5Cu8O18
+T24	Characterization 475 478	XRD
+T25	Characterization 488 491	SEM
+T26	Property 500 522	electrical resistivity
+T27	Process 541 557	room temperature
+T29	Material 598 605	ceramic
+T30	Element 606 610	Y358
+T31	Material 615 620	metal
+T32	Property 637 649	normal state
+T33	Element 667 671	YBCO
+T34	Element 709 713	CuO2
+T35	Material 714 720	planes
+T36	Element 729 733	Cu-O
+T37	Material 734 740	chains
+T38	Element 785 789	CuO2
+T39	Material 790 796	planes
+T40	Element 821 825	Cu-O
+T41	Material 826 832	chains
+T42	SC 875 897	transition temperature
+T43	Element 905 906	Y
+T46	Element 1010 1017	Ag ions
+T49	Element 1089 1096	Ag ions
+T50	Element 1104 1108	CuO2
+T51	Material 1109 1114	plane
+T52	Element 1161 1168	Ag ions
+T53	Element 1176 1180	Y123
+T54	SC 1181 1195	superconductor
+T56	Element 1221 1225	Cu-O
+T57	Material 1226 1231	chain
+T58	Property 1237 1259	electrical resistivity
+T59	SC 1269 1284	superconductors
+T60	Property 1319 1341	electrical resistivity
+T61	SC 1370 1392	transition temperature
+T44	Characterization 944 969	X-ray diffraction pattern
+T66	Property 986 999	MAUD software
+T69	Characterization 1301 1313	4prob method
+T70	Value 1399 1403	100K
+T72	Material 1032 1049	symmetrical phase
+T73	Material 1118 1133	symmetric phase
+T14	Process 323 340	sol-gel technique
+T3	Doping 282 294	substitution
+T13	Doping 401 407	doping
+T20	Doping 1018 1028	substitute
+T47	Doping 1069 1081	substitution
+T48	Doping 1203 1213	substitute
+T45	Characterization 523 535	measurements
+T15	Material 351 355	nano
+T55	Element 356 361	oxide
+T28	Property 558 568	electrical
+T62	Characterization 569 581	measurements
+R2	Equivalent Arg1:T61 Arg2:T70
+R3	Target Arg1:E2 Arg2:T23
+R4	Target Arg1:E5 Arg2:T53
+E1	Doping:T3 Dopant:T11 Site:T12
+E2	Doping:T13 Dopant:T21
+E3	Doping:T20 Dopant:T46
+E4	Doping:T47 Dopant:T49 Site:T50
+E5	Doping:T48 Site:T56 Dopant:T52

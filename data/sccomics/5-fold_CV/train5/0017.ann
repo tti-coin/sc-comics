@@ -1,0 +1,60 @@
+T1	SC 11 19	high-T c
+T2	SC 26 41	superconductors
+T3	Material 81 90	thin film
+T4	SC 125 139	superconductor
+T5	Material 140 144	film
+T6	Material 216 221	films
+T7	Material 349 366	crystal structure
+T8	Material 371 376	layer
+T9	SC 440 455	superconducting
+T10	Material 487 492	metal
+T11	Process 521 533	low-pressure
+T14	Process 778 785	Sputter
+T15	Process 786 796	deposition
+T19	Process 1045 1048	CVD
+T21	Property 1251 1262	high-energy
+T22	Material 1336 1343	surface
+T23	Material 1490 1504	stoichiometric
+T24	Material 1604 1613	molecular
+T25	Process 1629 1636	sputter
+T26	Process 1732 1742	deposition
+T27	Material 1768 1783	epitaxial films
+T28	SC 1803 1817	superconductor
+T29	Process 1935 1942	sol-gel
+T31	Process 1943 1955	spin casting
+T32	Process 2052 2068	laser deposition
+T33	Material 2132 2141	thin film
+T37	Element 647 653	oxygen
+T38	Main 1791 1802	YBa2Cu3O7−δ
+T40	Element 421 427	oxygen
+T41	Element 749 754	ozone
+T18	Process 1017 1043	Chemical vapour deposition
+T20	Process 1208 1231	pulsed laser deposition
+T42	Process 1233 1236	PLD
+T43	Element 20 25	oxide
+T45	Material 582 591	substrate
+T48	Material 842 851	substrate
+T49	Material 899 908	substrate
+T50	Element 1090 1096	barium
+T51	Material 1375 1384	substrate
+T52	Material 294 307	stoichiometry
+T12	Element 550 561	oxygen-atom
+T34	Element 686 699	atomic oxygen
+T35	Material 878 888	geometries
+T16	Process 969 978	pressures
+T17	Process 958 968	sputtering
+T36	Property 1081 1089	volatile
+T39	Process 819 834	ion bombardment
+T13	Process 701 729	electron cyclotron resonance
+T46	Process 731 734	ECR
+T47	Process 463 474	Evaporation
+T55	Process 654 665	rf-plasmas,
+T56	Process 929 935	plasma
+T57	Process 1295 1320	laser radiation vaporizes
+T58	Property 1428 1447	thermal equilibrium
+T59	Process 1701 1724	reactive gas atmosphere
+T30	Process 1957 1964	dipping
+T60	Process 1970 1987	electrodeposition
+T61	Process 1909 1933	chemical spray pyrolysis
+T53	Process 1891 1907	thermal spraying
+T44	Material 317 327	substrates

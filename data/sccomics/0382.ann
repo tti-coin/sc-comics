@@ -1,0 +1,51 @@
+T2	Property 15 46	electronic transport properties
+T3	Main 63 82	Ca1-xCexFe1-yCoyAs2
+T4	Material 115 130	single crystals
+T5	Element 137 139	Ce
+T7	Element 154 156	Ca
+T8	Property 184 201	antiferromagnetic
+T9	Property 202 205	AFM
+T10	Material 207 234	structural phase transition
+T11	SC 258 275	superconductivity
+T12	SC 301 318	superconductivity
+T14	Element 387 414	Ca0.8Ce0.2Fe0.975Co0.025As2
+T15	Property 430 433	AFM
+T16	Property 434 455	structural transition
+T17	Material 484 488	bulk
+T18	SC 489 506	superconductivity
+T19	SC 512 515	T c
+T20	Element 594 611	Ca0.73Ce0.27FeAs2
+T21	Property 657 661	band
+T22	Property 691 694	AFM
+T23	Property 695 716	structural transition
+T25	Property 737 753	Hall coefficient
+T26	Property 852 869	magnetoresistance
+T27	Element 931 933	Ce
+T28	Property 934 948	concentrations
+T29	Element 1002 1029	Ca0.8Ce0.2Fe0.975Co0.025As2
+T31	Property 1263 1285	anisotropic scattering
+T37	Value 95 99	0.27
+T38	Value 84 88	0.18
+T41	Value 105 113	0, 0.025
+T42	Value 518 524	34.5 K
+T43	Value 620 624	80 K
+T44	Value 1085 1089	80 K
+T45	Property 1128 1141	Kohler's rule
+T40	Property 871 873	MR
+T47	Property 968 970	MR
+T48	Element 371 373	Co
+T30	Element 1098 1100	Co
+T46	Property 1238 1252	carrier number
+T6	Doping 140 146	doping
+T13	Doping 377 383	doping
+T24	Doping 728 735	dopings
+T1	Property 755 758	R H
+T32	Property 540 544	Hall
+T33	Characterization 545 557	measurements
+R1	Equivalent Arg1:T19 Arg2:T42
+R2	Target Arg1:T42 Arg2:T14
+R3	Target Arg1:E2 Arg2:T14
+R4	Condition Arg1:T42 Arg2:E2
+E1	Doping:T6 Dopant:T5 Site:T7
+E2	Doping:T13 Dopant:T48
+E3	Doping:T24

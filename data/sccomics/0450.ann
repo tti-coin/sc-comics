@@ -1,0 +1,38 @@
+T1	Process 19 36	chemical pressure
+T2	Element 51 52	P
+T4	Main 67 91	CeFeAs1−x P x O0.95F0.05
+T5	Element 129 145	CeFeAsO0.95F0.05
+T6	Element 154 155	P
+T8	Property 190 205	antiferromagnet
+T9	Property 207 210	AFM
+T10	SC 216 230	superconductor
+T12	Property 236 245	AFM order
+T13	Element 249 253	Ce3+
+T14	Property 254 267	local moments
+T15	Property 317 328	resistivity
+T16	Property 333 356	magnetic susceptibility
+T17	Element 363 364	P
+T19	SC 373 376	T c
+T20	Process 458 476	lower temperatures
+T22	Property 493 502	AFM order
+T23	Element 506 515	Ce3+ ions
+T25	SC 639 656	superconductivity
+T26	Property 661 673	Kondo effect
+T28	Value 412 417	21.3K
+T29	Value 423 427	0.15
+T34	Value 94 95	0
+T35	Value 102 105	0.4
+T37	Value 568 569	0
+T38	Value 576 579	0.4
+T3	Doping 53 59	doping
+T7	Doping 156 162	doping
+T18	Doping 365 371	doping
+T24	Doping 553 559	doping
+T21	Element 681 688	Ce 1111
+R1	Equivalent Arg1:T19 Arg2:T28
+R2	Target Arg1:E1 Arg2:T4
+R3	Condition Arg1:T28 Arg2:E3
+E1	Doping:T3 Dopant:T2
+E2	Doping:T7 Dopant:T6
+E3	Doping:T18 Dopant:T17
+E4	Doping:T24

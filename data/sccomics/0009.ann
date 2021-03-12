@@ -1,0 +1,35 @@
+T1	SC 110 125	superconductors
+T3	SC 219 234	superconducting
+T4	Material 235 243	ceramics
+T5	Material 267 281	stoichiometric
+T7	SC 451 454	T c
+T8	SC 533 548	superconductors
+T9	SC 567 570	T c
+T13	Material 756 773	crystal structure
+T14	Property 837 848	diamagnetic
+T15	Process 862 873	temperature
+T18	Value 409 413	80 K
+T32	Value 363 366	0.7
+T33	Value 457 462	110 K
+T36	Value 573 578	110 K
+T39	Element 659 663	VPb
+T40	Element 725 730	PbSb
+T41	Element 713 715	Pb
+T42	Main 291 321	Bi2-(x+y)V x Pb y Sr2Ca2Cu3O q
+T16	Property 898 918	critical temperature
+T45	Property 817 829	paramagnetic
+T23	Element 62 84	Bi2-x V x Sr2Ca2Cu3O y
+T24	Element 89 109	Bi2-x V x Sr2CaCu2O8
+T10	Doping 664 676	substitution
+T11	Doping 716 721	doped
+T12	Doping 731 736	doped
+T2	Doping 207 218	substituted
+T6	SC 403 406	T c
+R1	Equivalent Arg1:T9 Arg2:T36
+R2	Equivalent Arg1:T6 Arg2:T18
+R3	Equivalent Arg1:T7 Arg2:T33
+R4	Target Arg1:E5 Arg2:T42
+E2	Doping:T10 Dopant:T39
+E3	Doping:T11 Dopant:T41
+E4	Doping:T12 Dopant:T40
+E5	Doping:T2

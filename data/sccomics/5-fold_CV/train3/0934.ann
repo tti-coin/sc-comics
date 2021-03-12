@@ -1,0 +1,101 @@
+T2	Element 60 62	Sr
+T3	Element 66 68	Eu
+T4	Main 90 97	Bi-2201
+T5	Material 98 106	ceramics
+T6	Material 121 141	nominal compositions
+T7	Element 145 164	Bi2Sr2−x Eu x CuO y
+T8	Process 194 197	air
+T9	Process 201 221	solid state reaction
+T10	Characterization 258 275	X ray diffraction
+T11	Characterization 277 280	XRD
+T12	Characterization 283 311	scanning electron microscopy
+T13	Characterization 313 316	SEM
+T17	Material 406 415	structure
+T18	SC 448 465	superconductivity
+T19	Property 526 537	resistivity
+T20	Property 563 577	semiconducting
+T21	Element 592 594	Eu
+T23	SC 680 695	superconducting
+T24	SC 709 712	T c
+T27	Property 803 815	normal state
+T28	Property 843 857	semiconducting
+T29	Property 895 906	resistivity
+T30	Element 916 918	Eu
+T31	Material 956 971	cell parameters
+T32	Material 1001 1022	structural modulation
+T34	Element 1065 1069	Sr2+
+T35	Element 1073 1077	Eu3+
+T36	Element 1166 1168	La
+T38	Element 1255 1257	Eu
+T39	Material 1277 1283	c axis
+T41	Property 1378 1394	limit solubility
+T42	Element 1407 1418	Eu2O3 oxide
+T43	Element 1457 1459	Eu
+T44	Characterization 1473 1476	SEM
+T46	Material 1547 1553	grains
+T47	Material 1600 1614	microstructure
+T49	Material 1654 1660	grains
+T50	Material 1691 1695	flat
+T51	Element 1733 1735	Bi
+T52	SC 1742 1757	superconductors
+T54	Value 791 794	0.3
+T57	Value 615 618	0.2
+T59	Value 486 488	2K
+T60	Value 1450 1453	0.4
+T61	Value 1442 1445	0.3
+T68	Value 381 382	0
+T69	Material 1187 1193	a axis
+T15	Characterization 1338 1350	XRD analysis
+T25	Characterization 1477 1488	micrographs
+T1	Doping 44 56	substitution
+T16	Doping 598 603	added
+T22	Doping 1049 1061	substitution
+T26	Doping 1169 1174	doped
+T33	Doping 1635 1640	doped
+T37	Value 169 170	0
+T40	Value 171 174	0.4
+T45	Property 733 741	magnetic
+T48	Property 746 757	resistivity
+T53	Characterization 758 770	measurements
+T14	Property 319 327	magnetic
+T58	Property 332 343	resistivity
+T63	Characterization 344 356	measurements
+R1	Target Arg1:E1 Arg2:T4
+R2	Equivalent Arg1:T18 Arg2:T59
+E1	Doping:T1 Site:T2 Dopant:T3
+E2	Doping:T16 Dopant:T21
+E3	Doping:T22 Site:T34 Dopant:T35
+E4	Doping:T26 Dopant:T36
+E5	Doping:T33 
+#1	AnnotatorNotes T2	60-62
+#2	AnnotatorNotes T3	66-68
+#3	AnnotatorNotes T4	90-97
+#4	AnnotatorNotes T5	98-106
+#5	AnnotatorNotes T6	121-141
+#6	AnnotatorNotes T7	145-164
+#7	AnnotatorNotes T17	406-415
+#8	AnnotatorNotes T21	592-594
+#9	AnnotatorNotes T30	916-918
+#10	AnnotatorNotes T31	956-971
+#11	AnnotatorNotes T32	1001-1022
+#12	AnnotatorNotes T34	1065-1069
+#13	AnnotatorNotes T35	1073-1077
+#14	AnnotatorNotes T36	1166-1168
+#15	AnnotatorNotes T38	1255-1257
+#16	AnnotatorNotes T39	1277-1283
+#17	AnnotatorNotes T42	1407-1418
+#18	AnnotatorNotes T43	1457-1459
+#19	AnnotatorNotes T46	1547-1553
+#20	AnnotatorNotes T47	1600-1614
+#21	AnnotatorNotes T49	1654-1660
+#22	AnnotatorNotes T50	1691-1695
+#23	AnnotatorNotes T51	1733-1735
+#24	AnnotatorNotes T54	791-794
+#25	AnnotatorNotes T57	615-618
+#26	AnnotatorNotes T59	486-488
+#27	AnnotatorNotes T60	1450-1453
+#28	AnnotatorNotes T61	1442-1445
+#29	AnnotatorNotes T68	381-382
+#30	AnnotatorNotes T69	1187-1193
+#31	AnnotatorNotes T37	169-170
+#32	AnnotatorNotes T40	171-174

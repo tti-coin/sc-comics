@@ -1,0 +1,56 @@
+T1	Material 0 4	Bulk
+T2	Material 5 20	single crystals
+T3	SC 24 39	superconducting
+T5	SC 205 208	T c
+T6	Characterization 280 308	Electron probe microanalysis
+T7	Characterization 310 314	EPMA
+T8	SC 327 330	T c
+T9	Material 351 359	crystals
+T10	Process 483 497	crystal growth
+T11	SC 502 519	superconductivity
+T12	Material 525 533	crystals
+T13	Material 584 590	planes
+T14	Characterization 608 611	STM
+T17	Material 914 921	surface
+T18	SC 1007 1010	T c
+T19	Property 1160 1179	interlayer coupling
+T20	Material 1193 1199	planes
+T21	SC 1248 1251	T c
+T22	Material 1255 1262	layered
+T23	Main 40 44	YBCO
+T24	Main 46 55	YBa2Cu3O7
+T27	Element 111 115	BaF2
+T28	Element 117 121	B2O3
+T29	Element 126 131	Bi2O3
+T30	Element 378 382	BaF2
+T31	Characterization 750 753	STS
+T32	Element 1188 1192	CuO2
+T33	Element 1096 1100	CuO
+T34	Element 683 685	Al
+T35	Element 777 781	CuO
+T36	Element 228 237	aluminium
+T38	Material 261 278	crucible material
+T39	Element 432 441	aluminium
+T40	Material 922 931	roughness
+T41	Material 967 976	additives
+T42	Material 1064 1076	adulteration
+T43	Element 1263 1271	cuprates
+T45	Material 96 105	additives
+T15	Characterization 716 748	scanning tunnelling spectroscopy
+T25	Material 238 251	contamination
+T26	Material 411 424	contamination
+T37	Material 595 601	chains
+T46	Material 686 699	contamination
+T47	Characterization 646 665	conductance spectra
+T48	Material 782 788	chains
+T49	Material 1081 1092	disordering
+T16	Property 824 840	quasi-insulating
+T50	Material 1101 1107	chains
+T4	Doping 69 82	incorporation
+R2	Target Arg1:E2 Arg2:T23
+R3	Target Arg1:E3 Arg2:T23
+R4	Target Arg1:E6 Arg2:T23
+E2	Doping:T4 Dopant:T29
+E3	Doping:T4 Dopant:T28
+E6	Doping:T4 Dopant:T27
+T44	Material 397 405	additive

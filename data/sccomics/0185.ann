@@ -1,0 +1,36 @@
+T1	SC 109 117	high T c
+T2	Material 118 128	thin films
+T3	Material 139 147	in-plane
+T4	Property 148 158	electrical
+T5	Property 159 169	anisotropy
+T6	Material 184 188	film
+T7	Material 208 213	films
+T8	Material 274 279	films
+T10	Material 363 368	films
+T11	Property 376 388	normal state
+T12	Property 389 399	anisotropy
+T13	Material 437 442	films
+T14	Property 450 462	normal state
+T15	Property 463 473	anisotropy
+T17	Property 568 583	magnetic fields
+T18	SC 608 623	superconducting
+T19	Material 641 646	films
+T20	SC 756 759	T c
+T21	Property 769 779	anisotropy
+T23	Property 842 857	magnetic fields
+T24	Element 241 247	SrTiO3
+T25	Value 408 413	100 K
+T26	Value 403 406	3.7
+T27	Value 477 479	23
+T28	Value 481 486	100 K
+T29	Value 870 878	1 Tesla.
+T30	Element 426 429	013
+T32	Value 223 226	10°
+T33	Element 253 258	(013)
+T34	Element 259 264	(103)
+T36	Element 289 301	(110) SrTiO3
+T37	Value 359 362	10°
+T38	Property 84 95	vortex flow
+T39	Process 334 340	growth
+T9	Property 719 724	ohmic
+T16	Element 432 435	103

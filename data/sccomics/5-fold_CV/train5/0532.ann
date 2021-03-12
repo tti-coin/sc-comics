@@ -1,0 +1,66 @@
+T3	SC 47 62	superconducting
+T5	Main 88 92	MgB2
+T6	Material 93 98	wires
+T7	Material 121 126	wires
+T8	Material 189 202	nanoparticles
+T9	Process 215 223	sintered
+T12	Characterization 283 300	X-ray diffraction
+T14	Element 369 380	iron boride
+T15	Element 416 419	MgO
+T16	Material 457 470	nanoparticles
+T17	Element 476 478	Mg
+T18	Element 483 484	B
+T19	Property 491 499	magnetic
+T21	Property 573 586	magnetic ﬁeld
+T22	SC 634 649	superconducting
+T24	Element 678 685	CuFe2O4
+T25	SC 691 714	transition temperatures
+T26	SC 716 718	Tc
+T28	Element 774 781	CuFe2O4
+T30	Property 908 910	Jc
+T31	Property 916 924	magnetic
+T32	SC 984 999	superconducting
+T33	Element 1014 1018	MgB2
+T34	Material 1019 1024	wires
+T35	Property 1069 1086	critical currents
+T36	Property 1127 1140	magnetization
+T37	Material 1145 1149	bulk
+T38	Element 1150 1154	MgB2
+T40	Element 1174 1179	Fe3O4
+T41	Material 1180 1193	nanoparticles
+T1	Element 16 23	CuFe2O4
+T42	Value 141 142	3
+T43	Value 205 208	7nm
+T44	Value 227 232	650°C
+T45	Value 246 252	1 hour
+T10	Process 260 281	pure argon atmosphere
+T46	Value 757 770	1.4K per wt.%
+T48	Value 593 597	16 T
+T49	Material 24 36	nanoparticle
+T4	Element 77 79	Fe
+T11	Value 236 241	750°C
+T50	Value 138 139	0
+T51	Value 147 154	7.5wt.%
+T52	Property 158 170	monodisperse
+T53	Property 171 188	superparamagnetic
+T2	Doping 37 43	doping
+T13	Doping 313 318	doped
+T23	Doping 666 672	doping
+T27	Doping 723 728	doped
+T29	Doping 863 869	doping
+T39	Doping 1163 1168	doped
+T47	Value 563 564	2
+T54	Value 565 568	42K
+T20	Property 504 513	transport
+T55	Characterization 514 526	measurements
+R1	Coref Arg1:T25 Arg2:T26
+R2	Target Arg1:E1 Arg2:T5
+R3	Target Arg1:E3 Arg2:T24
+R4	Target Arg1:E6 Arg2:T38
+R5	Target Arg1:E4 Arg2:T28
+E1	Doping:T2 Dopant:T1
+E2	Doping:T13 
+E3	Doping:T23 
+E4	Doping:T27 
+E5	Doping:T29 
+E6	Doping:T39 Dopant:T40

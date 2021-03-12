@@ -1,0 +1,60 @@
+T1	Main 4 45	(Cu0.5Tl0.25Li0.25)Ba2Ca2Cu3−y Si y O10−δ
+T2	SC 81 95	superconductor
+T3	Process 126 146	solid-state reaction
+T4	SC 159 179	critical temperature
+T5	Element 244 246	Si
+T8	SC 328 348	critical temperature
+T9	Element 440 444	CuO2
+T11	Material 450 456	planes
+T12	Process 488 502	post-annealing
+T13	Element 506 512	oxygen
+T14	SC 536 556	critical temperature
+T15	Element 577 579	Si
+T18	Element 620 637	Cu0.5Tl0.5Ba2O4−δ
+T19	Property 638 654	charge reservoir
+T20	Material 655 660	layer
+T21	Element 664 705	(Cu0.5Tl0.25Li0.25)Ba2Ca2Cu3−y Si y O10−δ
+T23	Element 771 779	Li+1 ion
+T24	Element 784 797	alkali metals
+T25	Property 841 849	electron
+T26	Element 877 881	CuO2
+T27	Element 882 886	SiO2
+T28	Material 887 904	conducting planes
+T29	Material 961 978	conducting planes
+T31	Element 1051 1053	Si
+T33	Element 1073 1077	CuO2
+T34	Material 1078 1084	planes
+T36	Value 735 739	1.25
+T37	Value 730 733	1.0
+T38	Value 724 728	0.75
+T39	Value 719 722	0.5
+T44	Value 51 52	0
+T45	Value 75 79	1.25
+T46	Value 70 73	1.0
+T47	Value 64 68	0.75
+T48	Value 59 62	0.5
+T49	Value 54 58	0.25
+T55	Value 265 268	1.0
+T56	Value 305 309	1.25
+T58	Value 711 712	0
+T59	Value 714 718	0.25
+T30	Property 928 947	anti-ferromagnetism
+T60	Characterization 984 988	FTIR
+T61	Characterization 989 1012	absorption measurements
+T42	Property 212 224	diamagnetism
+T52	Property 381 393	diamagnetism
+T6	Property 247 260	concentration
+T7	Doping 288 294	doping
+T16	Doping 580 585	doped
+T17	Doping 599 605	doping
+T22	Doping 764 770	doping
+T32	Doping 1054 1066	substitution
+T35	Property 412 421	carrier’s
+T10	Element 445 449	SiO2
+R1	Target Arg1:E3 Arg2:T21
+R2	Target Arg1:E4 Arg2:T21
+E1	Doping:T7 
+E2	Doping:T16 Dopant:T15
+E3	Doping:T17 Dopant:T18
+E4	Doping:T22 Dopant:T23
+E5	Doping:T32 Dopant:T31 Site:T33

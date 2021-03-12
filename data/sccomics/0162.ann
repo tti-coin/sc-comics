@@ -1,0 +1,41 @@
+T1	SC 32 49	superconductivity
+T3	Property 166 180	magnetic field
+T4	Material 208 214	planes
+T5	SC 456 473	superconductivity
+T6	Material 478 486	in-plane
+T7	Property 487 501	magnetic field
+T8	Property 508 523	electron orbits
+T9	SC 569 572	T c
+T10	SC 599 602	T c
+T12	SC 769 772	T c
+T13	SC 799 802	T c
+T16	Property 1057 1073	isotropic p-wave
+T17	SC 1132 1149	superconductivity
+T18	SC 1233 1250	superconductivity
+T19	SC 1282 1297	superconducting
+T20	SC 1506 1509	T c
+T21	SC 1536 1539	T c
+T22	Main 64 71	Sr2RuO4
+T23	Element 819 826	Sr2RuO4
+T25	Element 974 981	Sr2RuO4
+T26	Value 875 879	0.75
+T27	Property 897 911	critical field
+T29	Property 278 313	Clogston-Chandrasekhar paramagnetic
+T28	Property 1381 1416	Clogston-Chandrasekhar paramagnetic
+T30	Property 230 252	isotropic p-wave phase
+T2	Property 126 148	isotropic p-wave order
+T31	Property 1264 1270	d-wave
+T32	Property 1204 1214	Three-band
+T33	Property 1225 1232	triplet
+T34	Property 1255 1262	Singlet
+T35	Property 1036 1047	single-band
+T36	Property 1048 1055	triplet
+T37	Property 96 107	single-band
+T38	Property 117 123	γ-band
+T39	Property 221 228	triplet
+T40	Property 359 376	Meissner currents
+T41	Property 1298 1305	pairing
+T14	SC 990 1013	high-Tc superconductors
+T15	Value 805 809	0.44
+T24	Value 812 815	0.5
+T11	Property 1074 1089	order parameter

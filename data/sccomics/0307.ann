@@ -1,0 +1,23 @@
+T1	Material 72 84	coordination
+T3	Material 93 98	fault
+T4	Material 144 153	solutions
+T6	Material 300 312	coordination
+T8	Property 413 421	critical
+T9	Material 463 475	coordination
+T10	Property 716 725	impedance
+T11	Property 742 750	critical
+T12	Material 838 850	coordination
+T13	Property 883 891	critical
+T14	SC 934 951	superconductivity
+T18	Property 1701 1709	critical
+T19	Material 2019 2025	faults
+T2	Doping 86 92	Adding
+T5	Doping 190 198	addition
+T7	Doping 318 324	adding
+T15	Doping 1118 1123	added
+T16	Doping 1257 1262	added
+E1	Doping:T2
+E2	Doping:T5
+E3	Doping:T7
+E4	Doping:T15
+E5	Doping:T16

@@ -1,0 +1,67 @@
+T1	Material 21 36	polycrystalline
+T2	Material 50 62	compositions
+T3	Main 63 67	MgB2
+T5	Element 84 90	C6H8O7
+T7	Element 174 188	graphene oxide
+T8	Element 190 192	GO
+T9	Element 198 209	citric acid
+T10	Element 211 217	C6H8O7
+T11	SC 222 237	superconducting
+T12	Element 252 256	MgB2
+T13	Characterization 258 275	X-ray diffraction
+T14	Material 306 315	hexagonal
+T15	Material 316 333	crystal structure
+T16	Element 337 341	MgB2
+T17	Material 347 358	space group
+T18	Material 359 365	P6/mmm
+T20	Element 426 428	GO
+T21	Material 456 461	grain
+T22	Property 505 529	critical current density
+T23	SC 574 577	T c
+T26	Element 689 691	GO
+T27	Element 696 707	citric acid
+T28	Property 713 716	J C
+T31	Material 793 801	pristine
+T32	Element 802 806	MgB2
+T33	Element 811 813	GO
+T35	Element 820 824	MgB2
+T36	Property 846 849	J C
+T37	Element 928 932	MgB2
+T39	Element 1075 1079	MgB2
+T40	Property 1151 1163	flux pinning
+T42	Element 1212 1214	GO
+T43	Element 1219 1230	citric acid
+T44	Value 69 73	3wt%
+T4	Element 74 76	GO
+T45	Value 78 83	x wt%
+T47	Value 95 96	0
+T24	Value 850 853	10K
+T29	Value 855 858	5 T
+T49	Value 873 875	10
+T51	Value 986 987	0
+T52	Value 1024 1026	10
+T53	Value 1050 1054	13 T
+T54	Value 1107 1111	10 T
+T56	Value 1132 1133	0
+T57	Value 104 106	10
+T58	Value 98 99	5
+T59	Value 905 907	15
+T60	Value 960 963	5.5
+T19	Doping 414 422	addition
+T34	Doping 814 819	added
+T6	Doping 162 170	addition
+T25	Doping 677 685	addition
+T30	Doping 1200 1208	addition
+R1	Coref Arg1:T7 Arg2:T8
+R2	Coref Arg1:T9 Arg2:T10
+R3	Target Arg1:E4 Arg2:T35
+R4	Target Arg1:E1 Arg2:T12
+R5	Target Arg1:E6 Arg2:T12
+E2	Doping:T19 Dopant:T20
+E4	Doping:T34 Dopant:T33
+E1	Doping:T6 Dopant:T8
+E3	Doping:T25 Dopant:T26
+E5	Doping:T30 Dopant:T42
+E6	Doping:T6 Dopant:T10
+E7	Doping:T25 Dopant:T27
+E8	Doping:T30 Dopant:T43

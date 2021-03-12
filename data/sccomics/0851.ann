@@ -1,0 +1,74 @@
+T1	Material 18 34	nano-crystalline
+T2	Main 35 39	MgB2
+T3	Material 58 67	thin film
+T4	Material 93 97	bulk
+T5	Material 98 107	materials
+T6	Property 124 148	critical current density
+T7	Property 150 153	J c
+T8	Element 186 192	Mg-B-O
+T9	Element 244 248	MgB2
+T10	Material 249 254	bulks
+T11	Property 265 268	J c
+T12	Property 316 331	magnetic fields
+T13	Element 340 358	MgB0.6-0.8O0.8-0.9
+T14	Property 382 386	δT c
+T15	Property 401 405	δT c
+T16	Property 423 430	pinning
+T17	Material 460 464	bulk
+T18	Element 465 469	MgB2
+T19	Property 480 483	J c
+T20	Property 492 507	magnetic fields
+T22	Element 544 562	MgB1.2-2.7O1.8-2.5
+T23	Material 563 574	nano-layers
+T24	Property 595 602	pinning
+T25	Material 617 626	structure
+T27	Material 648 653	films
+T28	Property 664 667	J c
+T29	Property 684 699	magnetic fields
+T30	Property 701 703	Jc
+T31	Property 728 730	Jc
+T33	Element 793 799	Mg-B-O
+T34	Property 824 831	pinning
+T35	Property 860 863	DOS
+T36	Property 864 876	calculations
+T37	Element 880 888	MgB2-xOx
+T38	Material 975 980	metal
+T39	Property 1012 1019	ordered
+T40	Element 1020 1026	oxygen
+T42	Element 1044 1049	boron
+T43	Property 1054 1068	binding energy
+T45	Element 1132 1136	MgB2
+T46	Element 1149 1155	oxygen
+T47	Material 1156 1161	atoms
+T48	Material 1174 1180	chains
+T49	Value 69 74	140nm
+T50	Value 278 287	106 A/cm2
+T52	Value 300 303	10K
+T53	Property 509 514	B irr
+T54	Value 515 520	18.5K
+T55	Value 522 526	15 T
+T21	Property 528 532	B c2
+T56	Value 533 535	0K
+T57	Value 537 542	42.1T
+T58	Value 705 708	0 Т
+T59	Value 710 723	1.8×107 А/сm2
+T60	Value 732 735	5 Т
+T61	Value 737 748	2×106 А/сm2
+T62	Value 752 756	10 К
+T66	Value 901 902	0
+T67	Property 1070 1073	E b
+T68	Property 1196 1199	E b
+T69	Property 1215 1218	E b
+T70	Value 904 909	0.125
+T71	Value 911 915	0.25
+T72	Value 917 920	0.5
+T73	Value 922 923	1
+T74	Material 193 203	nano-scale
+T75	Element 40 46	oxygen
+T41	Doping 1027 1039	substitution
+T51	Value 291 292	0
+T76	Value 293 296	1 T
+T26	Element 630 636	oxygen
+T32	Element 777 783	oxygen
+T44	Value 1220 1228	−1.15712
+E1	Doping:T41 Dopant:T40 Site:T42

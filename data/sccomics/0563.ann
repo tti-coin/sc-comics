@@ -1,0 +1,42 @@
+T2	Material 50 54	bulk
+T3	Main 55 75	Ba(Fe0.95Ni0.05)2As2
+T4	SC 77 80	T c
+T5	Main 91 111	Ba(Fe0.94Ni0.06)2As2
+T6	SC 112 115	T c
+T7	SC 125 140	superconductors
+T9	Property 170 185	magnetic fields
+T10	Property 232 253	crossover temperature
+T11	Material 271 275	flux
+T12	Property 301 313	flux pinning
+T13	Property 314 331	activation energy
+T14	Property 337 344	modeled
+T16	Property 500 514	magnetic field
+T17	SC 526 529	T c
+T18	Property 540 547	pinning
+T19	Element 584 587	Ni6
+T21	Element 624 627	Ni5
+T23	Property 708 729	upper critical fields
+T25	SC 781 784	T c
+T1	Property 0 28	Thermally assisted flux flow
+T28	Property 30 34	TAFF
+T29	Value 118 123	18.5K
+T31	Property 207 211	TAFF
+T32	Value 192 196	18 T
+T33	Value 574 579	1600K
+T34	Value 560 563	0 T
+T35	Value 83 88	20.4K
+T36	Value 614 619	4800K
+T30	Property 820 829	WHH model
+T37	Property 263 267	TAFF
+T15	Property 422 440	Anderson-Kim model
+T24	Property 642 650	Sub-TAFF
+T20	Doping 588 593	doped
+T22	Doping 628 633	doped
+T8	Property 144 153	transport
+T26	Characterization 154 166	measurements
+R1	Equivalent Arg1:T6 Arg2:T29
+R2	Equivalent Arg1:T4 Arg2:T35
+R3	Target Arg1:T35 Arg2:T3
+R4	Target Arg1:T29 Arg2:T5
+E1	Doping:T20 Dopant:T19
+E2	Doping:T22 Dopant:T21

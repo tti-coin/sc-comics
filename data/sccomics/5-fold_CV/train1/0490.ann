@@ -1,0 +1,84 @@
+T1	Material 4 14	structural
+T2	Property 16 26	electronic
+T3	Property 31 50	magnetic properties
+T4	Element 54 63	germanene
+T5	Property 91 93	3d
+T10	Property 195 197	3d
+T11	Element 198 200	TM
+T12	Element 268 277	germanene
+T13	Element 286 288	Zn
+T15	Element 374 376	TM
+T16	Element 388 397	germanene
+T17	Material 398 403	layer
+T18	Element 424 426	TM
+T19	Element 427 436	germanene
+T20	Element 485 494	germanene
+T21	Property 515 525	electronic
+T22	Property 530 549	magnetic properties
+T24	Element 610 612	Cu
+T26	Element 653 655	Ni
+T27	Element 659 661	Zn
+T28	Property 675 688	ferromagnetic
+T29	Material 689 694	metal
+T30	Element 696 698	Cr
+T31	Element 702 704	Mn
+T32	Property 718 731	ferromagnetic
+T33	Material 732 745	semiconductor
+T34	Element 747 748	V
+T35	Property 783 796	ferromagnetic
+T36	Material 797 807	half-metal
+T38	Element 809 811	Sc
+T39	Element 813 815	Ti
+T40	Element 817 819	Fe
+T41	Element 823 825	Co
+T42	Property 848 852	spin
+T43	Property 853 865	polarization
+T44	Property 873 884	Fermi level
+T46	Element 899 901	Cr
+T47	Property 932 947	magnetic moment
+T49	Element 951 960	germanene
+T51	Element 968 970	Sc
+T52	Element 972 974	Ti
+T53	Element 976 977	V
+T54	Element 979 981	Mn
+T55	Element 983 985	Fe
+T56	Element 990 992	Co
+T57	Property 1029 1045	magnetic moments
+T59	Property 1074 1093	Coulomb interaction
+T60	Property 1109 1117	magnetic
+T61	Element 1138 1140	TM
+T62	Property 1173 1186	half-metallic
+T63	Element 1187 1189	TM
+T64	Element 1190 1199	germanene
+T65	Property 1259 1279	half-metallic states
+T67	Element 1288 1290	Sc
+T68	Element 1291 1300	germanene
+T69	Element 1305 1307	Ti
+T70	Element 1308 1317	germanene
+T71	Property 1340 1353	ferromagnetic
+T72	Element 1354 1356	TM
+T73	Element 1357 1366	germanene
+T74	Property 1427 1442	two-dimensional
+T75	Property 1443 1454	spintronics
+T76	Property 1503 1516	ferromagnetic
+T77	Element 1542 1544	TM
+T79	Element 1606 1608	TM
+T81	Property 173 189	DFT calculations
+T8	Property 158 172	spin-polarized
+T6	Element 94 110	transition metal
+T82	Element 112 114	TM
+T7	Material 201 208	adatoms
+T83	Material 245 259	hexagon hollow
+T84	Material 567 573	adatom
+T37	Property 1588 1598	spin-split
+T45	Value 843 847	100%
+T9	Material 377 383	adatom
+T50	Material 1141 1148	adatoms
+T66	Characterization 1484 1488	PDOS
+T48	Property 1609 1618	3d states
+T58	Property 339 355	covalent bonding
+T14	Material 591 608	nonmagnetic metal
+T23	Material 638 651	semiconductor
+T25	Property 626 637	nonmagnetic
+T78	Element 1545 1554	germanene
+R1	Coref Arg1:T6 Arg2:T82

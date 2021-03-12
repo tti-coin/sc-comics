@@ -1,0 +1,39 @@
+T2	SC 54 71	superconductivity
+T3	Material 97 101	bulk
+T4	Property 134 157	magnetic susceptibility
+T5	Property 167 180	specific heat
+T6	Main 207 237	Y 1 - x Ca x Ba 2 Cu 3 O 7 - δ
+T7	Process 329 336	cooling
+T8	SC 365 380	superconducting
+T9	SC 382 384	SC
+T10	SC 406 409	T c
+T11	Property 477 495	hole concentration
+T12	Element 503 508	CuO 2
+T13	Material 509 514	plane
+T14	Property 540 553	specific heat
+T15	SC 697 699	SC
+T16	Element 780 799	La 2 - x Sr x CuO 4
+T17	Material 840 856	phase separation
+T18	SC 862 864	SC
+T19	Property 869 881	normal-state
+T21	Element 934 964	Y 1 - x Ca x Ba 2 Cu 3 O 7 - δ
+T22	Element 985 987	Ca
+T23	SC 1029 1038	high- T c
+T24	Element 1039 1047	cuprates
+T28	Value 247 250	0.1
+T29	Value 255 258	0.2
+T34	Value 317 319	2K
+T35	Property 159 160	χ
+T36	Property 623 642	Sommerfeld constant
+T37	Property 269 270	χ
+T38	Property 312 313	χ
+T42	Characterization 271 283	measurements
+T43	Property 340 341	χ
+T44	Value 342 345	2 K
+T45	Property 386 401	volume fraction
+T1	Characterization 73 85	measurements
+T20	Doping 913 923	underdoped
+T25	Characterization 554 566	measurements
+R1	Coref Arg1:T8 Arg2:T9
+R2	Target Arg1:E1 Arg2:T21
+E1	Doping:T20 

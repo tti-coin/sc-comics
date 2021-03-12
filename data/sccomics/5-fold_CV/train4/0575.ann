@@ -1,0 +1,34 @@
+T1	SC 82 97	superconducting
+T2	Material 98 103	fault
+T3	Property 158 175	three-dimensional
+T4	Property 177 179	3D
+T5	Property 181 186	model
+T7	Property 272 281	impedance
+T8	Property 374 383	impedance
+T11	Element 524 531	silicon
+T12	Material 532 537	steel
+T13	Property 630 639	impedance
+T15	Property 794 803	impedance
+T17	Property 67 81	saturated-core
+T19	Property 121 127	SCSFCL
+T20	Characterization 134 152	numerical analyses
+T6	Property 259 271	steady-state
+T21	Property 361 373	steady-state
+T22	Property 391 406	AC coil current
+T23	Property 437 444	oil gap
+T24	Property 449 464	coil inductance
+T9	Property 499 506	oil gap
+T25	Material 553 571	core cross-section
+T37	Value 840 844	400A
+T38	Value 849 854	1296A
+T16	Property 24 39	electromagnetic
+T26	Property 617 629	steady-state
+T27	Material 725 744	harmonic distortion
+T28	Material 648 666	core cross-section
+T14	Property 749 756	voltage
+T10	Value 693 701	4344 cm2
+T18	Value 705 713	3983 cm2
+T29	Value 772 776	2.4%
+T30	Value 780 784	1.8%
+T31	Value 819 825	1.082Ω
+T32	Value 829 835	1.069Ω

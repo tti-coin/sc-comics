@@ -1,0 +1,43 @@
+T1	Property 29 50	temperature dependent
+T2	Property 61 81	optical conductivity
+T3	Main 103 123	Y1− x Ca x Ba2Cu3O y
+T4	Material 124 139	single crystals
+T7	Property 211 231	optical conductivity
+T8	Property 265 277	conductivity
+T9	Characterization 286 298	far-infrared
+T10	SC 327 365	superconducting transition temperature
+T11	Property 403 422	non-superconducting
+T12	SC 440 455	superconducting
+T13	Property 491 503	conductivity
+T15	Property 540 553	pair-breaking
+T17	Element 616 618	Ca
+T20	Property 702 714	conductivity
+T24	Element 816 818	Ca
+T26	Property 905 917	conductivity
+T30	Value 144 145	0
+T16	Element 569 571	Ca
+T31	Material 572 580	disorder
+T19	Element 664 666	Ca
+T33	Property 518 525	carrier
+T21	Material 54 60	a-axis
+T35	Value 147 151	0.11
+T36	Value 156 160	0.16
+T37	Property 245 255	Drude like
+T6	Doping 189 198	overdoped
+T14	Doping 526 536	overdoping
+T18	Doping 642 648	doping
+T22	Doping 667 679	substitution
+T25	Doping 787 796	overdoped
+T32	Doping 871 881	overdoping
+T5	Doping 179 184	doped
+T23	Doping 777 782	doped
+R1	Target Arg1:E1 Arg2:T3
+R2	Target Arg1:E2 Arg2:T3
+E2	Doping:T6 
+E3	Doping:T14 Dopant:T33
+E4	Doping:T18 Dopant:T17
+E5	Doping:T22 Dopant:T19
+E7	Doping:T25 Dopant:T24
+E8	Doping:T32 
+E1	Doping:T5 
+E6	Doping:T23 Dopant:T24

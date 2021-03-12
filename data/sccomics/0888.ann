@@ -1,0 +1,73 @@
+T1	Property 0 9	Transport
+T2	Property 14 33	magnetic properties
+T3	Property 37 45	electron
+T5	SC 52 67	superconducting
+T6	Element 68 76	cuprates
+T7	Main 77 107	Eu1.85Ce0.15Cu1- y Zn y O4+α-δ
+T8	Main 109 114	ECCZO
+T9	Property 171 193	electrical resistivity
+T13	Element 302 304	Cu
+T14	SC 312 329	superconductivity
+T15	Property 350 358	electron
+T16	Property 362 374	normal state
+T17	SC 416 436	critical temperature
+T18	SC 438 441	T c
+T19	Property 449 471	electrical resistivity
+T21	Element 583 585	Zn
+T23	SC 614 617	T c
+T24	SC 661 678	superconductivity
+T25	Element 693 695	Zn
+T26	Element 715 717	Zn
+T28	Element 735 737	Cu
+T29	Property 774 782	electron
+T30	Property 790 802	normal state
+T31	Process 806 822	low temperatures
+T32	Property 865 872	pinning
+T33	Element 884 886	Zn
+T34	Property 890 898	electron
+T36	Element 915 920	ECCZO
+T37	Property 934 957	magnetic susceptibility
+T38	Property 966 978	normal state
+T39	Element 987 989	Zn
+T41	Property 1015 1023	electron
+T43	SC 1030 1038	high-T c
+T44	SC 1039 1054	superconducting
+T45	Element 1055 1063	cuprates
+T46	Element 1067 1072	ECCZO
+T47	Property 1088 1092	hole
+T49	Element 1099 1107	cuprates
+T52	Value 125 126	0
+T12	Element 282 284	Zn
+T57	Value 529 533	13 K
+T59	Value 542 543	0
+T62	Value 560 565	0.095
+T63	Value 128 132	0.01
+T64	Value 134 138	0.02
+T65	Value 143 147	0.05
+T11	Value 707 711	0.01
+T22	Property 990 1011	induced local moments
+T4	Doping 46 51	doped
+T20	Doping 285 297	substitution
+T27	Doping 718 730	substitution
+T35	Doping 899 904	doped
+T40	Doping 1024 1029	doped
+T42	Doping 1093 1098	doped
+T10	Property 198 221	magnetic susceptibility
+T48	Characterization 222 234	measurements
+T50	Characterization 500 512	measurements
+T51	Property 476 499	magnetic susceptibility
+R2	Target Arg1:E2 Arg2:T6
+R3	Target Arg1:E3 Arg2:T7
+R4	Target Arg1:E6 Arg2:T36
+R5	Target Arg1:E8 Arg2:T46
+R6	Target Arg1:E9 Arg2:T49
+R7	Target Arg1:E1 Arg2:T7
+R9	Equivalent Arg1:T17 Arg2:T57
+R10	Target Arg1:E8 Arg2:T45
+E2	Doping:T4 Dopant:T3
+E3	Doping:T20 Dopant:T12 Site:T13
+E5	Doping:T27 Dopant:T26 Site:T28
+E6	Doping:T35 Dopant:T34
+E8	Doping:T40 Dopant:T41
+E9	Doping:T42 Dopant:T47
+E1	Doping:T4 Dopant:T3

@@ -1,0 +1,65 @@
+T1	Element 4 6	Sn
+T3	Main 19 47	Bi1.75Pb0.25Sr2Ca2Cu3-xSnxOδ
+T5	Material 48 61	glass ceramic
+T7	Process 122 136	melt-quenching
+T10	Characterization 217 246	differential thermal analysis
+T11	Characterization 248 251	DTA
+T12	Process 258 267	oxidation
+T13	Characterization 320 345	thermogravimetry analysis
+T14	Characterization 347 349	TG
+T15	Characterization 356 359	DTA
+T16	Process 459 474	crystallization
+T17	Property 502 519	activation energy
+T18	Process 523 538	crystallization
+T19	Process 562 577	crystallization
+T20	Element 607 609	Sn
+T22	Material 626 632	powder
+T24	Material 633 646	glass ceramic
+T26	Property 667 699	The glass transition temperature
+T27	Property 708 750	the first crystallization peak temperature
+T28	Property 762 805	the second crystallization peak temperature
+T29	Property 922 939	activation energy
+T30	Process 950 965	crystallization
+T31	Characterization 985 988	DTA
+T32	Element 1189 1191	Sn
+T33	Characterization 1203 1206	DTA
+T34	Process 1285 1291	growth
+T35	Material 1301 1309	particle
+T41	Value 71 72	0
+T42	Value 74 77	0.1
+T43	Value 79 82	0.3
+T44	Value 88 91	0.5
+T45	Value 444 453	1200±0.5K
+T46	Value 413 414	5
+T47	Value 416 418	10
+T48	Value 420 422	15
+T49	Value 428 436	20Kmin−1
+T54	Value 1067 1068	0
+T55	Value 1070 1073	0.1
+T56	Value 1075 1078	0.3
+T57	Value 1083 1086	0.5
+T58	Property 1115 1131	Kissinger method
+T61	Value 1009 1018	332.8±0.1
+T62	Value 1020 1029	358.0±0.1
+T63	Value 1031 1040	353.1±0.1
+T64	Value 1045 1060	348.9±0.1kJ/mol
+T65	Property 941 944	E a
+T6	Property 145 168	Crystallization kinetic
+T8	Property 1137 1153	Avrami parameter
+T36	Property 1328 1343	nucleation rate
+T60	Property 701 704	T g
+T9	Property 807 811	T x2
+T25	Property 752 756	T x1
+T2	Doping 7 18	substituted
+T4	Doping 610 622	substitution
+T21	Value 837 846	713.0±0.5
+T23	Value 847 856	746.6±0.5
+T37	Value 858 867	731.0±0.5
+T38	Value 868 877	760.8±0.5
+T39	Value 882 891	789.0±0.5
+T50	Value 892 902	820.1±0.5K
+T51	Value 1240 1249	1.70±0.01
+T52	Value 1254 1263	2.57±0.01
+R1	Target Arg1:E1 Arg2:T3
+E1	Doping:T2 Dopant:T1
+E2	Doping:T4 Dopant:T20

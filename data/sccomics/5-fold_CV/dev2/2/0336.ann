@@ -1,0 +1,73 @@
+T1	Material 10 19	materials
+T2	Main 20 33	AlMgB14–xTiB2
+T3	Material 34 39	disks
+T4	Process 71 85	heat-treatment
+T5	Element 113 127	AlMg6B14–xTiB2
+T6	Material 128 133	disks
+T7	Element 169 171	Mg
+T8	Element 173 174	B
+T9	Element 176 178	Al
+T10	Material 179 186	powders
+T11	Element 210 212	Ti
+T12	Material 213 219	powder
+T13	Element 230 244	AlMg6B14–xTiB2
+T14	Material 245 250	disks
+T16	Process 289 305	argon atmosphere
+T17	Element 327 341	AlMg6B14–xTiB2
+T18	Material 342 347	disks
+T19	Process 353 361	sintered
+T20	Process 392 398	vacuum
+T21	Element 412 425	AlMgB14–xTiB2
+T22	Material 426 431	disks
+T23	Material 458 472	microstructure
+T24	SC 477 494	superconductivity
+T25	Characterization 526 543	X-ray diffraction
+T26	Characterization 545 548	XRD
+T27	Characterization 551 579	scanning electron microscope
+T28	Characterization 581 584	SEM
+T31	Characterization 635 640	SQUID
+T32	Element 658 662	TiB2
+T33	Material 663 672	particles
+T34	Element 704 706	Ti
+T36	Material 754 760	matrix
+T37	Element 838 850	AlMgB14–TiB2
+T38	Material 851 860	materials
+T39	Value 365 371	1050°C
+T42	Value 266 271	850°C
+T43	Value 276 278	2h
+T45	Characterization 590 633	superconducting quantum interference device
+T47	Process 790 815	stepwise synthesis method
+T49	Process 256 262	heated
+T15	Material 647 657	nano-scale
+T50	Value 376 388	half an hour
+T30	Doping 707 713	doping
+E1	Doping:T30 Dopant:T34
+#1	AnnotatorNotes T1	10-19
+#2	AnnotatorNotes T2	20-33
+#3	AnnotatorNotes T3	34-39
+#4	AnnotatorNotes T5	113-127
+#5	AnnotatorNotes T6	128-133
+#6	AnnotatorNotes T7	169-171
+#7	AnnotatorNotes T8	173-174
+#8	AnnotatorNotes T9	176-178
+#9	AnnotatorNotes T10	179-186
+#10	AnnotatorNotes T11	210-212
+#11	AnnotatorNotes T12	213-219
+#12	AnnotatorNotes T13	230-244
+#13	AnnotatorNotes T14	245-250
+#14	AnnotatorNotes T17	327-341
+#15	AnnotatorNotes T18	342-347
+#16	AnnotatorNotes T21	412-425
+#17	AnnotatorNotes T22	426-431
+#18	AnnotatorNotes T23	458-472
+#19	AnnotatorNotes T32	658-662
+#20	AnnotatorNotes T33	663-672
+#21	AnnotatorNotes T34	704-706
+#22	AnnotatorNotes T36	754-760
+#23	AnnotatorNotes T37	838-850
+#24	AnnotatorNotes T38	851-860
+#25	AnnotatorNotes T39	365-371
+#26	AnnotatorNotes T42	266-271
+#27	AnnotatorNotes T43	276-278
+#28	AnnotatorNotes T15	647-657
+#29	AnnotatorNotes T50	376-388

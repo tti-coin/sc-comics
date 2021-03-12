@@ -1,0 +1,66 @@
+T1	Property 48 75	DC isothermal magnetization
+T3	Property 100 124	critical current density
+T4	Property 126 128	Jc
+T5	Material 137 142	grain
+T6	Property 143 167	critical current density
+T8	Property 191 203	conductivity
+T9	Main 219 226	CoFe2O4
+T10	Main 228 231	CFO
+T11	Main 270 282	Y1Ba2Cu3O7-δ
+T12	Main 284 288	YBCO
+T13	Characterization 291 308	X-ray diffraction
+T14	Characterization 322 341	Rietveld refinement
+T15	Material 408 419	space group
+T16	Material 454 472	lattice parameters
+T17	Element 510 513	CFO
+T18	Element 521 525	YBCO
+T19	Material 526 532	matrix
+T20	Element 571 574	CFO
+T22	Element 592 596	YBCO
+T23	Material 597 603	matrix
+T24	Characterization 617 660	field emission scanning electron microscopy
+T26	Element 678 681	CFO
+T27	Element 689 693	YBCO
+T28	Material 694 700	matrix
+T29	Property 713 725	flux pinning
+T30	Property 763 789	critical current densities
+T31	Property 791 793	Jc
+T33	Property 811 835	critical current density
+T34	Property 837 845	Jc intra
+T35	Element 854 857	CFO
+T37	Property 887 889	Jc
+T38	Property 894 902	Jc intra
+T40	Property 948 950	Jc
+T41	Property 955 963	Jc intra
+T46	Property 1071 1091	critical temperature
+T47	Property 1093 1095	TC
+T48	Property 1124 1135	resistivity
+T49	Element 1166 1169	CFO
+T50	Property 1221 1236	charge carriers
+T51	Material 1257 1271	grain boundary
+T52	Property 1272 1283	resistivity
+T53	Property 1304 1316	conductivity
+T54	Property 1389 1409	critical temperature
+T55	Property 1422 1444	crossover temperatures
+T57	Property 33 47	direct current
+T7	Property 169 177	Jc intra
+T59	Value 233 236	1.0
+T60	Material 402 407	P mmm
+T61	Material 538 549	crystallite
+T62	Property 1038 1065	Bean's critical state model
+T44	Property 1469 1491	Aslamazov–Larkin model
+T63	Value 238 241	2.0
+T64	Value 247 254	3.0 wt%
+T65	Characterization 1011 1023	measurements
+T45	Property 983 1010	DC isothermal magnetization
+T2	Doping 497 506	inclusion
+T21	Doping 579 584	added
+T25	Doping 666 674	addition
+R1	Coref Arg1:T9 Arg2:T10
+R2	Coref Arg1:T11 Arg2:T12
+R3	Target Arg1:E1 Arg2:T18
+R4	Target Arg1:E2 Arg2:T22
+R5	Target Arg1:E3 Arg2:T27
+E1	Doping:T2 Dopant:T17
+E2	Doping:T21 Dopant:T20
+E3	Doping:T25 Dopant:T26

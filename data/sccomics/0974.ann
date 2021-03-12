@@ -1,0 +1,48 @@
+T1	Property 4 24	electronic structure
+T2	Property 26 35	magnetism
+T3	Property 40 53	Fermi surface
+T4	SC 94 109	superconductive
+T5	Material 117 125	material
+T6	Main 126 133	CaFeAs2
+T7	Property 153 169	first-principles
+T9	Property 237 254	density of states
+T10	Property 262 273	Fermi level
+T11	Element 341 348	LaOFeAs
+T12	Property 354 368	Fermi surfaces
+T13	Property 385 389	hole
+T14	Material 398 404	sheets
+T15	Property 429 437	electron
+T16	Material 443 449	sheets
+T17	Property 459 473	Brillouin zone
+T18	Property 526 530	hole
+T19	Property 536 550	Fermi surfaces
+T20	Property 582 590	electron
+T21	Material 599 605	sheets
+T24	Property 713 730	spin density wave
+T25	Property 732 735	SDW
+T26	Property 851 865	susceptibility
+T27	Property 930 938	electron
+T29	SC 982 999	superconductivity
+T30	Property 1007 1015	electron
+T32	Element 1031 1051	Ca 1 − x La x FeAs 2
+T33	Property 1066 1074	electron
+T35	Property 1097 1100	SDW
+T36	SC 1117 1134	superconductivity
+T40	Property 55 57	FS
+T8	Property 184 205	GGA and GGA+U methods
+T42	Property 596 598	FS
+T43	Property 395 397	FS
+T44	Value 652 653	0
+T37	Property 661 663	FS
+T41	Property 214 225	nonmagnetic
+T45	Property 318 329	d zx orbits
+T46	Property 302 306	d xy
+T47	Property 309 313	d yz
+T48	Property 688 708	magnetic instability
+T22	Doping 939 945	doping
+T23	Doping 1016 1021	doped
+T28	Doping 1075 1081	doping
+R1	Target Arg1:E2 Arg2:T32
+E1	Doping:T22 Dopant:T27
+E2	Doping:T23 Dopant:T30
+E3	Doping:T28 Dopant:T33

@@ -1,0 +1,24 @@
+T1	Property 55 58	BCS
+T2	Property 60 66	theory
+T3	Property 92 98	theory
+T4	SC 106 121	superconducting
+T5	SC 209 247	superconducting transition temperature
+T6	SC 248 250	Tc
+T8	Property 304 316	normal state
+T9	Property 325 342	Eliashberg theory
+T10	Property 362 372	BCS theory
+T12	Property 388 401	Migdal theory
+T13	SC 466 468	Tc
+T14	SC 489 491	Tc
+T15	Property 573 579	theory
+T16	Property 614 620	theory
+T17	Property 697 703	theory
+T19	Property 819 847	lattice vibrational spectrum
+T21	Property 867 875	spectrum
+T22	Property 28 53	Bardeen–Cooper–Schrieffer
+T23	Property 256 269	Migdal theory
+T7	Property 550 567	Migdal–Eliashberg
+T24	Property 569 571	ME
+T11	Property 273 288	electron–phonon
+T18	Characterization 926 944	neutron scatterers
+T20	Property 1011 1035	electron–phonon coupling

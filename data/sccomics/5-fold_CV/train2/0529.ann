@@ -1,0 +1,38 @@
+T1	Property 2 4	dc
+T2	Process 65 71	vacuum
+T3	SC 85 88	HTS
+T4	SC 194 197	HTS
+T6	Property 229 238	cryogenic
+T7	Property 245 256	electronics
+T8	Material 395 400	wires
+T9	Property 416 425	cryogenic
+T10	Process 505 512	drawing
+T11	Property 536 538	dc
+T12	Property 663 671	charging
+T13	Process 831 839	quenches
+T14	Process 854 860	quench
+T15	Property 971 973	DC
+T16	Property 1013 1030	critical currents
+T17	Process 1093 1099	quench
+T18	Process 1159 1165	quench
+T19	SC 1301 1304	HTS
+T20	Material 1313 1319	liquid
+T21	Element 1320 1328	nitrogen
+T22	Process 1345 1354	reduction
+T23	Property 1485 1494	frequency
+T24	Process 1559 1565	quench
+T25	Property 1575 1590	Magnetic fields
+T26	Value 386 388	5A
+T27	Value 527 529	5A
+T28	Value 531 534	50V
+T29	Value 653 656	82K
+T30	Value 714 717	30A
+T31	Value 771 773	2W
+T32	Value 808 811	74K
+T33	Value 903 906	75A
+T34	Value 1247 1250	20A
+T35	Value 1402 1404	4A
+T36	Property 354 376	H-bridge configuration
+T37	Characterization 1273 1285	measurements
+T5	Doping 217 225	replaced
+E1	Doping:T5 

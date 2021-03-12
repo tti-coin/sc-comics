@@ -1,0 +1,101 @@
+T1	Property 0 14	Spin-polarized
+T3	Property 15 40	density functional theory
+T4	Property 93 112	magnetic properties
+T5	Element 116 118	Ca
+T6	Element 119 135	transition metal
+T8	Element 145 147	Sc
+T9	Element 149 151	Ti
+T10	Element 153 154	V
+T11	Element 156 158	Cr
+T12	Element 160 162	Mn
+T13	Element 164 166	Fe
+T14	Element 168 170	Co
+T15	Element 172 174	Ni
+T16	Element 180 182	Cu
+T18	Main 190 196	CaZrO3
+T19	Material 258 264	dopant
+T20	Material 271 282	ionic radii
+T21	Material 340 346	dopant
+T22	Element 389 391	Co
+T23	Element 396 398	Cr
+T24	Element 406 408	Zr
+T25	Element 416 418	Zr
+T27	Property 438 451	half-metallic
+T28	Property 514 536	charge carrier density
+T31	Element 558 560	Ca
+T35	Element 667 669	Sc
+T36	Property 695 707	non-magnetic
+T37	Element 750 752	Ti
+T38	Element 757 759	Mn
+T39	Element 768 770	Ni
+T41	Element 780 786	CaZrO3
+T42	Property 803 815	non-magnetic
+T46	Property 874 889	magnetic moment
+T48	Property 907 917	insulating
+T49	Property 950 962	calculations
+T51	Property 1036 1047	spintronics
+T7	Value 541 550	1021 cm−3
+T29	Material 670 676	dopant
+T52	Value 893 897	3μ B
+T43	Element 136 138	TM
+T47	Element 140 142	TM
+T2	Element 255 257	TM
+T53	Property 485 495	d-orbitals
+T33	Property 629 652	deficiency of electrons
+T34	Element 392 394	Zr
+T54	Element 399 401	Zr
+T55	Element 403 405	Fe
+T56	Element 414 415	V
+T57	Element 561 563	Zr
+T30	Element 568 570	Cu
+T58	Element 571 573	Zr
+T59	Property 603 617	ferromagnetism
+T60	Element 753 755	Zr
+T61	Element 760 762	Zr
+T62	Element 771 773	Zr
+T44	Element 844 846	Zr
+T63	Element 841 843	Mn
+T17	Doping 419 424	doped
+T26	Doping 574 579	doped
+T32	Doping 774 779	doped
+T40	Doping 847 852	doped
+T45	Doping 1019 1024	doped
+T50	Doping 184 189	doped
+R2	Target Arg1:E7 Arg2:T41
+R3	Target Arg1:E8 Arg2:T41
+R4	Target Arg1:E9 Arg2:T41
+R5	Target Arg1:E12 Arg2:T18
+R6	Target Arg1:E23 Arg2:T18
+R7	Target Arg1:E22 Arg2:T18
+R8	Target Arg1:E21 Arg2:T18
+R9	Target Arg1:E20 Arg2:T18
+R10	Target Arg1:E19 Arg2:T18
+R11	Target Arg1:E18 Arg2:T18
+R12	Target Arg1:E17 Arg2:T18
+R13	Target Arg1:E16 Arg2:T18
+R14	Target Arg1:E15 Arg2:T18
+R15	Target Arg1:E14 Arg2:T18
+R16	Target Arg1:E13 Arg2:T18
+E1	Doping:T17 Dopant:T56 Site:T25
+E2	Doping:T17 Dopant:T55 Site:T24
+E3	Doping:T17 Dopant:T23 Site:T54
+E4	Doping:T17 Dopant:T22 Site:T34
+E5	Doping:T26 Dopant:T30 Site:T58
+E6	Doping:T26 Dopant:T31 Site:T57
+E7	Doping:T32 Dopant:T39 Site:T62
+E8	Doping:T32 Dopant:T38 Site:T61
+E9	Doping:T32 Dopant:T37 Site:T60
+E10	Doping:T40 Dopant:T63 Site:T44
+E11	Doping:T45
+E12	Doping:T50 Dopant:T15
+E13	Doping:T50 Dopant:T14
+E14	Doping:T50 Dopant:T13
+E15	Doping:T50 Dopant:T12
+E16	Doping:T50 Dopant:T11
+E17	Doping:T50 Dopant:T10
+E18	Doping:T50 Dopant:T9
+E19	Doping:T50 Dopant:T8
+E20	Doping:T50 Dopant:T47
+E21	Doping:T50 Dopant:T43
+E22	Doping:T50 Dopant:T6
+E23	Doping:T50 Dopant:T16

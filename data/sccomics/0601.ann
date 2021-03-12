@@ -1,0 +1,74 @@
+T1	Property 19 28	pseudogap
+T2	Element 57 63	oxygen
+T3	Element 68 74	copper
+T4	Material 75 82	isotope
+T6	Property 171 185	Fermi surfaces
+T7	Property 197 210	polaron model
+T8	Property 229 232	BCS
+T9	Property 329 344	electron–phonon
+T10	Property 382 389	polaron
+T11	Property 404 407	BCS
+T12	Property 413 420	pairing
+T13	SC 440 443	T c
+T16	Element 471 479	cuprates
+T18	SC 508 523	superconductors
+T19	Property 547 550	BCS
+T20	Property 556 562	theory
+T21	Property 577 586	pseudogap
+T22	Material 615 622	isotope
+T23	Element 638 644	oxygen
+T24	Element 649 655	copper
+T25	Material 656 663	isotope
+T26	Element 698 700	Cu
+T27	Material 717 724	isotope
+T28	Property 759 779	strengths of Coulomb
+T29	Property 784 799	electron–phonon
+T31	Property 832 852	dielectric constants
+T32	Element 860 868	cuprates
+T33	Property 875 881	theory
+T34	Element 940 946	oxygen
+T35	Material 947 954	isotope
+T36	Element 995 1001	oxygen
+T37	Element 1006 1012	copper
+T38	Material 1013 1020	isotope
+T39	Element 1039 1047	cuprates
+T40	Property 1059 1073	Fermi surfaces
+T41	Property 1123 1126	BCS
+T43	Property 1151 1153	PG
+T44	Material 1181 1188	isotope
+T46	Element 1225 1233	cuprates
+T47	Property 1245 1259	Fermi surfaces
+T48	Element 1316 1322	oxygen
+T49	Element 1327 1333	copper
+T50	Material 1334 1341	isotope
+T52	Element 1376 1384	cuprates
+T53	Material 1407 1414	isotope
+T54	Element 1462 1464	Cu
+T55	SC 1491 1499	high-T c
+T56	Element 1500 1508	cuprates
+T57	Material 1643 1650	isotope
+T58	Element 1674 1682	cuprates
+T67	Property 98 100	PG
+T68	Property 491 497	exotic
+T70	Property 30 32	PG
+T42	Element 1450 1451	O
+T59	Element 686 687	O
+T17	Property 499 506	non-BCS
+T60	SC 101 122	onset temperature T ⁎
+T14	Doping 447 457	underdoped
+T15	Doping 461 470	overdoped
+T30	Doping 814 820	doping
+T45	Doping 1214 1224	underdoped
+T51	Doping 1365 1375	underdoped
+T5	Main 126 133	cuprate
+T61	SC 134 149	superconductors
+R1	Target Arg1:E4 Arg2:T46
+R2	Target Arg1:E5 Arg2:T52
+R3	Target Arg1:E2 Arg2:T16
+R4	Target Arg1:E1 Arg2:T16
+R5	Target Arg1:E3 Arg2:T32
+E1	Doping:T14
+E2	Doping:T15
+E3	Doping:T30
+E4	Doping:T45
+E5	Doping:T51

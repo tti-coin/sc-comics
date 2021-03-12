@@ -1,0 +1,56 @@
+T2	Process 192 201	sintering
+T4	SC 341 356	superconducting
+T5	Process 383 392	sintering
+T6	Process 451 460	sintering
+T12	Process 618 628	sinterings
+T15	Process 710 720	sinterings
+T16	Characterization 745 748	XRD
+T17	Characterization 750 753	TEM
+T18	Characterization 755 758	SEM
+T20	Material 919 933	microstructure
+T22	Process 1062 1071	sintering
+T23	Element 15 17	Pb
+T24	Main 24 31	Bi-2212
+T26	Element 250 252	Pb
+T30	Characterization 763 767	EDAX
+T31	Element 1018 1020	Pb
+T32	Element 820 822	Pb
+T33	Property 944 965	electronic properties
+T35	Element 829 836	Bi-2212
+T25	Element 67 88	Pb-free Bi-2212 phase
+T37	Process 125 138	rapid cooling
+T38	Process 140 142	RC
+T39	Process 148 163	furnace cooling
+T40	Process 165 167	FC
+T45	Element 535 537	Pb
+T46	Process 1027 1029	RC
+T47	Process 1034 1036	FC
+T50	Process 428 430	RC
+T51	Process 435 437	FC
+T52	Property 893 907	band structure
+T1	Doping 18 23	doped
+T3	Doping 253 258	doped
+T9	Doping 538 543	doped
+T19	Doping 823 828	doped
+T21	Doping 1006 1014	occupied
+T27	Value 212 214	12
+T53	Value 218 223	144 h
+T34	Element 294 296	Pb
+T36	Element 476 478	Pb
+T10	SC 588 595	T c(RC)
+T11	SC 598 605	T c(FC)
+T13	SC 681 688	T c(RC)
+T14	SC 691 698	T c(FC)
+T7	SC 506 513	T c(FC)
+T8	SC 516 523	T c(FC)
+T28	Value 630 632	12
+T41	Value 636 640	36 h
+T29	Value 722 724	48
+T42	Value 728 733	144 h
+R1	Target Arg1:E1 Arg2:T24
+R2	Target Arg1:E4 Arg2:T35
+E1	Doping:T1 Dopant:T23
+E2	Doping:T3 Dopant:T26
+E3	Doping:T9 Dopant:T45
+E4	Doping:T19 Dopant:T32
+E5	Doping:T21 Dopant:T31

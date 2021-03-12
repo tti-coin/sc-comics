@@ -1,0 +1,47 @@
+T1	Property 2 7	model
+T2	SC 55 64	T c ( x )
+T3	Main 84 107	Y 1−b (Ca) b Ba2Cu3O6+x
+T4	SC 108 117	high- T c
+T5	Element 118 125	cuprate
+T6	Element 274 276	Ca
+T7	Property 299 304	holes
+T8	Material 333 338	plane
+T9	Property 339 359	oxygen concentration
+T10	Property 398 407	electrons
+T11	Element 413 417	CuO2
+T12	Material 418 424	layers
+T13	Element 447 449	Ca
+T14	Element 480 486	oxygen
+T16	Material 505 510	chain
+T17	Element 511 517	oxygen
+T18	Material 535 540	layer
+T19	Element 552 554	Ba
+T20	Element 559 568	O(4) ions
+T21	Material 662 667	chain
+T22	Element 668 674	oxygen
+T23	Property 689 697	electron
+T24	Material 718 724	layers
+T25	Element 743 745	Ca
+T26	Property 780 795	charge transfer
+T27	Element 831 833	Ca
+T28	Property 857 866	electrons
+T29	Element 899 904	CuO 2
+T30	Material 905 911	layers
+T32	Element 960 964	Y 3+
+T33	Element 970 974	Ca2+
+T34	Element 1032 1038	oxygen
+T36	SC 1180 1189	T c ( x )
+T38	Value 625 626	1
+T47	Value 152 153	0
+T48	Value 160 163	0.1
+T49	Value 174 177	0.2
+T56	Process 598 608	oxygenized
+T31	Doping 746 755	insertion
+T35	Doping 1039 1045	doping
+T55	Doping 944 956	substitution
+T40	Value 1129 1133	0.39
+T41	Value 1138 1139	1
+T42	Value 1142 1146	0.78
+E1	Doping:T31 Dopant:T25
+E2	Doping:T35 Dopant:T34
+E3	Doping:T55 Site:T32 Dopant:T33

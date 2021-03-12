@@ -1,0 +1,67 @@
+T2	Process 183 203	solid state reaction
+T4	Material 307 321	microstructure
+T5	Process 325 337	grain growth
+T7	SC 389 403	superconductor
+T8	Characterization 430 447	X-ray diffraction
+T9	Characterization 449 477	scanning electron microscopy
+T10	Characterization 479 482	SEM
+T11	Characterization 488 516	electron probe microanalysis
+T15	SC 735 750	superconducting
+T17	SC 872 875	T c
+T20	SC 1061 1075	superconductor
+T22	SC 1167 1170	T c
+T23	SC 1191 1206	superconducting
+T32	Value 109 112	0.1
+T33	Value 114 117	0.2
+T34	Value 119 122	0.4
+T35	Value 127 130	0.5
+T36	Element 370 388	(Hg1−x Sn x )-1223
+T39	Element 679 686	Hg-1223
+T40	Element 880 882	Sn
+T41	Element 897 915	(Hg1−x Sn x )-1223
+T44	Value 925 928	0.1
+T45	Element 979 992	Hg-1223 phase
+T46	Value 1000 1005	134 K
+T47	Element 1053 1060	Hg-1223
+T48	Element 1108 1110	Sn
+T49	Characterization 518 521	EDS
+T50	Element 667 669	Sn
+T6	SC 342 362	critical temperature
+T51	Element 163 169	silica
+T52	Element 265 267	Sn
+T24	Main 21 45	Hg1−x Sn x Ba2Ca2Cu3O8+δ
+T53	Main 71 89	(Hg1−x Sn x )-1223
+T31	Value 100 101	0
+T54	Value 103 107	0.05
+T55	Element 818 820	Sn
+T56	Element 1008 1010	Sn
+T57	Material 170 175	tubes
+T60	Element 0 3	Tin
+T61	Characterization 524 546	thermogravity analysis
+T1	Doping 4 9	doped
+T3	Doping 268 274	doping
+T13	Doping 670 675	doped
+T16	Doping 821 827	doping
+T18	Doping 1011 1017	doping
+T19	Doping 883 888	doped
+T21	Doping 1111 1117	doping
+T14	Element 724 728	CuO2
+T25	Material 729 734	layer
+T12	Property 548 558	resistance
+T26	Characterization 559 571	measurements
+T27	Property 576 593	ac susceptibility
+T28	Characterization 594 605	measurement
+R2	Equivalent Arg1:T17 Arg2:T46
+R3	Target Arg1:T46 Arg2:T45
+R4	Target Arg1:E1 Arg2:T24
+R5	Target Arg1:E2 Arg2:T36
+R6	Target Arg1:E3 Arg2:T39
+R7	Target Arg1:E5 Arg2:T47
+R8	Target Arg1:E6 Arg2:T41
+E1	Doping:T1 Dopant:T60
+E2	Doping:T3 Dopant:T52
+E3	Doping:T13 Dopant:T50
+E4	Doping:T16 Dopant:T55
+E5	Doping:T18 Dopant:T56
+E6	Doping:T19 Dopant:T40
+E7	Doping:T21 Dopant:T48

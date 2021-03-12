@@ -1,0 +1,22 @@
+T1	Property 55 72	internal friction
+T2	Property 77 95	resonant frequency
+T4	SC 103 126	high-T c superconductor
+T6	Property 181 198	internal friction
+T7	Property 236 254	resonant frequency
+T8	SC 275 278	T c
+T9	Property 293 307	magnetic field
+T10	Property 320 334	magnetic field
+T11	Property 350 367	internal friction
+T14	Property 492 509	internal friction
+T16	Material 645 650	atoms
+T17	Material 658 665	lattice
+T18	SC 709 724	superconductors
+T19	Property 755 772	internal friction
+T21	SC 810 813	T c
+T22	Main 136 147	HgBa2CuO4+x
+T24	Element 546 548	Bi
+T25	Element 698 700	Bi
+T26	Element 701 702	Y
+T27	Element 586 587	Y
+T28	Element 638 644	oxygen
+T3	Property 793 803	zero field

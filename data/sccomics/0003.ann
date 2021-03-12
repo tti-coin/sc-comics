@@ -1,0 +1,32 @@
+T2	SC 0 32	High temperature superconducting
+T4	Process 112 128	room temperature
+T7	Material 226 232	liquid
+T8	Process 240 251	temperature
+T9	Property 346 356	electrical
+T11	Property 420 440	temperature profiles
+T12	SC 472 487	superconducting
+T13	Property 521 532	calculation
+T14	Property 538 549	calculation
+T15	Process 580 588	sintered
+T17	Process 599 608	melt-cast
+T20	Property 1291 1299	metallic
+T21	Property 1484 1494	insulating
+T22	Value 167 171	77 K
+T23	Value 449 454	4.2 K
+T24	Material 627 632	tubes
+T27	Value 1358 1363	0.3 m
+T28	Value 1077 1082	0.2 T
+T30	Value 1241 1246	50 mm
+T31	Value 1114 1119	4.2 K
+T32	Value 1404 1409	4.2 K
+T33	Element 233 239	helium
+T34	Value 1309 1313	77 K
+T35	Main 619 626	Bi-2212
+T36	Main 589 594	Y-123
+T18	Value 708 718	1 μV cm −1
+T10	Process 135 159	intermediate temperature
+T5	Property 257 266	cryogenic
+T25	Property 455 464	heat load
+T6	SC 180 188	high T c
+T16	SC 1215 1223	high T c
+T1	Element 65 77	normal metal

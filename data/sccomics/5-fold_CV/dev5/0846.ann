@@ -1,0 +1,43 @@
+T1	Material 4 11	lattice
+T2	Process 26 42	low temperatures
+T3	Main 61 77	NdFeAsO1 − x F x
+T4	Property 119 124	order
+T5	Material 149 176	structural phase transition
+T7	SC 215 230	superconducting
+T8	Property 258 277	non-superconducting
+T9	Property 284 297	concentration
+T11	Characterization 421 432	synchrotron
+T12	Material 433 439	powder
+T16	SC 598 613	superconducting
+T19	Material 679 698	atomic displacement
+T20	Property 785 791	phonon
+T21	Characterization 814 830	Raman scattering
+T22	Element 876 877	F
+T25	SC 993 1008	superconducting
+T27	Property 1050 1066	phase transition
+T29	SC 1099 1114	superconducting
+T30	Material 1141 1154	isostructural
+T31	Material 1155 1174	lattice deformation
+T32	Property 1200 1208	magnetic
+T33	SC 1251 1266	superconducting
+T34	Material 1301 1308	lattice
+T35	Material 1345 1364	lattice distortions
+T36	Material 1455 1482	structural phase transition
+T41	Value 82 86	0.05
+T14	Material 530 540	tetragonal
+T15	Characterization 626 654	synchrotron XRD measurements
+T42	Characterization 395 400	Raman
+T43	Characterization 452 464	measurements
+T44	Value 862 866	150K
+T26	Material 1073 1091	orthorhombic phase
+T28	Value 91 95	0.25
+T10	Element 282 283	F
+T45	Property 1393 1401	carriers
+T17	Doping 878 885	dopings
+T6	Doping 209 214	doped
+T13	Doping 965 971	doping
+T18	Doping 1490 1496	doping
+E2	Doping:T17 Dopant:T22
+E1	Doping:T6 
+E3	Doping:T13 
+E4	Doping:T18 

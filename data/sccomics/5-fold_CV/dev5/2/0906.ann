@@ -1,0 +1,55 @@
+T1	SC 17 26	high- T c
+T2	Main 27 35	cuprates
+T4	SC 48 63	superconductors
+T5	Property 84 93	pseudogap
+T6	Property 145 156	excitations
+T7	SC 184 187	T c
+T9	SC 208 225	superconductivity
+T10	SC 232 235	T c
+T11	SC 256 271	superconducting
+T12	SC 273 275	SC
+T13	SC 291 294	T c
+T14	Material 326 332	liquid
+T15	Element 333 336	4He
+T16	Material 347 356	materials
+T17	Property 371 386	charge carriers
+T18	Property 391 399	polarons
+T19	Property 429 441	Cooper pairs
+T20	SC 448 451	T c
+T21	Property 487 497	superfluid
+T22	SC 501 504	T c
+T26	Property 680 692	Fermi-liquid
+T27	Property 694 702	BCS-type
+T28	SC 704 721	superconductivity
+T29	Property 736 758	quantum critical point
+T30	Property 781 795	phase diagrams
+T31	Element 803 811	cuprates
+T32	Property 824 830	vortex
+T33	SC 849 852	T c
+T34	SC 865 867	SC
+T35	SC 891 893	SC
+T36	SC 907 910	T c
+T37	Property 920 930	superfluid
+T38	Element 941 944	3He
+T39	Element 967 974	cuprate
+T42	Property 95 97	PG
+T43	Property 817 819	PG
+T44	Property 555 557	PG
+T45	Property 310 322	λ transition
+T46	Property 421 428	bosonic
+T47	Property 196 207	Bose-liquid
+T48	Property 665 676	Bose-liquid
+T49	Property 525 534	polaronic
+T8	Property 40 47	non-BCS
+T3	Property 130 144	momentum space
+T23	Doping 588 594	doping
+T24	Doping 622 631	overdoped
+T40	Doping 1011 1020	overdoped
+T25	Doping 1002 1007	doped
+R1	Coref Arg1:T11 Arg2:T12
+R2	Target Arg1:E3 Arg2:T39
+R3	Target Arg1:E4 Arg2:T39
+E1	Doping:T23 
+E2	Doping:T24 
+E4	Doping:T40 
+E3	Doping:T25 

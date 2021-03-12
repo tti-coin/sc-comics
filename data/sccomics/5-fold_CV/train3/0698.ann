@@ -1,0 +1,41 @@
+T2	Element 42 44	Sr
+T3	Element 49 51	La
+T4	Property 61 80	non-superconducting
+T5	Main 88 113	La2− x Sr x Cu0.94M0.06O4
+T6	Element 117 119	Fe
+T7	Element 121 123	Co
+T8	Element 128 130	Ni
+T9	Property 173 186	concentration
+T10	Element 190 192	Sr
+T11	SC 223 240	superconductivity
+T13	Element 343 349	oxygen
+T14	Material 350 355	atoms
+T15	Material 356 364	in plane
+T16	Element 376 379	M3+
+T18	Element 404 406	Sr
+T19	Property 442 447	holes
+T20	Element 466 468	Sr
+T22	Element 510 514	CuO2
+T23	Material 515 520	plane
+T24	Property 550 559	electrons
+T25	SC 592 609	superconductivity
+T26	SC 679 696	superconductivity
+T27	Property 716 724	magnetic
+T28	Element 730 732	Fe
+T29	Element 733 735	Co
+T30	Element 736 738	Ni
+T35	Value 213 217	0.20
+T36	Value 267 274	695cm−1
+T12	Characterization 282 298	infrared spectra
+T37	Property 638 658	carrier compensation
+T38	Property 746 766	carrier localization
+T40	Material 725 729	ions
+T1	Doping 19 31	substitution
+T17	Doping 380 386	doping
+T21	Doping 448 458	introduced
+T39	Doping 469 481	substitution
+R1	Target Arg1:E1 Arg2:T5
+E1	Doping:T1 Dopant:T2 Site:T3
+E2	Doping:T17 Dopant:T16
+E3	Doping:T21 Dopant:T19 Site:T22
+E4	Doping:T39 Dopant:T20 Site:T22

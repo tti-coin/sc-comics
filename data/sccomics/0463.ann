@@ -1,0 +1,54 @@
+T1	SC 79 107	superconducting temperatures
+T2	SC 109 112	T c
+T3	Process 134 142	pressure
+T6	Element 241 251	phosphorus
+T7	Element 256 264	chlorine
+T9	Element 282 288	sulfur
+T10	SC 292 295	T c
+T11	Element 323 331	hydrogen
+T12	Material 332 341	vacancies
+T14	SC 371 388	superconductivity
+T15	Main 416 430	H3Si x P 1 − x
+T16	Material 482 489	crystal
+T19	Property 570 582	calculations
+T20	Property 609 623	concentrations
+T21	Element 631 637	sulfur
+T22	Property 658 667	densities
+T23	Property 717 728	Fermi level
+T24	Property 744 756	electron-ion
+T25	Material 757 763	matrix
+T26	Property 791 815	electron-phonon coupling
+T27	Property 840 854	concentrations
+T28	SC 867 870	T c
+T29	SC 907 910	T c
+T30	Property 945 958	concentration
+T31	Property 978 985	valence
+T32	Property 986 995	electrons
+T33	Element 1001 1017	H3 P 0.15 S 0.85
+T34	Material 1018 1023	alloy
+T35	SC 1216 1219	T c
+T37	Property 1263 1276	tight-binding
+T38	Property 1301 1315	band structure
+T39	Element 1319 1322	H3S
+T40	Value 120 124	200K
+T41	Value 155 161	200GPa
+T43	Property 584 588	LAPW
+T44	Property 538 569	linearized augmented plane wave
+T17	Value 912 916	197K
+T46	Property 1076 1091	Gaspari–Gyorffy
+T47	Property 1118 1126	Hopfield
+T48	Property 1093 1095	GG
+T49	Property 1179 1181	GG
+T36	Property 1353 1357	LAPW
+T45	Value 973 977	8.85
+T50	Value 964 968	0.15
+T51	Property 697 709	phase shifts
+T52	Element 934 944	phosphorus
+T53	Material 1248 1262	non-orthogonal
+T4	Doping 265 278	substitutions
+T5	Main 165 186	hydrogen-based sulfur
+R2	Equivalent Arg1:T2 Arg2:T40
+R3	Equivalent Arg1:T29 Arg2:T17
+R4	Target Arg1:T17 Arg2:T33
+E1	Doping:T4 Site:T7 Dopant:T9
+E2	Doping:T4 Site:T6 Dopant:T9

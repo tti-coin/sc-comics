@@ -1,0 +1,33 @@
+T1	Property 4 23	magnetic properties
+T2	Main 59 76	ErNi2− x Fe x B2C
+T4	Element 112 114	Fe
+T5	Element 119 121	Ni
+T9	Property 187 206	magnetic hysteresis
+T10	Element 210 218	ErNi2B2C
+T11	Property 258 272	magnetic field
+T12	Process 280 296	low temperatures
+T13	Property 335 352	antiferromagnetic
+T14	Element 375 392	ErNi2− x Fe x B2C
+T15	Property 443 457	magnetic field
+T17	Property 544 561	antiferromagnetic
+T18	Property 565 578	ferromagnetic
+T19	Property 608 624	magnetic entropy
+T20	Property 679 693	magnetic field
+T21	Element 738 755	ErNi2− x Fe x B2C
+T26	Value 646 650	14.5
+T27	Value 662 671	10.6J/kgK
+T28	Value 652 656	12.7
+T29	Value 722 725	0.1
+T30	Value 731 734	0.2
+T31	Value 719 720	0
+T35	Property 503 538	first order metamagnetic transition
+T16	Property 223 234	inverse MCE
+T36	Property 413 416	MCE
+T37	Property 28 49	magnetocaloric effect
+T38	Property 51 54	MCE
+T3	Doping 96 108	Substitution
+T6	Property 134 165	magnetic transition temperature
+T7	Value 704 705	0
+T8	Value 706 711	70kOe
+R1	Target Arg1:E1 Arg2:T10
+E1	Doping:T3 Dopant:T4 Site:T5

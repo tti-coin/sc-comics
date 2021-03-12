@@ -1,0 +1,110 @@
+T1	SC 24 39	superconducting
+T2	Property 87 111	electron-phonon coupling
+T3	Property 116 136	critical temperature
+T4	Element 147 152	boron
+T5	Material 153 158	sheet
+T6	Material 168 175	ternary
+T7	Material 176 187	crystalline
+T9	Main 211 222	M0.5Al0.5B2
+T10	Element 228 230	Li
+T11	Element 232 234	Be
+T12	Element 236 238	Na
+T13	Element 240 242	Mg
+T14	Element 244 245	K
+T15	Element 247 249	Ca
+T17	Element 251 253	Sc
+T18	Element 255 257	Ti
+T19	Element 259 260	V
+T20	Element 262 263	Y
+T21	Element 265 267	Zr
+T22	Element 269 271	Nb
+T23	Element 273 275	Mo
+T24	Element 277 279	Tc
+T25	Element 281 283	Ru
+T26	Element 285 287	Hf
+T27	Element 289 291	Ta
+T28	Element 293 294	W
+T29	Element 296 298	Re
+T30	Element 304 306	Os
+T31	Property 334 350	first-principles
+T35	Property 395 405	spin-orbit
+T39	Element 453 455	Sc
+T47	Element 479 481	Tc
+T51	Element 587 599	Nb0.5Al0.5B2
+T52	Element 637 649	Ti0.5Al0.5B2
+T53	Element 696 708	Be0.5Al0.5B2
+T54	Element 814 825	M0.5Al0.5B2
+T55	Element 831 833	Li
+T56	Element 835 837	Mg
+T57	Element 839 841	Ca
+T58	Element 843 845	Sc
+T60	Element 847 849	Ti
+T61	Element 851 852	V
+T62	Element 854 856	Zr
+T63	Element 858 860	Nb
+T64	Element 862 864	Mo
+T65	Element 866 868	Tc
+T66	Element 870 872	Hf
+T67	Element 878 880	Ta
+T68	Property 954 975	electronic properties
+T69	Material 990 1000	structures
+T70	Property 1006 1014	metallic
+T72	Material 1072 1077	atoms
+T73	Material 1093 1100	surface
+T74	Element 1117 1119	B6
+T75	Element 1144 1155	metal-boron
+T76	Material 1187 1196	materials
+T77	Element 1202 1213	V0.5Al0.5B2
+T78	Property 1294 1311	phonon dispersion
+T79	Property 1316 1340	electron-phonon coupling
+T80	Property 1341 1353	calculations
+T81	Element 1407 1411	MgB2
+T82	Element 1424 1436	Tc0.5Al0.5B2
+T83	SC 1448 1450	Tc
+T84	Property 59 85	screened Coulomb potential
+T36	Element 441 443	Li
+T37	Element 445 447	Mg
+T38	Element 449 451	Ca
+T40	Element 457 459	Ti
+T41	Element 461 462	V
+T42	Element 464 465	Y
+T43	Element 467 469	Zr
+T44	Element 471 473	Nb
+T45	Element 475 477	Mo
+T46	Element 483 485	Hf
+T48	Element 487 489	Ta
+T49	Element 495 496	W
+T92	Value 1260 1266	27 GPa
+T94	Value 1413 1417	39 K
+T95	Value 1453 1456	7 K
+T16	Property 351 376	density functional theory
+T32	Property 377 389	calculations
+T33	Property 615 630	cohesive energy
+T34	Material 1156 1164	pyramids
+T59	Material 1120 1128	hexagons
+T85	Property 675 683	enthalpy
+T91	Material 1245 1258	microhardness
+T93	Material 1047 1052	radii
+T71	Doping 497 508	substituted
+T90	Doping 1060 1071	substituted
+T86	SC 1355 1359	Tc’s
+T8	Element 201 205	MgB2
+R1	Equivalent Arg1:T83 Arg2:T95
+R2	Target Arg1:T95 Arg2:T82
+R3	Target Arg1:T94 Arg2:T81
+R4	Equivalent Arg1:T86 Arg2:T94
+E1	Doping:T71 Dopant:T36
+E2	Doping:T71 Dopant:T37
+E3	Doping:T71 Dopant:T38
+E4	Doping:T71 Dopant:T39
+E5	Doping:T71 Dopant:T40
+E6	Doping:T71 Dopant:T41
+E7	Doping:T71 Dopant:T42
+E8	Doping:T71 Dopant:T43
+E9	Doping:T71 Dopant:T44
+E10	Doping:T71 Dopant:T45
+E11	Doping:T71 Dopant:T47
+E12	Doping:T71 Dopant:T46
+E13	Doping:T71 Dopant:T49
+E14	Doping:T71 Dopant:T48
+E15	Doping:T90

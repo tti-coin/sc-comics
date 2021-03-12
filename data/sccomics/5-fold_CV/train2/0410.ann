@@ -1,0 +1,59 @@
+T2	Main 21 37	BaFe2−x Co x As2
+T3	Material 49 64	single crystals
+T6	Characterization 111 128	X-ray diffraction
+T7	Material 148 165	lattice parameter
+T8	Material 175 183	crystals
+T11	Property 269 292	segregation coefficient
+T12	Element 296 298	Co
+T13	Element 310 312	Fe
+T14	SC 354 392	superconducting transition temperature
+T15	SC 393 396	T c
+T18	Process 461 477	high temperature
+T19	Material 517 530	crystallinity
+T20	Property 562 568	strain
+T22	Process 622 631	annealing
+T23	Process 632 648	atmosphere of Ar
+T25	Process 650 653	air
+T26	Process 657 663	vacuum
+T27	SC 710 713	T c
+T28	Element 737 739	Co
+T30	SC 791 795	ΔT c
+T33	Process 84 100	self-flux method
+T34	Value 334 338	0.78
+T36	Material 247 263	initial mixtures
+T37	Property 723 736	inhomogeneous
+T29	SC 762 790	transition temperature width
+T39	Value 39 40	0
+T40	Value 43 47	0.32
+T1	Element 12 14	Co
+T9	Element 223 225	Co
+T4	Process 436 457	post growth annealing
+T5	Doping 15 20	doped
+T10	Doping 234 239	added
+T16	Doping 835 840	doped
+T17	Value 428 429	1
+T21	Value 430 432	3K
+R1	Coref Arg1:T14 Arg2:T15
+R2	Coref Arg1:T29 Arg2:T30
+R3	Target Arg1:E1 Arg2:T2
+R4	Equivalent Arg1:T15 Arg2:T17
+R5	Equivalent Arg1:T15 Arg2:T21
+E1	Doping:T5 Dopant:T1
+E2	Doping:T10 Dopant:T9
+E3	Doping:T16 
+#1	AnnotatorNotes T2	21-37
+#2	AnnotatorNotes T3	49-64
+#3	AnnotatorNotes T7	148-165
+#4	AnnotatorNotes T8	175-183
+#5	AnnotatorNotes T12	296-298
+#6	AnnotatorNotes T13	310-312
+#7	AnnotatorNotes T19	517-530
+#8	AnnotatorNotes T28	737-739
+#9	AnnotatorNotes T34	334-338
+#10	AnnotatorNotes T36	247-263
+#11	AnnotatorNotes T39	39-40
+#12	AnnotatorNotes T40	43-47
+#13	AnnotatorNotes T1	12-14
+#14	AnnotatorNotes T9	223-225
+#15	AnnotatorNotes T17	428-429
+#16	AnnotatorNotes T21	430-432

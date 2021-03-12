@@ -1,0 +1,53 @@
+T1	SC 16 38	transition temperature
+T2	Property 40 58	magneto-resistance
+T3	Property 60 80	thermal conductivity
+T4	Property 82 97	thermo-electric
+T5	Property 108 121	specific heat
+T7	Main 167 201	Eu0.95Pr0.05Ba2(Cu1− x M x )3O7− δ
+T8	Element 205 207	Fe
+T9	Element 209 211	Ni
+T10	Element 213 215	Zn
+T11	Element 220 222	Mn
+T12	Property 272 280	metallic
+T14	Element 321 323	Fe
+T15	Property 335 349	semiconducting
+T16	Property 380 400	upper-critical field
+T17	Element 421 423	Pr
+T18	Material 465 472	dopants
+T19	Element 478 480	Fe
+T20	Element 485 487	Mn
+T21	Property 501 521	Thermal conductivity
+T22	Material 530 538	pristine
+T23	Element 549 562	EuBa2Cu3O7− δ
+T24	Element 564 570	Eu-123
+T25	SC 609 647	superconducting transition temperature
+T26	SC 648 650	TC
+T27	Element 705 707	Pr
+T30	Element 840 846	Eu-123
+T31	Property 901 909	electron
+T32	Property 936 940	hole
+T34	Property 986 999	specific heat
+T35	Element 1037 1043	Eu-123
+T36	SC 1047 1049	TC
+T37	SC 1106 1128	transition temperature
+T38	Element 1136 1138	Pr
+T48	Property 815 830	thermo-electric
+T29	Property 866 882	dominant carrier
+T41	Characterization 0 12	Measurements
+T6	Doping 150 155	doped
+T13	Doping 305 310	doped
+T28	Doping 424 430	doping
+T33	Doping 708 714	doping
+T44	Doping 766 771	doped
+T45	Doping 961 966	doped
+T46	Doping 1139 1144	doped
+R3	Target Arg1:E1 Arg2:T7
+R4	Target Arg1:E7 Arg2:T35
+R5	Target Arg1:E6 Arg2:T30
+E1	Doping:T6
+E2	Doping:T13 Dopant:T14
+E3	Doping:T28 Dopant:T17
+E4	Doping:T33 Dopant:T27
+E5	Doping:T44
+E6	Doping:T45
+E7	Doping:T46 Dopant:T38

@@ -1,0 +1,117 @@
+T2	Main 43 47	YBCO
+T3	Element 52 54	Zn
+T5	Main 61 85	YBa2(Cu1− x Zn x )3O7− σ
+T6	Material 88 103	Single crystals
+T7	Element 109 111	Zn
+T9	Property 160 185	magnetic hysteresis loops
+T11	SC 250 252	Tc
+T12	Property 265 280	magnetic fields
+T13	Characterization 293 298	SQUID
+T14	Property 322 346	critical current density
+T15	Property 347 349	Jc
+T16	Element 368 370	Zn
+T17	Element 396 398	Zn
+T19	Element 430 434	YBCO
+T20	Element 471 473	Zn
+T21	Property 541 556	magnetic fields
+T22	Element 580 582	Zn
+T24	Property 626 628	Jc
+T25	Property 678 698	critical temperature
+T26	Element 716 720	YBCO
+T27	Property 733 754	irreversibility field
+T28	Element 849 851	Zn
+T29	Property 852 865	concentration
+T30	Property 900 921	irreversibility field
+T31	Property 985 987	Tc
+T32	Element 1117 1119	Zn
+T33	Element 1161 1163	Zn
+T34	Element 1227 1229	Zn
+T35	Element 1283 1285	Zn
+T36	Material 1310 1318	disorder
+T37	Element 1330 1332	Zn
+T38	Property 1387 1408	irreversibility field
+T39	Element 1449 1451	Zn
+T41	Element 1488 1490	Zn
+T43	Property 1611 1621	anisotropy
+T44	Element 1658 1660	Zn
+T46	Property 1722 1738	magnetic moments
+T48	Element 1742 1744	Zn
+T52	Value 129 133	0.5%
+T53	Value 135 139	1.5%
+T54	Value 141 145	3.0%
+T55	Value 150 154	4.3%
+T56	Value 243 246	0.1
+T57	Value 254 258	0.96
+T58	Value 284 286	5T
+T59	Value 393 395	3%
+T60	Value 560 562	1T
+T61	Value 567 569	3T
+T63	Property 755 759	Hirr
+T66	Value 1114 1116	3%
+T68	Value 1145 1149	1.37
+T1	Property 922 926	Hirr
+T4	Doping 55 60	doped
+T10	Doping 583 588	doped
+T23	Doping 1491 1503	substitution
+T42	Doping 1745 1757	substitution
+T47	Value 657 660	0.7
+T50	Value 1022 1026	0.75
+T62	Value 1079 1083	1.44
+T64	Value 1087 1091	1.95
+T40	Value 1209 1210	3
+T65	Value 1211 1212	4
+T45	Value 1254 1255	7
+T69	Value 1256 1257	8
+T18	Property 0 8	Magnetic
+T70	Characterization 9 21	measurements
+T49	Value 661 666	0.9Tc
+T8	Value 1027 1033	0.96Tc
+R1	Target Arg1:E1 Arg2:T5
+E1	Doping:T4 Dopant:T3
+E2	Doping:T10 Dopant:T22
+E3	Doping:T23 Dopant:T41
+E4	Doping:T42 Dopant:T48
+#1	AnnotatorNotes T2	43-47
+#2	AnnotatorNotes T3	52-54
+#3	AnnotatorNotes T5	61-85
+#4	AnnotatorNotes T6	88-103
+#5	AnnotatorNotes T7	109-111
+#6	AnnotatorNotes T16	368-370
+#7	AnnotatorNotes T17	396-398
+#8	AnnotatorNotes T19	430-434
+#9	AnnotatorNotes T20	471-473
+#10	AnnotatorNotes T22	580-582
+#11	AnnotatorNotes T26	716-720
+#12	AnnotatorNotes T28	849-851
+#13	AnnotatorNotes T32	1117-1119
+#14	AnnotatorNotes T33	1161-1163
+#15	AnnotatorNotes T34	1227-1229
+#16	AnnotatorNotes T35	1283-1285
+#17	AnnotatorNotes T36	1310-1318
+#18	AnnotatorNotes T37	1330-1332
+#19	AnnotatorNotes T39	1449-1451
+#20	AnnotatorNotes T41	1488-1490
+#21	AnnotatorNotes T44	1658-1660
+#22	AnnotatorNotes T48	1742-1744
+#23	AnnotatorNotes T52	129-133
+#24	AnnotatorNotes T53	135-139
+#25	AnnotatorNotes T54	141-145
+#26	AnnotatorNotes T55	150-154
+#27	AnnotatorNotes T56	243-246
+#28	AnnotatorNotes T57	254-258
+#29	AnnotatorNotes T58	284-286
+#30	AnnotatorNotes T59	393-395
+#31	AnnotatorNotes T60	560-562
+#32	AnnotatorNotes T61	567-569
+#33	AnnotatorNotes T66	1114-1116
+#34	AnnotatorNotes T68	1145-1149
+#35	AnnotatorNotes T47	657-660
+#36	AnnotatorNotes T50	1022-1026
+#37	AnnotatorNotes T62	1079-1083
+#38	AnnotatorNotes T64	1087-1091
+#39	AnnotatorNotes T40	1209-1210
+#40	AnnotatorNotes T65	1211-1212
+#41	AnnotatorNotes T45	1254-1255
+#42	AnnotatorNotes T69	1256-1257
+#43	AnnotatorNotes T49	661-666
+#44	AnnotatorNotes T8	1027-1033

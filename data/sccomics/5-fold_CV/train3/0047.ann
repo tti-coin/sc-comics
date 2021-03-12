@@ -1,0 +1,39 @@
+T1	Property 4 15	resistivity
+T2	Material 44 52	ceramics
+T6	SC 145 149	T cs
+T7	SC 156 160	T cs
+T9	SC 196 211	superconducting
+T10	Property 242 253	percolation
+T11	SC 324 339	superconductors
+T12	SC 359 374	superconducting
+T13	Property 375 380	order
+T21	Property 606 618	conductivity
+T24	Property 882 884	3D
+T25	Property 954 966	conductivity
+T29	Main 32 43	YBa2Cu3O7-x
+T31	Value 69 70	0
+T4	SC 117 137	critical temperature
+T8	SC 168 188	critical temperature
+T32	Property 82 111	second-order phase transition
+T33	Property 212 228	phase transition
+T34	Property 254 270	phase transition
+T35	Material 315 323	granular
+T36	Property 419 440	crossover temperature
+T37	Value 504 507	0.9
+T20	Value 690 691	0
+T38	Value 801 804	1.3
+T39	SC 564 584	critical temperature
+T40	Property 619 627	critical
+T41	Property 767 784	critical exponent
+T26	Property 977 998	percolation threshold
+T42	Material 1017 1030	intergranular
+T43	Property 912 930	phase fluctuations
+T44	SC 676 679	T c
+T3	SC 138 144	T c(0)
+T5	SC 519 524	Tc(I)
+T14	SC 526 531	Tc(0)
+T15	SC 481 487	T c(0)
+T16	SC 538 544	T c(I)
+T17	SC 719 725	T c(I)
+T18	SC 1055 1061	T c(I)
+R1	Coref Arg1:T4 Arg2:T3

@@ -1,0 +1,50 @@
+T1	Property 23 47	critical current density
+T2	Property 49 52	J c
+T3	Main 58 62	MgB2
+T4	SC 63 78	superconducting
+T5	Material 79 84	wires
+T8	Process 210 224	AIMI-processed
+T9	Element 225 229	MgB2
+T10	Material 230 235	wires
+T11	Element 260 264	MgB2
+T12	Material 265 270	layer
+T13	SC 295 309	superconductor
+T14	Material 370 385	Microstructural
+T15	Element 411 415	MgB2
+T16	Material 416 421	wires
+T17	Process 443 457	heat treatment
+T18	Element 510 512	Mg
+T20	Process 560 574	heat treatment
+T23	Element 617 621	MgB2
+T24	Material 622 627	layer
+T25	Element 661 663	Mg
+T26	Property 664 673	transport
+T27	Process 684 696	infiltration
+T28	Property 700 709	diffusion
+T29	Element 740 744	MgB2
+T30	Process 750 756	growth
+T32	Property 796 809	kinetic model
+T33	Element 835 839	MgB2
+T34	Material 840 845	layer
+T35	Process 860 866	growth
+T36	Property 880 893	kinetic model
+T39	Element 982 986	MgB2
+T40	Material 987 992	wires
+T41	Element 1039 1040	B
+T42	Material 1041 1049	particle
+T43	Element 1056 1057	B
+T44	Material 1058 1064	powder
+T45	Property 1073 1080	density
+T46	Element 1082 1086	MgB2
+T47	Property 1096 1113	activation energy
+T49	Material 1151 1158	dopants
+T7	Process 115 148	advanced internal Mg infiltration
+T50	Process 150 154	AIMI
+T51	Property 341 357	current-carrying
+T52	Process 406 410	AIMI
+T38	Process 967 981	AIMI-processed
+T31	Doping 1138 1147	additions
+T6	Process 513 534	infiltration-reaction
+T19	Element 581 583	Mg
+T21	Process 584 602	diffusion-reaction
+E1	Doping:T31

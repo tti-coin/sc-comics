@@ -1,0 +1,33 @@
+T1	Characterization 18 21	STM
+T2	Characterization 22 25	STS
+T3	Material 44 58	single crystal
+T4	Main 62 96	Bi2.1Sr1.9Ca (Cu1– x Co x ) 2O8+ δ
+T5	Main 98 107	Co-Bi2212
+T6	Material 120 128	impurity
+T7	Property 144 153	pseudogap
+T8	Element 157 164	cuprate
+T9	SC 165 188	high-Tc superconductors
+T10	Property 224 246	temperature dependence
+T11	Property 252 261	pseudogap
+T12	Property 273 290	density of states
+T13	Property 292 295	DOS
+T17	Property 391 400	pseudogap
+T18	Property 434 437	BCS
+T19	SC 438 452	superconductor
+T22	Process 510 525	low temperature
+T23	Material 554 562	impurity
+T25	Property 678 681	DOS
+T26	Property 760 763	DOS
+T27	Property 783 792	pseudogap
+T28	Material 828 836	impurity
+T29	Property 846 855	pseudogap
+T15	Element 360 362	Co
+T32	Value 363 365	4%
+T33	Property 425 428	gap
+T24	Material 682 702	spatial distribution
+T34	Characterization 26 38	measurements
+T35	Property 601 620	periodic modulation
+T16	Doping 366 377	substituted
+T14	Doping 339 345	doping
+E2	Doping:T16 Dopant:T15
+E1	Doping:T14

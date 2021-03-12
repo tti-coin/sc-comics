@@ -1,0 +1,71 @@
+T2	SC 9 24	superconductors
+T3	Characterization 107 137	synchrotron X-ray diffraction,
+T4	Characterization 138 164	thermogravimetric analysis
+T6	Material 221 233	orthorhombic
+T7	Material 253 263	tetragonal
+T8	Material 264 272	symmetry
+T9	Property 418 424	strain
+T14	Material 683 695	orthorhombic
+T15	SC 904 907	T c
+T16	SC 1008 1011	T c
+T17	Material 1019 1031	orthorhombic
+T18	SC 1044 1047	T c
+T19	Property 1067 1087	dopant concentration
+T20	Process 1131 1139	sintered
+T21	SC 1260 1275	superconducting
+T22	Material 1276 1282	grains
+T26	SC 1707 1722	superconducting
+T27	Material 1723 1729	grains
+T28	Property 1734 1753	non-superconducting
+T29	Property 1803 1809	domain
+T30	Material 1828 1834	grains
+T31	Element 0 2	Fe
+T32	Main 25 48	REBa2(Cu1-x Fe x )3O7-y
+T38	Element 56 58	Nd
+T39	Element 53 54	Y
+T42	Value 60 61	0
+T43	Value 64 67	0.1
+T45	Value 321 326	0.030
+T46	Element 331 354	YBa2(Cu1-x Fe x ) 3O7-y
+T47	Value 366 371	0.021
+T48	Element 376 399	NdBa2(Cu1-x Fe x )3O7-y
+T55	Material 446 457	tricritical
+T57	Characterization 526 553	diffraction-line-broadening
+T10	Element 567 589	YBa2(Cu1-x Fe x )3O7-y
+T59	Element 1484 1486	Fe
+T62	Value 786 789	0.2
+T65	Value 664 668	0.03
+T66	Material 714 722	linearly
+T68	Value 731 735	0.03
+T70	Element 835 837	O2
+T71	Value 841 846	400°C
+T72	Value 851 855	10 h
+T73	Material 877 884	steeper
+T74	Material 885 891	linear
+T77	Element 964 987	NdBa2(Cu1-x Fe x )3O7-y
+T82	Property 1105 1122	AC susceptibility
+T83	Characterization 1206 1220	DC bias fields
+T84	Characterization 1182 1188	AC RMS
+T85	Material 1366 1379	intergranular
+T86	Element 1518 1525	Nd ions
+T87	Element 1530 1536	Y ions
+T88	Property 1585 1605	critical composition
+T89	Element 1623 1627	YBCO
+T90	Element 1636 1641	NdBCO
+T91	Material 1754 1773	intergrain material
+T92	Property 1678 1689	free energy
+T93	Property 1331 1344	pinning force
+T95	Value 484 487	1 4
+T1	Doping 3 8	doped
+T11	Doping 1487 1493	doping
+T24	Doping 1502 1514	substitution
+T12	SC 594 636	onset temperature T c of superconductivity
+T13	Element 952 953	Y
+T5	Property 169 186	AC susceptibility
+T25	Characterization 187 199	measurements
+T23	Property 1409 1426	AC susceptibility
+T33	Characterization 1427 1439	measurements
+R1	Target Arg1:E1 Arg2:T32
+E1	Doping:T1 Dopant:T31
+E2	Doping:T11 Dopant:T59
+E3	Doping:T24 Dopant:T86 Site:T87

@@ -1,0 +1,26 @@
+T1	Material 46 61	microstructures
+T2	SC 66 81	superconducting
+T3	Main 96 108	FeSe0.5Te0.5
+T5	Process 221 238	in-situ sintering
+T6	Process 240 269	infra-red radiation sintering
+T7	Process 271 283	hot-pressing
+T8	Process 288 310	spark plasma sintering
+T9	Process 383 405	spark plasma sintering
+T10	Property 463 487	critical current density
+T12	Element 533 534	B
+T13	Element 538 539	C
+T14	Property 559 575	critical density
+T16	Element 579 591	FeSe0.5Te0.5
+T17	Process 612 633	spark plasma sintered
+T18	Process 14 38	hot consolidation method
+T4	Element 131 143	FeSe0.5Te0.5
+T15	Process 194 219	hot-consolidation methods
+T19	Element 111 112	B
+T20	Element 114 115	C
+T21	Element 146 147	B
+T22	Element 149 150	C
+T11	Doping 523 529	doping
+R1	Target Arg1:E1 Arg2:T16
+R2	Target Arg1:E2 Arg2:T16
+E1	Doping:T11 Dopant:T12
+E2	Doping:T11 Dopant:T13

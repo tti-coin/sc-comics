@@ -1,0 +1,26 @@
+T1	Property 62 71	electrons
+T2	Property 141 148	phonons
+T4	Property 175 192	spin fluctuations
+T5	Property 218 222	spin
+T7	Characterization 261 297	nuclear spin-lattice relaxation rate
+T8	Property 298 301	1/T
+T12	Property 372 396	electron-phonon coupling
+T14	Property 480 483	1/T
+T15	SC 492 495	T c
+T16	SC 526 529	T c
+T17	Property 546 566	thermal conductivity
+T18	SC 595 598	T c
+T19	SC 634 637	T c
+T20	Characterization 688 707	electron scattering
+T21	Material 789 794	plane
+T22	SC 795 810	superconductors
+T23	Element 784 788	Cu-O
+T24	Property 150 169	charge fluctuations
+T3	Property 227 250	charge susceptibilities
+T6	Property 417 436	Coulomb interaction
+T25	Property 535 545	electronic
+T26	Property 93 111	tight-binding band
+T27	Property 397 400	λph
+T11	SC 454 462	high T c
+T10	Property 340 342	κp
+T9	Property 312 339	phonon thermal conductivity

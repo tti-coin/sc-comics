@@ -1,0 +1,22 @@
+T1	Characterization 24 43	neutron irradiation
+T3	SC 65 85	critical temperature
+T4	Main 89 106	Bi2Sr2Ca2Cu3O10+δ
+T6	Main 114 145	Bi1.8Pb0.2Sr2Ca2Cu2.8Ni0.2O10+δ
+T7	Main 154 185	Bi1.6Pb0.4Sr2Ca2Cu2.6Ni0.4O10+δ
+T8	Characterization 225 242	X-ray diffraction
+T9	Material 292 310	lattice parameters
+T10	SC 315 336	critical temperatures
+T11	SC 365 385	critical temperature
+T12	Process 455 465	irradiated
+T13	Property 530 544	oxygen content
+T14	Characterization 557 560	XRD
+T15	Material 589 598	structure
+T16	Material 616 638	orthorhombic structure
+T18	SC 657 664	high Tc
+T19	Element 665 677	(2223) phase
+T20	Element 703 715	(2212) phase
+T24	Value 403 407	6.5k
+T25	Value 418 420	7k
+T26	Value 409 413	6.5k
+T27	Value 469 501	1.296 × 1011 n e u t r o n c m 2
+T28	SC 696 702	low-Tc

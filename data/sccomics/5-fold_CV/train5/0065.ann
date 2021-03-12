@@ -1,0 +1,25 @@
+T2	Material 108 138	dielectric transparency window
+T5	SC 268 271	T c
+T11	Property 585 594	electrons
+T12	Material 612 617	plane
+T13	Property 639 646	charges
+T14	SC 684 687	T c
+T15	SC 704 719	superconducting
+T16	SC 736 739	T c
+T17	Property 827 831	hole
+T18	Property 868 876	electron
+T19	Property 896 907	Fermi level
+T21	Element 476 482	oxygen
+T22	Element 607 611	CuO2
+T23	Property 45 67	absorption coefficient
+T24	Characterization 326 344	absorption spectra
+T1	Property 69 77	K (E, T)
+T4	Property 238 248	absorption
+T7	Property 431 452	intraband transitions
+T9	Property 652 656	K(T)
+T10	Property 770 774	K(T)
+T20	Value 145 148	1.5
+T25	Value 152 156	3 eV
+T3	Material 180 191	metal phase
+T6	Material 280 291	metal phase
+T8	Material 420 430	metal-type

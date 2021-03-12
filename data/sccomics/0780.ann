@@ -1,0 +1,21 @@
+T1	Characterization 13 34	X-ray-powder patterns
+T3	Material 80 90	tetragonal
+T4	Material 91 100	structure
+T5	Element 124 129	Zr2Co
+T6	Main 145 162	Zr2(Co1− x Cu x )
+T7	Property 173 189	solubility limit
+T8	Process 216 232	room temperature
+T9	Material 233 251	lattice parameters
+T11	Element 381 383	Cu
+T12	Property 385 393	Magnetic
+T14	SC 461 463	Tc
+T15	SC 508 546	superconducting transition temperature
+T16	Material 561 567	binary
+T17	Element 575 590	Zr2(Co1− x Cu x
+T18	Material 628 645	lattice constants
+T22	Value 198 201	0.3
+T28	Value 476 480	0.05
+T2	Doping 369 375	doping
+T10	Property 398 408	electrical
+T13	Characterization 409 421	measurements
+E1	Doping:T2 Dopant:T11

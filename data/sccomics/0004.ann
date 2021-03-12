@@ -1,0 +1,23 @@
+T3	Material 31 35	bulk
+T4	SC 36 51	superconductors
+T7	Property 119 127	magnetic
+T8	SC 172 187	superconductors
+T10	Property 231 242	frequencies
+T13	Property 398 412	magnetic field
+T17	Property 663 672	frequency
+T18	Property 724 734	simulation
+T19	Property 762 767	creep
+T20	Property 768 773	model
+T23	Main 24 30	YBaCuO
+T26	Material 748 752	flux
+T27	Material 858 868	rotational
+T9	Property 206 225	a.c. magnetic field
+T11	Material 302 324	permanent magnet rings
+T2	Process 9 23	melt-processed
+T12	Property 344 363	a.c. magnetic field
+T14	Property 597 621	a.c. magnetic properties
+T15	SC 625 649	high T c superconductors
+T1	SC 0 8	High T c
+T5	SC 94 118	high T c superconducting
+T6	Value 246 252	100 Hz
+T16	Value 256 262	10 kHz

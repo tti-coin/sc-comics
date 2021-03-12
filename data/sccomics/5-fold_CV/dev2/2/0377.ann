@@ -1,0 +1,81 @@
+T1	Main 53 69	(TiZrNbCu)1-xNix
+T2	Material 81 90	amorphous
+T3	Material 104 110	alloys
+T4	Material 176 181	thick
+T5	Material 198 207	amorphous
+T6	Characterization 230 247	X-ray diffraction
+T7	Material 274 292	surface morphology
+T9	Material 302 313	composition
+T10	Characterization 369 397	Scanning electron microscope
+T11	Characterization 399 402	SEM
+T12	Characterization 412 442	energy dispersive spectroscopy
+T13	Characterization 444 447	EDS
+T14	Process 494 513	melting temperature
+T16	Property 524 553	low temperature specific heat
+T17	Property 566 589	magnetic susceptibility
+T18	Property 603 618	Young's modulus
+T19	Process 671 675	cast
+T20	Process 712 716	cast
+T21	Process 760 766	anneal
+T24	Property 836 864	electronic density of states
+T25	Property 872 883	Fermi level
+T26	Property 934 951	Debye temperature
+T27	Property 953 955	θD
+T28	Material 1014 1020	binary
+T33	Element 1078 1080	TE
+T35	Element 1111 1113	TL
+T37	Element 1180 1182	TE
+T38	SC 1220 1237	superconductivity
+T39	Material 1315 1321	alloys
+T40	Property 1327 1340	free-electron
+T41	Property 1346 1358	paramagnetic
+T42	Property 1419 1421	θD
+T43	Material 1473 1480	bonding
+T45	Element 1496 1498	Ni
+T50	Value 75 79	0.25
+T52	Material 112 117	a-HEA
+T53	Value 170 175	20 μm
+T15	Property 555 559	LTSH
+T55	Property 632 636	LTSH
+T56	Property 815 819	LTSH
+T57	Property 1188 1192	LTSH
+T58	Value 1246 1251	1.8 K
+T59	Value 1304 1307	4 K
+T60	Property 1287 1297	Boson peak
+T32	Element 1059 1076	transition metals
+T34	Element 1092 1109	transition metals
+T22	Property 780 808	glass transition temperature
+T23	Characterization 252 268	thermal analysis
+T30	Material 1025 1032	ternary
+T54	Material 1033 1049	amorphous alloys
+T29	Property 1569 1573	HEAs
+T31	Doping 1484 1492	addition
+T44	Property 91 103	high entropy
+T36	Property 1161 1172	d-electrons
+R1	Coref Arg1:T32 Arg2:T33
+R2	Coref Arg1:T34 Arg2:T35
+R3	Equivalent Arg1:T38 Arg2:T58
+E1	Doping:T31 Dopant:T45
+#1	AnnotatorNotes T1	53-69
+#2	AnnotatorNotes T2	81-90
+#3	AnnotatorNotes T3	104-110
+#4	AnnotatorNotes T4	176-181
+#5	AnnotatorNotes T5	198-207
+#6	AnnotatorNotes T7	274-292
+#7	AnnotatorNotes T9	302-313
+#8	AnnotatorNotes T28	1014-1020
+#9	AnnotatorNotes T33	1078-1080
+#10	AnnotatorNotes T35	1111-1113
+#11	AnnotatorNotes T37	1180-1182
+#12	AnnotatorNotes T39	1315-1321
+#13	AnnotatorNotes T43	1473-1480
+#14	AnnotatorNotes T45	1496-1498
+#15	AnnotatorNotes T50	75-79
+#16	AnnotatorNotes T52	112-117
+#17	AnnotatorNotes T53	170-175
+#18	AnnotatorNotes T58	1246-1251
+#19	AnnotatorNotes T59	1304-1307
+#20	AnnotatorNotes T32	1059-1076
+#21	AnnotatorNotes T34	1092-1109
+#22	AnnotatorNotes T30	1025-1032
+#23	AnnotatorNotes T54	1033-1049

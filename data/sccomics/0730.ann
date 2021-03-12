@@ -1,0 +1,33 @@
+T1	Element 14 16	Zn
+T3	Element 37 41	CuO2
+T4	Material 42 47	plane
+T5	SC 55 93	superconducting transition temperature
+T6	SC 95 97	Tc
+T7	Main 120 144	YBa2(Cu1− y Zn y )3O7− δ
+T8	Property 176 194	hole concentration
+T9	Element 203 205	Zn
+T10	Element 219 221	Zn
+T11	SC 253 255	Tc
+T12	Property 398 404	charge
+T13	Property 405 409	spin
+T14	Element 471 475	Y123
+T16	Material 541 552	composition
+T17	Element 568 570	Zn
+T18	SC 615 617	Tc
+T19	Property 674 682	ordering
+T20	SC 699 714	superconducting
+T21	Property 715 720	order
+T23	Property 891 900	pseudogap
+T24	Element 1075 1077	Zn
+T25	SC 1204 1219	superconducting
+T26	Property 1221 1230	pseudogap
+T27	Element 1259 1283	YBa2(Cu1− y Zn y )3O7− δ
+T32	Value 376 379	60K
+T39	Property 901 913	energy scale
+T2	Doping 17 29	substitution
+T28	SC 258 265	dTc (p)
+T29	SC 494 501	dTc (p)
+T31	SC 803 810	dTc (p)
+T22	SC 821 827	Tc (δ)
+R2	Target Arg1:E1 Arg2:T7
+E1	Doping:T2 Dopant:T1 Site:T3

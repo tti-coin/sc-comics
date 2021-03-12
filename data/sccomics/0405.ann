@@ -1,0 +1,80 @@
+T1	Main 0 4	MgB2
+T2	Material 5 10	bulks
+T3	Element 16 20	NaCl
+T5	Process 67 78	hot pressed
+T6	Process 79 88	sintering
+T7	Element 119 123	NaCl
+T11	Element 168 172	MgB2
+T13	Element 227 229	Mg
+T14	Element 240 242	Na
+T15	Material 243 247	atom
+T16	Element 290 294	NaCl
+T17	Material 299 307	impurity
+T18	Element 317 320	MgO
+T19	Material 345 355	morphology
+T20	Element 373 377	NaCl
+T22	Element 384 388	MgB2
+T25	SC 435 438	T c
+T26	Element 493 497	NaCl
+T29	SC 577 581	ΔT c
+T31	Element 639 643	NaCl
+T32	Property 673 676	J c
+T33	Property 748 751	J c
+T34	Element 777 781	NaCl
+T36	Element 788 792	MgB2
+T37	Material 929 934	grain
+T38	Element 951 955	MgB2
+T39	Property 972 990	flux pinning force
+T40	Element 994 998	NaCl
+T44	Property 269 280	diffraction
+T52	Value 705 710	4.2 K
+T53	Value 712 715	3 T
+T54	Value 721 734	5 × 105 A/cm2
+T55	Value 738 742	10 K
+T56	Value 744 746	3T
+T59	Value 661 667	10 at%
+T61	Value 815 830	6.8 × 105 A/cm2
+T62	Value 834 838	20 K
+T63	Value 840 842	2T
+T64	Value 873 876	20%
+T65	Value 692 701	106 A/cm2
+T66	Element 801 805	NC05
+T9	Material 150 167	lattice parameter
+T10	SC 552 575	transition width of T c
+T43	Value 771 776	5 at%
+T48	Material 143 149	c axis
+T4	Doping 21 27	doping
+T8	Doping 124 130	doping
+T12	Doping 211 223	substitution
+T21	Doping 378 383	doped
+T27	Doping 498 504	doping
+T30	Doping 622 628	doping
+T35	Doping 782 787	doped
+T41	Doping 999 1005	doping
+T42	Value 46 47	0
+T50	Value 48 54	30 at%
+T23	SC 402 433	critical transition temperature
+T24	Value 455 461	38.2 K
+T46	Value 465 471	36.8 K
+T47	Value 517 518	0
+T51	Value 522 528	30 at%
+T28	Value 597 602	0.5 K
+T49	Value 606 611	1.8 K
+R1	Target Arg1:E1 Arg2:T1
+R2	Target Arg1:E2 Arg2:T11
+R3	Target Arg1:E3 Arg2:T11
+R4	Target Arg1:E4 Arg2:T22
+R5	Target Arg1:E7 Arg2:T36
+R6	Target Arg1:E8 Arg2:T38
+R8	Equivalent Arg1:T23 Arg2:T24
+R9	Equivalent Arg1:T23 Arg2:T46
+R11	Condition Arg1:T24 Arg2:E5
+R12	Condition Arg1:T46 Arg2:E5
+E1	Doping:T4 Dopant:T3
+E2	Doping:T8 Dopant:T7
+E3	Doping:T12 Site:T13 Dopant:T14
+E4	Doping:T21 Dopant:T20
+E5	Doping:T27 Dopant:T26
+E6	Doping:T30 Dopant:T31
+E7	Doping:T35 Dopant:T34
+E8	Doping:T41 Dopant:T40

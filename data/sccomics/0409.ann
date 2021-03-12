@@ -1,0 +1,28 @@
+T1	Material 24 39	single crystals
+T4	Process 75 80	grown
+T5	Process 86 105	self-flux technique
+T6	Property 209 217	volatile
+T7	Element 218 233	thallium oxides
+T8	Property 264 268	melt
+T9	Process 290 296	growth
+T10	Material 342 350	crystals
+T11	Material 356 364	crystals
+T12	Process 370 378	annealed
+T13	Process 401 425	oxygen partial pressures
+T14	SC 463 490	superconducting transitions
+T15	Characterization 499 504	X-ray
+T17	Element 549 557	thallium
+T18	Element 561 567	copper
+T19	Material 628 636	crystals
+T20	Material 641 653	orthorhombic
+T22	Material 712 724	superlattice
+T23	Material 725 735	distortion
+T25	Process 115 135	encapsulation scheme
+T28	Value 530 532	4%
+T29	Property 611 622	homogeneity
+T3	Main 43 59	Tl2Ba2 CuO 6 + δ
+T21	Main 61 68	Tl-2201
+T2	Doping 533 545	substitution
+T16	Doping 662 669	dopings
+E1	Doping:T2 Site:T17 Dopant:T18
+E2	Doping:T16

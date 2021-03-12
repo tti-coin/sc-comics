@@ -1,0 +1,39 @@
+T1	Material 2 11	bilayered
+T2	Property 12 23	t – J model
+T3	Property 47 76	slave boson mean field theory
+T5	Material 121 126	layer
+T6	Property 140 158	antiferromagnetism
+T7	Property 160 163	AFM
+T8	Material 171 176	layer
+T9	SC 190 207	superconductivity
+T10	SC 209 211	SC
+T12	Property 238 245	density
+T13	Process 250 265	low temperature
+T14	SC 317 319	SC
+T15	Property 359 376	antiferromagnetic
+T16	Property 378 380	AF
+T17	Material 382 389	bilayer
+T18	Property 422 434	paramagnetic
+T19	Material 435 442	bilayer
+T20	Process 446 462	high temperature
+T21	Property 507 510	AFM
+T22	SC 515 517	SC
+T23	SC 546 584	superconducting transition temperature
+T24	Property 590 607	density of states
+T25	Property 611 621	low energy
+T26	Material 629 637	particle
+T27	Property 638 648	excitation
+T28	Property 670 672	AF
+T29	Process 682 706	intermediate temperature
+T30	Property 725 727	AF
+T31	Material 780 789	bilayered
+T32	SC 790 805	superconducting
+T33	Element 806 814	cuprates
+T4	Material 92 108	phase lamination
+T34	Material 110 112	PL
+T35	Material 310 312	PL
+T36	Material 468 470	PL
+T11	Doping 231 237	doping
+R1	Coref Arg1:T9 Arg2:T10
+R2	Coref Arg1:T4 Arg2:T34
+E1	Doping:T11 

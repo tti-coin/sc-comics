@@ -1,0 +1,35 @@
+T3	SC 66 81	superconductors
+T4	Property 103 123	transport properties
+T6	Element 148 162	iron-arsenides
+T7	Main 163 173	LnFeAsO1−y
+T8	Element 178 180	La
+T9	Element 182 184	Ce
+T10	Element 186 188	Pr
+T11	Element 193 195	Nd
+T13	Property 323 338	carrier density
+T14	SC 368 376	high-T c
+T15	Element 377 385	cuprates
+T16	Element 402 404	La
+T18	Process 432 447	low temperature
+T19	Property 448 459	resistivity
+T20	Property 502 519	magnetoresistance
+T21	Element 559 561	Nd
+T22	SC 574 584	higher T c
+T23	Property 654 665	resistivity
+T24	Property 676 693	magnetoresistance
+T25	SC 753 779	high-T c superconductivity
+T2	Element 55 59	iron
+T26	Element 787 791	iron
+T1	Property 32 39	carrier
+T28	Property 292 310	carrier scattering
+T5	Element 131 137	oxygen
+T32	Property 586 594	carriers
+T12	Doping 40 46	doping
+T30	Doping 209 215	doping
+T31	Doping 252 258	doping
+T17	SC 417 426	lower T c
+R1	Target Arg1:E1 Arg2:T2
+R2	Target Arg1:E2 Arg2:T7
+E1	Doping:T12 Dopant:T1
+E2	Doping:T30 
+E3	Doping:T31 

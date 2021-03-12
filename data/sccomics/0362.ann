@@ -1,0 +1,49 @@
+T1	Material 44 54	structural
+T2	Property 56 64	magnetic
+T3	Property 66 75	transport
+T4	SC 80 95	superconducting
+T5	Main 110 132	Fe1+z Te1−x−y Se x S y
+T6	Material 133 140	ceramic
+T7	Element 180 182	Se
+T8	Element 201 202	S
+T10	Element 249 251	Se
+T11	Element 256 257	S
+T12	Material 270 279	structure
+T13	Process 303 312	reduction
+T14	Material 380 399	structural disorder
+T15	Property 439 451	ionic radius
+T17	Material 472 479	cations
+T19	Property 514 534	transport properties
+T20	Material 599 607	disorder
+T21	SC 626 640	superconductor
+T22	Material 668 687	structural disorder
+T23	Property 706 728	variable range hopping
+T24	Process 786 804	lower temperatures
+T25	Material 864 872	disorder
+T26	Property 895 903	metallic
+T27	Property 941 950	transport
+T30	SC 1060 1086	superconducting transition
+T31	SC 1102 1117	superconducting
+T32	SC 1212 1229	superconductivity
+T33	Material 1245 1253	disorder
+T34	Property 1263 1286	electronic localization
+T36	Property 1323 1339	coherence length
+T38	SC 1342 1344	SC
+T40	Value 184 185	0
+T41	Value 192 195	0.5
+T42	Value 204 205	0
+T44	Value 212 216	0.12
+T46	Value 160 161	0
+T53	Element 265 269	FeTe
+T55	Value 776 781	200 K
+T28	Material 954 979	resilient-quasi-particles
+T18	Property 1015 1033	Fermi liquid state
+T29	Property 1294 1295	ξ
+T35	Property 1340 1341	ξ
+T9	Doping 232 245	incorporation
+T16	Doping 459 471	substituting
+R1	Target Arg1:E1 Arg2:T53
+R2	Target Arg1:E3 Arg2:T53
+E1	Doping:T9 Dopant:T10
+E2	Doping:T16
+E3	Doping:T9 Dopant:T11

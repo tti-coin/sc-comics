@@ -1,0 +1,46 @@
+T1	SC 19 46	high transition temperature
+T2	SC 49 52	T c
+T3	SC 55 72	superconductivity
+T4	Material 151 159	material
+T7	Element 215 222	PrFeAsO
+T9	Element 262 264	As
+T10	Property 297 307	resistance
+T11	Property 315 328	normal states
+T12	Element 379 381	Sb
+T13	Element 450 452	Sb
+T15	Material 465 482	lattice constants
+T16	Element 516 518	Sb
+T17	Property 519 532	concentration
+T19	SC 594 611	superconductivity
+T20	Material 630 645	crystal lattice
+T21	Property 666 677	Hall effect
+T22	Element 752 754	Sr
+T23	Element 759 761	Pn
+T24	Element 766 768	Sb
+T25	Element 770 771	P
+T27	Value 238 241	22K
+T28	Element 206 208	Sr
+T6	Element 555 556	P
+T8	Element 245 247	Sb
+T32	Element 763 765	Pn
+T14	Doping 209 214	doped
+T18	Doping 248 254	doping
+T26	Doping 453 459	doping
+T29	Doping 557 563	doping
+T30	Doping 776 781	doped
+T5	SC 193 202	onset T c
+R1	Coref Arg1:T1 Arg2:T2
+R2	Target Arg1:E1 Arg2:T7
+R3	Target Arg1:T27 Arg2:T7
+R4	Target Arg1:E2 Arg2:T7
+R5	Condition Arg1:T27 Arg2:E2
+R6	Equivalent Arg1:T5 Arg2:T27
+E1	Doping:T14 Dopant:T28
+E2	Doping:T18 Dopant:T8 Site:T9
+E3	Doping:T26 Dopant:T13
+E4	Doping:T29 Dopant:T6
+E5	Doping:T30 Dopant:T24
+E6	Doping:T30 Dopant:T22
+E7	Doping:T30 Dopant:T32
+E8	Doping:T30 Dopant:T23
+E9	Doping:T30 Dopant:T25

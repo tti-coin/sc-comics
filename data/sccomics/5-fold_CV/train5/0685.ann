@@ -1,0 +1,32 @@
+T3	Property 45 55	anisotropy
+T6	Property 99 109	anisotropy
+T7	Material 127 133	c-axis
+T9	Element 195 203	BaFe2As2
+T10	Element 205 211	LiFeAs
+T11	Element 216 220	FeSe
+T12	Property 242 251	transport
+T13	SC 288 303	superconductors
+T14	Material 340 350	perovskite
+T15	Material 356 371	blocking layers
+T16	Element 380 390	Sr2ScFePO3
+T17	Property 460 471	anisotropic
+T18	SC 472 480	high-T c
+T19	Element 481 488	cuprate
+T20	Element 489 504	Bi2Sr2CaCu2O8−δ
+T21	Material 527 545	Josephson junction
+T22	Material 589 595	c-axis
+T23	SC 681 696	superconductors
+T25	Property 739 749	anisotropy
+T26	Element 753 760	LaFeAsO
+T27	Property 116 119	γ λ
+T28	Property 419 422	γ λ
+T29	Value 424 427	200
+T1	Property 11 40	first-principles calculations
+T4	Material 159 167	ab-plane
+T8	Property 636 645	multi-gap
+T31	Property 607 624	Josephson effects
+T5	Doping 718 724	doping
+T2	Main 67 71	iron
+T24	SC 78 93	superconductors
+R1	Target Arg1:E1 Arg2:T26
+E1	Doping:T5 

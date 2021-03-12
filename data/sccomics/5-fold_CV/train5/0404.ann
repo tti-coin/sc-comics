@@ -1,0 +1,32 @@
+T1	Material 48 69	crystalline structure
+T2	SC 74 91	superconductivity
+T3	Main 99 108	Ta1-xZrxB
+T5	Element 137 139	Ta
+T6	Element 144 146	Zr
+T7	Material 147 152	atoms
+T8	Material 163 180	crystal structure
+T9	Element 193 196	CrB
+T10	Element 201 204	FeB
+T11	Material 205 224	prototype structure
+T12	SC 234 251	superconductivity
+T15	SC 312 314	Tc
+T16	SC 342 344	Tc
+T17	Element 349 351	Zr
+T18	SC 400 402	Tc
+T19	Material 431 435	bulk
+T20	SC 436 453	superconductivity
+T21	Property 488 501	magnetization
+T22	Property 503 525	electrical resistivity
+T26	Property 653 667	critical field
+T27	Property 728 737	multiband
+T28	Property 368 386	dome-like behavior
+T30	Value 626 631	7.8 K
+T31	Value 410 413	0.2
+T4	Doping 121 133	substitution
+T13	SC 275 311	superconducting critical temperature
+T14	SC 580 616	superconducting critical temperature
+T23	Characterization 544 556	measurements
+T24	Property 530 543	specific heat
+R1	Coref Arg1:T13 Arg2:T15
+R2	Equivalent Arg1:T14 Arg2:T30
+E1	Doping:T4 Site:T6 Dopant:T5

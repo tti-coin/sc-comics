@@ -1,0 +1,94 @@
+T2	Element 58 60	Sb
+T3	Element 65 67	Si
+T5	Main 86 93	FeSe0.9
+T6	SC 101 116	superconducting
+T7	SC 137 159	transition temperature
+T8	SC 161 163	Tc
+T9	Property 167 187	upper critical field
+T10	Property 199 220	irreversibility field
+T11	Material 234 249	polycrystalline
+T12	Process 293 313	solid state reaction
+T13	Material 325 345	nominal compositions
+T15	Characterization 412 429	X-ray diffraction
+T16	Material 459 469	tetragonal
+T17	Element 470 476	α-FeSe
+T18	Material 492 498	P4/nmm
+T19	Material 499 510	space group
+T20	Material 511 519	symmetry
+T23	SC 588 597	T c onset
+T24	Element 638 640	Si
+T25	Element 645 647	Sb
+T27	Property 695 717	temperature dependence
+T28	Property 772 789	magnetoresistance
+T29	Property 832 844	normal state
+T30	Property 845 856	resistivity
+T31	Property 981 989	theories
+T32	Material 1063 1074	composition
+T33	Element 1096 1098	Si
+T34	Element 1103 1105	Sb
+T36	Property 1125 1146	irreversibility field
+T37	Property 1158 1175	activation energy
+T38	Property 1220 1233	vortex motion
+T44	Value 375 378	0.0
+T45	Value 600 606	9.42 K
+T46	Value 611 617	9.20 K
+T48	Value 685 689	0.05
+T51	Value 817 820	90%
+T52	Value 825 828	10%
+T54	Property 922 949	Werthamer–Helfand–Hohenberg
+T55	Property 951 954	WHH
+T56	Property 960 975	Ginzburg–Landau
+T57	Property 977 979	GL
+T60	Value 1078 1082	0.10
+T21	SC 552 586	superconducting onset temperatures
+T62	Value 380 384	0.05
+T63	Value 386 390	0.10
+T64	Value 392 396	0.15
+T65	Value 401 405	0.20
+T4	Element 75 77	Se
+T14	Element 346 370	Fe[Se1− x (Sb/Si) x ]0.9
+T1	Doping 51 57	doping
+T22	Doping 648 653	doped
+T26	Doping 1106 1111	doped
+R1	Coref Arg1:T7 Arg2:T8
+R2	Equivalent Arg1:T23 Arg2:T45
+R3	Equivalent Arg1:T23 Arg2:T46
+R4	Coref Arg1:T21 Arg2:T23
+R5	Target Arg1:E1 Arg2:T5
+R6	Target Arg1:E2 Arg2:T5
+R7	Condition Arg1:T45 Arg2:E4
+R8	Condition Arg1:T46 Arg2:E3
+E1	Doping:T1 Dopant:T3 Site:T4
+E2	Doping:T1 Dopant:T2 Site:T4
+E3	Doping:T22 Dopant:T25
+E4	Doping:T22 Dopant:T24
+E5	Doping:T26 Dopant:T34
+E6	Doping:T26 Dopant:T33
+#1	AnnotatorNotes T2	58-60
+#2	AnnotatorNotes T3	65-67
+#3	AnnotatorNotes T5	86-93
+#4	AnnotatorNotes T11	234-249
+#5	AnnotatorNotes T13	325-345
+#6	AnnotatorNotes T16	459-469
+#7	AnnotatorNotes T17	470-476
+#8	AnnotatorNotes T18	492-498
+#9	AnnotatorNotes T19	499-510
+#10	AnnotatorNotes T20	511-519
+#11	AnnotatorNotes T24	638-640
+#12	AnnotatorNotes T25	645-647
+#13	AnnotatorNotes T32	1063-1074
+#14	AnnotatorNotes T33	1096-1098
+#15	AnnotatorNotes T34	1103-1105
+#16	AnnotatorNotes T44	375-378
+#17	AnnotatorNotes T45	600-606
+#18	AnnotatorNotes T46	611-617
+#19	AnnotatorNotes T48	685-689
+#20	AnnotatorNotes T51	817-820
+#21	AnnotatorNotes T52	825-828
+#22	AnnotatorNotes T60	1078-1082
+#23	AnnotatorNotes T62	380-384
+#24	AnnotatorNotes T63	386-390
+#25	AnnotatorNotes T64	392-396
+#26	AnnotatorNotes T65	401-405
+#27	AnnotatorNotes T4	75-77
+#28	AnnotatorNotes T14	346-370

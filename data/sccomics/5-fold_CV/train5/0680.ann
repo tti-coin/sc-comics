@@ -1,0 +1,50 @@
+T1	Element 14 21	yttrium
+T3	Element 42 51	lanthanum
+T4	SC 64 79	superconducting
+T5	Main 94 117	La1− x Y x O0.9F0.1FeAs
+T6	Element 159 171	oxypnictides
+T7	Characterization 190 214	Powder X-ray diffraction
+T8	Material 231 244	single phases
+T9	Element 286 290	Y2O3
+T10	Property 308 330	temperature dependence
+T12	SC 371 409	superconducting transition temperature
+T13	SC 411 413	Tc
+T14	Property 452 471	Meissner transition
+T15	Material 496 507	composition
+T16	Element 565 579	LaO0.9F0.1FeAs
+T17	SC 581 583	Tc
+T18	Property 616 629	concentration
+T19	Element 633 640	yttrium
+T20	SC 684 710	superconducting transition
+T21	Property 786 805	Seebeck coefficient
+T22	Property 878 890	conductivity
+T23	Property 897 906	electrons
+T24	Property 912 928	Hall coefficient
+T25	Property 1005 1016	thermopower
+T26	Material 1030 1048	lattice parameters
+T29	Element 1115 1122	yttrium
+T31	Value 475 480	34.3K
+T33	Value 585 588	28K
+T34	Value 492 495	0.3
+T36	Value 775 780	60.5T
+T38	Value 253 256	0.1
+T39	Value 126 130	0.10
+T40	Value 419 433	34.8 (±0.05) K
+T41	Value 153 157	0.60
+T42	Value 144 148	0.50
+T43	Value 138 142	0.30
+T44	Value 132 136	0.20
+T45	Property 1077 1099	charge-carrier density
+T2	Doping 22 34	substitution
+T11	Doping 1123 1129	doping
+T27	Value 123 124	0
+T28	Property 334 345	resistivity
+T30	Characterization 346 358	measurements
+R1	Equivalent Arg1:T17 Arg2:T33
+R2	Coref Arg1:T12 Arg2:T13
+R3	Target Arg1:T33 Arg2:T16
+R4	Target Arg1:E1 Arg2:T5
+R5	Equivalent Arg1:T12 Arg2:T40
+R6	Equivalent Arg1:T12 Arg2:T31
+E1	Doping:T2 Dopant:T1 Site:T3
+E2	Doping:T11 Dopant:T29

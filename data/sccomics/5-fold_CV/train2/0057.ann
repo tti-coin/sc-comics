@@ -1,0 +1,73 @@
+T1	SC 5 20	superconducting
+T2	Material 35 40	films
+T3	Property 143 151	metallic
+T4	Material 170 176	metals
+T7	Material 284 289	films
+T8	Material 302 311	thin film
+T9	SC 312 339	zero resistance temperature
+T13	Process 387 408	annealing temperature
+T14	Material 475 480	films
+T16	Material 523 533	Thin films
+T18	Property 632 654	Electrical resistivity
+T19	Characterization 656 673	X-ray diffraction
+T20	Property 678 698	optical reflectivity
+T21	SC 770 773	T c
+T22	Material 791 796	films
+T23	Main 21 34	Bi-Sr-Ca-Cu-O
+T24	Element 152 154	Bi
+T25	Element 167 169	Cu
+T26	Element 156 158	Sr
+T27	Element 160 162	Ca
+T28	Element 97 100	MgO
+T29	Material 101 111	substrates
+T30	Process 115 139	simultaneous evaporation
+T31	Value 486 491	820°C
+T33	Value 517 521	94 K
+T34	Element 583 585	Cu
+T35	Element 576 578	Bi
+T36	Material 199 226	Knudsen evaporation sources
+T38	Material 416 427	composition
+T39	Element 57 71	2212 structure
+T37	Element 614 630	2212 composition
+T12	Process 242 255	postannealing
+T10	Process 454 467	Rapid cooling
+T40	Doping 564 572	enriched
+T11	SC 341 349	T c,zero
+T15	SC 502 510	T c,zero
+T17	SC 539 547	T c,zero
+T32	Value 554 558	90 K
+T5	Material 272 283	metal alloy
+R1	Equivalent Arg1:T15 Arg2:T33
+R2	Equivalent Arg1:T17 Arg2:T32
+R4	Target Arg1:E1 Arg2:T37
+R5	Coref Arg1:T9 Arg2:T11
+R6	Condition Arg1:T32 Arg2:E1
+R7	Condition Arg1:T32 Arg2:E2
+R8	Target Arg1:E2 Arg2:T37
+E1	Doping:T40 Dopant:T35
+E2	Doping:T40 Dopant:T34
+R3	Target Arg1:T32 Arg2:T37
+#1	AnnotatorNotes T2	35-40
+#2	AnnotatorNotes T4	170-176
+#3	AnnotatorNotes T7	284-289
+#4	AnnotatorNotes T8	302-311
+#5	AnnotatorNotes T14	475-480
+#6	AnnotatorNotes T16	523-533
+#7	AnnotatorNotes T22	791-796
+#8	AnnotatorNotes T23	21-34
+#9	AnnotatorNotes T24	152-154
+#10	AnnotatorNotes T25	167-169
+#11	AnnotatorNotes T26	156-158
+#12	AnnotatorNotes T27	160-162
+#13	AnnotatorNotes T28	97-100
+#14	AnnotatorNotes T29	101-111
+#15	AnnotatorNotes T31	486-491
+#16	AnnotatorNotes T33	517-521
+#17	AnnotatorNotes T34	583-585
+#18	AnnotatorNotes T35	576-578
+#19	AnnotatorNotes T36	199-226
+#20	AnnotatorNotes T38	416-427
+#21	AnnotatorNotes T39	57-71
+#22	AnnotatorNotes T37	614-630
+#23	AnnotatorNotes T32	554-558
+#24	AnnotatorNotes T5	272-283

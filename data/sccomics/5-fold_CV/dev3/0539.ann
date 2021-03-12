@@ -1,0 +1,72 @@
+T1	Element 14 22	tantalum
+T2	Element 27 35	titanium
+T4	Material 53 64	composition
+T5	SC 70 85	superconducting
+T6	Property 108 119	sensitivity
+T7	Property 123 129	strain
+T8	Material 133 137	bulk
+T10	Characterization 194 222	Scanning Electron Microscopy
+T11	Characterization 228 264	Energy Dispersive X-ray Spectroscopy
+T12	Characterization 266 269	SEM
+T13	Characterization 270 273	EDX
+T14	Material 297 303	binary
+T15	Element 304 309	Nb3Sn
+T16	Material 310 314	bulk
+T17	Element 319 324	Nb3Sn
+T18	Material 325 329	bulk
+T20	Element 341 349	titanium
+T21	Element 354 362	tantalum
+T22	Material 374 388	stoichiometric
+T23	Element 389 394	Nb3Sn
+T24	Element 399 414	niobium(-oxide)
+T25	Element 450 464	niobium-to-tin
+T26	Element 500 508	tantalum
+T27	Element 542 550	titanium
+T28	Element 572 580	tantalum
+T30	Element 594 601	niobium
+T31	Element 606 614	titanium
+T33	Element 628 631	tin
+T34	Material 643 660	crystal structure
+T35	Property 674 685	resistivity
+T40	Element 803 811	tantalum
+T41	Element 816 824	titanium
+T43	Property 836 858	critical magnetic ﬁeld
+T45	Property 918 940	critical magnetic ﬁeld
+T46	Property 956 962	strain
+T49	Material 1073 1078	wires
+T50	Element 1100 1108	titanium
+T51	Element 1113 1121	tantalum
+T54	Material 1178 1189	composition
+T55	SC 1191 1206	superconducting
+T56	Property 1223 1241	strain sensitivity
+T58	Element 1245 1250	Nb3Sn
+T59	Element 1279 1284	Nb3Sn
+T60	Value 862 866	29.3
+T61	Value 871 877	30.1 T
+T62	Value 773 779	26.7 T
+T38	Material 758 769	binary bulk
+T39	Value 670 673	10%
+T64	Property 721 743	critical magnetic ﬁeld
+T36	Property 1042 1060	strain sensitivity
+T37	Characterization 167 189	heat capacity analysis
+T42	Main 138 143	Nb3Sn
+T3	Doping 36 45	additions
+T9	Doping 335 340	added
+T19	Doping 584 593	replacing
+T29	Doping 618 627	replacing
+T32	Doping 1122 1131	additions
+T44	Doping 1161 1170	additions
+R1	Target Arg1:E1 Arg2:T42
+R2	Target Arg1:E2 Arg2:T42
+R3	Target Arg1:E3 Arg2:T17
+R4	Target Arg1:E4 Arg2:T17
+R5	Target Arg1:E11 Arg2:T58
+E1	Doping:T3 Dopant:T2
+E2	Doping:T3 Dopant:T1
+E3	Doping:T9 Dopant:T21
+E4	Doping:T9 Dopant:T20
+E7	Doping:T19 Dopant:T28 Site:T30
+E8	Doping:T29 Dopant:T31 Site:T33
+E9	Doping:T32 Dopant:T51
+E10	Doping:T32 Dopant:T50
+E11	Doping:T44 

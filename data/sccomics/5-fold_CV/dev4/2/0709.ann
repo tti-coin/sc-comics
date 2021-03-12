@@ -1,0 +1,54 @@
+T1	Material 64 73	nanoscale
+T2	SC 98 118	critical temperature
+T3	SC 119 122	T c
+T4	SC 130 153	high-T c superconductor
+T5	Main 154 169	Bi2Sr2CaCu2O8+δ
+T6	Material 245 249	bulk
+T7	SC 250 265	superconducting
+T8	SC 424 439	superconducting
+T9	Property 519 525	charge
+T10	Property 530 541	percolation
+T11	Property 592 600	critical
+T13	SC 623 640	superconductivity
+T14	Property 681 696	electric charge
+T16	Property 713 728	electron charge
+T18	Property 767 771	hole
+T19	Property 787 798	percolation
+T20	Property 851 859	critical
+T23	SC 882 899	superconductivity
+T24	Property 947 953	charge
+T26	Property 1053 1057	hole
+T27	Property 1081 1094	concentration
+T29	Property 1166 1177	percolation
+T31	Material 1244 1248	bulk
+T32	Property 1273 1282	pseudogap
+T33	Property 1344 1352	vortices
+T34	Property 1356 1362	Nernst
+T36	Property 1680 1687	density
+T37	Property 1706 1716	energy gap
+T38	Property 1755 1768	ground states
+T39	SC 1806 1821	superconductors
+T40	Property 47 50	gap
+T41	Property 772 777	boson
+T42	Property 822 828	bosons
+T25	Property 1284 1286	PG
+T30	Property 1441 1443	PG
+T43	Property 1579 1585	bosons
+T45	Property 1607 1609	2D
+T46	Property 1803 1805	2D
+T47	Property 1783 1798	Uemura relation
+T15	Property 1058 1066	fermions
+T17	Property 1733 1742	fermionic
+T48	Property 1249 1256	bosonic
+T49	Property 1747 1754	bosonic
+T50	Property 660 667	carries
+T12	Doping 601 607	doping
+T21	Doping 860 866	doping
+T28	Doping 1144 1150	doping
+T35	Property 1520 1526	bosons
+T22	Property 1187 1193	bosons
+T44	Property 1610 1618	fermions
+R1	Coref Arg1:T2 Arg2:T3
+E1	Doping:T12 
+E2	Doping:T21 
+E3	Doping:T28 

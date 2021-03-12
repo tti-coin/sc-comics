@@ -1,0 +1,43 @@
+T1	Characterization 34 52	neutron-scattering
+T2	Property 124 133	magnetism
+T4	Element 151 165	cuprate oxides
+T5	Property 193 212	charge-density-wave
+T6	Property 223 240	spin-density-wave
+T7	Property 242 245	SDW
+T8	Property 247 253	orders
+T9	Element 257 279	La1.6−x Nd0.4Sr x CuO4
+T10	Element 382 386	CuO2
+T11	Material 387 393	planes
+T12	SC 448 465	superconductivity
+T13	Property 496 502	charge
+T14	Property 507 511	spin
+T15	Property 519 525	orders
+T16	SC 544 559	superconducting
+T17	Main 560 566	La-214
+T18	Characterization 613 631	neutron scattering
+T19	Property 668 686	hole concentration
+T20	Property 709 714	order
+T21	Property 759 787	low-energy spin fluctuations
+T22	Property 802 809	ordered
+T23	Material 814 824	disordered
+T24	Element 825 840	La2−x Ba x CuO4
+T25	Property 918 932	magnetic field
+T26	Material 937 945	impurity
+T28	Property 966 972	orders
+T29	Property 1027 1035	electron
+T31	Element 1042 1050	cuprates
+T32	Characterization 53 65	measurements
+T33	Property 137 144	carrier
+T34	Property 214 217	CDW
+T38	Value 288 291	1/8
+T39	Characterization 632 644	measurements
+T43	Value 849 852	1/8
+T44	Property 358 365	carrier
+T3	Doping 145 150	doped
+T27	Doping 946 958	substitution
+T30	Doping 1036 1041	doped
+R1	Target Arg1:E1 Arg2:T4
+R2	Target Arg1:E3 Arg2:T31
+E1	Doping:T3 Dopant:T33
+E2	Doping:T27
+E3	Doping:T30 Dopant:T29

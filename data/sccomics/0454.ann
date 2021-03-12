@@ -1,0 +1,38 @@
+T4	Material 91 99	trilayer
+T6	Main 124 130	Bi2223
+T7	Material 146 151	layer
+T11	Material 230 236	layers
+T14	Material 318 323	layer
+T15	Element 324 332	cuprates
+T16	Material 349 354	layer
+T18	Property 420 425	model
+T19	Material 444 449	layer
+T20	Property 450 465	t–J Hamiltonian
+T21	Material 474 482	particle
+T22	Property 515 526	Cooper pair
+T24	SC 598 613	superconducting
+T25	Property 614 630	order parameters
+T26	Property 770 790	electronic structure
+T27	Material 798 806	trilayer
+T1	Characterization 7 48	angle-resolved photoemission spectroscopy
+T2	Characterization 50 55	ARPES
+T8	Property 170 184	doping density
+T9	Property 189 195	d-wave
+T10	Property 553 583	renormalized mean field method
+T28	Characterization 873 878	ARPES
+T29	Property 287 290	gap
+T30	Property 389 392	gap
+T31	Property 258 261	gap
+T23	Property 196 199	gap
+T3	Doping 85 90	doped
+T12	Doping 241 250	overdoped
+T13	Doping 305 310	doped
+T17	Doping 358 368	underdoped
+R1	Target Arg1:E1 Arg2:T6
+R2	Target Arg1:E3 Arg2:T15
+E1	Doping:T3
+E2	Doping:T12
+E3	Doping:T13
+E4	Doping:T17
+T5	Element 100 107	cuprate
+T32	SC 108 123	superconductors

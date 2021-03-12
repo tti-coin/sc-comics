@@ -1,0 +1,72 @@
+T1	Process 8 28	solid state reaction
+T2	Main 57 69	YBa2Cu3O7− δ
+T3	Main 74 102	(YBa2Cu3O7− δ )1− x (Ag2O) x
+T4	Element 151 157	oxides
+T5	Element 159 162	BaO
+T6	Element 164 167	CuO
+T7	Element 173 177	Y2O3
+T8	Element 251 255	Ag2O
+T9	Element 276 280	Ag2O
+T10	Material 284 294	impurities
+T11	Process 379 399	hydrostatic pressure
+T12	Process 439 447	sintered
+T13	Element 458 464	Silver
+T15	Material 478 488	impurities
+T16	Material 507 513	powder
+T17	Property 564 573	ductility
+T18	SC 579 601	transition temperature
+T19	SC 610 624	superconductor
+T20	SC 763 766	T c
+T21	Element 780 793	YBa2Cu3O6.989
+T22	Process 795 806	Evaporation
+T23	Process 807 817	deposition
+T24	Process 831 840	deposited
+T25	Material 843 852	thin film
+T26	Material 864 873	thickness
+T27	Material 881 888	surface
+T28	Process 913 921	annealed
+T29	Process 925 941	room temperature
+T30	Property 970 980	resistance
+T32	Material 1023 1029	liquid
+T33	Property 1039 1052	boiling point
+T34	Material 1059 1065	metals
+T35	Property 1077 1089	conductivity
+T36	Element 1098 1104	copper
+T37	Element 1106 1120	brass aluminum
+T38	Element 1125 1129	iron
+T39	SC 1216 1231	superconducting
+T40	Element 1246 1250	Ag2O
+T41	Element 1262 1266	Ag2O
+T42	SC 1313 1328	superconducting
+T43	Process 1347 1354	cooling
+T45	Process 1391 1399	sintered
+T46	SC 1496 1511	superconducting
+T47	Property 1539 1553	magnetic field
+T48	Process 1617 1623	cooled
+T53	Value 237 242	900°C
+T54	Process 225 233	calcined
+T55	Process 106 135	mixing the appropriate ratios
+T56	Value 260 265	930°C
+T57	Property 205 215	fine power
+T58	Value 405 418	(0.3–0.6) Gpa
+T59	Value 451 456	950°C
+T60	Value 529 532	0.3
+T61	Characterization 724 749	four – point probe method
+T62	Value 771 775	110K
+T63	Value 857 863	2200A°
+T64	Value 984 988	0.2Ω
+T31	Property 1006 1019	ohmic contact
+T65	Element 1030 1038	nitrogen
+T66	Value 1054 1057	77K
+T67	Property 1163 1175	eddy-current
+T68	Property 1280 1290	power loss
+T70	Process 1413 1429	drilled manually
+T71	Value 534 538	0.35
+T72	Value 543 547	0.45
+T73	Process 498 506	calcined
+T49	Process 1627 1654	liquid nitrogen temperature
+T44	Process 1358 1385	liquid nitrogen temperature
+T14	Doping 469 474	added
+R1	Equivalent Arg1:T20 Arg2:T62
+R2	Target Arg1:T62 Arg2:T21
+E1	Doping:T14 Dopant:T13

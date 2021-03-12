@@ -1,0 +1,68 @@
+T1	Element 40 42	Au
+T2	Material 43 56	nanoparticles
+T4	Main 74 78	YBCO
+T5	SC 79 110	high temperature superconductor
+T6	Process 122 129	sol-gel
+T7	Characterization 175 192	X-Ray diffraction
+T8	Characterization 194 197	XRD
+T9	Characterization 203 231	scanning electron microscope
+T10	Characterization 233 236	SEM
+T11	Material 278 296	orthorhombic phase
+T12	SC 300 317	superconductivity
+T14	Element 371 373	Au
+T15	Material 374 387	nanoparticles
+T16	Material 393 399	grains
+T17	Property 460 484	critical current density
+T18	Property 486 489	J c
+T19	SC 495 517	transition temperature
+T20	SC 519 522	T c
+T21	Property 579 590	resistivity
+T22	Element 672 674	Au
+T23	Material 675 688	nanoparticles
+T24	Element 732 736	YBCO
+T25	SC 749 771	transition temperature
+T26	Property 773 787	pinning energy
+T27	Property 792 816	critical current density
+T28	Property 850 853	J c
+T29	Element 866 868	Au
+T31	Element 875 879	YBCO
+T32	Property 898 922	critical current density
+T33	Property 954 957	J c
+T34	Property 978 992	magnetic field
+T36	Value 973 977	0.7T
+T40	Property 546 553	current
+T41	Property 561 568	voltage
+T42	Value 861 865	1wt%
+T3	Doping 68 73	doped
+T13	Doping 364 370	adding
+T30	Doping 869 874	doped
+T35	Value 58 61	0.1
+T37	Value 62 66	2wt%
+T38	Value 434 438	76nm
+T39	Value 442 446	47nm
+T43	Characterization 616 628	measurements
+T44	Process 598 609	temperature
+R1	Coref Arg1:T19 Arg2:T20
+R2	Target Arg1:E1 Arg2:T4
+R3	Target Arg1:E3 Arg2:T31
+E1	Doping:T3 Dopant:T1
+E2	Doping:T13 Dopant:T14
+E3	Doping:T30 Dopant:T29
+#1	AnnotatorNotes T1	40-42
+#2	AnnotatorNotes T2	43-56
+#3	AnnotatorNotes T4	74-78
+#4	AnnotatorNotes T11	278-296
+#5	AnnotatorNotes T14	371-373
+#6	AnnotatorNotes T15	374-387
+#7	AnnotatorNotes T16	393-399
+#8	AnnotatorNotes T22	672-674
+#9	AnnotatorNotes T23	675-688
+#10	AnnotatorNotes T24	732-736
+#11	AnnotatorNotes T29	866-868
+#12	AnnotatorNotes T31	875-879
+#13	AnnotatorNotes T36	973-977
+#14	AnnotatorNotes T42	861-865
+#15	AnnotatorNotes T35	58-61
+#16	AnnotatorNotes T37	62-66
+#17	AnnotatorNotes T38	434-438
+#18	AnnotatorNotes T39	442-446

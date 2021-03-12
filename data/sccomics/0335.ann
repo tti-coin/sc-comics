@@ -1,0 +1,137 @@
+T1	Material 52 67	microstructural
+T2	Property 69 79	electrical
+T3	SC 84 99	superconducting
+T4	Element 118 120	Eu
+T6	Main 127 158	Bi1.8Pb0.4Eu x Sr2Ca2.2Cu3.0O y
+T7	Process 219 239	solid state reaction
+T8	Process 263 284	annealing temperature
+T11	Property 383 397	dc resistivity
+T13	Property 405 414	transport
+T14	Property 415 439	critical current density
+T15	Property 441 443	Jc
+T16	Characterization 447 464	X-ray diffraction
+T17	Characterization 466 469	XRD
+T18	Characterization 472 500	scanning electron microscopy
+T19	Characterization 502 505	SEM
+T22	Characterization 538 541	EDX
+T23	Element 603 605	Eu
+T25	Element 612 619	Bi-2223
+T26	Material 665 669	bulk
+T27	Property 670 677	density
+T28	Material 682 690	porosity
+T29	Process 710 726	room temperature
+T30	Property 727 738	resistivity
+T33	SC 799 821	transition temperature
+T35	Property 828 849	carrier concentration
+T39	Property 921 935	dc resistivity
+T40	Material 954 963	texturing
+T41	Material 965 982	crystal structure
+T42	Material 1002 1014	phase purity
+T43	Material 1019 1034	cell parameters
+T44	Characterization 1045 1063	XRD investigations
+T45	Property 1087 1107	flux pinning centers
+T46	SC 1148 1163	superconducting
+T47	Material 1164 1170	grains
+T48	Property 1181 1205	critical current density
+T49	Material 1219 1232	crystallinity
+T50	Material 1243 1250	surface
+T51	Material 1251 1261	morphology
+T52	Material 1263 1268	grain
+T53	SC 1294 1309	superconducting
+T54	Material 1310 1316	grains
+T55	Material 1321 1326	grain
+T56	Characterization 1355 1371	SEM examinations
+T57	Material 1388 1400	compositions
+T58	Characterization 1425 1441	EDX measurements
+T59	Element 1585 1587	Eu
+T60	Property 1588 1601	concentration
+T61	Element 1609 1616	Bi-2223
+T62	SC 1617 1632	superconducting
+T63	Material 1633 1639	matrix
+T64	Material 1718 1728	distortion
+T65	Element 1741 1748	Bi-2223
+T66	Material 1784 1794	porosities
+T67	Material 1799 1813	grain boundary
+T69	Material 1936 1944	impurity
+T70	SC 1958 1979	critical temperatures
+T74	Element 2058 2060	Eu
+T77	Property 2169 2193	critical current density
+T80	Characterization 2426 2429	SEM
+T81	Material 2456 2463	surface
+T82	Material 2464 2474	morphology
+T83	Material 2479 2484	grain
+T84	Element 2528 2530	Eu
+T86	Characterization 2560 2576	XRD measurements
+T87	Element 2591 2593	Eu
+T88	Material 2620 2637	crystal structure
+T89	Element 2680 2693	Bi-2223 phase
+T90	Characterization 2710 2713	XRD
+T91	Characterization 2729 2744	EDX measurement
+T92	Element 2839 2846	Bi-2223
+T93	Material 2847 2856	structure
+T94	Element 2884 2886	Ca
+T95	Element 2888 2890	Cu
+T96	Element 2906 2908	Pb
+T97	Element 2935 2937	Eu
+T98	Element 2957 2964	Bi-2223
+T99	Material 2965 2971	matrix
+T100	Element 2990 2992	Eu
+T101	Material 2993 3006	nanoparticles
+T103	SC 3086 3101	superconducting
+T104	Element 3141 3143	Eu
+T105	Material 3144 3154	impurities
+T106	Characterization 511 536	electron dispersive X-ray
+T107	Value 185 188	0.7
+T109	Value 288 293	840°C
+T110	Value 298 301	24h
+T34	Value 1894 1900	117.6K
+T111	Value 1902 1908	109.9K
+T112	Value 1913 1918	68.1K
+T113	Value 1920 1925	14.8K
+T115	Value 2081 2084	0.7
+T117	Property 2109 2138	metal to insulator transition
+T118	Property 2140 2143	MIT
+T119	Property 2195 2198	Jct
+T120	Value 2231 2240	3201A/cm2
+T121	Value 2266 2273	29A/cm2
+T123	Value 2304 2307	0.5
+T125	Value 2339 2342	0.7
+T126	Element 3030 3038	elements
+T36	Process 851 879	spin-gap opening temperature
+T127	SC 1843 1878	onset (offset) critical temperature
+T131	Property 399 402	ρ-T
+T133	Value 1649 1652	0.5
+T135	SC 1982 1991	T c onset
+T136	SC 1996 2006	T c offset
+T12	Property 884 910	thermodynamic fluctuations
+T20	Material 643 654	granularity
+T71	Material 984 1000	crystallite size
+T72	Characterization 348 360	measurements
+T85	Property 369 381	bulk density
+T10	Property 2531 2544	concentration
+T130	Characterization 691 703	measurements
+T5	Doping 121 126	doped
+T9	Doping 606 611	doped
+T24	Doping 2043 2048	doped
+T38	Doping 2290 2295	doped
+T73	Doping 2325 2330	doped
+T78	Doping 3011 3021	substitute
+T31	SC 740 784	onset–offset critical transition temperature
+T32	Property 823 827	hole
+T68	Doping 2594 2604	inclusions
+R1	Target Arg1:E1 Arg2:T6
+R2	Target Arg1:E2 Arg2:T25
+R3	Equivalent Arg1:T127 Arg2:T34
+R4	Equivalent Arg1:T127 Arg2:T111
+R5	Equivalent Arg1:T127 Arg2:T112
+R6	Equivalent Arg1:T127 Arg2:T113
+R7	Target Arg1:E7 Arg2:T89
+E1	Doping:T5 Dopant:T4
+E2	Doping:T9 Dopant:T23
+E3	Doping:T24 Dopant:T74
+E4	Doping:T38
+E5	Doping:T73
+E6	Doping:T78 Dopant:T100 Site:T126
+E7	Doping:T68 Dopant:T87
+T21	Element 167 175	cuprates
+T37	Material 159 166	ceramic

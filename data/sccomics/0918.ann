@@ -1,0 +1,112 @@
+T1	Material 0 29	Intrinsic Josephson junctions
+T3	Material 115 120	layer
+T4	Material 128 135	surface
+T5	Main 143 159	Bi2Sr2CaCu2O8+ δ
+T6	Main 161 168	Bi-2212
+T7	Material 170 184	single crystal
+T8	Property 211 223	current flow
+T9	Material 248 260	out-of-plane
+T10	Material 308 315	surface
+T11	Element 323 330	Bi-2212
+T12	Material 331 345	single crystal
+T14	Material 400 405	layer
+T15	Material 415 422	surface
+T16	Element 426 433	Bi-2212
+T17	Material 434 448	single crystal
+T19	Material 497 502	layer
+T20	Process 506 515	annealing
+T21	Element 520 527	Bi-2212
+T22	Material 528 542	single crystal
+T23	Process 556 566	atmosphere
+T24	Element 570 576	H2 gas
+T25	Element 582 584	Pt
+T26	Element 588 590	Au
+T27	Material 591 601	electrodes
+T28	Process 637 646	deposited
+T29	Material 667 674	surface
+T30	Element 682 689	Bi-2212
+T31	Material 690 704	single crystal
+T32	Element 714 721	Bi-2212
+T33	Material 727 737	electrodes
+T34	Process 742 750	annealed
+T35	Element 754 756	Ar
+T36	Element 757 759	H2
+T37	Process 760 770	atmosphere
+T38	Property 776 787	resistivity
+T39	Element 829 836	Bi-2212
+T40	Material 837 851	single crystal
+T41	Property 865 873	metallic
+T42	Property 890 904	semiconducting
+T43	Process 930 939	annealing
+T44	Element 943 945	Ar
+T45	Element 946 948	H2
+T46	Process 949 959	atmosphere
+T48	Property 974 989	hysteresis loop
+T50	Process 1108 1116	annealed
+T51	Element 1120 1122	Ar
+T52	Element 1123 1125	H2
+T53	Process 1126 1136	atmosphere
+T54	Element 1155 1162	Bi-2212
+T55	Material 1163 1178	single crystals
+T56	Element 1194 1196	H2
+T57	Process 1197 1206	annealing
+T58	SC 1215 1232	superconductivity
+T59	Material 1283 1290	surface
+T60	Element 1298 1305	Bi-2212
+T61	Material 1306 1320	single crystal
+T62	Material 1357 1367	electrodes
+T63	Element 1383 1385	Ar
+T64	Element 1386 1388	H2
+T65	Process 1389 1398	annealing
+T67	Material 1586 1591	layer
+T68	Process 1598 1605	deposit
+T69	Material 1606 1612	metals
+T70	Property 1622 1639	Gibbs free energy
+T71	Property 1682 1699	activation energy
+T72	Element 1704 1715	oxygen ions
+T73	Element 1729 1736	Bi-2212
+T74	Material 1737 1751	single crystal
+T75	Material 1759 1764	metal
+T76	Element 1798 1800	Al
+T77	Property 1810 1827	Gibbs free energy
+T78	Process 1832 1841	deposited
+T81	Material 1920 1930	structures
+T85	Property 2003 2011	metallic
+T89	Property 2089 2103	semiconducting
+T90	Process 2116 2125	annealing
+T91	Element 2129 2131	Ar
+T92	Process 2132 2142	atmosphere
+T93	Property 2154 2169	hysteresis loop
+T95	Process 2234 2242	annealed
+T98	Material 2254 2263	structure
+T99	Element 2267 2269	Ar
+T100	Process 2270 2280	atmosphere
+T101	Property 2323 2335	current flow
+T102	Material 2352 2360	in-plane
+T103	Material 2364 2376	out-of-plane
+T104	Process 2394 2403	reduction
+T105	Element 2411 2418	Bi-2212
+T106	Material 2419 2433	single crystal
+T107	Process 2445 2454	oxidation
+T108	Element 2462 2464	Al
+T109	SC 2579 2594	superconducting
+T110	Process 2648 2657	reduction
+T47	Material 31 35	IJJs
+T112	Material 1030 1034	IJJs
+T113	Material 1516 1520	IJJs
+T114	Material 2474 2478	IJJs
+T115	Process 2505 2520	etching process
+T116	Process 61 76	etching process
+T49	Property 1448 1455	current
+T84	Characterization 2208 2211	I-V
+T88	Characterization 1057 1072	current-voltage
+T94	Characterization 1074 1077	I-V
+T111	Characterization 620 631	measurement
+T2	Element 99 105	oxygen
+T13	Element 384 390	oxygen
+T18	Element 481 487	oxygen
+T66	Element 1570 1576	oxygen
+T79	Element 1909 1919	Al/Bi-2212
+T80	Element 1975 1985	Al/Bi-2212
+T82	Element 2061 2071	Al/Bi-2212
+T83	Element 2243 2253	Al/Bi-2212

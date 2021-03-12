@@ -1,0 +1,90 @@
+T2	Main 9 48	(Cu0.5Tl0.5)Ba2Ca2 (Cu3− x Ti x )O10− δ
+T3	Process 135 155	solid state reaction
+T4	SC 182 197	superconducting
+T5	Characterization 212 229	X-ray diffraction
+T6	Property 231 242	resistivity
+T7	Property 244 261	ac-susceptibility
+T10	Material 321 333	orthorhombic
+T11	Material 334 351	crystal structure
+T12	Material 360 375	cell parameters
+T13	Element 406 408	Ti
+T14	SC 423 432	T c(R =0)
+T16	SC 533 550	superconductivity
+T18	Material 644 650	planes
+T19	Process 687 701	post-annealing
+T21	Process 720 737	oxygen atmosphere
+T22	Process 749 763	post-annealing
+T23	SC 768 777	T c(R =0)
+T26	Process 866 880	post annealing
+T27	Element 884 890	oxygen
+T28	Process 891 901	atmosphere
+T29	SC 920 937	superconductivity
+T33	Element 1087 1091	CuO2
+T34	Element 1092 1096	TiO2
+T35	Element 1104 1110	oxygen
+T36	Property 1130 1138	hardened
+T38	Property 1191 1200	hardening
+T39	Element 1215 1221	oxygen
+T42	Material 1302 1307	atoms
+T43	Material 1313 1318	atoms
+T44	Property 1355 1364	frequency
+T45	Material 1406 1411	atoms
+T46	Element 1435 1439	CuO2
+T47	Element 1440 1444	TiO2
+T48	Material 1445 1451	planes
+T49	Property 1469 1476	density
+T50	Property 1480 1486	phonon
+T51	Property 1519 1543	an-harmonic oscillations
+T52	Property 1549 1556	phonons
+T54	Property 1662 1668	phonon
+T55	Property 1693 1700	phonons
+T57	Property 1745 1756	Cooper-pair
+T58	Property 1831 1838	phonons
+T59	SC 1859 1862	T c
+T60	Property 1896 1903	density
+T61	Property 1911 1922	Cooper-pair
+T62	SC 1976 1993	superconductivity
+T63	Property 2040 2056	electron–phonons
+T64	SC 2090 2116	high T c superconductivity
+T68	Value 53 54	0
+T1	Element 0 2	Ti
+T70	Value 107 112	860°C
+T9	Element 293 295	Ti
+T15	Element 483 485	Ti
+T17	Element 575 577	Ti
+T76	Value 591 595	0.25
+T25	Element 842 844	Ti
+T31	Element 1032 1034	Ti
+T37	Element 1142 1144	Ti
+T56	Value 596 600	0.75
+T80	Value 56 60	0.25
+T81	Value 62 66	0.50
+T82	Value 68 72	0.75
+T83	Characterization 263 291	FTIR absorption measurements
+T40	Element 1255 1257	Ti
+T84	Value 1259 1267	47.90amu
+T41	Element 1288 1290	Cu
+T85	Value 1292 1300	63.54amu
+T53	Property 1586 1597	wave vector
+T86	Property 1623 1643	harmonic oscillation
+T87	Property 1674 1685	wave vector
+T88	Property 1560 1580	harmonic oscillation
+T89	Property 1706 1717	wave vector
+T90	Property 617 625	carriers
+T91	Property 446 458	diamagnetism
+T8	Characterization 1053 1081	FTIR absorption measurements
+T20	Doping 3 8	doped
+T24	Doping 296 301	doped
+T30	Doping 486 492	doping
+T32	Doping 578 584	doping
+T69	Doping 845 850	doped
+T71	Doping 1035 1040	doped
+T72	Doping 1145 1150	doped
+R1	Target Arg1:E1 Arg2:T2
+E1	Doping:T20 Dopant:T1
+E2	Doping:T24 Dopant:T9
+E3	Doping:T30 Dopant:T15
+E4	Doping:T32 Dopant:T17
+E5	Doping:T69 Dopant:T25
+E6	Doping:T71 Dopant:T31
+E7	Doping:T72 Dopant:T37

@@ -1,0 +1,32 @@
+T1	Element 0 6	Indium
+T3	Main 18 22	MgB2
+T4	Material 23 38	polycrystalline
+T7	Element 95 97	Ar
+T8	Element 141 143	Mg
+T10	Element 160 162	In
+T11	Element 170 174	MgB2
+T12	Material 219 237	lattice parameters
+T13	SC 272 310	superconducting transition temperature
+T14	Element 328 330	In
+T15	Property 331 345	concentrations
+T16	Material 353 372	nominal composition
+T17	Characterization 413 430	X-ray diffraction
+T18	Property 436 460	critical current density
+T19	Material 492 497	wires
+T20	Element 538 540	In
+T21	Property 546 558	flux pinning
+T22	Material 589 596	surface
+T23	Property 597 604	pinning
+T26	Value 117 122	800°C
+T27	Value 134 140	1 at.%
+T28	Element 391 395	InMg
+T29	Element 8 10	In
+T5	Process 64 91	solid-liquid phase reaction
+T2	Doping 12 17	doped
+T6	Doping 148 156	replaced
+T9	Doping 617 622	doped
+R2	Target Arg1:E1 Arg2:T3
+R3	Target Arg1:E2 Arg2:T11
+E1	Doping:T2 Dopant:T1
+E2	Doping:T6 Site:T8 Dopant:T10
+E3	Doping:T9

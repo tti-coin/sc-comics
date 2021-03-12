@@ -1,0 +1,25 @@
+T2	Property 19 28	electrons
+T3	Property 69 75	charge
+T5	Property 106 117	charge-poor
+T6	Property 173 187	kinetic energy
+T7	Property 191 196	holes
+T9	Property 208 222	Mott insulator
+T10	Element 310 315	oxide
+T12	Material 316 327	perovskites
+T13	Element 470 482	copper oxide
+T14	SC 483 498	superconductors
+T15	Property 604 625	electronic properties
+T16	Material 658 665	lattice
+T17	Property 666 676	vibrations
+T18	Property 678 685	phonons
+T19	Property 721 727	charge
+T20	Property 840 846	phonon
+T21	Property 880 897	electronic charge
+T25	Property 1069 1075	phonon
+T26	Element 1087 1099	copper oxide
+T27	SC 1100 1115	superconductors
+T11	Material 962 986	structural instabilities
+T22	Property 85 105	magnetically-ordered
+T4	Doping 202 207	doped
+T1	Property 0 12	Stripe order
+E1	Doping:T4 Dopant:T7

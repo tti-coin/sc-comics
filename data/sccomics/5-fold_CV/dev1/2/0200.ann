@@ -1,0 +1,57 @@
+T1	Property 18 37	dielectric constant
+T2	Property 138 149	dielectrics
+T3	Material 175 193	lattice parameters
+T6	Material 267 278	multilayers
+T8	Property 401 420	dielectric constant
+T9	SC 542 557	superconducting
+T10	Process 644 667	pulsed laser deposition
+T11	Material 697 712	microstructures
+T12	Characterization 738 741	SEM
+T13	Characterization 746 751	RHEED
+T14	Property 772 782	electrical
+T18	SC 1054 1069	superconducting
+T19	Property 1148 1162	electric field
+T20	Process 1226 1236	deposition
+T21	Material 1256 1262	layers
+T22	Property 1336 1346	electrical
+T27	Element 558 562	YBCO
+T28	Element 563 581	ferroelectric BSTO
+T29	Element 1030 1034	YBCO
+T30	Element 1035 1053	ferroelectric BSTO
+T31	Element 595 599	YBCO
+T32	Element 600 604	BSTO
+T33	Value 929 935	300 nm
+T34	Element 940 944	YBCO
+T37	Element 972 976	BSTO
+T38	Element 1274 1278	YBCO
+T39	Element 1279 1283	BSTO
+T41	Value 1286 1290	0.67
+T42	Element 1292 1296	YBCO
+T43	Value 1365 1369	77 K
+T36	Element 605 609	YBCO
+T45	Element 623 626	MgO
+T23	Main 65 80	Ba x Sr1−x TiO3
+T46	Main 82 86	BSTO
+T26	Element 203 214	YBa2Cu3O7−δ
+T47	Element 216 220	YBCO
+T48	Material 582 590	bilayers
+T49	Material 610 619	trilayers
+T51	Material 919 927	bilayers
+T52	Material 1070 1079	trilayers
+T53	Process 669 672	PLD
+T54	Material 627 637	substrates
+T55	Property 769 771	DC
+T56	Property 762 764	AC
+T15	Property 1145 1147	DC
+T57	Process 279 285	growth
+T58	Material 463 480	microwave devices
+T59	Characterization 733 736	MET
+T60	Material 895 911	epitaxial growth
+T16	Property 348 360	superconding
+T50	Material 361 371	electrodes
+T4	SC 222 245	high-T c superconductor
+T5	SC 998 1029	low temperature superconducting
+T7	Value 954 957	300
+T17	Value 961 967	900 nm
+R1	Coref Arg1:T26 Arg2:T47
+R2	Coref Arg1:T23 Arg2:T46

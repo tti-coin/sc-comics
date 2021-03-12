@@ -1,0 +1,48 @@
+T2	Element 125 132	arsenic
+T3	Element 138 146	pnictide
+T4	SC 147 162	superconductors
+T5	Material 177 186	epitaxial
+T6	Material 187 197	thin films
+T7	Main 201 208	LaNiBi2
+T8	Process 227 232	grown
+T9	Element 236 245	(100) MgO
+T10	Material 246 256	substrates
+T11	Material 270 275	films
+T12	Material 305 314	epitaxial
+T13	Material 329 334	films
+T14	Characterization 352 357	RHEED
+T15	Characterization 362 379	X-ray diffraction
+T16	Element 398 405	LaNiBi2
+T17	Material 406 416	thin films
+T18	Process 417 422	grown
+T19	Element 426 435	(100) MgO
+T20	Material 465 470	films
+T21	Element 504 507	MgO
+T22	Element 513 515	Ni
+T23	Material 516 525	deficient
+T24	Material 526 531	films
+T25	SC 539 545	T c(0)
+T27	Element 588 590	Bi
+T28	Element 594 596	Sb
+T29	Process 606 611	grown
+T30	Material 625 634	epitaxial
+T31	Material 635 645	thin films
+T32	Element 649 656	LaNiSb2
+T33	Element 671 678	LaNiSb2
+T34	Material 679 689	thin films
+T35	SC 707 724	superconductivity
+T1	Process 42 73	reactive molecular beam epitaxy
+T36	Process 75 79	RMBE
+T37	Process 260 264	RMBE
+T38	Characterization 380 392	measurements
+T39	Value 549 553	3.1K
+T40	Value 733 737	1.5K
+T41	Material 451 457	a-axis
+T42	Value 476 479	45°
+T43	Material 281 287	(00 l)
+T26	Doping 576 587	substituted
+R1	Equivalent Arg1:T25 Arg2:T39
+R2	Equivalent Arg1:T35 Arg2:T40
+R3	Target Arg1:T40 Arg2:T33
+R4	Target Arg1:E1 Arg2:T32
+E1	Doping:T26 Site:T27 Dopant:T28

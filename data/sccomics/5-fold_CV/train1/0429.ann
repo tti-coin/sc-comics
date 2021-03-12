@@ -1,0 +1,95 @@
+T1	Element 0 3	UH3
+T2	Material 28 36	material
+T4	Element 146 147	U
+T5	Material 148 153	metal
+T6	Property 225 231	moment
+T7	Property 246 254	ordering
+T8	Element 273 274	U
+T9	Material 277 284	spacing
+T10	Element 346 349	UH3
+T12	Material 582 595	interstitials
+T13	Element 606 607	H
+T14	Element 636 641	α-UH3
+T15	Material 664 670	alloys
+T16	Material 681 694	bcc structure
+T17	Process 707 723	room temperature
+T19	Process 748 765	ultrafast cooling
+T20	Element 783 785	Zr
+T21	Material 788 801	contamination
+T22	Element 829 831	Zr
+T23	Material 840 852	single phase
+T24	Property 864 867	T C
+T25	Element 957 959	Zr
+T28	Material 1029 1033	atom
+T29	Property 1061 1070	ab-initio
+T30	Property 1071 1083	calculations
+T31	Property 1097 1112	charge transfer
+T32	Element 1121 1122	H
+T33	Element 1151 1152	U
+T34	Property 1215 1226	Fermi level
+T35	Property 1235 1244	magnetism
+T36	Property 1261 1271	coercivity
+T37	Property 1321 1337	magnetostriction
+T38	Property 1375 1378	T C
+T39	Element 1430 1432	Mo
+T40	Element 1444 1452	hydrides
+T41	Material 1469 1488	amorphous structure
+T43	Element 1535 1543	hydrides
+T44	Element 1547 1551	U6Fe
+T45	Element 1556 1560	U6Co
+T46	Property 1584 1586	5f
+T48	Element 1647 1655	hydrides
+T49	Material 1665 1672	powders
+T50	Element 1690 1698	hydrides
+T51	Element 1712 1725	(UH3)(1−x)T x
+T52	Element 1729 1731	Zr
+T53	Element 1735 1737	Mo
+T54	Property 1780 1789	transport
+T55	Property 1794 1807	thermodynamic
+T3	Property 77 97	5f electronic states
+T56	Property 42 56	ferromagnetism
+T57	Property 157 173	Pauli paramagnet
+T58	Material 193 200	overlap
+T60	Value 446 451	331pm
+T61	Value 387 391	170K
+T62	Main 360 365	β-UH3
+T63	Value 495 500	360pm
+T67	Value 825 828	20%
+T68	Element 853 858	α-UH3
+T69	Value 320 325	340pm
+T70	Material 297 307	Hill limit
+T71	Element 554 559	α-UH3
+T73	Value 1286 1290	5.5T
+T74	Property 1160 1162	7s
+T75	Value 944 948	187K
+T76	Element 805 810	β-UH3
+T77	Value 779 782	15%
+T78	Element 907 912	β-UH3
+T79	Value 953 956	15%
+T80	Value 1023 1026	1μB
+T81	Property 990 1006	Magnetic moments
+T82	Property 1191 1203	5f character
+T84	Value 1341 1349	3.2⁎10−3
+T85	Value 1395 1399	203K
+T86	Material 571 574	bcc
+T88	Property 1587 1599	ferromagnets
+T26	Element 275 276	U
+T27	Element 442 443	U
+T59	Element 444 445	U
+T64	Element 491 492	U
+T65	Element 493 494	U
+T66	Element 478 483	α-UH3
+T72	Element 1613 1614	U
+T83	Element 1615 1616	U
+T42	Property 1153 1155	6d
+T87	Property 1123 1125	1s
+T93	Property 187 189	5f
+T94	Property 190 192	5f
+T95	Element 662 663	U
+T96	Element 575 576	U
+T97	Element 1027 1028	U
+T98	Property 1232 1234	5f
+T18	Doping 727 733	doping
+E1	Doping:T18 
+T11	Property 378 386	high T C
+T47	Property 1621 1629	high T C

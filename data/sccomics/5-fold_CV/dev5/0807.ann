@@ -1,0 +1,34 @@
+T1	Property 4 12	magnetic
+T2	Property 70 88	antiferromagnetism
+T3	Characterization 94 112	neutron-scattering
+T4	Property 182 191	frequency
+T5	Property 224 247	antiferromagnetic order
+T8	Property 296 305	frequency
+T9	Property 339 348	frequency
+T10	Property 356 364	magnetic
+T11	Characterization 387 405	neutron-scattering
+T12	Property 426 430	hole
+T14	SC 437 446	high- T C
+T15	Main 447 455	cuprates
+T16	Property 495 513	antiferromagnetism
+T17	Property 547 565	magnetic resonance
+T18	Property 608 623	order parameter
+T19	Property 647 651	spin
+T20	Property 724 747	antiferromagnetic order
+T21	Property 804 822	antiferromagnetism
+T22	Property 888 911	antiferromagnetic order
+T24	Property 972 981	pseudogap
+T25	Property 998 1011	thermodynamic
+T26	Property 1016 1036	transport properties
+T27	Property 1064 1079	order parameter
+T28	Property 1131 1150	magnetic properties
+T29	SC 1158 1167	high- T C
+T30	SC 1176 1191	superconductors
+T31	Process 647 664	spin flip process
+T32	Property 710 723	zero momentum
+T6	Element 1168 1175	cuprate
+T7	Doping 263 269	doping
+T13	Doping 431 436	doped
+R1	Target Arg1:E2 Arg2:T15
+E1	Doping:T7 
+E2	Doping:T13 Dopant:T12

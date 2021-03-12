@@ -1,0 +1,50 @@
+T1	Main 0 19	Niobium oxynitrides
+T2	Material 56 65	amorphous
+T4	Element 135 137	Mn
+T5	Element 141 143	Ni
+T6	Material 144 152	additive
+T7	Element 197 199	Ni
+T8	Element 234 241	Nb(N,O)
+T9	Element 272 274	Ni
+T11	Material 275 289	metal impurity
+T14	Material 351 360	structure
+T15	Process 372 381	annealing
+T17	Process 397 410	N2 atmosphere
+T18	Material 426 439	crystallinity
+T19	Material 469 484	local structure
+T21	Element 508 512	Mn2+
+T22	Material 591 606	crystal lattice
+T23	Material 612 626	microstructure
+T25	Element 668 670	Mn
+T26	Characterization 687 690	SEM
+T27	Material 735 747	liquid phase
+T28	SC 753 770	superconductivity
+T29	SC 772 775	T c
+T30	Element 785 794	δ-Nb(N,O)
+T31	Element 817 831	δ-(Nb,Mn)(N,O)
+T32	Element 849 851	Mn
+T33	Element 870 872	Mn
+T34	Process 37 48	ammonolysis
+T36	Process 97 113	citrate gelation
+T37	Value 169 175	1000°C
+T38	Value 192 196	3at%
+T40	Material 319 325	δ-type
+T42	Value 390 396	0.2MPa
+T43	Value 414 420	1500°C
+T44	Material 447 454	δ-phase
+T45	Material 584 590	δ-type
+T46	Value 865 869	5at%
+T47	Value 777 780	15K
+T51	Element 291 293	Mn
+T39	Element 225 228	TiS
+T16	Element 346 350	NaCl
+T10	Process 634 647	post-annealed
+T20	Doping 294 304	containing
+T24	Doping 496 507	substituted
+T12	Element 326 338	(Nb,Mn)(N,O)
+T3	Element 66 71	oxide
+T13	Material 72 82	precursors
+R1	Equivalent Arg1:T29 Arg2:T47
+R2	Target Arg1:T47 Arg2:T30
+E1	Doping:T20 Dopant:T51
+E2	Doping:T24 Dopant:T21

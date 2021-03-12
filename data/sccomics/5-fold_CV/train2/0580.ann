@@ -1,0 +1,40 @@
+T2	Main 36 69	Cu0.5Tl0.5Ba2Ca2Cu3− y Sn y O10−δ
+T3	SC 70 85	superconductors
+T4	Property 113 124	resistivity
+T6	SC 234 237	T c
+T10	Property 263 285	crossover temperatures
+T11	Property 335 350	two-dimensional
+T12	Property 354 371	three-dimensional
+T13	Property 372 384	conductivity
+T14	Property 412 414	3D
+T15	Property 580 582	3D
+T16	Element 617 619	Sn
+T18	Element 670 672	Sn
+T19	Property 673 686	concentration
+T20	SC 767 771	ΔT c
+T21	Property 786 796	anisotropy
+T22	Material 813 824	inter-layer
+T23	Property 825 842	coupling strength
+T24	Element 860 862	Sn
+T25	SC 930 933	T c
+T28	Property 172 191	excess conductivity
+T5	Property 193 195	Δσ
+T30	Property 408 410	2D
+T31	Property 415 441	Aslamazov–Larkin equations
+T32	Property 556 559	FIC
+T33	Property 584 586	2D
+T34	Property 0 32	Fluctuation induced conductivity
+T1	Property 697 700	FIC
+T35	Property 591 593	0D
+T36	Property 594 606	fluctuations
+T37	Property 505 507	2D
+T38	Property 511 513	0D
+T39	Property 514 526	fluctuations
+T7	SC 245 248	T c
+T8	Doping 620 626	doping
+E1	Doping:T8 Dopant:T16
+#1	AnnotatorNotes T2	36-69
+#2	AnnotatorNotes T16	617-619
+#3	AnnotatorNotes T18	670-672
+#4	AnnotatorNotes T22	813-824
+#5	AnnotatorNotes T24	860-862

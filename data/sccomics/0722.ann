@@ -1,0 +1,87 @@
+T1	Process 18 35	ball milling time
+T3	Element 69 75	carbon
+T4	Element 83 90	glucose
+T6	Main 97 101	MgB2
+T7	Process 146 166	solid state reaction
+T9	Element 200 213	Mg(B.98C.02)2
+T10	Material 238 245	powders
+T11	Element 249 251	Mg
+T12	Element 253 258	boron
+T13	Element 263 270	glucose
+T14	Process 310 322	ball milling
+T16	Element 355 359	MgB2
+T17	Material 405 418	particle size
+T18	Material 481 489	particle
+T19	Material 529 550	average particle size
+T21	Characterization 724 727	XRD
+T23	Element 768 772	MgB2
+T24	Characterization 913 916	TEM
+T25	Characterization 976 979	XRD
+T27	Element 1010 1011	C
+T28	Element 1019 1023	MgB2
+T29	Material 1024 1031	lattice
+T30	Element 1119 1125	carbon
+T32	Property 1221 1241	residual resistivity
+T33	SC 1260 1263	T C
+T35	Element 1338 1344	carbon
+T36	Element 1352 1356	MgB2
+T37	Process 1395 1407	ball milling
+T40	Material 1506 1511	plane
+T41	Element 1515 1519	MgB2
+T42	Material 1520 1527	lattice
+T43	Material 1590 1603	particle size
+T44	Process 1615 1627	ball milling
+T45	Material 1671 1680	materials
+T47	Material 1728 1734	dopant
+T48	Element 1742 1746	MgB2
+T49	Process 1758 1778	solid-state reaction
+T51	Value 275 277	2h
+T52	Value 657 659	8h
+T53	Value 667 669	8h
+T54	Value 889 891	8h
+T55	Value 1168 1170	8h
+T56	Element 1504 1505	B
+T57	Value 1560 1562	8h
+T58	Value 279 281	4h
+T59	Value 283 285	8h
+T60	Value 290 293	12h
+T61	Element 1442 1449	glucose
+T62	Process 37 40	BMT
+T63	Process 502 505	BMT
+T64	Process 638 650	milling time
+T20	Property 792 808	Scherrer formula
+T65	Process 851 854	BMT
+T66	Process 899 911	milling time
+T67	Process 1102 1105	BMT
+T68	Process 1174 1177	BMT
+T69	Process 1283 1286	BMT
+T70	Process 1541 1544	BMT
+T50	Process 231 237	mixing
+T2	Doping 49 61	substitution
+T5	Doping 91 96	doped
+T8	Doping 183 188	doped
+T15	Doping 762 767	doped
+T22	Doping 990 1002	substitution
+T26	Doping 1126 1138	substitution
+T31	Doping 1318 1330	substitution
+T34	Doping 1474 1486	substitution
+T38	Doping 1708 1720	substitution
+T39	Material 1490 1494	nano
+T46	Element 1495 1496	C
+R1	Target Arg1:E1 Arg2:T6
+R2	Target Arg1:E2 Arg2:T6
+R3	Target Arg1:E3 Arg2:T9
+R4	Target Arg1:E4 Arg2:T23
+R5	Target Arg1:E5 Arg2:T28
+R6	Target Arg1:E7 Arg2:T36
+R7	Target Arg1:E8 Arg2:T41
+R8	Target Arg1:E9 Arg2:T48
+E1	Doping:T2 Dopant:T3
+E2	Doping:T5 Dopant:T4
+E3	Doping:T8
+E4	Doping:T15
+E5	Doping:T22 Dopant:T27
+E6	Doping:T26 Dopant:T30
+E7	Doping:T31 Dopant:T35
+E8	Doping:T34 Site:T56 Dopant:T46
+E9	Doping:T38

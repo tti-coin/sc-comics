@@ -1,0 +1,37 @@
+T1	Material 0 15	Single crystals
+T2	Main 19 44	BaFe 2 ( As 1 - x P x ) 2
+T3	Process 62 67	grown
+T4	Property 69 80	Resistivity
+T5	Process 112 121	reduction
+T6	Material 125 135	structural
+T7	Property 140 157	antiferromagnetic
+T8	Property 158 175	spin-density-wave
+T9	Property 177 180	SDW
+T10	Property 182 205	transition temperatures
+T11	SC 236 253	superconductivity
+T13	SC 283 298	superconducting
+T14	SC 345 375	highest transition temperature
+T15	SC 376 379	T c
+T16	Property 412 415	SDW
+T17	Property 445 456	resistivity
+T18	Property 464 476	normal state
+T20	Property 577 589	Fermi-liquid
+T21	Property 620 631	resistivity
+T22	Property 640 653	phase diagram
+T23	Element 689 697	BaFe2As2
+T24	Process 704 713	pressures
+T26	Element 751 752	P
+T27	Element 757 759	As
+T28	Process 769 787	chemical pressures
+T31	Element 259 260	P
+T33	Value 382 386	31 K
+T19	Doping 261 267	doping
+T25	Doping 519 525	doping
+T32	Doping 735 747	substitution
+T12	Characterization 81 93	measurements
+R1	Equivalent Arg1:T15 Arg2:T33
+R2	Coref Arg1:T14 Arg2:T15
+R3	Target Arg1:E3 Arg2:T23
+E1	Doping:T19 Dopant:T31
+E2	Doping:T25 
+E3	Doping:T32 Dopant:T26 Site:T27

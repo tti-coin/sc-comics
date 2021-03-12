@@ -1,0 +1,74 @@
+T1	Element 23 31	graphene
+T2	Element 175 183	graphene
+T3	Property 195 203	band-gap
+T4	Property 276 282	domain
+T5	Property 334 348	charge carrier
+T6	Property 349 357	mobility
+T7	Material 389 397	material
+T8	Material 405 410	metal
+T9	Material 445 450	metal
+T10	Element 451 459	graphene
+T12	Element 560 568	graphene
+T15	Material 595 610	deposited atoms
+T17	Element 630 638	graphene
+T18	Material 639 646	surface
+T19	Material 675 684	top layer
+T20	Material 693 702	substrate
+T21	Process 718 734	room temperature
+T22	Process 752 761	annealing
+T23	Material 803 808	metal
+T24	Element 871 903	Graphite Intercalation Compounds
+T26	Material 977 984	Battery
+T28	Element 1047 1054	Lithium
+T29	Material 1055 1060	atoms
+T30	Material 1073 1079	sheets
+T31	Element 1083 1091	graphene
+T32	Element 1097 1105	graphite
+T33	Element 1144 1148	GICs
+T34	SC 1200 1215	superconducting
+T38	Element 1264 1272	Graphene
+T39	Element 1385 1393	graphene
+T42	Element 1487 1495	graphene
+T43	Material 1496 1501	layer
+T44	Material 1511 1520	substrate
+T47	Property 1595 1620	electronic band structure
+T48	Element 1715 1723	graphene
+T52	Material 1750 1761	metal atoms
+T53	Material 1774 1783	molecules
+T55	Property 1846 1871	electronic band structure
+T56	Property 1892 1911	spin-orbit coupling
+T57	SC 1913 1930	superconductivity
+T58	Material 2029 2038	materials
+T59	Element 2046 2054	graphene
+T60	Material 2062 2092	van der Waals heterostructures
+T61	Material 2108 2117	materials
+T16	Element 965 976	Lithium-ion
+T62	Material 1106 1111	anode
+T51	Property 2026 2028	2D
+T25	Element 905 909	GICs
+T46	Property 286 301	nanoelectronics
+T14	Element 1186 1194	graphite
+T50	Property 1643 1657	Dirac fermions
+T11	Doping 509 522	intercalation
+T13	Doping 570 583	Intercalation
+T27	Doping 651 662	intercalate
+T35	Doping 1030 1043	intercalation
+T40	Doping 1236 1248	intercalated
+T41	Element 1249 1262	alkali metals
+T45	Doping 1405 1418	intercalation
+T49	Doping 1437 1450	intercalation
+T54	Doping 1536 1542	doping
+T63	Doping 1733 1746	intercalation
+R2	Target Arg1:E4 Arg2:T32
+R3	Target Arg1:E9 Arg2:T48
+R4	Target Arg1:E10 Arg2:T48
+E1	Doping:T11
+E2	Doping:T13
+E3	Doping:T27
+E4	Doping:T35 Dopant:T28 Site:T31
+E5	Doping:T40 Site:T41
+E6	Doping:T45
+E7	Doping:T49
+E8	Doping:T54
+E9	Doping:T63 Dopant:T52
+E10	Doping:T63 Dopant:T53

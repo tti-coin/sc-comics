@@ -1,0 +1,25 @@
+T1	Property 30 52	electrical resistivity
+T2	SC 71 86	superconducting
+T3	Property 104 119	magnetic fields
+T4	Material 151 165	single-crystal
+T5	Property 366 384	hole concentration
+T6	Property 444 457	magnetization
+T8	SC 524 527	T c
+T9	SC 570 573	T c
+T10	SC 602 605	T c
+T11	SC 620 623	T c
+T14	Property 968 973	creep
+T15	Material 982 989	lattice
+T16	Property 990 997	melting
+T17	Material 1009 1014	glass
+T18	Property 1015 1022	melting
+T19	Main 166 187	Pb2Sr2Y1−x Ca x Cu3O8
+T24	Value 193 194	0
+T25	Value 201 204	0.5
+T31	Property 390 411	irreversibility field
+T32	Material 479 485	c-axis
+T35	Value 586 589	0.5
+T7	Property 975 981	vortex
+T12	Property 1002 1008	vortex
+T13	Value 315 316	5
+T20	Value 320 322	25

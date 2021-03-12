@@ -1,0 +1,98 @@
+T1	Element 15 34	rare-earth elements
+T2	Element 39 41	Gd
+T3	Element 43 45	Er
+T4	Element 51 53	La
+T5	Element 58 71	alkali metals
+T6	Element 76 77	K
+T7	Element 79 81	Li
+T8	Element 83 85	Na
+T9	Element 91 93	Rb
+T11	Main 111 138	Tl0.7M0.3Sr2Ca0.8Cr0.2Cu2O7
+T12	Main 140 147	Tl-1212
+T13	Characterization 198 215	X-ray diffraction
+T14	Characterization 224 252	scanning electron microscopy
+T15	Property 254 275	electrical resistance
+T17	Characterization 312 329	X-ray diffraction
+T18	Element 389 396	Tl-1212
+T19	Element 407 414	Tl-1201
+T20	Element 419 439	Ca0.3Sr0.7CuO2 phase
+T21	Element 441 461	Rare-earth elemental
+T23	Element 505 518	Tl-1212 phase
+T24	SC 538 560	transition temperature
+T25	Characterization 562 591	Scanning electron micrographs
+T26	Material 607 612	grain
+T29	Property 687 708	temperature-dependent
+T32	Property 751 759	metallic
+T33	Property 760 772	normal state
+T34	Element 799 812	Alkali metals
+T37	SC 870 878	T c-zero
+T38	Element 897 917	rare-earth elemental
+T41	SC 979 1005	superconducting transition
+T42	Element 1017 1030	alkali metals
+T44	Element 1073 1093	rare-earth elemental
+T46	Material 1123 1134	inter-grain
+T47	Property 1135 1159	critical current density
+T48	Property 1214 1217	J c
+T49	Property 1242 1254	Bean's model
+T50	Element 1300 1319	rare-earth elements
+T51	Element 1324 1337	alkali metals
+T53	Property 1379 1391	ionic radius
+T54	Element 1419 1421	Cu
+T55	Property 1422 1429	valence
+T61	SC 1007 1012	T cχ′
+T10	Doping 94 107	substitutions
+T22	Doping 462 474	substitution
+T27	Doping 625 636	substituted
+T31	Doping 813 826	substitutions
+T35	Doping 918 930	substitution
+T39	Doping 1031 1044	substitutions
+T43	Doping 1094 1107	substitutions
+T45	Doping 1338 1351	substitutions
+T28	SC 841 868	zero transition temperature
+T36	Value 1046 1048	84
+T40	Value 1049 1053	93 K
+T52	Value 1109 1111	50
+T58	Value 1112 1116	61 K
+T59	Value 1267 1269	17
+T60	Value 1274 1283	22 A cm−2
+T16	Property 280 297	AC susceptibility
+T62	Characterization 298 310	measurements
+T30	Property 709 730	electrical resistance
+T63	Characterization 731 743	measurements
+T64	Property 932 949	AC susceptibility
+T65	Characterization 950 962	measurements
+R3	Target Arg1:E1 Arg2:T11
+R4	Target Arg1:E2 Arg2:T11
+R5	Target Arg1:E3 Arg2:T11
+R6	Target Arg1:E4 Arg2:T11
+R7	Target Arg1:E5 Arg2:T11
+R8	Target Arg1:E6 Arg2:T11
+R9	Target Arg1:E7 Arg2:T11
+R10	Target Arg1:E17 Arg2:T11
+R11	Target Arg1:E18 Arg2:T11
+R12	Target Arg1:E8 Arg2:T23
+R14	Equivalent Arg1:T61 Arg2:T36
+R15	Equivalent Arg1:T61 Arg2:T40
+R16	Condition Arg1:T36 Arg2:E13
+R17	Condition Arg1:T40 Arg2:E13
+R18	Condition Arg1:T52 Arg2:E14
+R19	Condition Arg1:T58 Arg2:E14
+R20	Equivalent Arg1:T61 Arg2:T52
+R21	Equivalent Arg1:T61 Arg2:T58
+E1	Doping:T10 Dopant:T9
+E2	Doping:T10 Dopant:T8
+E3	Doping:T10 Dopant:T7
+E4	Doping:T10 Dopant:T6
+E5	Doping:T10 Dopant:T4
+E6	Doping:T10 Dopant:T3
+E7	Doping:T10 Dopant:T2
+E8	Doping:T22 Dopant:T21
+E9	Doping:T27
+E11	Doping:T31 Dopant:T34
+E12	Doping:T35 Dopant:T38
+E13	Doping:T39 Dopant:T42
+E14	Doping:T43 Dopant:T44
+E15	Doping:T45 Dopant:T51
+E16	Doping:T45 Dopant:T50
+E17	Doping:T10 Dopant:T5
+E18	Doping:T10 Dopant:T1

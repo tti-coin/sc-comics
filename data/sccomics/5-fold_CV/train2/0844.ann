@@ -1,0 +1,25 @@
+T1	Property 24 36	conductivity
+T2	Property 44 55	frequencies
+T4	Main 99 140	Pb 1 − y Sr2Y 1 − x Ca x Cu 2 + y O 7 + δ
+T5	Main 142 148	Pb1212
+T8	Property 236 245	frequency
+T9	Property 272 284	conductivity
+T10	SC 304 319	superconducting
+T12	SC 406 421	superconducting
+T13	Element 437 443	Pb1212
+T14	Element 487 505	Bi2Sr2CaCu2O 8 + δ
+T15	Element 510 528	La 2 − x Sr x CuO4
+T16	Property 560 570	anisotropy
+T17	Element 574 580	Pb1212
+T18	Value 61 68	0.2 THz
+T19	Value 72 79	1.0 THz
+T7	Characterization 180 205	time-domain specteroscopy
+T24	Value 347 351	12 K
+T3	Doping 93 98	doped
+T11	SC 358 368	T c, onset
+R1	Coref Arg1:T4 Arg2:T5
+R2	Target Arg1:E1 Arg2:T4
+R3	Equivalent Arg1:T11 Arg2:T24
+E1	Doping:T3 
+T6	Material 150 159	epitaxial
+T20	Material 160 164	film

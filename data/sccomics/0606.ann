@@ -1,0 +1,40 @@
+T1	SC 0 15	Superconducting
+T3	Main 30 58	Bi2Sr2K x Ca1Cu1.75Na0.25O y
+T4	Material 85 93	ceramics
+T6	Characterization 171 174	XRD
+T7	Element 213 226	Bi-2212 phase
+T10	Element 340 341	K
+T13	Material 415 426	grain sizes
+T15	Property 464 490	critical current densities
+T16	Property 508 522	magnetic field
+T23	Property 661 664	J c
+T28	Process 112 132	solid-state reaction
+T11	Property 594 615	Bean's critical model
+T19	Property 549 569	M–H hysteresis loops
+T20	Value 62 63	0
+T5	Element 386 387	K
+T26	Element 388 390	Na
+T21	Element 633 634	K
+T29	Element 635 637	Na
+T17	Value 65 69	0.05
+T30	Value 71 74	0.1
+T31	Value 79 83	0.25
+T9	SC 295 305	Tc (onset)
+T32	Element 18 20	Na
+T33	Element 16 17	K
+T14	Element 431 444	Bi-2212 phase
+T2	Doping 24 29	doped
+T8	Doping 394 400	doping
+T12	Doping 641 647	doping
+T18	Property 260 271	resistivity
+T22	Characterization 272 284	measurements
+R1	Target Arg1:E1 Arg2:T3
+R2	Target Arg1:E2 Arg2:T14
+R3	Target Arg1:E4 Arg2:T3
+R4	Target Arg1:E5 Arg2:T14
+E1	Doping:T2 Dopant:T33
+E2	Doping:T8 Dopant:T5
+E3	Doping:T12 Dopant:T21
+E4	Doping:T2 Dopant:T32
+E5	Doping:T8 Dopant:T26
+E6	Doping:T12 Dopant:T29

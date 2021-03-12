@@ -1,0 +1,30 @@
+T1	Property 10 19	ab initio
+T2	Property 20 36	FLAPW-GGA method
+T3	Main 54 74	(Fe2As2)(Sr4 M 2 O6)
+T4	Element 95 97	Ti
+T5	Element 102 104	Mg
+T7	Element 148 156	d metals
+T8	Element 160 171	sp elements
+T9	Material 175 197	perovskite-type blocks
+T10	Property 240 250	electronic
+T11	Material 255 265	structural
+T12	Element 305 315	21113-type
+T13	Element 350 368	(Fe2As2)(Sr4Ti2O6)
+T14	Element 374 392	(Fe2As2)(Sr4Mg2O6)
+T15	Element 441 460	(Fe2As2)(Sr4MgTiO6)
+T16	Element 505 511	Fe2As2
+T17	Property 529 539	insulating
+T18	Element 541 550	Sr4MgTiO6
+T19	Element 603 605	Fe
+T20	SC 612 627	superconductors
+T21	Material 673 683	structural
+T22	Element 715 721	AsFeAs
+T23	Material 722 733	bond angles
+T24	Element 783 801	(Fe2As2)(Sr4MgTiO6
+T25	SC 823 838	superconducting
+T26	Material 839 847	material
+T29	Material 700 713	a axis length
+T30	Property 570 587	charge reservoirs
+T6	Doping 132 144	replacements
+R1	Target Arg1:E1 Arg2:T3
+E1	Doping:T6 Site:T7 Dopant:T8

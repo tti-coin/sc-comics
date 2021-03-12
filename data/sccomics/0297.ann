@@ -1,0 +1,48 @@
+T1	Process 35 55	solid state reaction
+T2	Main 109 130	CdBa2-x SrxCa2Cu3O8+δ
+T4	Element 150 159	strontium
+T5	Element 176 182	barium
+T8	Process 299 308	sintering
+T10	Characterization 363 387	X-ray powder diffraction
+T11	Characterization 389 392	XRD
+T12	Characterization 398 426	scanning electron microscope
+T13	Characterization 428 431	SEM
+T14	Characterization 437 440	XRD
+T16	Material 474 489	polycrystalline
+T17	Material 495 513	tetragonal diagram
+T18	Element 536 545	strontium
+T19	Property 546 560	concentrations
+T20	Material 581 599	lattice parameters
+T22	Property 623 630	density
+T23	Property 675 689	shore hardness
+T24	Property 746 756	Tc(offset)
+T25	Material 788 799	composition
+T26	Element 800 821	CdBa2-x SrxCa2Cu3O8+δ
+T27	Property 840 867	A.C electrical conductivity
+T28	Property 885 894	frequency
+T29	Property 915 934	dielectric constant
+T30	Property 966 985	dielectric constant
+T31	Property 987 997	dielectric
+T32	Element 1059 1061	Sr
+T33	Property 1062 1075	concentration
+T34	Value 284 290	800 C0
+T35	Value 234 237	0.0
+T36	Value 239 243	0.20
+T37	Value 248 252	0.30
+T42	Process 258 278	optimum calcinations
+T15	Property 646 661	volume fraction
+T21	Value 759 764	113 K
+T46	Value 831 835	0.30
+T48	Property 1014 1026	tangent loss
+T9	Element 161 165	Sr+2
+T49	Element 184 188	Br+2
+T40	Material 600 615	a, b and c-axis
+T44	Property 88 99	homogeneous
+T50	Material 331 341	structural
+T3	Doping 134 146	substitution
+T6	Doping 202 215	substitutions
+T7	Value 316 319	845
+T38	Value 320 326	850 C0
+R5	Target Arg1:E1 Arg2:T2
+E1	Doping:T3 Dopant:T4 Site:T5
+E2	Doping:T6

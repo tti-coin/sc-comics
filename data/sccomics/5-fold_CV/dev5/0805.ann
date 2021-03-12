@@ -1,0 +1,19 @@
+T1	Property 13 26	magnetization
+T2	SC 44 67	type II superconductors
+T3	Property 148 165	phase transitions
+T4	Property 200 206	vortex
+T5	Property 257 273	phase transition
+T6	Property 346 352	vortex
+T7	Property 353 358	creep
+T8	Property 395 403	critical
+T10	Main 476 487	YBa2Cu3O7−δ
+T11	Material 488 503	single crystals
+T12	Property 555 568	magnetization
+T13	Property 749 754	creep
+T16	Property 327 334	elastic
+T17	Property 338 345	plastic
+T18	Property 242 256	order–disorder
+T9	Doping 465 475	underdoped
+T14	Element 856 876	iron-based pnictides
+R1	Target Arg1:E1 Arg2:T10
+E1	Doping:T9 

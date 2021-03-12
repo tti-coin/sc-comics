@@ -1,0 +1,88 @@
+T1	Material 4 9	cubic
+T3	SC 98 100	Tc
+T4	SC 101 115	superconductor
+T5	SC 155 157	Tc
+T6	Element 166 171	Nb3Sn
+T7	SC 173 175	Tc
+T8	SC 239 241	Tc
+T9	Process 285 294	sputtered
+T10	Material 295 300	films
+T11	Element 304 309	Nb3Ge
+T12	SC 403 426	transition temperatures
+T18	Material 564 570	defect
+T19	SC 582 584	Tc
+T20	SC 610 627	superconductivity
+T21	Property 674 687	heavy Fermion
+T22	SC 688 703	superconductors
+T23	Element 705 713	CeCu2Si2
+T24	Element 715 720	UBe13
+T25	Element 726 730	UPt3
+T26	Material 841 851	perovskite
+T27	Material 852 861	structure
+T28	SC 870 885	superconductors
+T29	SC 899 901	Tc
+T31	SC 925 940	superconductors
+T33	Element 966 971	Nb3Sn
+T34	Material 988 996	material
+T35	Property 1046 1063	critical currents
+T36	Property 1083 1103	dc persistent fields
+T37	SC 1158 1175	superconductivity
+T38	Property 1219 1227	theories
+T39	SC 1294 1296	Tc
+T40	SC 1350 1364	superconductor
+T41	SC 1388 1390	Tc
+T42	Element 1400 1402	Hg
+T43	SC 1437 1439	Tc
+T44	Element 1461 1467	Cs3C60
+T45	Element 1494 1503	fullerene
+T46	SC 1504 1518	superconductor
+T47	Property 1539 1548	insulator
+T48	Process 1557 1565	pressure
+T49	SC 1614 1629	superconductors
+T50	Value 159 162	18K
+T51	Value 243 248	22.3K
+T52	Value 264 267	23K
+T54	Value 588 591	19K
+T55	Value 903 906	35K
+T56	Value 1110 1113	21T
+T57	Value 1392 1396	4.2K
+T58	Value 1441 1444	38K
+T16	Element 539 544	Nb3Si
+T13	Element 467 472	Nb3Si
+T14	Material 809 812	A15
+T17	Value 1448 1453	7kbar
+T61	Value 1552 1556	1atm
+T2	Material 24 30	metals
+T62	Material 10 23	A15 structure
+T30	Material 1457 1460	A15
+T60	Material 463 466	A15
+T63	Material 535 538	A15
+T64	Material 1070 1077	magnets
+T65	Element 862 869	cuprate
+T69	Material 921 924	A15
+T71	Material 1601 1604	A15
+T53	Value 395 397	31
+T72	Value 398 401	35K
+T15	SC 526 531	Tc ’s
+T32	Doping 960 965	doped
+T59	Material 1266 1269	A15
+R1	Equivalent Arg1:T5 Arg2:T50
+R2	Equivalent Arg1:T8 Arg2:T51
+R3	Equivalent Arg1:T19 Arg2:T54
+R4	Equivalent Arg1:T29 Arg2:T55
+R5	Equivalent Arg1:T41 Arg2:T57
+R6	Equivalent Arg1:T43 Arg2:T58
+R7	Target Arg1:T50 Arg2:T6
+R8	Target Arg1:T51 Arg2:T11
+R9	Target Arg1:T57 Arg2:T42
+R10	Equivalent Arg1:T8 Arg2:T52
+R11	Target Arg1:T52 Arg2:T11
+R12	Equivalent Arg1:T12 Arg2:T53
+R13	Equivalent Arg1:T12 Arg2:T72
+R14	Target Arg1:T53 Arg2:T13
+R15	Target Arg1:T72 Arg2:T13
+R16	Target Arg1:T54 Arg2:T16
+R17	Target Arg1:T55 Arg2:T65
+R18	Target Arg1:E1 Arg2:T33
+R19	Target Arg1:T58 Arg2:T44
+E1	Doping:T32

@@ -1,0 +1,88 @@
+T1	Main 0 8	2H-NbSe2
+T2	Material 20 27	layered
+T4	SC 125 163	superconducting transition temperature
+T5	SC 165 168	T c
+T6	SC 183 186	T c
+T7	Property 224 243	charge density wave
+T8	Material 275 282	bonding
+T9	Element 291 296	NbSe2
+T10	Material 297 303	layers
+T11	Material 344 361	crystal structure
+T12	SC 372 387	superconducting
+T14	Material 429 446	crystal structure
+T15	SC 451 468	superconductivity
+T16	Element 472 474	Rb
+T17	Element 488 493	NbSe2
+T18	Process 506 526	solid-state reaction
+T19	Element 532 534	Rb
+T21	Material 598 609	space group
+T22	Material 610 617	P63/mmc
+T23	Element 624 626	Rb
+T25	SC 642 645	T c
+T26	Element 649 657	RbxNbSe2
+T27	SC 756 759	T c
+T28	Property 787 795	magnetic
+T29	Element 796 798	Fe
+T31	Element 840 842	Li
+T32	Element 844 846	Ga
+T33	Element 852 854	Cu
+T35	SC 867 882	superconducting
+T36	Property 883 896	phase diagram
+T37	Element 900 908	RbxNbSe2
+T38	Element 966 974	LixNbSe2
+T39	Element 976 984	CuxNbSe2
+T40	Element 986 994	FexNbSe2
+T41	Element 1000 1008	GaxNbSe2
+T42	SC 1029 1046	superconductivity
+T43	Property 1073 1085	ionic radius
+T44	Property 1087 1094	valence
+T45	Property 1100 1109	magnetism
+T47	Element 1159 1164	NbSe2
+T48	Material 1165 1171	layers
+T3	Element 28 59	transition metal dichalcogenide
+T49	Element 61 64	TMD
+T50	Value 673 678	7.2 K
+T51	Value 554 555	0
+T52	Value 562 567	0.025
+T55	Value 706 711	0.025
+T57	Value 687 688	0
+T59	Value 692 697	4.2 K
+T61	Value 171 176	7.2 K
+T62	Element 196 200	TMDs
+T64	Property 245 248	CDW
+T65	Property 255 268	van der Waals
+T66	Property 270 273	vdW
+T67	Property 363 366	CDW
+T68	Property 388 391	gap
+T13	Doping 395 408	intercalation
+T20	Doping 475 487	intercalated
+T24	Doping 535 548	intercalation
+T30	Doping 627 640	intercalation
+T34	Doping 799 805	doping
+T46	Doping 855 861	doping
+T63	Value 202 203	2
+T69	Value 204 207	4 K
+R1	Coref Arg1:T3 Arg2:T49
+R2	Equivalent Arg1:T25 Arg2:T50
+R3	Equivalent Arg1:T25 Arg2:T59
+R4	Equivalent Arg1:T5 Arg2:T61
+R5	Coref Arg1:T4 Arg2:T5
+R6	Target Arg1:T50 Arg2:T26
+R7	Target Arg1:T59 Arg2:T26
+R8	Target Arg1:T61 Arg2:T1
+R9	Target Arg1:E2 Arg2:T17
+R10	Target Arg1:E4 Arg2:T26
+R11	Equivalent Arg1:T6 Arg2:T63
+R12	Equivalent Arg1:T6 Arg2:T69
+R13	Target Arg1:T63 Arg2:T62
+R14	Target Arg1:T69 Arg2:T62
+R15	Condition Arg1:T50 Arg2:E4
+R16	Condition Arg1:T59 Arg2:E4
+E1	Doping:T13 
+E2	Doping:T20 Dopant:T16
+E3	Doping:T24 Dopant:T19
+E4	Doping:T30 Dopant:T23
+E5	Doping:T34 Dopant:T29
+E6	Doping:T46 Dopant:T33
+E7	Doping:T46 Dopant:T32
+E8	Doping:T46 Dopant:T31

@@ -1,0 +1,36 @@
+T2	Property 61 73	normal state
+T3	Property 86 97	resistivity
+T4	Property 102 113	Hall effect
+T5	Main 122 134	La2−xSrxCuO4
+T6	Material 135 144	thin film
+T7	Element 145 153	cuprates
+T8	Property 241 252	charge-rich
+T9	Property 327 347	transport properties
+T10	Property 434 458	fluctuation conductivity
+T11	SC 493 495	Tc
+T12	Element 529 533	Cu-O
+T13	Material 534 540	planes
+T14	SC 608 610	Tc
+T15	SC 619 634	superconducting
+T16	SC 653 655	Tc
+T17	Process 679 694	low temperature
+T18	Property 707 722	magnetic fields
+T19	Material 786 794	impurity
+T20	Property 845 854	transport
+T21	Property 896 912	insulating state
+T23	Element 927 939	La2−xSrxCuO4
+T28	Value 945 946	0
+T29	Property 740 742	1D
+T30	Property 570 572	2D
+T31	Property 573 602	Aslamasov–Larkin fluctuations
+T32	Property 829 831	1D
+T34	Property 385 393	spin-gap
+T35	Property 307 309	1D
+T36	Property 253 255	1D
+T37	Property 509 511	2D
+T38	Characterization 414 426	Measurements
+T1	Doping 47 53	doping
+T22	Doping 916 926	underdoped
+R1	Target Arg1:E2 Arg2:T23
+E1	Doping:T1 
+E2	Doping:T22 

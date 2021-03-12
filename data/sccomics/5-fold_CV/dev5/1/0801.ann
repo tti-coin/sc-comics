@@ -1,0 +1,58 @@
+T1	Property 0 12	Calculations
+T3	Property 67 85	surface resistance
+T4	Material 89 97	impurity
+T6	Main 104 108	YBCO
+T7	Main 110 114	MgB2
+T8	Main 119 121	Nb
+T9	SC 170 185	superconductors
+T10	Property 199 209	energy-gap
+T11	Material 210 220	symmetries
+T12	Property 222 228	d-wave
+T13	Property 253 259	s-wave
+T14	Property 285 297	calculations
+T15	Property 345 363	surface-resistance
+T17	Material 380 388	impurity
+T19	Element 395 399	YBCO
+T20	Element 404 406	Nb
+T21	Property 450 462	calculations
+T22	Property 516 534	surface-resistance
+T25	Element 558 562	MgB2
+T26	Property 607 619	calculations
+T27	Process 839 854	low-temperature
+T29	SC 875 890	superconductors
+T30	Property 899 917	surface-resistance
+T31	Process 918 927	reduction
+T32	Material 950 958	material
+T33	SC 981 996	superconductors
+T34	Property 1010 1020	energy gap
+T36	Process 1088 1103	low-temperature
+T38	Property 1148 1163	Meissner effect
+T39	Property 236 242	i-wave
+T16	Characterization 364 376	measurements
+T23	Characterization 535 547	measurements
+T40	Property 635 651	Green’s-function
+T41	Property 754 775	constitutive relation
+T42	Value 263 264	0
+T37	Property 20 29	microwave
+T43	Property 30 56	intermodulation distortion
+T2	Property 58 61	IMD
+T44	Property 337 340	IMD
+T45	Property 508 511	IMD
+T46	Value 232 233	2
+T47	Value 246 247	6
+T5	Doping 98 103	doped
+T18	Doping 389 394	doped
+T24	Doping 552 557	doped
+T28	Doping 869 874	doped
+T35	Doping 1036 1042	doping
+R1	Target Arg1:E3 Arg2:T6
+R2	Target Arg1:E5 Arg2:T19
+R3	Target Arg1:E6 Arg2:T25
+R4	Target Arg1:E3 Arg2:T7
+R5	Target Arg1:E3 Arg2:T8
+R6	Target Arg1:E5 Arg2:T20
+E3	Doping:T5 Dopant:T4
+E5	Doping:T18 Dopant:T17
+E6	Doping:T24 
+E7	Doping:T28 
+E8	Doping:T35 

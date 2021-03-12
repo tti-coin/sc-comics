@@ -1,0 +1,34 @@
+T1	Property 4 15	resistivity
+T2	Material 24 39	single crystals
+T3	Material 47 52	cubic
+T6	SC 96 99	T c
+T8	Property 245 253	electron
+T9	Property 254 260	phonon
+T10	Property 261 266	model
+T11	Property 270 281	resistivity
+T12	Property 325 340	phonon spectrum
+T13	Property 359 367	acoustic
+T15	Property 454 469	phonon spectrum
+T17	Property 504 512	acoustic
+T18	Property 528 548	Einstein temperature
+T19	Property 608 616	acoustic
+T21	Property 644 655	resistivity
+T22	Property 746 761	optical phonons
+T23	Property 836 847	resistivity
+T25	Property 921 948	electron-phonon interaction
+T27	Property 993 1009	acoustic phonons
+T28	Property 476 493	Debye temperature
+T29	Value 100 104	30 K
+T30	Main 77 90	Ba0.6K0.4BiO3
+T31	Element 769 775	oxygen
+T32	Property 494 496	ΘD
+T33	Property 549 551	ΘE
+T7	Property 16 20	ϱ(T)
+T4	SC 53 76	high-T c superconductor
+T5	Value 153 156	4.2
+T14	Value 160 165	300 K
+T16	Property 712 716	ϱ(T)
+T24	Property 886 901	optical phonons
+T20	Property 621 636	optical phonons
+R1	Equivalent Arg1:T6 Arg2:T29
+R2	Target Arg1:T29 Arg2:T30

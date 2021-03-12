@@ -1,0 +1,25 @@
+T1	Main 13 27	Mg1− x Ru x B2
+T2	Material 36 49	stoichiometry
+T3	Process 67 76	sintering
+T7	Property 183 199	solubility limit
+T8	Element 228 230	Ru
+T9	Element 235 237	Mg
+T11	Characterization 364 381	X-ray diffraction
+T12	Material 411 429	lattice parameters
+T13	Element 437 441	MgB2
+T14	Element 510 512	Ru
+T15	Element 572 574	Mg
+T16	Element 575 577	Ru
+T17	Material 578 586	impurity
+T18	Element 606 608	Mg
+T19	Element 619 628	(Mg,Ru)B2
+T20	Material 629 635	matrix
+T21	Value 80 85	800°C
+T24	Value 222 227	1at.%
+T26	Value 166 171	0.015
+T28	Value 470 475	0.015
+T29	Characterization 285 297	measurements
+T30	Characterization 254 284	energy dispersive spectroscopy
+T6	Doping 141 153	substitution
+T4	Property 91 122	critical transition temperature
+E1	Doping:T6

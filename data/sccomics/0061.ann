@@ -1,0 +1,34 @@
+T2	SC 203 206	T c
+T3	Property 229 246	Debye temperature
+T5	SC 324 327	T c
+T9	SC 451 454	T c
+T10	SC 515 518	T c
+T12	SC 632 635	T c
+T13	SC 700 703	T c
+T14	SC 709 712	T c
+T15	SC 725 728	T c
+T16	SC 775 778	T c
+T17	SC 813 821	high-T c
+T18	SC 860 863	T c
+T19	Property 900 912	normal state
+T20	Property 945 963	hole concentration
+T21	SC 1002 1005	T c
+T22	Element 526 539	CaLaBaCu3O7−y
+T23	Value 740 744	28 K
+T24	Value 716 720	67 K
+T27	Main 54 67	CaLaBaCu3O7−y
+T29	Material 68 83	polycrystalline
+T30	Characterization 0 23	Ultrasonic measurements
+T32	Property 212 227	Young's Modulus
+T4	Property 248 260	Bulk modulus
+T33	Property 265 280	Poisson's ratio
+T34	Property 384 399	Poisson's ratio
+T8	Property 548 563	Poisson's ratio
+T11	Material 1024 1046	microstructural change
+T1	SC 29 53	high-T c superconductive
+T6	SC 348 372	high-T c superconducting
+T7	Value 479 483	80 K
+R1	Equivalent Arg1:T15 Arg2:T23
+R2	Equivalent Arg1:T14 Arg2:T24
+R3	Equivalent Arg1:T10 Arg2:T7
+R4	Target Arg1:T7 Arg2:T22

@@ -1,0 +1,51 @@
+T1	Property 21 29	magnetic
+T2	Property 34 44	electrical
+T3	Property 45 65	transport properties
+T6	Main 98 103	Co-Ga
+T7	Material 104 110	alloys
+T12	Property 241 258	ac susceptibility
+T14	Element 330 345	Co55.5TM3Ga41.5
+T15	Element 352 354	Co
+T16	Element 356 358	Cr
+T17	Element 360 362	Fe
+T18	Element 364 366	Cu
+T20	Property 373 405	magnetic transition temperatures
+T21	Property 407 409	TC
+T22	Element 456 466	TM element
+T24	Property 489 506	exchange coupling
+T25	Property 507 515	strength
+T26	Element 516 521	Co-Fe
+T27	Element 524 529	Co-Co
+T28	Element 532 537	Co-Cu
+T29	Element 540 545	Co-Cr
+T31	Property 583 606	transition temperatures
+T35	Property 743 747	spin
+T36	Material 748 755	cluster
+T37	Property 818 840	temperature dependence
+T38	Property 879 893	magnetic field
+T40	Property 952 960	magnetic
+T41	Property 965 975	electrical
+T42	Property 976 996	transport properties
+T45	Property 220 236	dc magnetization
+T46	Property 260 263	ACS
+T47	Property 294 314	reentrant spin glass
+T48	Property 316 319	RSG
+T50	Property 552 574	magnetization dynamics
+T51	Property 615 628	glassy phases
+T52	Property 676 692	relaxation times
+T53	Property 771 774	RSG
+T39	Property 898 918	substitution effects
+T8	Element 347 349	TM
+T10	Element 126 132	cobalt
+T11	Property 200 216	field dependence
+T30	Property 717 729	spin glasses
+T13	Property 844 860	magnetotransport
+T32	Property 117 125	critical
+T33	Property 133 146	concentration
+T5	Doping 86 97	substituted
+T9	Doping 467 479	substitution
+T4	Element 69 85	transition metal
+T19	Property 414 416	Tf
+R1	Target Arg1:E1 Arg2:T6
+E1	Doping:T5 Dopant:T4
+E2	Doping:T9 Dopant:T22

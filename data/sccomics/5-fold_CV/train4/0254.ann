@@ -1,0 +1,74 @@
+T1	SC 32 47	superconducting
+T2	Main 66 89	Bi2Sr2Ca1−x Y x Cu2O8+δ
+T3	Material 128 136	textured
+T4	SC 137 152	superconducting
+T5	Process 172 201	laser floating zone technique
+T6	Element 233 236	Y3+
+T8	Element 254 258	Ca2+
+T9	Characterization 285 302	X-ray diffraction
+T10	Characterization 304 307	XRD
+T11	Characterization 310 338	scanning electron microscopy
+T12	Characterization 340 343	SEM
+T13	Characterization 346 382	energy dispersive X-ray spectroscopy
+T14	Characterization 384 387	EDX
+T15	Property 390 406	dc-magnetization
+T17	Property 408 427	magnetic hysteresis
+T19	Property 432 456	critical current density
+T20	Property 457 468	calculation
+T22	Property 482 509	Bean׳s critical state model
+T23	Material 515 521	powder
+T24	Characterization 522 525	XRD
+T25	Element 565 578	Bi-2212 phase
+T26	Material 612 618	powder
+T27	Material 632 640	textured
+T28	Material 645 653	surfaces
+T29	Characterization 680 683	XRD
+T30	Material 689 695	grains
+T31	SC 784 799	superconductors
+T32	Process 812 831	laser floating zone
+T33	SC 874 894	critical temperature
+T34	SC 896 899	T C
+T37	Property 972 989	DC magnetic field
+T38	Property 1046 1070	critical current density
+T39	Element 1097 1098	Y
+T42	Value 920 925	92.9K
+T44	Value 1178 1192	2.37×105 A/cm2
+T49	Value 97 100	0.0
+T50	Value 102 106	0.05
+T51	Value 108 113	0.075
+T52	Value 114 117	0.1
+T53	Value 123 127	0.20
+T54	Process 833 836	LFZ
+T18	Material 732 753	longitudinal rod axis
+T21	Property 1001 1009	ZFC mode
+T55	Value 993 997	50Oe
+T43	Property 1137 1148	maximum J C
+T7	Doping 237 249	substitution
+T35	Doping 952 964	substitution
+T36	Doping 1099 1111	substitution
+T16	Element 946 951	0.15Y
+R1	Equivalent Arg1:T34 Arg2:T42
+E1	Doping:T7 Dopant:T6 Site:T8
+E2	Doping:T35 Dopant:T16
+E3	Doping:T36 Dopant:T39
+#1	AnnotatorNotes T2	66-89
+#2	AnnotatorNotes T3	128-136
+#3	AnnotatorNotes T6	233-236
+#4	AnnotatorNotes T8	254-258
+#5	AnnotatorNotes T23	515-521
+#6	AnnotatorNotes T25	565-578
+#7	AnnotatorNotes T26	612-618
+#8	AnnotatorNotes T27	632-640
+#9	AnnotatorNotes T28	645-653
+#10	AnnotatorNotes T30	689-695
+#11	AnnotatorNotes T39	1097-1098
+#12	AnnotatorNotes T42	920-925
+#13	AnnotatorNotes T44	1178-1192
+#14	AnnotatorNotes T49	97-100
+#15	AnnotatorNotes T50	102-106
+#16	AnnotatorNotes T51	108-113
+#17	AnnotatorNotes T52	114-117
+#18	AnnotatorNotes T53	123-127
+#19	AnnotatorNotes T18	732-753
+#20	AnnotatorNotes T55	993-997
+#21	AnnotatorNotes T16	946-951

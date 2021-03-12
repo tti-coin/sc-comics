@@ -1,0 +1,47 @@
+T1	SC 18 33	superconducting
+T2	Element 48 65	thallium fluoride
+T3	Element 67 71	TlF3
+T5	Main 78 113	Bi1.8−x Tl x Pb0.35Sr2Ca2Cu3O y F3x
+T6	Characterization 153 170	X-ray diffraction
+T9	Property 347 358	resistivity
+T16	Property 519 530	calculation
+T17	Property 534 551	activation energy
+T19	Element 640 644	TlF3
+T21	SC 695 701	Tc.off
+T24	Element 752 756	TlF3
+T25	Property 816 830	magnetic field
+T26	SC 842 857	superconducting
+T27	Property 893 894	ξ
+T31	Element 1075 1079	TlF3
+T33	Property 1111 1122	resistivity
+T46	Property 902 913	μ 0 H c2(0)
+T49	Property 565 569	TAFF
+T50	Property 571 601	thermally activation flux flow
+T55	Value 772 776	0.10
+T38	Value 332 336	0.05
+T53	Value 320 326	82.74%
+T12	SC 432 437	Tc.on
+T15	SC 485 491	Tc.off
+T41	Value 509 513	0.10
+T22	Property 704 716	Flux pinning
+T28	Property 981 998	Ac susceptibility
+T23	Property 717 725	strength
+T40	Property 876 880	Hc 2
+T43	Property 885 889	Hirr
+T4	Doping 72 77	doped
+T20	Doping 645 651	doping
+T29	Doping 949 955	doping
+T32	Doping 1080 1086	doping
+T34	Value 117 118	0
+T35	Value 119 123	0.15
+T7	Element 209 227	(Bi, Pb)-2223phase
+T8	Element 257 273	(Bi, Pb)-2212one
+T10	SC 393 430	onset critical transition temperature
+T11	SC 445 483	offset critical transition temperature
+T13	Characterization 999 1011	measurements
+T14	Property 1026 1059	onset temperature of diamagnetism
+R2	Target Arg1:E1 Arg2:T5
+E1	Doping:T4 Dopant:T2
+E2	Doping:T20 Dopant:T19
+E3	Doping:T29
+E4	Doping:T32 Dopant:T31

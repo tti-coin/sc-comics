@@ -1,0 +1,30 @@
+T2	Main 25 65	La1.85−1.5 x Sr0.15+1.5 x Cu1− x Mn x O4
+T3	Process 114 134	solid-state reaction
+T5	Property 159 168	transport
+T6	Property 173 192	magnetic properties
+T7	SC 211 228	superconductivity
+T9	SC 339 366	superconducting transitions
+T12	Element 512 519	Mn ions
+T13	Element 528 534	O ions
+T14	Element 542 549	Cu–O–Cu
+T15	Element 568 570	Mn
+T16	SC 606 623	superconductivity
+T23	Value 273 277	0.15
+T25	Value 320 324	0.06
+T26	Element 251 253	Mn
+T28	Value 68 69	0
+T29	Value 76 79	0.2
+T30	Property 374 384	M–T curves
+T4	Property 468 493	superexchange interaction
+T31	Material 147 157	structural
+T1	Doping 19 24	doped
+T8	Doping 254 260	doping
+T11	Doping 506 511	doped
+T10	Element 411 418	Cu–O–Cu
+R1	Target Arg1:E3 Arg2:T14
+R2	Target Arg1:E1 Arg2:T2
+R3	Target Arg1:E4 Arg2:T14
+E1	Doping:T1
+E2	Doping:T8 Dopant:T26
+E3	Doping:T11 Dopant:T12
+E4	Doping:T11 Dopant:T13

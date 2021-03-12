@@ -1,0 +1,101 @@
+T2	SC 129 143	superconductor
+T3	SC 177 208	high temperature superconductor
+T4	Material 314 321	powders
+T5	Process 326 346	solid state reaction
+T6	SC 410 425	superconductors
+T7	Material 480 486	powder
+T8	Characterization 487 504	X-ray diffraction
+T9	Characterization 513 541	scanning electron microscopy
+T10	Characterization 543 546	SEM
+T11	Characterization 549 572	energy dispersive X-Ray
+T12	Characterization 583 586	EDX
+T14	SC 681 708	zero-resistance temperature
+T18	Material 888 892	bulk
+T19	Material 940 951	bulk sample
+T21	SC 1260 1275	superconductors
+T22	Material 1314 1324	morphology
+T23	Property 63 87	critical current density
+T26	Main 120 127	Tl-1212
+T31	Value 956 967	1320 mA/cm2
+T32	Value 971 975	30 K
+T33	Property 986 988	Jc
+T34	Value 1004 1014	0.001 wt.%
+T35	Value 1028 1039	3660 mA/cm2
+T36	Value 1043 1047	30 K
+T39	Property 852 854	Jc
+T40	Element 1227 1234	Tl-1212
+T41	Property 1246 1248	Jc
+T42	Element 1252 1259	Tl-1212
+T43	Element 1336 1343	Tl-1212
+T44	Element 1083 1090	Tl-1212
+T45	Property 1073 1075	Jc
+T46	Property 920 922	Jc
+T48	Element 402 409	Tl-1212
+T49	SC 210 213	HTS
+T50	Element 308 313	oxide
+T51	Element 1125 1133	graphene
+T52	Element 1144 1152	Graphene
+T53	Element 1015 1023	graphene
+T54	Property 826 850	critical current density
+T55	Element 873 881	graphene
+T56	Element 779 787	graphene
+T57	Property 638 662	critical current density
+T58	Element 377 385	graphene
+T59	Element 28 36	graphene
+T24	Main 91 118	(Tl0.85Cr0.15) Sr2CaCu2O7-δ
+T30	Element 162 170	Thallium
+T13	Property 589 610	electrical resistance
+T38	Material 1294 1309	phase formation
+T27	Element 249 276	(Tl0.85Cr0.15) Sr2CaCu2O7-δ
+T15	Property 1204 1216	flux pinning
+T1	Doping 37 45	addition
+T17	Doping 391 396	added
+T28	Doping 1134 1142	addition
+T20	Value 355 360	0.001
+T25	Value 363 373	0.005 wt.%
+T16	SC 710 717	Tc-zero
+T29	Value 745 749	95 K
+T37	Value 753 757	84 K
+R1	Coref Arg1:T24 Arg2:T26
+R2	Coref Arg1:T3 Arg2:T49
+R3	Coref Arg1:T14 Arg2:T16
+R4	Target Arg1:E1 Arg2:T24
+R5	Target Arg1:E2 Arg2:T48
+R6	Equivalent Arg1:T16 Arg2:T29
+R7	Equivalent Arg1:T16 Arg2:T37
+R8	Target Arg1:E4 Arg2:T44
+E1	Doping:T1 Dopant:T59
+E2	Doping:T17 Dopant:T58
+E4	Doping:T28 Dopant:T51
+#1	AnnotatorNotes T4	314-321
+#2	AnnotatorNotes T7	480-486
+#3	AnnotatorNotes T18	888-892
+#4	AnnotatorNotes T19	940-951
+#5	AnnotatorNotes T22	1314-1324
+#6	AnnotatorNotes T26	120-127
+#7	AnnotatorNotes T31	956-967
+#8	AnnotatorNotes T32	971-975
+#9	AnnotatorNotes T34	1004-1014
+#10	AnnotatorNotes T35	1028-1039
+#11	AnnotatorNotes T36	1043-1047
+#12	AnnotatorNotes T40	1227-1234
+#13	AnnotatorNotes T42	1252-1259
+#14	AnnotatorNotes T43	1336-1343
+#15	AnnotatorNotes T44	1083-1090
+#16	AnnotatorNotes T48	402-409
+#17	AnnotatorNotes T50	308-313
+#18	AnnotatorNotes T51	1125-1133
+#19	AnnotatorNotes T52	1144-1152
+#20	AnnotatorNotes T53	1015-1023
+#21	AnnotatorNotes T55	873-881
+#22	AnnotatorNotes T56	779-787
+#23	AnnotatorNotes T58	377-385
+#24	AnnotatorNotes T59	28-36
+#25	AnnotatorNotes T24	91-118
+#26	AnnotatorNotes T30	162-170
+#27	AnnotatorNotes T38	1294-1309
+#28	AnnotatorNotes T27	249-276
+#29	AnnotatorNotes T20	355-360
+#30	AnnotatorNotes T25	363-373
+#31	AnnotatorNotes T29	745-749
+#32	AnnotatorNotes T37	753-757

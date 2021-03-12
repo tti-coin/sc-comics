@@ -1,0 +1,55 @@
+T1	Property 16 32	first-principles
+T3	Material 97 107	structural
+T4	Property 109 130	electronic properties
+T5	Material 136 152	chemical bonding
+T6	Main 180 204	titanium pnictide-oxides
+T7	Element 206 216	Na2Ti2As2O
+T8	Element 218 228	Na2Ti2Sb2O
+T9	Element 230 239	BaTi2As2O
+T10	Element 245 254	BaTi2Sb2O
+T11	Material 329 336	layered
+T12	Element 337 339	Fe
+T13	SC 345 360	superconducting
+T14	Material 361 370	materials
+T15	Material 404 422	lattice parameters
+T17	Property 445 461	electronic bands
+T21	Property 567 581	charge density
+T22	Material 611 627	chemical bonding
+T23	Material 645 654	materials
+T25	Material 702 725	anisotropic deformation
+T26	Material 733 750	crystal structure
+T27	Property 785 795	anisotropy
+T28	Material 812 817	bonds
+T29	Material 850 855	ionic
+T30	Property 856 864	metallic
+T31	Element 884 893	Ti2 Pn 2O
+T32	Material 908 915	bonding
+T33	Element 932 941	Ti2 Pn 2O
+T34	Material 954 960	sheets
+T35	Element 964 966	Na
+T36	Element 968 975	Ba ions
+T37	Material 985 990	ionic
+T38	Property 1025 1032	charges
+T39	Material 1056 1061	ionic
+T40	Property 1062 1069	charges
+T41	Element 1098 1107	Ti2 Pn 2O
+T45	Material 1201 1210	materials
+T46	SC 1252 1267	superconducting
+T48	Property 1307 1316	dx 2− y 2
+T50	Element 1349 1358	Ti2 Pn 2O
+T51	Property 1383 1394	anisotropic
+T53	Property 1504 1518	Fermi surfaces
+T54	Material 1528 1537	materials
+T2	Property 33 55	FLAPW–GGA calculations
+T42	Property 1114 1141	near-Fermi electronic bands
+T43	Property 1169 1182	metallic-like
+T18	Property 463 485	Fermi surface topology
+T52	Material 1492 1503	multi-sheet
+T55	Property 544 558	Bader analysis
+T56	Property 1476 1484	topology
+T57	Element 841 849	covalent
+T47	Element 1297 1299	Ti
+T58	Property 1300 1304	3dxy
+T16	Property 427 443	atomic positions
+T19	Property 505 533	density of electronic states
+T20	Property 1322 1326	dz 2

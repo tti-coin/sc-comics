@@ -1,0 +1,32 @@
+T1	Material 17 23	dopant
+T2	Property 37 44	ordered
+T4	SC 55 78	high Tc superconductors
+T5	SC 122 144	transition temperature
+T6	SC 146 148	Tc
+T8	Element 236 242	oxygen
+T9	Property 243 263	dopant concentration
+T10	Main 278 282	YBCO
+T11	Material 283 288	films
+T12	Element 299 305	LaAlO3
+T13	Element 330 334	YBCO
+T14	Property 353 362	electrons
+T15	SC 421 423	Tc
+T16	Element 575 581	oxygen
+T17	Material 596 610	chain ordering
+T19	Element 723 727	YBCO
+T20	Property 762 779	excitation pulses
+T21	Value 290 295	100nm
+T22	Value 346 352	10 keV
+T24	Value 428 432	0.4K
+T25	Property 622 640	ionizing radiation
+T26	Material 790 801	MeV protons
+T27	Process 189 211	focused electron beams
+T3	Doping 45 51	doping
+T18	Doping 713 719	doping
+T7	Property 582 591	depletion
+T23	Value 383 394	1020 e-/cm2
+R2	Equivalent Arg1:T15 Arg2:T24
+R3	Target Arg1:E2 Arg2:T19
+R4	Target Arg1:T24 Arg2:T13
+E1	Doping:T3
+E2	Doping:T18

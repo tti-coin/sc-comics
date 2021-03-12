@@ -1,0 +1,69 @@
+T1	Material 5 10	bulks
+T2	Property 73 82	diffusion
+T5	SC 175 178	T c
+T6	SC 298 301	T c
+T8	Property 408 417	diffusion
+T13	Process 751 771	solid-state reaction
+T15	Property 1011 1020	diffusion
+T17	Material 1051 1064	nanoparticles
+T18	Property 1166 1180	magnetic field
+T19	Main 0 4	MgB2
+T20	Value 29 39	1.95 g/cm3
+T21	Element 70 72	Mg
+T22	Value 305 311	38.1 K
+T24	Property 183 207	critical current density
+T25	Element 243 247	MgB2
+T27	Value 323 334	0.53 MA/cm2
+T28	Value 338 342	10 K
+T29	Process 116 131	heat treatments
+T30	Element 431 437	Pr6O11
+T31	Element 442 443	C
+T32	Property 462 465	J c
+T33	Element 494 495	H
+T34	Element 503 507	MgB2
+T35	Value 552 556	10 K
+T36	Value 561 564	6 T
+T37	Property 569 572	J c
+T38	Value 577 583	15 at%
+T39	Element 584 585	C
+T40	Element 592 596	MgB2
+T41	Value 605 614	104 A/cm2
+T42	Element 726 727	C
+T43	Element 734 738	MgB2
+T44	Element 786 792	Pr6O11
+T45	Element 799 803	MgB2
+T46	Property 809 812	J c
+T47	Value 843 846	9.4
+T48	Value 879 883	10 K
+T49	Value 888 892	2 T.
+T50	Property 940 949	theoretic
+T51	Element 1008 1010	Mg
+T52	Element 1068 1069	C
+T53	Element 1112 1116	MgB2
+T54	Property 1132 1135	J c
+T55	Element 1140 1141	H
+T56	Process 275 289	heat treatment
+T11	Property 474 492	irreversible field
+T58	Property 208 211	J c
+T23	Property 316 319	J c
+T26	Element 215 219	MgB2
+T59	Property 344 354	self-field
+T60	Property 18 25	density
+T3	SC 135 174	superconducting transitions temperature
+T4	Doping 444 450	doping
+T7	Doping 586 591	doped
+T10	Doping 728 733	doped
+T12	Doping 793 798	doped
+T14	Doping 1041 1047	doping
+R1	Equivalent Arg1:T6 Arg2:T22
+R3	Target Arg1:T22 Arg2:T25
+R4	Target Arg1:E2 Arg2:T40
+R5	Target Arg1:E4 Arg2:T43
+R6	Target Arg1:E5 Arg2:T45
+E1	Doping:T4 Dopant:T30
+E2	Doping:T7 Dopant:T39
+E4	Doping:T10 Dopant:T42
+E5	Doping:T12 Dopant:T44
+E6	Doping:T14 Dopant:T17
+E7	Doping:T4 Dopant:T31
+E8	Doping:T14 Dopant:T52

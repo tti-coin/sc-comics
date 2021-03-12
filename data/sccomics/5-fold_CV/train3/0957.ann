@@ -1,0 +1,75 @@
+T1	SC 18 35	superconductivity
+T3	Element 79 81	Pr
+T4	Element 83 85	Nd
+T5	Element 87 89	Sm
+T6	Element 91 93	Eu
+T7	Element 95 97	Gd
+T11	Property 167 177	electronic
+T12	Property 182 190	magnetic
+T13	Property 191 204	phase diagram
+T14	Property 208 216	electron
+T16	Element 223 231	cuprates
+T17	Process 244 253	reduction
+T18	SC 285 302	superconductivity
+T19	Material 306 319	square-planar
+T20	Element 332 340	cuprates
+T21	Element 356 363	Pr2CuO4
+T22	Material 364 369	films
+T23	Process 375 380	grown
+T24	Material 381 392	epitaxially
+T25	Process 396 418	molecular beam epitaxy
+T26	Process 420 423	MBE
+T27	Element 428 439	(001)SrTiO3
+T28	Element 441 452	(110)GdScO3
+T29	Element 457 468	(110)DyScO3
+T30	Material 469 479	substrates
+T31	Process 501 510	reduction
+T33	Material 550 562	single-phase
+T34	SC 563 578	superconducting
+T35	SC 602 617	superconducting
+T36	SC 633 641	T c zero
+T37	Process 661 677	room-temperature
+T38	Property 678 689	resistivity
+T40	Material 737 746	amorphous
+T41	Element 747 755	Pr2CuO y
+T42	Material 756 761	films
+T43	Process 762 771	deposited
+T44	Element 775 786	(110)DyScO3
+T45	SC 794 809	superconducting
+T46	Process 848 857	annealing
+T47	SC 895 912	superconductivity
+T48	Element 927 934	Pr2CuO4
+T49	Process 969 978	reduction
+T50	Value 644 648	26 K
+T32	Process 111 138	metal-organic decomposition
+T53	Process 140 143	MOD
+T8	Value 699 709	400 μ Ω cm
+T10	Doping 217 222	doped
+T2	Main 56 72	T ′ - RE 2 CuO 4
+R1	Equivalent Arg1:T36 Arg2:T50
+R2	Target Arg1:E1 Arg2:T16
+E1	Doping:T10 Dopant:T14
+#1	AnnotatorNotes T3	79-81
+#2	AnnotatorNotes T4	83-85
+#3	AnnotatorNotes T5	87-89
+#4	AnnotatorNotes T6	91-93
+#5	AnnotatorNotes T7	95-97
+#6	AnnotatorNotes T16	223-231
+#7	AnnotatorNotes T19	306-319
+#8	AnnotatorNotes T20	332-340
+#9	AnnotatorNotes T21	356-363
+#10	AnnotatorNotes T22	364-369
+#11	AnnotatorNotes T24	381-392
+#12	AnnotatorNotes T27	428-439
+#13	AnnotatorNotes T28	441-452
+#14	AnnotatorNotes T29	457-468
+#15	AnnotatorNotes T30	469-479
+#16	AnnotatorNotes T33	550-562
+#17	AnnotatorNotes T40	737-746
+#18	AnnotatorNotes T41	747-755
+#19	AnnotatorNotes T42	756-761
+#20	AnnotatorNotes T44	775-786
+#21	AnnotatorNotes T48	927-934
+#22	AnnotatorNotes T50	644-648
+#23	AnnotatorNotes T8	699-709
+#24	AnnotatorNotes T2	56-72

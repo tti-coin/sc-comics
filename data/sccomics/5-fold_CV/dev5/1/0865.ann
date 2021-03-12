@@ -1,0 +1,40 @@
+T1	Property 16 29	magnetization
+T2	Property 34 44	relaxation
+T4	Main 89 111	Ba 1 − x K x BiO 3 + δ
+T5	Material 112 126	single crystal
+T6	Property 132 134	Tc
+T7	Property 209 219	relaxation
+T8	Property 237 247	relaxation
+T9	Property 319 332	magnetization
+T10	Property 333 343	relaxation
+T12	Property 413 426	pinning model
+T13	Property 490 505	magnetic fields
+T14	Property 589 599	relaxation
+T15	Property 650 667	activation energy
+T16	Property 720 735	magnetic fields
+T17	Property 761 774	magnetization
+T18	Property 886 907	irreversibility field
+T19	Property 1067 1080	magnetization
+T20	Property 1104 1124	vortex phase diagram
+T21	Property 1150 1156	vortex
+T22	Element 1169 1186	Ba 1 − x K x BiO3
+T23	Property 1204 1209	model
+T24	Property 1245 1258	vortex pining
+T25	Characterization 0 12	Measurements
+T26	Value 137 143	31.3 K
+T29	Value 515 518	3 T
+T30	Property 668 669	U
+T31	Value 745 748	3 T
+T35	Value 509 510	1
+T36	Value 739 740	1
+T39	Property 542 556	Maley’s method
+T40	Property 632 649	current dependent
+T3	Doping 83 88	doped
+T11	Value 471 475	1.64
+T27	Value 476 480	1.68
+T28	Value 702 706	1.23
+T32	Value 707 711	1.29
+T33	Value 820 823	2 K
+T34	Value 827 831	24 K
+R3	Target Arg1:E1 Arg2:T4
+E1	Doping:T3 

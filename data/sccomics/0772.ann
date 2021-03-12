@@ -1,0 +1,40 @@
+T1	SC 29 46	superconductivity
+T3	Property 170 178	magnetic
+T4	Element 196 203	cuprate
+T5	Property 204 213	magnetism
+T6	Property 226 236	zero field
+T8	Main 275 286	RBa2Cu3O7−δ
+T9	Main 288 292	RBCO
+T10	Element 296 298	Gd
+T11	Element 300 302	Eu
+T12	SC 320 322	Tc
+T13	Property 391 393	ME
+T14	Property 450 459	pseudogap
+T15	Property 507 517	zero field
+T16	Element 522 527	GdBCO
+T17	SC 553 555	Tc
+T19	Element 679 684	EuBCO
+T20	SC 736 738	Tc
+T21	Property 797 805	magnetic
+T22	Element 815 822	cuprate
+T23	SC 823 840	superconductivity
+T24	Property 144 158	Varma’s theory
+T26	Property 612 618	MaxEnt
+T27	Property 383 389	MaxEnt
+T28	Property 238 240	ZF
+T29	Property 366 381	Maximum Entropy
+T30	Property 631 647	transverse field
+T31	Property 649 651	TF
+T32	SC 115 123	phononic
+T33	Property 127 136	polaronic
+T7	Property 242 260	muon-spin-rotation
+T34	Property 262 265	μSR
+T35	Property 412 415	μSR
+T36	Property 653 656	μSR
+T37	Value 599 604	100Oe
+T38	Element 21 28	cuprate
+T39	Property 460 473	loop currents
+T41	Property 492 495	μSR
+T2	Doping 673 678	doped
+R2	Target Arg1:E1 Arg2:T19
+E1	Doping:T2

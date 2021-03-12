@@ -1,0 +1,45 @@
+T1	Material 14 24	structural
+T2	Property 29 37	magnetic
+T4	Main 73 93	Gd 1 − x La x RhIn 5
+T5	Property 107 124	antiferromagnetic
+T6	Property 126 129	AFM
+T7	Property 146 154	magnetic
+T8	Element 173 180	GdRhIn5
+T10	Element 234 243	Gd3+ ions
+T12	Element 263 267	La3+
+T13	Property 288 302	susceptibility
+T14	Property 335 343	magnetic
+T15	Property 344 357	specific heat
+T16	Process 388 406	lower temperatures
+T19	Property 555 563	magnetic
+T20	Property 587 610	transition temperatures
+T21	Property 612 615	T N
+T22	Process 650 665	low temperature
+T23	Property 666 679	specific heat
+T24	Element 693 695	La
+T25	Material 697 706	vacancies
+T27	Property 761 770	spin wave
+T28	Property 771 782	excitations
+T30	Element 865 872	GdRhIn5
+T31	Property 902 915	specific heat
+T33	Property 1023 1031	magnetic
+T35	Element 1074 1089	(Ce,Tb,Nd)RhIn5
+T9	Property 211 227	Heisenberg model
+T17	Property 495 517	phenomenological model
+T32	Property 957 973	Heisenberg model
+T40	Property 838 861	second order transition
+T43	Value 100 104	0.50
+T45	Value 207 210	7/2
+T47	Value 731 735	0.40
+T49	Value 790 793	0.5
+T50	Element 1059 1061	La
+T51	Element 58 60	La
+T18	Property 708 722	concentrations
+T3	Doping 61 72	substituted
+T11	Doping 248 259	substituted
+T26	Doping 1062 1073	substituted
+R1	Target Arg1:E1 Arg2:T4
+R2	Target Arg1:E3 Arg2:T35
+E1	Doping:T3 Dopant:T51
+E2	Doping:T11 Site:T10 Dopant:T12
+E3	Doping:T26 Dopant:T50

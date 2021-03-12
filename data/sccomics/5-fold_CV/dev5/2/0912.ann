@@ -1,0 +1,93 @@
+T1	Material 65 82	broken symmetries
+T2	Property 101 114	normal states
+T3	Property 132 147	charge-transfer
+T4	Material 148 154	solids
+T6	SC 174 191	superconductivity
+T7	SC 193 195	SC
+T8	SC 282 284	SC
+T9	Material 330 347	broken symmetries
+T10	Property 361 375	semiconducting
+T11	SC 396 398	SC
+T13	Property 421 436	charge ordering
+T14	Property 438 456	antiferromagnetism
+T15	Property 461 478	spin-density wave
+T16	Property 480 498	spin-Peierls state
+T17	Property 507 519	quantum spin
+T18	Material 520 526	liquid
+T19	Property 551 557	theory
+T20	Material 573 588	broken symmetry
+T22	Material 685 692	lattice
+T23	Property 797 813	half-filled band
+T24	Property 862 881	quarter-filled band
+T25	Property 1011 1030	quarter-filled band
+T26	Property 1046 1070	charge-disproportionated
+T28	Property 1077 1094	charge-rich pairs
+T30	Property 1134 1151	charge-poor pairs
+T31	Property 1168 1184	insulating state
+T32	Property 1262 1274	charge-order
+T33	Property 1293 1312	quarter-filled band
+T34	Property 1319 1333	charge-ordered
+T35	Property 1368 1383	paired-electron
+T37	Material 1384 1391	crystal
+T38	Property 1444 1461	antiferromagnetic
+T39	Property 1463 1466	AFM
+T40	Material 1482 1496	Wigner crystal
+T41	Property 1505 1521	single electrons
+T42	Material 1562 1572	symmetries
+T43	Property 1604 1612	spin gap
+T44	Material 1670 1677	lattice
+T45	Property 1760 1767	density
+T46	Property 1776 1788	Cooper pairs
+T47	SC 1796 1811	superconducting
+T48	SC 1812 1820	high T c
+T49	Element 1821 1829	cuprates
+T50	Property 1861 1881	charge-ordered state
+T51	Property 1897 1914	antiferromagnetic
+T52	SC 1923 1938	superconducting
+T53	Material 2016 2033	broken symmetries
+T54	Property 2059 2075	spin-fluctuation
+T55	Property 2091 2112	valence bond theories
+T58	SC 2135 2137	SC
+T59	Property 2145 2161	half-filled band
+T60	Property 2193 2205	Hamiltonians
+T61	SC 2214 2229	superconducting
+T63	SC 2284 2286	SC
+T64	Property 2298 2314	half-filled band
+T65	Property 2315 2334	correlated-electron
+T66	Property 2335 2347	Hamiltonians
+T67	Property 2397 2416	valence-bond theory
+T70	SC 2420 2422	SC
+T71	SC 2440 2455	superconducting
+T72	Process 2521 2529	pressure
+T73	Material 2538 2545	lattice
+T74	Property 2587 2593	mobile
+T75	Property 2674 2680	charge
+T76	SC 2726 2728	SC
+T78	Property 2772 2786	semiconducting
+T79	Property 2796 2813	antiferromagnetic
+T80	Property 2825 2839	charge-ordered
+T81	SC 2871 2873	SC
+T82	SC 3030 3045	superconductors
+T83	Property 3061 3073	band-filling
+T84	SC 3098 3113	superconducting
+T86	Material 3136 3145	materials
+T87	Property 3196 3208	charge order
+T88	SC 3213 3215	SC
+T92	SC 3278 3280	SC
+T93	Property 650 680	electron–electron interactions
+T94	Property 3255 3274	valence-bond theory
+T68	Property 1334 1346	spin–singlet
+T69	SC 2687 2689	SC
+T89	Property 940 953	spin–singlets
+T90	Property 991 1003	spin–singlet
+T91	Property 963 985	one- and two-dimension
+T95	Property 1207 1220	spin–singlets
+T96	Material 1498 1500	WC
+T56	Property 2919 2931	spin–singlet
+T57	Property 2174 2192	Hubbard–Heisenberg
+T97	Property 2573 2586	spin–singlets
+T5	Property 2546 2557	frustration
+T12	Property 741 767	bandfilling of one-quarter
+T27	Property 2162 2169	Hubbard
+R1	Coref Arg1:T6 Arg2:T7
+R2	Coref Arg1:T40 Arg2:T96

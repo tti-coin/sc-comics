@@ -1,0 +1,20 @@
+T1	Process 4 12	pressure
+T6	Property 200 206	phonon
+T7	SC 316 319	T c
+T8	Property 356 364	electron
+T9	Property 365 371	phonon
+T10	Process 433 441	pressure
+T12	Process 621 649	positive pressure dependence
+T13	SC 653 656	T c
+T14	SC 716 731	superconductors
+T16	Property 791 803	Fermi energy
+T17	Main 85 94	YBa2Cu3O7
+T19	Value 597 600	1.5
+T20	Value 485 487	−3
+T21	Property 761 781	van Hove singularity
+T23	Property 207 226	Grüneisen parameter
+T25	Property 507 528	Grüneisen parameter's
+T2	SC 31 69	superconducting transition temperature
+T3	SC 95 118	high-T c superconductor
+T11	SC 807 813	T c(P)
+T4	Property 291 311	Allen-Dynes equation

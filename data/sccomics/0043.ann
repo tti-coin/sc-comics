@@ -1,0 +1,34 @@
+T1	Process 51 59	quenched
+T2	Material 76 82	liquid
+T3	SC 97 135	superconducting transition temperature
+T4	Process 163 172	annealing
+T5	Process 176 192	room temperature
+T6	SC 235 250	superconducting
+T7	Property 286 294	ordering
+T8	Property 322 336	oxygen content
+T9	Process 366 372	anneal
+T11	Material 430 440	structural
+T12	Process 480 486	anneal
+T13	Property 521 527	charge
+T14	SC 558 573	superconducting
+T15	Material 574 580	planes
+T16	Property 614 626	calculations
+T17	Material 645 655	structural
+T18	Property 683 698	oxygen contents
+T19	Property 755 773	hole concentration
+T20	SC 788 791	T c
+T23	Main 35 47	YBa2Cu3O6.41
+T24	Value 65 70	500°C
+T25	Element 83 91	nitrogen
+T27	Element 817 830	Bi2CaSr2Cu2O8
+T28	Element 800 812	La2−χSrχCuO4
+T29	Value 700 701	0
+T30	Value 704 705	1
+T32	Element 279 285	oxygen
+T10	Property 394 411	bond valence sums
+T26	Value 147 148	0
+T34	Value 152 156	20 K
+R1	Equivalent Arg1:T3 Arg2:T26
+R2	Equivalent Arg1:T3 Arg2:T34
+R3	Target Arg1:T26 Arg2:T23
+R4	Target Arg1:T34 Arg2:T23

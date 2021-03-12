@@ -1,0 +1,71 @@
+T1	Material 0 4	Bulk
+T2	Material 5 13	textured
+T3	Main 14 33	Bi2Sr2Ca1−xNaxCu2Oy
+T4	Material 75 83	ceramics
+T9	Material 172 186	microstructure
+T10	SC 191 206	superconducting
+T11	Material 221 229	textured
+T12	Element 255 257	Na
+T14	Characterization 285 288	XRD
+T15	Element 317 324	Bi-2212
+T16	Material 440 446	c-axis
+T17	Material 471 478	surface
+T18	Characterization 480 483	SEM
+T19	Material 558 564	grains
+T20	SC 575 595	critical temperature
+T21	SC 597 599	TC
+T22	Property 641 665	critical current density
+T23	Property 666 668	Jc
+T24	Property 725 739	magnetic field
+T25	Property 764 766	Jc
+T26	Property 912 923	anisotropic
+T27	Material 944 952	textured
+T28	Material 953 962	materials
+T34	Value 618 623	85.6K
+T38	Value 771 785	1.38×105 A/cm2
+T39	Value 789 792	10K
+T41	Value 855 869	0.34×105 A/cm2
+T44	Value 630 635	0.075
+T31	Value 37 40	0.0
+T46	Value 42 46	0.05
+T47	Value 48 53	0.075
+T48	Value 54 57	0.1
+T49	Value 59 63	0.15
+T50	Value 69 73	0.20
+T30	Value 797 802	0.075
+T35	Element 803 805	Na
+T32	Process 144 158	sinter-forging
+T5	Material 108 124	polymer solution
+T6	Doping 258 270	substitution
+T7	Property 992 1000	magnetic
+T8	Characterization 1001 1013	measurements
+R1	Coref Arg1:T20 Arg2:T21
+R2	Equivalent Arg1:T21 Arg2:T34
+E1	Doping:T6 Dopant:T12
+#1	AnnotatorNotes T1	0-4
+#2	AnnotatorNotes T2	5-13
+#3	AnnotatorNotes T3	14-33
+#4	AnnotatorNotes T4	75-83
+#5	AnnotatorNotes T9	172-186
+#6	AnnotatorNotes T11	221-229
+#7	AnnotatorNotes T12	255-257
+#8	AnnotatorNotes T15	317-324
+#9	AnnotatorNotes T16	440-446
+#10	AnnotatorNotes T17	471-478
+#11	AnnotatorNotes T19	558-564
+#12	AnnotatorNotes T27	944-952
+#13	AnnotatorNotes T28	953-962
+#14	AnnotatorNotes T34	618-623
+#15	AnnotatorNotes T38	771-785
+#16	AnnotatorNotes T39	789-792
+#17	AnnotatorNotes T41	855-869
+#18	AnnotatorNotes T44	630-635
+#19	AnnotatorNotes T31	37-40
+#20	AnnotatorNotes T46	42-46
+#21	AnnotatorNotes T47	48-53
+#22	AnnotatorNotes T48	54-57
+#23	AnnotatorNotes T49	59-63
+#24	AnnotatorNotes T50	69-73
+#25	AnnotatorNotes T30	797-802
+#26	AnnotatorNotes T35	803-805
+#27	AnnotatorNotes T5	108-124

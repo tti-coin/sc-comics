@@ -1,0 +1,50 @@
+T1	Element 52 64	oxypnictides
+T2	Main 77 101	Ce1− x Yb x O0.9F0.1FeAs
+T3	Process 165 176	crystallize
+T4	Material 184 194	tetragonal
+T5	Element 195 203	ZrCuSiAs
+T6	Material 209 218	structure
+T7	Material 220 231	space group
+T8	Material 233 239	P4/nmm
+T9	Process 242 251	Reduction
+T10	Material 264 282	lattice parameters
+T12	Element 333 340	Yb ions
+T13	Element 344 346	Ce
+T14	Element 356 370	CeO0.9F0.1FeAs
+T15	SC 409 424	superconducting
+T16	SC 438 440	Tc
+T17	Material 462 473	composition
+T18	Element 497 508	Ce(O/F)FeAs
+T19	SC 515 530	superconductors
+T20	Property 532 554	Temperature dependence
+T21	Property 558 569	resistivity
+T22	Property 576 590	magnetic field
+T23	Property 624 644	upper critical field
+T24	SC 664 679	superconductors
+T25	Property 696 716	upper critical field
+T26	Element 747 749	Yb
+T28	Element 756 780	Ce1− x Yb x O0.9F0.1FeAs
+T29	SC 781 796	superconductors
+T30	Property 842 858	coherence length
+T31	Element 866 868	Yb
+T36	Value 107 110	0.3
+T37	Value 444 449	48.7K
+T39	Value 458 461	0.5
+T40	Property 646 653	Hc 2(0)
+T41	Property 718 722	Hc 2
+T44	Property 802 809	Hc 2(0)
+T45	Value 811 815	142T
+T47	Value 824 827	0.3
+T48	Value 904 907	23Å
+T49	Value 112 115	0.4
+T50	Value 120 123	0.5
+T11	Doping 309 321	substitution
+T27	Doping 750 755	doped
+T32	Doping 869 874	doped
+R1	Equivalent Arg1:T16 Arg2:T37
+R2	Target Arg1:E1 Arg2:T14
+R3	Target Arg1:E2 Arg2:T28
+R4	Target Arg1:T37 Arg2:T18
+E1	Doping:T11 Dopant:T12 Site:T13
+E2	Doping:T27 Dopant:T26
+E3	Doping:T32 Dopant:T31

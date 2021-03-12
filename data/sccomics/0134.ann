@@ -1,0 +1,34 @@
+T1	Material 60 74	microstructure
+T2	SC 79 94	superconducting
+T3	SC 107 127	critical temperature
+T4	SC 128 131	T c
+T5	Characterization 281 298	X-ray diffraction
+T6	Characterization 300 328	scanning electron microscopy
+T8	SC 393 401	high T c
+T9	Material 402 414	phase purity
+T10	Material 416 430	microstructure
+T11	SC 435 450	superconducting
+T12	SC 571 579	high t c
+T13	Material 602 607	grain
+T14	Material 665 671	grains
+T15	SC 694 709	superconducting
+T16	Property 890 904	magnetic field
+T17	SC 942 957	superconducting
+T18	Property 161 164	J c
+T19	Property 136 160	critical current density
+T20	Main 182 202	(Bi,Pb)2Sr2Ca2Cu3O10
+T21	Property 783 807	critical current density
+T22	Property 808 811	J c
+T23	Value 818 831	32 665 A cm−2
+T24	Value 865 871	42.3 A
+T25	Value 876 880	77 K
+T27	Element 921 941	(Bi,Pb)2Sr2Ca2Cu3O10
+T26	Element 909 915	silver
+T28	Material 916 920	clad
+T29	Element 170 176	silver
+T30	Material 41 58	phase composition
+T31	Property 847 863	critical current
+T32	Material 177 181	clad
+T33	Process 475 489	heat treatment
+T7	Property 333 343	electrical
+T34	Characterization 344 356	measurements

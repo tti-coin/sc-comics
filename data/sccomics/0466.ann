@@ -1,0 +1,32 @@
+T2	Element 15 23	hydrogen
+T3	Element 27 36	deuterium
+T4	Main 40 57	palladium hydride
+T5	SC 76 104	superconducting temperatures
+T6	Material 125 132	isotope
+T7	Material 249 256	isotope
+T8	Element 267 273	PdH(D)
+T9	Material 407 424	crystal structure
+T10	Element 428 431	PdH
+T11	Element 439 442	PdD
+T12	Element 446 456	zincblende
+T13	Property 517 544	electron-phonon interaction
+T15	Material 608 615	isotope
+T17	Element 654 663	deuterium
+T18	Element 680 688	hydrogen
+T21	Property 742 764	ab initio calculations
+T23	Material 861 868	isotope
+T25	Material 938 945	isotope
+T1	Value 397 401	50 K
+T14	Property 558 587	electron-electron interaction
+T28	Property 702 726	Migdal-Eliashberg theory
+T22	Property 800 829	electron-electron interaction
+T26	SC 963 978	Δ T c t o t a l
+T29	Value 981 988	2.224 K
+T30	Value 997 1005	− 0.3134
+T16	Doping 0 11	Replacement
+T19	Doping 639 650	replacement
+T20	Doping 869 881	substitution
+R2	Target Arg1:E1 Arg2:T4
+E1	Doping:T16 Site:T2 Dopant:T3
+E2	Doping:T19 Dopant:T17 Site:T18
+E3	Doping:T20

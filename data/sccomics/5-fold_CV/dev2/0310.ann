@@ -1,0 +1,63 @@
+T1	Property 4 17	ferromagnetic
+T2	SC 18 32	superconductor
+T3	Element 33 38	Y9Co7
+T7	Main 88 98	Y9Co7-xPdx
+T8	Material 120 137	lattice parameter
+T10	Element 198 200	Pd
+T11	Element 228 237	palladium
+T12	Property 238 254	solubility limit
+T13	Property 292 294	TC
+T14	SC 308 325	superconductivity
+T15	Element 373 378	Y9Co7
+T16	Element 411 413	Pd
+T18	Property 476 478	TC
+T19	SC 493 510	superconductivity
+T20	Element 608 610	Pd
+T21	Property 611 624	concentration
+T22	Element 669 681	Y9Co6.8Pd0.2
+T5	Material 73 87	solid solution
+T29	Value 219 222	0.2
+T30	Property 276 290	ferromagnetism
+T31	Value 297 303	4.25 K
+T32	SC 327 330	Tsc
+T33	Value 333 338	2.4 K
+T35	Value 432 436	0.05
+T36	Property 439 453	ferromagnetism
+T37	Value 481 487	9.35 K
+T38	Value 529 534	1.8 K
+T40	Property 540 557	Curie temperature
+T43	Value 632 635	0.1
+T24	Value 103 104	0
+T25	Value 111 114	0.4
+T4	Doping 54 59	doped
+T17	Doping 414 420	doping
+T6	Value 581 587	4.25 K
+T23	Value 597 601	10 K
+R1	Equivalent Arg1:T32 Arg2:T33
+R2	Target Arg1:T33 Arg2:T15
+R3	Target Arg1:E1 Arg2:T7
+R4	Equivalent Arg1:T19 Arg2:T38
+R5	Condition Arg1:T38 Arg2:E2
+E1	Doping:T4 Dopant:T3
+E2	Doping:T17 Dopant:T16
+#1	AnnotatorNotes T3	33-38
+#2	AnnotatorNotes T7	88-98
+#3	AnnotatorNotes T8	120-137
+#4	AnnotatorNotes T10	198-200
+#5	AnnotatorNotes T11	228-237
+#6	AnnotatorNotes T15	373-378
+#7	AnnotatorNotes T16	411-413
+#8	AnnotatorNotes T20	608-610
+#9	AnnotatorNotes T22	669-681
+#10	AnnotatorNotes T5	73-87
+#11	AnnotatorNotes T29	219-222
+#12	AnnotatorNotes T31	297-303
+#13	AnnotatorNotes T33	333-338
+#14	AnnotatorNotes T35	432-436
+#15	AnnotatorNotes T37	481-487
+#16	AnnotatorNotes T38	529-534
+#17	AnnotatorNotes T43	632-635
+#18	AnnotatorNotes T24	103-104
+#19	AnnotatorNotes T25	111-114
+#20	AnnotatorNotes T6	581-587
+#21	AnnotatorNotes T23	597-601

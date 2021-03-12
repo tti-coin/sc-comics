@@ -1,0 +1,35 @@
+T1	Property 46 68	temperature-dependence
+T2	Property 72 83	resistivity
+T3	SC 88 126	superconducting transition temperature
+T4	SC 127 130	T c
+T6	Element 171 173	La
+T7	Element 178 180	Nd
+T8	Material 223 240	crystal structure
+T9	Property 264 286	temperature dependence
+T10	Property 290 301	resistivity
+T11	SC 306 309	T c
+T12	Element 353 355	As
+T13	Property 356 369	concentration
+T14	Property 390 412	temperature-dependence
+T15	Property 416 427	resistivity
+T16	SC 462 465	T c
+T17	Element 498 500	La
+T18	Element 519 521	Nd
+T20	Element 589 591	As
+T21	Element 596 597	P
+T22	Property 610 626	spin fluctuation
+T23	SC 652 655	T c
+T24	Property 719 741	temperature-dependence
+T25	Property 745 756	resistivity
+T26	SC 761 764	T c
+T27	Element 772 774	Nd
+T28	SC 866 869	T c
+T29	Property 882 899	antiferromagnetic
+T5	Main 134 157	RFeP1−x As x O0.90F0.10
+T38	Material 202 215	linear change
+T44	Value 536 540	0.60
+T49	Value 792 796	0.60
+T19	Doping 573 585	substitution
+T30	Value 161 162	0
+T32	Value 163 166	1.0
+E1	Doping:T19 Dopant:T20 Site:T21

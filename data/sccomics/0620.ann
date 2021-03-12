@@ -1,0 +1,108 @@
+T1	Process 0 20	Solid-state reaction
+T2	Main 51 75	Cu0.5Tl0.5Ba2Ca2Cu3O10-δ
+T3	Main 77 86	CuTl-1223
+T4	SC 88 103	superconducting
+T5	Process 114 121	sol-gel
+T6	Element 149 161	cobalt oxide
+T7	Element 163 168	Co3O4
+T8	Property 170 178	magnetic
+T9	Material 179 192	nanoparticles
+T10	Element 200 205	Co3O4
+T11	Material 206 219	nanoparticles
+T13	SC 244 259	superconducting
+T14	Material 260 266	matrix
+T15	Element 274 282	(Co3O4)x
+T16	Element 283 292	CuTl-1223
+T17	Material 310 323	nanoparticles
+T18	SC 324 338	superconductor
+T19	Material 339 349	composites
+T20	Element 366 371	Co3O4
+T21	Material 372 385	nanoparticles
+T22	Material 389 406	crystal structure
+T23	Material 408 423	phase formation
+T24	Material 425 437	phase purity
+T25	SC 450 465	superconducting
+T26	Property 466 486	transport properties
+T27	Element 490 499	CuTl-1223
+T28	Property 581 596	magnetic fields
+T29	Material 602 619	crystal structure
+T30	Material 624 639	phase formation
+T31	Element 643 648	Co3O4
+T32	Material 649 662	nanoparticles
+T33	Element 667 676	CuTl-1223
+T34	SC 677 691	superconductor
+T35	Characterization 711 728	X-ray diffraction
+T36	Characterization 730 733	XRD
+T37	Characterization 746 749	XRD
+T38	Element 759 764	Co3O4
+T39	Material 765 778	nanoparticles
+T40	Material 814 831	crystal structure
+T41	Material 848 856	particle
+T42	Material 934 951	crystal structure
+T43	Element 960 969	CuTl-1223
+T44	SC 970 985	superconducting
+T45	Material 998 1008	Tetragonal
+T47	Element 1031 1036	Co3O4
+T48	Material 1037 1050	nanoparticles
+T49	Material 1079 1092	nanoparticles
+T50	Material 1096 1110	inter-granular
+T51	Property 1118 1139	Temperature dependent
+T52	Property 1140 1157	magneto-transport
+T53	SC 1158 1173	superconducting
+T54	Element 1188 1196	(Co3O4)x
+T55	Element 1197 1206	CuTl-1223
+T56	Material 1207 1217	composites
+T58	Process 1239 1256	zero field cooled
+T59	Process 1267 1279	field cooled
+T60	Process 1281 1283	FC
+T62	Property 1285 1300	magnetic moment
+T65	Property 1433 1444	diamagnetic
+T66	Element 1458 1467	CuTl-1223
+T67	SC 1468 1483	superconducting
+T69	Property 1511 1519	magnetic
+T70	Element 1520 1525	Co3O4
+T71	Material 1526 1539	nanoparticles
+T72	Property 1541 1562	Temperature dependent
+T74	Property 1563 1582	magnetic hysteresis
+T75	Element 1611 1619	(Co3O4)x
+T76	Element 1620 1629	CuTl-1223
+T77	Material 1630 1640	composites
+T78	Property 1713 1737	Critical current density
+T79	Property 1739 1741	Jc
+T80	Property 1795 1807	Bean's model
+T82	Property 1854 1856	Jc
+T83	Element 1898 1903	Co3O4
+T84	Material 1904 1917	nanoparticles
+T85	Property 1958 1960	Jc
+T86	Property 1991 1993	Jc
+T88	Element 234 243	CuTl-1223
+T90	Value 865 870	70 nm
+T91	Property 895 918	Debye-Scherer's formula
+T95	Value 2031 2034	5 K
+T96	Value 2039 2043	20 K
+T100	Process 1258 1261	ZFC
+T57	Process 2008 2030	operating temperatures
+T61	Process 1671 1693	operating temperatures
+T94	Process 537 559	operating temperatures
+T102	Property 1763 1772	M-H loops
+T103	Property 1584 1593	M-H loops
+T12	Doping 225 230	added
+T46	Doping 1019 1027	addition
+T68	Doping 1499 1507	addition
+T87	Value 298 299	0
+T89	Value 300 309	2.00 wt.%
+T73	Process 1308 1319	temperature
+T92	Characterization 1326 1338	measurements
+T63	SC 1344 1373	onset transition temperatures
+T64	SC 1375 1383	Tc Onset
+T98	Characterization 1595 1607	measurements
+T93	Value 1699 1702	5 K
+T97	Value 1706 1711	150 K
+T101	Characterization 1773 1785	measurements
+R3	Target Arg1:E1 Arg2:T88
+R4	Target Arg1:E3 Arg2:T66
+R5	Target Arg1:E2 Arg2:T43
+E1	Doping:T12 Dopant:T10
+E2	Doping:T46 Dopant:T47
+E3	Doping:T68 Dopant:T70
+T81	SC 1833 1841	Tc Onset

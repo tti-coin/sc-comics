@@ -1,0 +1,44 @@
+T1	Property 36 38	Tc
+T2	Process 45 53	pressure
+T3	Element 150 156	oxygen
+T4	Property 220 222	Tc
+T5	Process 227 235	pressure
+T6	Property 254 276	transition temperature
+T8	Property 441 456	oxygen contents
+T9	Property 534 538	hole
+T11	Property 641 645	hole
+T12	Material 669 675	planes
+T13	Property 721 740	hole concentrations
+T16	Property 825 827	Tc
+T17	Property 933 946	hole contents
+T18	Property 1041 1045	hole
+T19	Main 72 81	YBa2Cu3Ox
+T21	Main 90 100	NdBa2Cu3Ox
+T23	Main 113 128	Y1−yCayBa2Cu3Ox
+T25	Element 170 174	Y123
+T28	Element 395 397	Ca
+T29	Element 468 473	Nd123
+T30	Element 549 551	Ca
+T31	Element 590 595	Nd123
+T32	Element 664 668	CuO2
+T33	Value 745 749	0.11
+T35	Value 981 985	0.11
+T36	Value 956 960	0.17
+T40	Property 866 888	quantum critical point
+T41	Property 18 31	specific heat
+T42	Property 198 211	specific-heat
+T43	Property 359 372	specific heat
+T44	Property 919 928	pseudogap
+T45	Main 83 87	Y123
+T46	Main 102 107	Nd123
+T47	Main 130 136	YCa123
+T7	Doping 398 404	doping
+T10	Doping 539 545	doping
+T14	Doping 782 794	substitution
+T15	Doping 799 805	doping
+T20	Value 756 760	0.17
+E1	Doping:T7 Dopant:T28
+E2	Doping:T10 Dopant:T9
+E3	Doping:T14
+E4	Doping:T15
+E5	Doping:T10 Dopant:T30

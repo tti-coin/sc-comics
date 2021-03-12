@@ -1,0 +1,44 @@
+T1	Element 32 40	polymers
+T2	SC 54 69	superconducting
+T3	Main 70 74	MgB2
+T4	Material 75 85	composites
+T6	Element 106 112	carbon
+T7	Property 153 160	pinning
+T9	Material 253 263	composites
+T10	Process 298 320	spark plasma sintering
+T13	Characterization 450 467	X-ray diffraction
+T16	Element 498 502	MgB2
+T17	Material 548 554	grains
+T19	Property 636 657	upper critical fields
+T20	Property 666 692	critical current densities
+T22	Element 749 753	MgB2
+T23	Element 777 783	carbon
+T25	Element 803 812	ferrocene
+T26	Property 847 867	upper critical field
+T27	Property 894 918	critical current density
+T28	Element 978 985	polymer
+T30	Material 1018 1032	nanostructures
+T31	Property 1046 1059	pair breaking
+T32	Material 8 18	preceramic
+T33	Element 19 31	polysiloxane
+T34	Element 177 190	polysiloxanes
+T35	Element 420 426	carbon
+T14	Element 821 833	polysiloxane
+T15	Material 711 721	preceramic
+T29	Element 1007 1011	iron
+T8	Process 208 244	atom transfer radical polymerization
+T36	Material 117 126	nanosized
+T37	Process 986 995	pyrolysis
+T38	Process 287 297	short time
+T39	Process 813 820	grafted
+T40	Material 484 489	(110)
+T5	Doping 95 100	doped
+T21	Doping 722 727	doped
+T24	Doping 784 790	doping
+T11	SC 347 384	superconducting critical temperatures
+T12	Doping 568 573	doped
+R1	Target Arg1:E1 Arg2:T3
+E1	Doping:T5 Dopant:T6
+E3	Doping:T21 Dopant:T15
+E4	Doping:T24 Dopant:T23
+E2	Doping:T12 

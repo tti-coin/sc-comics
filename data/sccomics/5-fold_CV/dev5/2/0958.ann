@@ -1,0 +1,42 @@
+T1	Property 45 55	electrical
+T2	Property 56 76	transport properties
+T3	Material 80 88	pristine
+T5	SC 113 145	high temperature superconductors
+T6	Main 146 176	Gd0.95Pr0.05Ba2Cu2.94M0.06O7−δ
+T7	Element 223 225	Mn
+T8	Property 248 256	metallic
+T9	Property 273 285	normal state
+T10	Property 311 331	upper critical field
+T11	Material 383 392	co-dopant
+T12	Property 394 414	Thermal conductivity
+T13	Element 463 465	Zn
+T14	Material 498 507	structure
+T15	SC 532 555	transition temperatures
+T16	Property 589 601	thermo-power
+T17	Element 611 617	Gd-123
+T18	Property 633 641	electron
+T19	Property 669 683	heat transport
+T20	Material 691 699	pristine
+T22	Property 816 829	Specific heat
+T23	SC 874 896	transition temperature
+T24	SC 899 902	T C
+T25	Material 913 921	pristine
+T27	Property 647 655	carriers
+T31	Property 782 789	carrier
+T32	Property 832 835	C P
+T33	Property 954 957	C P
+T35	Characterization 838 850	measurements
+T26	Doping 359 370	substituent
+T30	Doping 795 801	doping
+T34	Doping 989 994	doped
+T4	Doping 96 101	doped
+T21	Doping 229 234	doped
+T28	Doping 469 475	doping
+R1	Coref Arg1:T23 Arg2:T24
+R2	Target Arg1:E1 Arg2:T6
+E3	Doping:T26 
+E5	Doping:T30 
+E6	Doping:T34 
+E1	Doping:T4 
+E2	Doping:T21 Dopant:T7
+E4	Doping:T28 Dopant:T13

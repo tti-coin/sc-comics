@@ -1,0 +1,24 @@
+T1	Property 11 14	BCS
+T2	Property 27 32	model
+T3	Property 38 44	d-wave
+T4	Material 45 53	symmetry
+T5	SC 80 103	high-T c superconductor
+T6	Main 104 112	cuprates
+T7	Property 118 133	electron–phonon
+T8	SC 185 202	superconductivity
+T9	Property 207 212	order
+T10	Property 229 257	electronic density of states
+T11	Property 265 276	Fermi level
+T12	Property 326 332	phonon
+T13	Property 386 393	phonons
+T14	Property 447 457	energy gap
+T15	Property 485 490	model
+T17	Element 566 573	cuprate
+T18	Element 574 587	La2−xSrx CuO4
+T19	Property 643 656	weak coupling
+T20	Property 733 738	model
+T23	Property 701 704	gap
+T16	Doping 509 515	doping
+R1	Target Arg1:E2 Arg2:T18
+R2	Target Arg1:E2 Arg2:T17
+E2	Doping:T16

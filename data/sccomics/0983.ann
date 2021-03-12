@@ -1,0 +1,32 @@
+T2	Material 60 70	structures
+T3	Element 124 128	TMDs
+T4	Material 162 178	Dirac semimetals
+T5	Material 271 286	Dirac semimetal
+T6	Element 317 325	titanium
+T8	Element 359 361	Ti
+T9	Material 368 386	single crystalline
+T10	Main 398 403	NiTe2
+T11	SC 443 458	superconducting
+T12	SC 477 497	critical temperature
+T13	Process 529 546	applied pressures
+T14	SC 585 600	superconducting
+T15	Property 608 633	Density Functional Theory
+T16	Property 640 652	calculations
+T17	Property 701 715	band structure
+T18	Element 719 724	NiTe2
+T20	Property 852 864	calculations
+T21	Element 882 884	Ti
+T23	Value 507 512	4.0 K
+T24	Value 553 560	1.3 GPa
+T25	Property 635 638	DFT
+T1	Element 0 32	Transition metal dichalcogenides
+T26	Element 34 38	TMDs
+T27	Property 741 760	Spin-Orbit Coupling
+T28	Property 762 765	SOC
+T29	Property 683 693	Dirac cone
+T7	Doping 326 332	doping
+T19	Doping 362 367	doped
+R2	Equivalent Arg1:T12 Arg2:T23
+R3	Target Arg1:E2 Arg2:T10
+E1	Doping:T7 Dopant:T6
+E2	Doping:T19 Dopant:T8

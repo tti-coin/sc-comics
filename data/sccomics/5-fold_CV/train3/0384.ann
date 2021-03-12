@@ -1,0 +1,63 @@
+T1	Main 9 16	CeOBiS2
+T2	Material 17 32	single crystals
+T3	Process 51 56	grown
+T5	Element 136 140	CsCl
+T6	Material 141 145	flux
+T7	Material 160 168	crystals
+T8	Material 241 246	plane
+T9	Material 248 262	Single crystal
+T12	Element 315 322	CeOBiS2
+T14	Process 323 335	crystallizes
+T15	Material 343 354	space group
+T16	Material 355 361	P4/nmm
+T17	Material 368 386	lattice parameters
+T18	Property 431 447	bond valence sum
+T19	Characterization 463 495	X-ray photoelectron spectroscopy
+T20	Element 539 541	Ce
+T21	Property 559 566	valence
+T22	Element 570 574	Ce3+
+T23	Element 579 583	Ce4+
+T24	Material 589 604	single crystals
+T27	SC 702 719	superconductivity
+T28	Element 730 732	Ce
+T29	Property 733 752	valence fluctuation
+T31	Element 773 780	CeOBiS2
+T32	SC 786 824	superconducting transition temperature
+T33	Process 863 883	hydrostatic pressure
+T34	Value 654 659	1.3 K
+T36	Value 394 406	4.0189 (6) Å
+T38	Value 412 424	13.573 (2) Å
+T39	Value 845 850	3.8 K
+T13	Element 1 2	F
+T4	Element 97 98	F
+T10	Characterization 263 288	X-ray structural analysis
+T11	Value 208 211	1.0
+T30	Value 212 218	3.0 mm
+T25	SC 610 649	superconductivity with zero resistivity
+R1	Equivalent Arg1:T32 Arg2:T39
+R2	Equivalent Arg1:T25 Arg2:T34
+#1	AnnotatorNotes T1	9-16
+#2	AnnotatorNotes T2	17-32
+#3	AnnotatorNotes T5	136-140
+#4	AnnotatorNotes T6	141-145
+#5	AnnotatorNotes T7	160-168
+#6	AnnotatorNotes T8	241-246
+#7	AnnotatorNotes T9	248-262
+#8	AnnotatorNotes T12	315-322
+#9	AnnotatorNotes T15	343-354
+#10	AnnotatorNotes T16	355-361
+#11	AnnotatorNotes T17	368-386
+#12	AnnotatorNotes T20	539-541
+#13	AnnotatorNotes T22	570-574
+#14	AnnotatorNotes T23	579-583
+#15	AnnotatorNotes T24	589-604
+#16	AnnotatorNotes T28	730-732
+#17	AnnotatorNotes T31	773-780
+#18	AnnotatorNotes T34	654-659
+#19	AnnotatorNotes T36	394-406
+#20	AnnotatorNotes T38	412-424
+#21	AnnotatorNotes T39	845-850
+#22	AnnotatorNotes T13	1-2
+#23	AnnotatorNotes T4	97-98
+#24	AnnotatorNotes T11	208-211
+#25	AnnotatorNotes T30	212-218

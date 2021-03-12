@@ -1,0 +1,79 @@
+T2	Element 45 46	S
+T3	Element 48 50	Te
+T4	Element 52 54	Co
+T5	Element 56 58	Ni
+T6	Element 63 65	Cu
+T7	Material 66 71	atoms
+T8	Property 79 99	electronic structure
+T9	Main 107 111	FeSe
+T10	SC 112 126	superconductor
+T13	Property 206 228	supercell calculations
+T14	Property 256 277	electronic structures
+T16	Element 297 301	FeSe
+T17	SC 346 361	superconducting
+T19	Element 393 395	Se
+T20	Material 396 401	atoms
+T21	Element 405 407	Te
+T22	Element 411 412	S
+T23	Property 481 494	Fermi surface
+T24	Material 500 506	sheets
+T25	Property 523 544	magnetic fluctuations
+T26	SC 561 576	superconducting
+T27	Property 577 584	pairing
+T31	Element 696 712	transition-metal
+T32	Material 713 718	atoms
+T33	Element 723 727	iron
+T34	SC 887 902	superconducting
+T35	Property 903 910	pairing
+T36	Material 948 954	sheets
+T37	SC 968 985	superconductivity
+T38	Material 1023 1030	dopants
+T39	Property 1064 1080	spin-fluctuation
+T40	SC 1090 1107	superconductivity
+T41	Element 1111 1129	iron chalcogenides
+T42	Property 496 498	FS
+T43	Property 455 463	holelike
+T44	Property 468 480	electronlike
+T46	Property 795 803	holelike
+T47	Property 858 870	electronlike
+T11	Property 160 185	density functional theory
+T12	Property 771 783	FSs topology
+T1	Doping 27 39	substitution
+T15	Doping 285 296	substituted
+T18	Doping 378 389	replacement
+T30	Doping 677 690	substitutions
+R1	Target Arg1:E1 Arg2:T9
+R2	Target Arg1:E2 Arg2:T9
+R3	Target Arg1:E3 Arg2:T9
+R4	Target Arg1:E4 Arg2:T9
+R5	Target Arg1:E5 Arg2:T9
+R6	Target Arg1:E6 Arg2:T16
+E1	Doping:T1 Dopant:T2
+E2	Doping:T1 Dopant:T6
+E3	Doping:T1 Dopant:T5
+E4	Doping:T1 Dopant:T4
+E5	Doping:T1 Dopant:T3
+E6	Doping:T15 
+E7	Doping:T18 Site:T19 Dopant:T22
+E8	Doping:T18 Site:T19 Dopant:T21
+E9	Doping:T30 Dopant:T31 Site:T33
+#1	AnnotatorNotes T2	45-46
+#2	AnnotatorNotes T3	48-50
+#3	AnnotatorNotes T4	52-54
+#4	AnnotatorNotes T5	56-58
+#5	AnnotatorNotes T6	63-65
+#6	AnnotatorNotes T7	66-71
+#7	AnnotatorNotes T9	107-111
+#8	AnnotatorNotes T16	297-301
+#9	AnnotatorNotes T19	393-395
+#10	AnnotatorNotes T20	396-401
+#11	AnnotatorNotes T21	405-407
+#12	AnnotatorNotes T22	411-412
+#13	AnnotatorNotes T24	500-506
+#14	AnnotatorNotes T31	696-712
+#15	AnnotatorNotes T32	713-718
+#16	AnnotatorNotes T33	723-727
+#17	AnnotatorNotes T36	948-954
+#18	AnnotatorNotes T38	1023-1030
+#19	AnnotatorNotes T41	1111-1129
+T28	SC 623 660	superconducting critical temperatures

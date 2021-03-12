@@ -1,0 +1,108 @@
+T1	Characterization 0 5	X-ray
+T2	Material 82 97	single crystals
+T4	Material 150 158	crystals
+T5	Process 188 200	crystallizes
+T6	Material 206 217	space group
+T7	Material 218 224	P4/mmm
+T8	Material 233 251	lattice pafameters
+T9	Property 377 398	excess oxygen content
+T11	Material 472 490	lattice parameters
+T12	Material 595 600	atoms
+T13	Material 660 664	atom
+T14	Material 742 749	lattice
+T15	Property 869 874	model
+T17	Material 956 961	atoms
+T18	Material 1099 1104	bonds
+T19	SC 1185 1207	transition temperature
+T20	Material 1236 1240	atom
+T21	Property 1285 1289	hole
+T23	Main 45 56	HgBa2CuO4+δ
+T25	Main 61 81	Hg1−x Pb x Ba2CuO4+δ
+T30	Value 256 269	3.8907(2) A ̊
+T31	Value 278 290	9.556(1) A ̊
+T32	Value 326 331	0.023
+T33	Value 339 344	0.036
+T34	Value 402 407	6(2)%
+T35	Value 428 431	97%
+T36	Element 439 441	Hg
+T37	Value 498 511	3.8836(2) A ̊
+T38	Value 520 532	9.553(1) A ̊
+T39	Value 571 576	0.042
+T40	Value 584 589	0.088
+T42	Element 448 450	Pb
+T44	Element 592 594	Pb
+T45	Element 1092 1098	OHgO
+T46	Element 855 857	Pb
+T49	Element 937 939	Hg
+T50	Element 1233 1235	Ba
+T43	Element 180 187	Hg-1201
+T52	Element 359 363	1201
+T53	Element 665 669	O(3)
+T54	Value 616 637	0.5 Å to (0.14, 0, 0)
+T41	Value 673 698	0.45 Å to (0.38, 1 2 , 0)
+T55	Element 1153 1157	1201
+T56	Value 819 835	( 1 2 , 1 2 , 0)
+T47	Element 1024 1040	Hg(Pb)-12(n − 1)
+T48	Property 920 924	U 11
+T57	Property 929 933	U 22
+T51	Element 951 955	O(1)
+T58	Property 646 659	excess oxygen
+T61	Element 1305 1309	1201
+T63	Material 944 950	apical
+T64	Material 858 868	clustering
+T16	Property 888 919	anisotropic temperature factors
+T10	Doping 451 457	doping
+T22	Doping 1290 1296	doping
+T24	Value 171 173	78
+T26	Value 174 178	92 K
+T3	SC 116 131	superconducting
+R1	Equivalent Arg1:T3 Arg2:T24
+R2	Equivalent Arg1:T3 Arg2:T26
+R3	Target Arg1:E2 Arg2:T61
+E1	Doping:T10 Dopant:T42
+E2	Doping:T22 Dopant:T21
+#1	AnnotatorNotes T2	82-97
+#2	AnnotatorNotes T4	150-158
+#3	AnnotatorNotes T6	206-217
+#4	AnnotatorNotes T7	218-224
+#5	AnnotatorNotes T8	233-251
+#6	AnnotatorNotes T11	472-490
+#7	AnnotatorNotes T12	595-600
+#8	AnnotatorNotes T13	660-664
+#9	AnnotatorNotes T14	742-749
+#10	AnnotatorNotes T17	956-961
+#11	AnnotatorNotes T18	1099-1104
+#12	AnnotatorNotes T20	1236-1240
+#13	AnnotatorNotes T23	45-56
+#14	AnnotatorNotes T25	61-81
+#15	AnnotatorNotes T30	256-269
+#16	AnnotatorNotes T31	278-290
+#17	AnnotatorNotes T32	326-331
+#18	AnnotatorNotes T33	339-344
+#19	AnnotatorNotes T34	402-407
+#20	AnnotatorNotes T35	428-431
+#21	AnnotatorNotes T36	439-441
+#22	AnnotatorNotes T37	498-511
+#23	AnnotatorNotes T38	520-532
+#24	AnnotatorNotes T39	571-576
+#25	AnnotatorNotes T40	584-589
+#26	AnnotatorNotes T42	448-450
+#27	AnnotatorNotes T44	592-594
+#28	AnnotatorNotes T45	1092-1098
+#29	AnnotatorNotes T46	855-857
+#30	AnnotatorNotes T49	937-939
+#31	AnnotatorNotes T50	1233-1235
+#32	AnnotatorNotes T43	180-187
+#33	AnnotatorNotes T52	359-363
+#34	AnnotatorNotes T53	665-669
+#35	AnnotatorNotes T54	616-637
+#36	AnnotatorNotes T41	673-698
+#37	AnnotatorNotes T55	1153-1157
+#38	AnnotatorNotes T56	819-835
+#39	AnnotatorNotes T47	1024-1040
+#40	AnnotatorNotes T51	951-955
+#41	AnnotatorNotes T61	1305-1309
+#42	AnnotatorNotes T63	944-950
+#43	AnnotatorNotes T64	858-868
+#44	AnnotatorNotes T24	171-173
+#45	AnnotatorNotes T26	174-178

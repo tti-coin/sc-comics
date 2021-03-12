@@ -1,0 +1,35 @@
+T1	SC 9 16	high-Tc
+T2	Element 17 25	cuprates
+T3	Property 60 66	d-wave
+T4	SC 67 82	superconducting
+T5	SC 84 86	SC
+T6	Property 113 126	Hubbard model
+T7	Material 130 145	square lattices
+T10	SC 373 375	SC
+T11	Property 380 393	normal states
+T13	Property 403 418	Mott insulators
+T14	SC 462 479	superconductivity
+T15	Property 496 515	strongly correlated
+T17	Property 564 568	band
+T19	Property 697 701	hole
+T23	Property 779 788	D-H pairs
+T26	SC 917 919	SC
+T27	Property 1038 1041	BCS
+T28	Element 1086 1094	cuprates
+T29	SC 1145 1147	SC
+T9	Property 172 184	t-t’-U model
+T30	Property 752 758	holons
+T31	Property 623 642	D-H binding factors
+T37	Property 313 326	doublon-holon
+T38	Property 328 331	D-H
+T39	Property 195 225	variational Monte Carlo method
+T24	Property 870 892	singlet-pair formation
+T25	Property 246 259	wave function
+T8	Doping 397 402	doped
+T12	Doping 672 678	doping
+T16	Doping 702 707	doped
+T18	Doping 746 751	doped
+E1	Doping:T8
+E2	Doping:T12
+E3	Doping:T16 Dopant:T19
+E4	Doping:T18 Site:T30

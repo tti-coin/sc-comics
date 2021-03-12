@@ -1,0 +1,48 @@
+T1	Main 4 20	SmFe1−x Co x AsO
+T2	SC 33 48	superconductors
+T3	Process 69 88	mechanical alloying
+T4	Process 104 113	sintering
+T5	Element 126 128	Co
+T6	Material 129 134	atoms
+T8	Element 146 150	FeAs
+T9	Material 151 157	layers
+T11	Element 173 175	Fe
+T12	Material 187 199	phase purity
+T13	SC 204 219	superconducting
+T14	Characterization 268 285	X-ray diffraction
+T15	Property 287 309	electrical resistivity
+T16	Property 311 334	magnetic susceptibility
+T17	Property 339 355	Hall coefficient
+T18	Material 387 397	tetragonal
+T19	Element 398 406	ZrCuSiAs
+T20	Material 407 416	structure
+T21	Material 431 436	grain
+T24	SC 493 496	T c
+T25	Element 500 515	SmFe0.9Co0.1AsO
+T26	Material 535 544	structure
+T27	Property 545 548	SDW
+T28	Element 578 580	Co
+T31	Property 602 618	Hall coefficient
+T32	Element 622 637	SmFe0.9Co0.1AsO
+T33	Property 652 660	electron
+T34	Property 691 713	charge carrier density
+T36	Element 791 798	SmFeAsO
+T41	Process 90 92	MA
+T43	Value 520 525	12.5K
+T44	Value 723 734	2×1020 cm−3
+T45	Value 765 769	150K
+T7	Doping 135 140	doped
+T10	Doping 161 168	replace
+T29	Doping 581 587	doping
+T30	Value 25 26	0
+T35	Value 27 31	0.25
+T37	Value 445 446	1
+T38	Value 447 450	3μm
+T22	SC 456 492	superconducting critical temperature
+R1	Target Arg1:T43 Arg2:T25
+R2	Equivalent Arg1:T24 Arg2:T43
+R3	Target Arg1:E1 Arg2:T1
+R4	Target Arg1:E2 Arg2:T1
+E1	Doping:T7 Dopant:T5 Site:T8
+E2	Doping:T10 Site:T11 Dopant:T5
+E3	Doping:T29 Dopant:T28

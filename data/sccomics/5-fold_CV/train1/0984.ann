@@ -1,0 +1,23 @@
+T2	SC 64 90	superconducting transition
+T3	Material 96 110	single-crystal
+T4	Property 201 216	magnetic fields
+T5	Property 265 283	electrical current
+T6	Property 363 371	Gaussian
+T7	Property 516 524	electron
+T8	Property 560 568	ordering
+T9	Property 586 603	spin-density-wave
+T12	Element 659 673	ferro-pnictide
+T13	Property 732 752	upper critical field
+T14	Process 783 799	high temperature
+T15	Property 802 811	low field
+T17	Main 121 152	B a F e 2 ( A s 0.68 P 0.32 ) 2
+T18	Property 0 24	Fluctuation conductivity
+T1	Property 347 362	one-dimensional
+T19	Characterization 25 37	measurements
+T20	Property 469 477	nucleate
+T21	Material 552 559	nematic
+T10	Value 230 231	0
+T16	Value 232 235	7 T
+T11	Doping 653 658	doped
+R1	Target Arg1:E1 Arg2:T12
+E1	Doping:T11 

@@ -1,0 +1,43 @@
+T1	Material 0 4	Bulk
+T2	Material 5 13	textured
+T3	Main 14 33	Bi2Sr2Ca1−xNaxCu2Oy
+T4	Material 75 83	ceramics
+T9	Material 172 186	microstructure
+T10	SC 191 206	superconducting
+T11	Material 221 229	textured
+T12	Element 255 257	Na
+T14	Characterization 285 288	XRD
+T15	Element 317 324	Bi-2212
+T16	Material 440 446	c-axis
+T17	Material 471 478	surface
+T18	Characterization 480 483	SEM
+T19	Material 558 564	grains
+T20	SC 575 595	critical temperature
+T21	SC 597 599	TC
+T22	Property 641 665	critical current density
+T23	Property 666 668	Jc
+T24	Property 725 739	magnetic field
+T25	Property 764 766	Jc
+T26	Property 912 923	anisotropic
+T27	Material 944 952	textured
+T28	Material 953 962	materials
+T34	Value 618 623	85.6K
+T38	Value 771 785	1.38×105 A/cm2
+T39	Value 789 792	10K
+T41	Value 855 869	0.34×105 A/cm2
+T44	Value 630 635	0.075
+T31	Value 37 40	0.0
+T46	Value 42 46	0.05
+T47	Value 48 53	0.075
+T48	Value 54 57	0.1
+T49	Value 59 63	0.15
+T50	Value 69 73	0.20
+T30	Value 797 802	0.075
+T35	Element 803 805	Na
+T32	Process 144 158	sinter-forging
+T5	Material 108 124	polymer solution
+T6	Doping 258 270	substitution
+T7	Property 992 1000	magnetic
+T8	Characterization 1001 1013	measurements
+R2	Equivalent Arg1:T21 Arg2:T34
+E1	Doping:T6 Dopant:T12

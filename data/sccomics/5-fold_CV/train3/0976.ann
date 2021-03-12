@@ -1,0 +1,70 @@
+T1	Property 13 31	electron tunneling
+T3	Main 41 55	SmFeAsO1−x F x
+T5	Process 111 126	low temperature
+T6	Characterization 127 134	UHV-STM
+T7	Characterization 135 138	STS
+T8	SC 140 155	Superconducting
+T9	SC 183 198	superconducting
+T10	SC 215 218	T c
+T11	SC 236 239	T c
+T12	SC 260 263	T c
+T13	SC 298 313	superconducting
+T15	SC 381 384	T c
+T17	SC 540 557	superconductivity
+T20	Property 642 661	non-superconducting
+T21	SC 767 782	superconducting
+T22	SC 794 809	superconducting
+T23	Value 264 269	46.9K
+T24	Value 349 361	9.75±0.25meV
+T25	Value 333 346	9.5 ± 0.5 meV
+T26	Value 366 373	11±1meV
+T27	Value 240 245	32.9K
+T28	Value 253 258	0.069
+T30	Value 219 224	12.9K
+T31	Value 208 213	0.045
+T33	Value 681 685	7.8K
+T34	Value 87 92	0.045
+T35	Value 719 732	8.5 ± 1.5 meV
+T36	Value 84 85	0
+T37	Value 94 99	0.046
+T38	Value 101 106	0.069
+T41	Value 676 677	0
+T44	Value 835 840	0.069
+T45	Value 828 833	0.046
+T46	Value 821 826	0.045
+T49	Value 229 234	0.046
+T50	Property 611 625	gap structures
+T51	Property 700 703	gap
+T52	Property 783 786	gap
+T53	Property 156 160	gaps
+T54	Property 314 317	gap
+T2	Doping 67 73	doping
+T14	SC 326 330	Δ SC
+T16	SC 396 400	Δ SC
+T4	Doping 569 575	doping
+R1	Equivalent Arg1:T12 Arg2:T23
+R2	Equivalent Arg1:T11 Arg2:T27
+R3	Equivalent Arg1:T10 Arg2:T30
+R4	Target Arg1:E1 Arg2:T3
+E1	Doping:T2 
+E2	Doping:T4 
+#1	AnnotatorNotes T3	41-55
+#2	AnnotatorNotes T23	264-269
+#3	AnnotatorNotes T24	349-361
+#4	AnnotatorNotes T25	333-346
+#5	AnnotatorNotes T26	366-373
+#6	AnnotatorNotes T27	240-245
+#7	AnnotatorNotes T28	253-258
+#8	AnnotatorNotes T30	219-224
+#9	AnnotatorNotes T31	208-213
+#10	AnnotatorNotes T33	681-685
+#11	AnnotatorNotes T34	87-92
+#12	AnnotatorNotes T35	719-732
+#13	AnnotatorNotes T36	84-85
+#14	AnnotatorNotes T37	94-99
+#15	AnnotatorNotes T38	101-106
+#16	AnnotatorNotes T41	676-677
+#17	AnnotatorNotes T44	835-840
+#18	AnnotatorNotes T45	828-833
+#19	AnnotatorNotes T46	821-826
+#20	AnnotatorNotes T49	229-234

@@ -1,0 +1,18 @@
+T1	Material 59 74	single crystals
+T2	Material 91 101	thin films
+T4	SC 220 223	T c
+T6	Property 313 325	polarization
+T7	SC 335 338	T c
+T8	Property 368 382	magnetic field
+T9	SC 433 448	superconducting
+T10	Property 637 650	peak position
+T13	Property 795 809	magnetic field
+T14	SC 849 852	T c
+T15	Material 972 982	structural
+T16	Property 983 994	instability
+T17	SC 1012 1015	T c
+T18	Main 54 58	YBCO
+T19	Element 1002 1006	YBCO
+T20	Property 4 16	pyroelectric
+T3	Property 528 540	pyroelectric
+T5	Property 888 907	pyroelectric effect

@@ -1,0 +1,37 @@
+T1	Process 54 62	annealed
+T2	Property 64 72	electron
+T4	Main 88 96	cuprates
+T5	SC 104 119	superconducting
+T6	SC 121 123	SC
+T10	Property 228 236	metallic
+T11	SC 238 240	SC
+T12	Property 305 319	Hubbard models
+T13	Property 335 348	ground states
+T14	Property 369 379	insulating
+T15	Property 385 402	antiferromagnetic
+T16	Property 404 406	AF
+T17	Property 408 414	orders
+T19	Property 486 495	d-p model
+T20	Element 515 521	oxygen
+T21	Element 528 534	copper
+T22	Property 640 642	AF
+T23	Property 643 648	order
+T24	Property 667 682	charge transfer
+T25	Property 692 711	coulomb interaction
+T26	Element 715 717	Cu
+T27	Property 792 794	AF
+T28	Property 795 802	ordered
+T29	Property 298 301	t-J
+T30	Property 746 769	O-to-O hopping integral
+T31	Property 80 86	n-type
+T9	Property 555 585	variational Monte Carlo method
+T32	Property 683 686	gap
+T33	Material 506 514	in-plain
+T34	Property 522 523	p
+T35	Property 535 545	d orbitals
+T3	Doping 73 78	doped
+T7	Doping 156 161	doped
+R1	Coref Arg1:T5 Arg2:T6
+R2	Target Arg1:E1 Arg2:T4
+E1	Doping:T3 Dopant:T2
+E2	Doping:T7 

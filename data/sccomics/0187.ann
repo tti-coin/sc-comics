@@ -1,0 +1,70 @@
+T1	Material 4 14	structural
+T2	SC 19 34	superconducting
+T3	Characterization 110 127	X-ray diffraction
+T4	Property 129 140	resistivity
+T5	Property 171 178	content
+T6	Property 221 234	concentration
+T7	Property 279 286	content
+T8	SC 301 304	T c
+T9	Property 328 340	hole filling
+T11	SC 602 605	T c
+T12	Property 759 763	hole
+T13	Property 782 786	hole
+T16	Property 901 909	magnetic
+T17	Property 910 916	moment
+T18	SC 980 997	superconductivity
+T19	SC 1002 1005	T c
+T20	Element 715 727	GdBa2Cu3O7−δ
+T21	Main 49 78	(Gd1−x−y Ca y Hf x )Ba2Cu3O z
+T26	Value 621 625	81 K
+T28	Value 631 635	0.05
+T30	Value 652 656	0.20
+T32	Element 218 220	Hf
+T33	Property 142 144	AC
+T34	Property 145 159	susceptibility
+T35	Element 344 346	Hf
+T36	Element 576 578	Ca
+T37	Value 701 705	91 K
+T38	Element 164 170	oxygen
+T39	Element 238 260	(Gd1−x Hf x )Ba2Cu3O z
+T43	Element 368 370	Ca
+T44	Element 554 558	Ca2+
+T45	Element 381 412	(Gd0.85−y Ca y Hf0.15)Ba2Cu3O z
+T49	Element 375 377	Gd
+T50	Element 478 482	Gd3+
+T51	Value 484 490	0.94 Å
+T52	Element 536 540	Hf4+
+T53	Property 450 462	ionic radius
+T54	Property 508 520	ionic radius
+T55	Value 542 548	0.78 Å
+T56	Value 560 566	0.99 Å
+T57	Property 579 586	content
+T58	Element 670 675	oxide
+T59	Element 775 777	Hf
+T60	Element 797 799	Ca
+T61	Element 824 826	Hf
+T62	Element 844 865	(R1−x Hf x )Ba2Cu3O z
+T68	Element 871 872	Y
+T69	Element 878 880	Gd
+T70	Element 874 876	Er
+T74	Element 272 278	oxygen
+T31	Property 467 474	valence
+T75	Property 525 532	valence
+T76	Value 640 646	86.5 K
+T10	Doping 352 364	substitution
+T14	Doping 787 793	doping
+T15	Doping 827 832	doped
+R2	Equivalent Arg1:T11 Arg2:T26
+R3	Equivalent Arg1:T11 Arg2:T76
+R4	Equivalent Arg1:T11 Arg2:T37
+R5	Target Arg1:T37 Arg2:T20
+R6	Target Arg1:E1 Arg2:T45
+R7	Target Arg1:E3 Arg2:T62
+R8	Target Arg1:E6 Arg2:T62
+R9	Target Arg1:E5 Arg2:T62
+E1	Doping:T10 Dopant:T43 Site:T49
+E2	Doping:T14 Dopant:T13
+E3	Doping:T15 Dopant:T61 Site:T68
+E4	Doping:T14 Dopant:T60
+E5	Doping:T15 Dopant:T61 Site:T69
+E6	Doping:T15 Dopant:T61 Site:T70

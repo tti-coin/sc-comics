@@ -1,0 +1,56 @@
+T1	Element 12 17	boron
+T2	Material 35 43	isotopes
+T5	Element 110 113	11B
+T6	Material 114 121	isotope
+T7	Characterization 144 163	neutron irradiation
+T8	Element 258 261	11B
+T9	Material 262 276	isotope powder
+T11	Element 284 289	boron
+T12	Material 297 305	material
+T13	Main 361 365	MgB2
+T14	SC 366 381	superconducting
+T15	Element 422 424	Cu
+T20	Element 473 486	boron isotope
+T21	Material 487 493	powder
+T22	Element 501 506	boron
+T23	Material 514 522	material
+T24	SC 539 556	superconductivity
+T25	Material 561 575	microstructure
+T26	Element 579 583	MgB2
+T27	Element 595 608	boron isotope
+T28	Material 609 615	powder
+T29	SC 635 637	Tc
+T30	Element 647 651	MgB2
+T31	Element 663 666	11B
+T32	Material 667 673	powder
+T33	Process 704 719	low temperature
+T34	Property 720 729	diffusion
+T35	Material 789 795	powder
+T36	Property 806 808	Jc
+T37	Element 818 822	MgB2
+T38	Element 834 845	11B isotope
+T39	Material 846 852	powder
+T40	Material 906 912	powder
+T41	Material 952 960	impurity
+T42	Element 983 987	MgB2
+T43	Element 1046 1057	11B isotope
+T44	Material 1058 1064	powder
+T45	Process 232 251	in-situ PIT process
+T46	Value 62 68	20 wt%
+T47	Value 88 94	80 wt%
+T48	Value 693 696	37K
+T3	Element 69 77	boron-10
+T50	Element 79 82	10B
+T4	Element 95 103	boron-11
+T51	Element 105 108	11B
+T10	Material 382 386	wire
+T49	Material 584 588	wire
+T52	Material 445 461	multifilamenatry
+T16	Doping 425 433	addition
+T17	Element 434 444	MgB2/Ta/Cu
+R1	Equivalent Arg1:T29 Arg2:T48
+R2	Coref Arg1:T3 Arg2:T50
+R3	Coref Arg1:T4 Arg2:T51
+R4	Target Arg1:T48 Arg2:T30
+R5	Target Arg1:E2 Arg2:T17
+E2	Doping:T16 Dopant:T15

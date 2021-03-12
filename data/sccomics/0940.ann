@@ -1,0 +1,48 @@
+T1	Main 17 27	Zr2Fe12As7
+T2	Element 71 81	Zr2Fe12As7
+T3	Process 82 94	crystallizes
+T5	Material 102 111	hexagonal
+T6	Element 112 121	Zr2Fe12P7
+T7	Material 122 131	structure
+T8	Material 138 149	space group
+T12	Material 272 281	hexagonal
+T13	Material 282 291	unit cell
+T14	Material 297 306	structure
+T15	Material 343 351	twinning
+T16	SC 381 396	superconducting
+T17	Element 397 403	alkali
+T18	Element 405 419	alkaline-earth
+T19	Element 424 455	rare-earth metal iron pnictides
+T20	Element 457 467	Zr2Fe12As7
+T21	Material 500 505	metal
+T22	Property 511 534	electrical conductivity
+T23	Process 567 581	crystal growth
+T24	Element 598 600	Hf
+T26	Element 702 704	Fe
+T27	Element 708 710	Hf
+T28	Element 714 730	Hf2+x Fe12–y As7
+T29	Material 751 762	space group
+T9	Value 62 69	1110 °C
+T4	Value 162 174	952.10(7) pm
+T10	Value 198 214	293.01 · 106 pm³
+T11	Value 222 227	0.031
+T33	Value 236 241	0.077
+T34	Property 474 493	Curie-paramagnetism
+T32	Value 810 826	290.17 · 106 pm³
+T38	Value 834 839	0.044
+T39	Value 848 853	0.097
+T31	Value 736 742	1.6(2)
+T40	Value 748 749	3
+T41	Value 180 192	373.24(2) pm
+T42	Value 642 649	1350 °C
+T43	Value 775 786	951.1(1) pm
+T44	Value 792 804	370.39(3) pm
+T45	Material 216 219	R 1
+T46	Material 828 831	R 1
+T47	Material 841 845	wR 2
+T48	Material 229 233	wR 2
+T49	Material 150 153	P 6
+T50	Material 763 766	P 6
+T25	Doping 686 698	substitution
+R1	Target Arg1:E1 Arg2:T28
+E1	Doping:T25 Site:T26 Dopant:T27

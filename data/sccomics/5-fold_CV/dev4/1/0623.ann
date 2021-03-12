@@ -1,0 +1,61 @@
+T2	Property 44 52	magnetic
+T3	Main 65 71	SrRuO3
+T4	Element 75 77	Ga
+T6	Element 88 90	Ru
+T7	Element 97 103	SrRuO3
+T8	Material 111 133	orthorhombic structure
+T12	Element 175 177	Ga
+T14	Material 195 213	lattice parameters
+T15	Element 233 239	SrRuO3
+T16	Property 271 273	4d
+T18	Element 310 316	oxides
+T19	Property 322 344	transition temperature
+T20	Property 346 349	T c
+T21	Property 367 370	T c
+T22	Element 373 379	SrRuO3
+T24	Process 412 429	Zero-field-cooled
+T25	Process 440 452	field-cooled
+T26	Process 454 456	FC
+T27	Property 458 471	magnetization
+T28	Element 492 494	Ga
+T30	Property 507 529	inverse susceptibility
+T31	Property 540 552	paramagnetic
+T32	Property 554 556	PM
+T33	Process 562 578	high-temperature
+T34	Property 647 653	moment
+T35	Element 667 669	Ga
+T37	Property 682 706	isothermal magnetization
+T38	Property 720 730	hysteresis
+T39	Element 748 750	Ga
+T41	Property 769 775	moment
+T42	Property 836 861	spontaneous magnetization
+T43	Element 887 889	Ga
+T17	Property 290 301	ferromagnet
+T45	Property 303 305	FM
+T46	Value 354 359	160 K
+T47	Value 710 713	5 K
+T48	Property 816 818	FM
+T49	Property 601 618	Curie temperature
+T9	Material 137 150	Pbnm symmetry
+T10	Process 431 434	ZFC
+T11	Property 791 802	Arrott plot
+T23	Property 620 623	θ p
+T1	Property 531 535	χ −1
+T50	Property 863 866	M S
+T51	Material 29 39	structural
+T5	Doping 78 84	doping
+T13	Doping 178 184	doping
+T29	Doping 495 501	doping
+T36	Doping 670 676	doping
+T40	Doping 751 757	doping
+T44	Doping 890 896	doping
+R2	Target Arg1:T46 Arg2:T15
+R3	Target Arg1:E1 Arg2:T3
+R4	Target Arg1:E2 Arg2:T7
+R6	Target Arg1:E3 Arg2:T22
+E1	Doping:T5 Dopant:T4 Site:T6
+E2	Doping:T13 Dopant:T12
+E3	Doping:T29 Dopant:T28
+E4	Doping:T36 Dopant:T35
+E5	Doping:T40 Dopant:T39
+E6	Doping:T44 Dopant:T43

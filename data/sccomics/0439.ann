@@ -1,0 +1,53 @@
+T1	Property 19 28	magnetism
+T3	Property 78 94	first-principles
+T4	Property 95 106	calculation
+T5	Property 112 121	magnetism
+T6	Property 142 146	hole
+T8	Property 165 182	density of states
+T9	Property 192 204	valence band
+T10	Property 217 237	van Hove singularity
+T11	Element 284 289	TcS 2
+T12	Property 327 340	ferromagnetic
+T16	Material 397 408	orientation
+T19	Property 462 466	hole
+T21	Element 473 478	TcS 2
+T22	Element 533 534	S
+T23	Material 535 540	atoms
+T24	Property 598 601	T C
+T26	Property 697 711	magnetic order
+T27	Property 738 749	excitations
+T28	Property 784 792	magnetic
+T29	Property 793 804	anisotropic
+T30	Element 820 825	TcS 2
+T31	Material 826 833	bilayer
+T32	Property 839 848	electrons
+T33	Property 854 865	Fermi level
+T34	Property 976 980	hole
+T36	Element 63 64	S
+T37	Element 65 67	Se
+T39	Main 52 57	TcX 2
+T40	Property 342 344	FM
+T41	Property 346 365	half-metallic phase
+T42	Property 379 396	spin-polarization
+T43	Value 617 622	800 K
+T44	Property 578 595	Curie temperature
+T25	Property 654 691	S p – S p direct exchange interaction
+T45	Property 414 416	FM
+T46	Property 417 433	half-metallicity
+T47	Property 438 454	magnetic moments
+T48	Property 550 552	FM
+T49	Property 950 964	ferromagnetism
+T50	Property 993 1007	ferromagnetism
+T51	Property 1034 1056	interlayer interaction
+T52	Property 905 927	interlayer interaction
+T14	Material 290 299	monolayer
+T15	Process 753 772	finite temperatures
+T17	Material 479 488	monolayer
+T18	Property 520 529	p orbital
+T7	Doping 147 153	doping
+T20	Doping 467 472	doped
+T35	Doping 981 987	doping
+R1	Target Arg1:E2 Arg2:T21
+E1	Doping:T7 Dopant:T6
+E2	Doping:T20 Dopant:T19
+E3	Doping:T35 Dopant:T34

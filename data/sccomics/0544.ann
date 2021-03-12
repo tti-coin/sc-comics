@@ -1,0 +1,27 @@
+T1	Property 29 41	calculations
+T3	Characterization 45 72	electronic Raman scattering
+T6	Material 103 113	geometries
+T7	Characterization 120 162	angle- resolved photoemission spectroscopy
+T11	Main 228 241	Bi2Sr2CaCu2O8
+T12	Main 243 249	Bi2212
+T13	SC 252 254	Tc
+T14	Property 260 272	Calculations
+T15	Property 291 304	Fermi surface
+T16	SC 317 332	superconducting
+T17	SC 365 367	Tc
+T18	Property 496 509	peak position
+T20	Characterization 646 659	Raman spectra
+T8	Characterization 164 169	ARPES
+T21	Value 255 258	92K
+T19	Value 526 534	100 cm-1
+T2	Characterization 74 77	ERS
+T22	Property 306 308	FS
+T4	Characterization 730 733	ERS
+T5	Doping 199 204	doped
+R1	Equivalent Arg1:T13 Arg2:T21
+R3	Target Arg1:T21 Arg2:T11
+R4	Target Arg1:E1 Arg2:T11
+R5	Condition Arg1:T21 Arg2:E1
+E1	Doping:T5
+T9	Element 205 212	cuprate
+T10	SC 213 227	superconductor

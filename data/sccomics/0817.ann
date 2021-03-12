@@ -1,0 +1,77 @@
+T1	Material 34 41	organic
+T4	Material 132 137	solid
+T6	Material 165 171	metals
+T7	SC 185 202	superconductivity
+T8	SC 232 249	superconductivity
+T10	Element 279 289	K x picene
+T11	SC 316 355	superconducting transition temperatures
+T12	SC 405 420	superconducting
+T13	Element 421 431	K x picene
+T14	SC 445 448	T c
+T15	Element 485 495	K x picene
+T16	SC 515 530	superconducting
+T17	Element 547 557	K x picene
+T18	SC 577 592	superconductors
+T19	Element 601 612	Rb x picene
+T20	Element 617 628	Ca x picene
+T21	Element 696 706	K x picene
+T22	Element 711 722	Rb x picene
+T23	SC 754 769	superconductors
+T24	Material 840 858	crystal structures
+T25	SC 862 877	superconducting
+T26	SC 991 1006	superconductors
+T27	Element 1048 1059	hydrocarbon
+T28	SC 1060 1077	superconductivity
+T29	SC 1101 1118	superconductivity
+T30	Material 1142 1147	metal
+T32	Element 1185 1197	phenanthrene
+T33	Element 1202 1218	dibenzopentacene
+T34	SC 1330 1345	superconductors
+T35	SC 1358 1373	superconducting
+T36	SC 1428 1445	superconductivity
+T37	Process 1556 1584	positive pressure dependence
+T38	SC 1588 1591	T c
+T39	Element 1644 1655	hydrocarbon
+T40	SC 1656 1671	superconductors
+T41	Property 1723 1726	BCS
+T42	SC 1738 1755	superconductivity
+T44	Element 138 159	aromatic hydrocarbons
+T9	Element 263 264	K
+T48	Value 460 463	14K
+T49	Value 688 691	15%
+T50	Value 741 743	1%
+T51	Element 979 990	hydrocarbon
+T53	Element 1154 1175	aromatic hydrocarbons
+T54	Property 1321 1329	aromatic
+T55	Property 1419 1427	aromatic
+T56	Property 1635 1643	aromatic
+T57	Main 1 21	Aromatic hydrocarbon
+T58	Material 110 123	benzene rings
+T43	Element 271 277	picene
+T45	Element 291 309	five benzene rings
+T59	Property 780 799	shielding fractions
+T60	Property 665 683	shielding fraction
+T52	Element 1177 1183	picene
+T61	Property 1229 1247	shielding fraction
+T69	Property 1374 1389	volume-fraction
+T2	Property 80 93	electron rule
+T3	Doping 125 131	Doping
+T5	Doping 265 270	doped
+T31	Doping 1148 1153	doped
+T46	SC 357 362	T c’s
+T47	Value 369 370	7
+T62	Value 375 378	18K
+R1	Equivalent Arg1:T14 Arg2:T48
+R2	Target Arg1:T48 Arg2:T13
+R3	Target Arg1:E2 Arg2:T43
+R4	Target Arg1:E3 Arg2:T53
+R6	Equivalent Arg1:T11 Arg2:T47
+R7	Equivalent Arg1:T11 Arg2:T62
+R8	Target Arg1:E2 Arg2:T10
+R9	Target Arg1:E2 Arg2:T45
+R10	Target Arg1:E3 Arg2:T52
+R11	Target Arg1:E3 Arg2:T32
+R12	Target Arg1:E3 Arg2:T33
+E1	Doping:T3 Site:T44 Dopant:T6
+E2	Doping:T5 Dopant:T9
+E3	Doping:T31 Dopant:T30

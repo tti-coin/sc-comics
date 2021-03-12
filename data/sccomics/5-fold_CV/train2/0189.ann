@@ -1,0 +1,32 @@
+T1	Material 28 33	bulks
+T2	Process 54 61	sol-gel
+T3	Process 70 79	Sintering
+T4	Material 151 165	microstructure
+T5	SC 207 222	superconducting
+T6	Process 252 275	calcination temperature
+T8	Process 277 298	sintering temperature
+T10	Material 307 312	bulks
+T11	Material 324 334	morphology
+T12	SC 339 354	superconducting
+T13	Property 419 426	content
+T14	Process 454 477	calcination temperature
+T16	Process 482 503	sintering temperature
+T18	Characterization 509 512	SEM
+T19	Material 538 544	grains
+T20	Process 583 606	calcination temperature
+T22	Process 623 634	calcination
+T23	Process 639 660	sintering temperature
+T25	Property 666 677	resistivity
+T26	SC 708 723	superconducting
+T27	SC 786 801	superconducting
+T29	SC 870 873	T c
+T30	Process 936 959	calcination temperature
+T32	Process 974 995	sintering temperature
+T34	Material 0 15	Polycrystalline
+T35	Main 16 27	YBa2Cu3O6+δ
+T36	Element 412 418	oxygen
+T37	Value 963 969	900 °C
+T38	Value 999 1005	950 °C
+T39	Material 131 146	phase structure
+T7	SC 831 869	superconducting transition temperature
+R1	Coref Arg1:T7 Arg2:T29

@@ -1,0 +1,44 @@
+T1	Element 0 9	Potassium
+T3	Property 20 30	insulating
+T4	Main 31 37	BaBiO3
+T5	SC 46 63	superconductivity
+T6	SC 75 114	superconducting transition temperatures
+T7	SC 116 119	T c
+T8	Material 138 142	bulk
+T9	Process 160 166	growth
+T10	SC 178 193	superconducting
+T11	Element 208 212	BKBO
+T12	Material 213 218	films
+T13	Process 231 236	laser
+T14	Process 251 274	pulsed laser deposition
+T15	Material 289 295	cation
+T16	Material 296 309	stoichiometry
+T17	Element 322 331	potassium
+T18	Property 332 345	concentration
+T19	Element 349 353	BKBO
+T20	Material 354 359	films
+T21	Process 390 395	laser
+T22	SC 439 442	T c
+T23	Element 446 450	BKBO
+T24	Material 451 456	films
+T25	Material 485 489	bulk
+T26	Property 490 503	phase diagram
+T27	SC 505 508	T c
+T28	Material 565 578	stoichiometry
+T29	Element 655 659	BKBO
+T30	Material 660 665	films
+T31	Process 705 710	laser
+T32	SC 737 752	superconducting
+T33	Process 766 769	PLD
+T34	Process 770 775	grown
+T35	Element 776 789	complex oxide
+T36	Material 790 800	thin films
+T37	Value 130 134	31 K
+T38	Value 537 549	24.5 ± 0.5 K
+T2	Doping 10 16	doping
+R1	Equivalent Arg1:T7 Arg2:T37
+R2	Equivalent Arg1:T27 Arg2:T38
+R4	Target Arg1:T37 Arg2:T4
+R5	Target Arg1:E1 Arg2:T4
+R6	Condition Arg1:T37 Arg2:E1
+E1	Doping:T2 Dopant:T1

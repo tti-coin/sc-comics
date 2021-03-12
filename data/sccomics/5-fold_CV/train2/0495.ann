@@ -1,0 +1,57 @@
+T1	Process 14 22	pressure
+T2	Material 26 36	structural
+T3	Property 41 62	mechanical properties
+T4	Property 78 100	temperature dependence
+T5	Property 104 117	thermodynamic
+T6	Property 179 189	anisotropy
+T7	Property 209 238	thermal expansion coefficient
+T8	Main 250 256	Ni2XAl
+T10	Element 260 262	Sc
+T11	Element 264 266	Ti
+T12	Element 268 269	V
+T13	Property 319 348	first-principles calculations
+T15	Process 367 375	pressure
+T16	Material 379 397	lattice parameters
+T18	Element 444 446	Sc
+T19	Element 448 450	Ti
+T20	Element 452 453	V
+T21	Element 460 466	Ni2XAl
+T23	Element 470 472	Sc
+T24	Element 474 476	Ti
+T25	Element 478 479	V
+T26	Property 507 516	ductility
+T27	Property 521 531	anisotropy
+T28	Process 560 568	pressure
+T29	Property 587 608	mechanical properties
+T30	Property 621 633	bulk modulus
+T31	Property 654 669	Young's modulus
+T32	Process 727 735	pressure
+T33	Process 754 762	pressure
+T34	Property 807 812	order
+T35	Element 816 823	Ni2ScAl
+T36	Element 824 831	Ni2TiAl
+T37	Element 832 838	Ni2VAl
+T38	Property 874 883	ductility
+T39	Property 888 898	anisotropy
+T41	Property 917 927	resistance
+T42	Element 953 957	NiAl
+T43	Material 958 964	alloys
+T44	Element 1016 1022	Ni2VAl
+T45	Element 1027 1034	Ni2TiAl
+T47	Property 1102 1114	bulk modulus
+T48	Property 1116 1133	Debye temperature
+T49	Property 1160 1189	thermal expansion coefficient
+T51	Process 1310 1318	pressure
+T52	Property 1322 1346	thermodynamic parameters
+T9	Property 138 148	enthalpies
+T17	Property 163 177	elastic moduli
+T22	Property 191 204	heat capacity
+T59	Material 681 694	microhardness
+T40	Property 1135 1148	heat capacity
+T60	Property 1234 1260	quasi-harmonic Debye model
+T46	Property 1078 1098	pressure dependences
+T50	Property 931 949	volume deformation
+T14	Element 271 288	Heusler compounds
+T61	Property 427 440	atomic number
+T53	Value 535 536	0
+T56	Value 537 542	50GPa

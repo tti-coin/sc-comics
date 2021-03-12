@@ -1,0 +1,51 @@
+T3	SC 72 75	T c
+T5	SC 87 101	superconductor
+T6	Main 102 116	SmFeAsO1−x H x
+T7	Material 145 153	crystals
+T8	Process 159 164	grown
+T9	Material 183 187	flux
+T10	Element 191 204	Na3As+3NaH+As
+T11	Material 230 250	chemical composition
+T13	Element 290 298	hydrogen
+T14	Element 307 313	oxygen
+T16	Material 391 398	crystal
+T20	Material 476 489	single domain
+T21	Element 490 505	SmFeAsO0.9H0.10
+T22	Material 506 513	crystal
+T23	SC 523 526	T c
+T25	Material 575 583	in-plane
+T26	Property 598 612	semiconducting
+T28	Material 649 657	in-plane
+T30	Element 731 746	SmFeAsO0.9H0.10
+T31	Material 747 754	crystal
+T32	Property 761 769	electron
+T33	Element 779 790	hydride ion
+T35	Element 819 829	oxygen ion
+T37	Element 874 878	iron
+T40	Material 124 144	sub-millimeter-sized
+T41	Value 208 214	3.0GPa
+T42	Value 219 224	1473K
+T43	Value 270 273	10%
+T45	Characterization 444 457	FIB technique
+T46	Value 530 533	42K
+T47	Property 585 588	ρab
+T48	Property 634 636	ρc
+T27	Material 620 632	out-of-plane
+T17	Material 407 429	multi-domain structure
+T18	Property 552 571	metallic conduction
+T24	Property 711 727	dominant carrier
+T1	Process 14 35	single crystal growth
+T19	Process 461 471	fabricated
+T53	Value 323 327	0.10
+T4	Element 76 80	iron
+T15	Material 343 362	structural analyses
+T50	Property 658 674	Hall coefficient
+T38	Property 853 869	carrier electron
+T12	Doping 274 286	substitution
+T29	Doping 791 799	occupied
+T2	Characterization 675 687	measurements
+R1	Equivalent Arg1:T23 Arg2:T46
+R2	Target Arg1:T46 Arg2:T21
+R3	Target Arg1:E2 Arg2:T30
+E1	Doping:T12 Dopant:T13 Site:T14
+E2	Doping:T29 Dopant:T33 Site:T35

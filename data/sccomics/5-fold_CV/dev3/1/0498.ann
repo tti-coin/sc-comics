@@ -1,0 +1,89 @@
+T1	Element 0 19	Graphene nanopowder
+T2	Material 37 46	thickness
+T3	Material 47 55	particle
+T5	Main 89 93	MgB2
+T6	Material 105 111	powder
+T7	Material 122 133	composition
+T8	Element 138 154	(MgB2)(1−x)(G) x
+T9	Process 209 231	Spark Plasma Sintering
+T11	Property 277 284	density
+T12	SC 302 322	critical temperature
+T13	SC 324 327	T c
+T14	Material 337 354	lattice parameter
+T15	Material 358 364	c-axis
+T17	Element 435 441	carbon
+T19	Element 459 464	boron
+T20	Characterization 473 476	TEM
+T21	Element 522 530	graphene
+T22	Material 531 537	plates
+T23	SC 553 556	T c
+T27	Element 635 639	MgB2
+T28	Material 640 654	microstructure
+T31	Property 739 763	critical current density
+T32	Property 817 832	magnetic fields
+T33	Material 846 854	pristine
+T35	Element 879 880	G
+T38	Property 949 952	J c
+T39	Property 1019 1034	residual stress
+T40	Element 21 22	G
+T45	Value 160 166	0.0125
+T16	Element 604 605	G
+T26	Element 703 724	(MgB2)0.9875(G)0.0125
+T30	Value 786 789	25K
+T46	Value 168 173	0.025
+T47	Value 175 179	0.05
+T48	Process 233 236	SPS
+T24	Material 561 579	structural results
+T49	Material 365 382	lattice parameter
+T4	Doping 80 85	added
+T18	Doping 442 454	substitution
+T25	Doping 606 614	addition
+T29	Doping 690 695	doped
+T34	Doping 867 875	addition
+T37	Doping 929 938	additions
+T41	Value 70 71	6
+T50	Value 72 75	8nm
+T10	Value 292 295	95%
+T36	Element 920 921	C
+R1	Coref Arg1:T1 Arg2:T40
+R2	Coref Arg1:T12 Arg2:T13
+R3	Target Arg1:E1 Arg2:T5
+R4	Target Arg1:E4 Arg2:T26
+R5	Target Arg1:E1 Arg2:T1
+R6	Target Arg1:E3 Arg2:T27
+E1	Doping:T4 
+E2	Doping:T18 Dopant:T17 Site:T19
+E3	Doping:T25 Dopant:T16
+E4	Doping:T29 
+E5	Doping:T34 Dopant:T35
+E6	Doping:T37 Dopant:T36
+#1	AnnotatorNotes T1	0-19
+#2	AnnotatorNotes T2	37-46
+#3	AnnotatorNotes T3	47-55
+#4	AnnotatorNotes T5	89-93
+#5	AnnotatorNotes T6	105-111
+#6	AnnotatorNotes T7	122-133
+#7	AnnotatorNotes T8	138-154
+#8	AnnotatorNotes T14	337-354
+#9	AnnotatorNotes T15	358-364
+#10	AnnotatorNotes T17	435-441
+#11	AnnotatorNotes T19	459-464
+#12	AnnotatorNotes T21	522-530
+#13	AnnotatorNotes T22	531-537
+#14	AnnotatorNotes T27	635-639
+#15	AnnotatorNotes T28	640-654
+#16	AnnotatorNotes T33	846-854
+#17	AnnotatorNotes T35	879-880
+#18	AnnotatorNotes T40	21-22
+#19	AnnotatorNotes T45	160-166
+#20	AnnotatorNotes T16	604-605
+#21	AnnotatorNotes T26	703-724
+#22	AnnotatorNotes T30	786-789
+#23	AnnotatorNotes T46	168-173
+#24	AnnotatorNotes T47	175-179
+#25	AnnotatorNotes T24	561-579
+#26	AnnotatorNotes T49	365-382
+#27	AnnotatorNotes T41	70-71
+#28	AnnotatorNotes T50	72-75
+#29	AnnotatorNotes T10	292-295
+#30	AnnotatorNotes T36	920-921

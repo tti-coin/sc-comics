@@ -1,0 +1,56 @@
+T1	Material 121 131	thin films
+T2	Process 257 267	deposition
+T3	Material 300 315	precursor films
+T5	Material 519 525	powder
+T6	Characterization 638 655	X-ray diffraction
+T7	Characterization 657 677	electron diffraction
+T8	Characterization 683 718	high resolution electron microscopy
+T9	Material 741 746	films
+T10	Material 847 853	layers
+T11	Material 1021 1028	layered
+T12	Material 1081 1087	layers
+T13	Material 1161 1167	layers
+T14	Material 1173 1178	films
+T16	SC 1219 1222	T c
+T17	Property 1227 1243	zero resistivity
+T18	SC 1286 1289	T c
+T21	Property 1574 1588	concentrations
+T22	Main 61 70	TlBaCaCuO
+T23	Element 102 120	Tl1+χBa2Ca2Cu3O9+χ
+T26	Element 170 183	TlBa2Ca2Cu3O9
+T27	Element 188 203	Tl2Ba2Ca2Cu3O10
+T28	Material 271 286	polycrystalline
+T29	Element 287 299	BaCaCu oxide
+T30	Element 331 355	Ba:Ca:Cu= 1.76:2.04:3.20
+T31	Element 373 385	(100) LaAlO3
+T32	Value 389 394	500°C
+T33	Value 431 436	880°C
+T34	Value 441 447	20 min
+T35	Element 480 484	Tl2O
+T4	Process 485 501	partial pressure
+T36	Element 537 542	Tl2O3
+T37	Element 560 569	TlBaCaCuO
+T38	Element 609 636	Tl:Ba:Ca:Cu⋟1.8:2.0:2.0:3.0
+T40	Value 983 986	0.5
+T42	Element 961 979	Tl1+χBa2Ca2Cu3O9+χ
+T45	Element 813 826	TlBa2Ca2Cu3O9
+T46	Element 831 846	Tl2Ba2Ca2Cu3O10
+T47	Element 876 889	TlBa2Ca2Cu3O9
+T48	Element 894 909	Tl2Ba2Ca2Cu3O10
+T49	Value 1248 1259	107.4±0.5 K
+T50	Value 1386 1397	111.5±0.5 K
+T51	Value 1294 1301	108±2 K
+T19	Property 1350 1376	AC magnetic susceptibility
+T53	Value 1468 1473	4.2 K
+T54	Value 1478 1491	3.4×103 A/cm2
+T55	Value 1495 1499	80 K
+T56	Property 1428 1431	J c
+T52	Value 1451 1464	2.4×104 A/cm2
+T58	Property 1403 1427	critical current density
+T59	Process 408 420	thallination
+T60	Material 32 53	intergrowth structure
+T15	SC 1180 1218	superconducting transition temperature
+T20	Characterization 1516 1528	measurements
+T24	Property 1505 1515	electrical
+R1	Equivalent Arg1:T18 Arg2:T51
+R3	Equivalent Arg1:T16 Arg2:T49

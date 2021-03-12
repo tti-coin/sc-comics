@@ -1,0 +1,75 @@
+T2	Main 44 79	(Au) x /(Cu0.5Tl0.5)Ba2Ca2Cu3O10− δ
+T4	Main 81 98	(Au) x /CuTl-1223
+T5	SC 135 149	superconductor
+T6	Material 150 160	composites
+T7	Process 174 194	solid-state reaction
+T8	Element 226 230	gold
+T9	Element 232 234	Au
+T10	Material 236 249	nanoparticles
+T12	SC 272 287	superconducting
+T13	Element 302 311	CuTl-1223
+T14	Material 312 318	matrix
+T15	Material 326 336	composites
+T16	Characterization 359 376	X-ray diffraction
+T17	Characterization 378 381	XRD
+T18	Characterization 384 412	scanning electron microscopy
+T19	Characterization 414 417	SEM
+T23	Property 479 496	ac-susceptibility
+T24	Property 508 522	dc-resistivity
+T26	Element 569 571	Au
+T27	Material 572 585	nanoparticles
+T29	Material 600 614	inter-granular
+T31	Material 623 639	grain-boundaries
+T32	Material 648 668	tetragonal structure
+T34	Element 672 681	CuTl-1223
+T35	SC 682 697	superconducting
+T36	Material 698 704	matrix
+T38	Element 746 748	Au
+T39	Material 749 762	nanoparticles
+T40	SC 787 802	superconducting
+T42	Element 836 838	Au
+T43	Material 839 852	nanoparticles
+T44	Material 893 905	inter-grains
+T45	Material 937 949	inter-grains
+T46	Material 975 988	nanoparticles
+T47	Material 1003 1015	inter-grains
+T48	Property 1047 1065	carriers transport
+T49	SC 1110 1125	superconducting
+T50	Element 1206 1208	Au
+T51	Material 1209 1222	nanoparticles
+T52	SC 1256 1273	superconductivity
+T53	Property 1290 1309	non-superconducting
+T54	Property 1310 1318	metallic
+T55	Element 1319 1321	Au
+T56	Material 1322 1335	nanoparticles
+T57	SC 1347 1362	superconducting
+T58	Element 1411 1413	Au
+T59	Material 1414 1427	nanoparticles
+T60	SC 1441 1456	superconducting
+T61	Element 1466 1475	CuTl-1223
+T62	Material 1476 1482	matrix
+T65	Value 104 105	0
+T66	Value 112 115	1.0
+T67	Value 107 110	0.5
+T68	Value 121 128	1.5wt.%
+T25	Characterization 420 446	Fourier transform infrared
+T69	Characterization 448 452	FTIR
+T20	Material 1077 1094	inter-crystallite
+T21	Characterization 454 477	absorption spectroscopy
+T22	Property 1126 1141	volume fraction
+T1	Material 257 267	structural
+T11	Characterization 527 539	measurements
+T28	Doping 589 595	occupy
+T30	Doping 734 742	addition
+T33	Doping 824 832	addition
+T3	Property 498 502	χ ac
+T37	Property 524 525	ρ
+T41	Doping 1428 1437	inclusion
+R1	Coref Arg1:T8 Arg2:T9
+R2	Coref Arg1:T2 Arg2:T4
+R3	Target Arg1:E2 Arg2:T34
+R4	Target Arg1:E4 Arg2:T61
+E1	Doping:T28 Dopant:T26
+E2	Doping:T30 Dopant:T38
+E3	Doping:T33 Dopant:T42
+E4	Doping:T41 Dopant:T58

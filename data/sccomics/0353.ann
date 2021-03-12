@@ -1,0 +1,32 @@
+T1	SC 17 34	superconductivity
+T2	Main 49 56	LnFePnO
+T3	Element 63 64	P
+T4	Element 66 68	As
+T5	SC 120 135	superconductors
+T6	Material 195 202	bonding
+T7	Element 217 224	LnFePnO
+T8	SC 265 282	superconductivity
+T9	Process 286 302	ambient pressure
+T10	Process 313 330	external pressure
+T11	Material 393 407	chemical bonds
+T12	Property 427 432	order
+T13	Element 436 440	Ln–O
+T14	Element 442 447	Ln–Pn
+T15	Element 449 454	Fe–Pn
+T16	Property 465 470	order
+T17	Property 482 490	electron
+T18	Element 505 508	LnO
+T19	Material 509 515	layers
+T20	Element 519 523	FePn
+T21	Material 524 530	layers
+T22	Element 563 566	LnO
+T23	Material 567 573	layers
+T24	Element 605 609	FePn
+T25	Material 610 616	layers
+T28	Element 676 677	F
+T29	Element 682 686	O2 −
+T30	Material 739 745	layers
+T31	SC 773 813	superconductivity transition temperature
+T35	Process 630 647	external pressure
+T26	Doping 669 675	doping
+E1	Doping:T26 Dopant:T28 Site:T29

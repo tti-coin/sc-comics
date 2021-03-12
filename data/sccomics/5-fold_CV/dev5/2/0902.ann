@@ -1,0 +1,24 @@
+T1	Property 28 41	Hubbard model
+T4	SC 224 244	critical temperature
+T5	SC 247 250	T c
+T6	Property 254 260	d-wave
+T7	SC 261 276	superconducting
+T8	Property 290 300	electronic
+T9	Property 301 314	specific heat
+T10	Property 327 337	mean-field
+T11	Property 393 401	electron
+T12	Main 425 441	La2− x Sr x CuO4
+T15	Property 526 539	Hubbard model
+T16	SC 576 579	T c
+T18	SC 666 681	superconducting
+T19	Property 682 695	specific heat
+T20	Property 737 750	Hubbard model
+T24	Property 143 178	Bardeen–Cooper–Schrieffer formalism
+T2	Characterization 451 492	angle-resolved photoemission spectroscopy
+T13	Property 640 649	power-law
+T14	Property 277 280	gap
+T3	Doping 202 208	doping
+T17	Doping 599 605	doping
+R1	Coref Arg1:T4 Arg2:T5
+E1	Doping:T3 
+E2	Doping:T17 

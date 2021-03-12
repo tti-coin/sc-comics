@@ -1,0 +1,53 @@
+T1	Process 0 36	Solid state thermodynamical reaction
+T2	Process 62 74	calcinations
+T3	Process 79 88	sintering
+T4	SC 112 143	high temperature superconductor
+T5	Material 151 170	nominal composition
+T6	Main 171 198	Bi2-xCuxPb0.3Sr2Ca2Cu3O10+δ
+T7	Element 203 205	Cu
+T8	Process 235 244	sintering
+T10	Element 267 269	Cu
+T11	Element 273 275	Bi
+T12	Characterization 308 325	X-ray diffraction
+T15	SC 446 453	high TC
+T16	Element 461 471	2223-phase
+T17	Process 510 519	sintering
+T18	Material 533 544	composition
+T19	Element 545 572	Bi2-xCuxPb0.3Sr2Ca2Cu3O10+δ
+T20	Process 586 607	sintering temperature
+T22	Element 633 635	Cu
+T23	Value 646 649	0.2
+T24	Value 654 657	0.3
+T25	SC 678 700	transition temperature
+T26	SC 704 706	TC
+T27	Value 743 746	0.4
+T28	SC 748 750	TC
+T29	Characterization 774 791	X-ray diffraction
+T30	Characterization 793 796	XRD
+T31	SC 855 862	high-TC
+T32	Element 870 880	2223-phase
+T33	SC 886 892	low-TC
+T34	Element 900 910	2212-phase
+T36	Material 1023 1035	orthorhombic
+T40	Value 576 579	140
+T41	Value 608 614	860 oC
+T44	Value 764 768	125K
+T45	Value 717 721	130K
+T46	Value 708 712	127K
+T47	Value 974 977	0.4
+T35	Process 54 60	mixing
+T50	Value 207 208	0
+T51	Value 215 218	0.5
+T14	Property 355 369	oxygen content
+T9	Doping 254 266	substituting
+T21	Doping 616 628	Substitution
+T13	Property 327 337	resistance
+T37	Characterization 338 350	measurements
+R1	Equivalent Arg1:T26 Arg2:T46
+R2	Equivalent Arg1:T26 Arg2:T45
+R3	Equivalent Arg1:T28 Arg2:T44
+R4	Condition Arg1:T46 Arg2:E2
+R5	Condition Arg1:T45 Arg2:E2
+R6	Condition Arg1:T44 Arg2:E2
+E1	Doping:T9 Dopant:T10 Site:T11
+E2	Doping:T21 Dopant:T22

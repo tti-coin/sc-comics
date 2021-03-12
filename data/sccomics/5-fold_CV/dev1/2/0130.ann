@@ -1,0 +1,43 @@
+T1	SC 0 15	Superconducting
+T2	Process 28 36	coatings
+T3	Property 61 69	metallic
+T5	Process 184 193	annealing
+T6	Property 254 262	metallic
+T7	SC 316 331	superconducting
+T8	Material 360 365	metal
+T9	Process 491 498	coating
+T10	Process 559 568	Sintering
+T11	Process 620 637	partial pressures
+T12	Property 715 728	melting point
+T13	Material 740 764	Preferential orientation
+T14	Characterization 800 817	X-ray diffraction
+T16	SC 860 863	T c
+T17	Property 921 932	resistivity
+T18	Material 1059 1065	liquid
+T19	Material 1087 1093	liquid
+T20	Main 16 27	YBa2Cu3O7−δ
+T22	Value 864 868	92 K
+T23	Element 980 986	oxygen
+T24	Property 999 1002	J c
+T25	Value 1074 1085	19400 A/cm2
+T26	Value 1047 1057	4500 A/cm2
+T27	Element 1066 1068	N2
+T28	Element 1094 1096	He
+T30	Element 154 174	isobutylmethylketone
+T31	Material 263 272	substrate
+T33	Element 668 679	YBa2Cu3O7−δ
+T35	Property 229 246	chemical identity
+T36	Element 353 359	Silver
+T37	Material 388 397	substrate
+T38	Element 470 472	Ag
+T39	Material 529 535	cement
+T40	Element 613 619	oxygen
+T41	Element 732 738	silver
+T42	Property 902 916	susceptibility
+T4	Process 120 135	electrophoresis
+T29	Process 990 993	air
+T43	Process 951 968	thermal treatment
+T15	SC 843 858	high T c values
+T21	Element 542 547	oxide
+T32	Material 548 557	particles
+R1	Equivalent Arg1:T16 Arg2:T22

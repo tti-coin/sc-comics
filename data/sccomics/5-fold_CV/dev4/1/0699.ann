@@ -1,0 +1,78 @@
+T1	Property 0 8	Electron
+T3	Material 23 32	semimetal
+T4	Main 34 41	CeOFeAs
+T5	Element 53 61	fluorine
+T6	SC 67 69	Tc
+T7	Element 79 85	cobalt
+T8	SC 91 93	Tc
+T9	SC 109 126	superconductivity
+T10	Element 155 171	transition metal
+T11	Element 173 175	Co
+T13	Element 197 201	iron
+T14	SC 214 229	superconducting
+T15	Main 244 258	CeO0.9F0.1FeAs
+T16	SC 260 262	Tc
+T17	Property 300 315	charge carriers
+T18	Element 328 345	rare earth-oxygen
+T19	Element 350 355	Fe–As
+T20	Material 356 362	layers
+T22	Property 408 423	charge carriers
+T23	Material 432 438	layers
+T24	SC 450 452	Tc
+T25	SC 485 487	Tc
+T26	Material 524 529	layer
+T27	Element 531 535	FeAs
+T28	Property 540 556	charge reservoir
+T29	Material 557 562	layer
+T30	Element 564 567	CeO
+T32	Material 640 646	layers
+T33	SC 662 679	superconductivity
+T34	Property 681 692	Resistivity
+T35	Property 713 730	magnetoresistance
+T36	Element 749 751	Co
+T38	Property 795 807	Kondo effect
+T39	Property 809 825	Hall coefficient
+T40	Property 830 850	thermoelectric power
+T41	Property 870 891	carrier concentration
+T42	Element 897 903	cobalt
+T44	Element 914 928	CeO0.9F0.1FeAs
+T45	Element 964 988	CeO0.9F0.1Fe0.95Co0.05As
+T46	Element 993 1007	CeO0.9F0.1FeAs
+T47	Property 1028 1050	temperature dependence
+T48	Value 71 74	43K
+T49	Value 95 98	11K
+T50	Value 264 267	38K
+T51	Value 456 460	9.8K
+T52	Property 1056 1066	gap values
+T53	Value 1071 1074	1.6
+T54	Value 1079 1085	1.9meV
+T2	Doping 9 15	doping
+T12	Doping 177 189	substitution
+T37	Doping 752 758	doping
+T43	Doping 904 910	doping
+T21	Doping 377 383	doping
+T55	Property 513 523	conducting
+T31	Doping 585 590	doped
+R2	Equivalent Arg1:T6 Arg2:T48
+R3	Equivalent Arg1:T8 Arg2:T49
+R4	Coref Arg1:T10 Arg2:T11
+R5	Equivalent Arg1:T16 Arg2:T50
+R6	Target Arg1:T50 Arg2:T15
+R7	Equivalent Arg1:T24 Arg2:T51
+R8	Target Arg1:E1 Arg2:T4
+R9	Target Arg1:E2 Arg2:T15
+R10	Target Arg1:E7 Arg2:T44
+R11	Target Arg1:T48 Arg2:T4
+R12	Target Arg1:T49 Arg2:T4
+R13	Condition Arg1:T48 Arg2:E1
+R14	Condition Arg1:T49 Arg2:E8
+R15	Condition Arg1:T50 Arg2:E2
+R16	Condition Arg1:T51 Arg2:E3
+E1	Doping:T2 Dopant:T1 Site:T5
+E2	Doping:T12 Site:T13 Dopant:T11
+E6	Doping:T37 Dopant:T36
+E7	Doping:T43 Dopant:T42
+E8	Doping:T2 Dopant:T1 Site:T7
+E3	Doping:T21 Dopant:T22
+E4	Doping:T31 Dopant:T30
+E5	Doping:T31 Dopant:T27

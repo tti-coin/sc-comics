@@ -1,0 +1,59 @@
+T1	SC 31 69	superconducting transition temperature
+T2	Main 73 83	La3Co4Sn13
+T4	Element 100 106	indium
+T5	Element 114 117	tin
+T6	SC 128 150	transition temperature
+T7	Element 159 171	skutterudite
+T8	Element 241 247	indium
+T10	Property 272 286	band structure
+T11	Property 291 308	density of states
+T12	Property 309 321	calculations
+T14	Property 428 442	critical field
+T15	Property 450 470	upper critical field
+T17	Property 512 513	ξ
+T18	Element 640 657	La3Co4Sn11.7In1.3
+T19	Process 659 670	Hydrostatic
+T20	Process 680 688	pressure
+T21	SC 710 732	transition temperature
+T22	Process 752 760	pressure
+T23	Property 790 802	Flux pinning
+T24	Property 807 813	vortex
+T25	Property 814 833	activation energies
+T26	Element 853 859	indium
+T28	Property 884 895	frequencies
+T29	Property 912 929	phonon dispersion
+T30	Property 966 985	charge density wave
+T31	Material 989 999	structural
+T32	Property 1000 1011	instability
+T33	Property 1019 1031	normal state
+T36	Value 237 240	10%
+T37	Property 516 533	penetration depth
+T38	Property 444 447	Hc1
+T39	Property 472 475	Hc2
+T41	Value 579 587	0.0028 T
+T42	Value 589 595	0.68 T
+T43	Value 597 604	21.6 nm
+T44	Value 606 613	33.2 nm
+T45	Value 618 622	1.53
+T46	Property 542 554	GL parameter
+T47	Property 556 557	κ
+T48	Property 535 536	λ
+T16	Property 478 510	Ginzburg–Landau coherence length
+T3	Doping 87 99	substituting
+T9	Doping 248 259	substituted
+T27	Doping 860 868	addition
+T34	Value 218 223	2.5 K
+T35	Value 227 232	5.1 K
+T40	Value 776 788	−0.311 K/GPa
+R1	Target Arg1:E1 Arg2:T2
+R2	Equivalent Arg1:T6 Arg2:T34
+R3	Equivalent Arg1:T6 Arg2:T35
+R4	Condition Arg1:T34 Arg2:E2
+R5	Condition Arg1:T35 Arg2:E2
+R6	Target Arg1:E2 Arg2:T7
+R7	Target Arg1:T34 Arg2:T7
+R8	Target Arg1:T35 Arg2:T7
+E1	Doping:T3 Dopant:T4 Site:T5
+E2	Doping:T9 Dopant:T8
+E3	Doping:T27 Dopant:T26
+T13	SC 378 403	type-II superconductivity

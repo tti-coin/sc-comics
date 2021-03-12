@@ -1,0 +1,47 @@
+T1	Property 19 36	electronic states
+T2	SC 45 62	superconductivity
+T3	Material 70 85	two-dimensional
+T4	Property 89 93	band
+T5	Property 94 105	d – p model
+T6	Property 123 136	tight-binding
+T7	Property 148 162	band structure
+T8	Main 166 180	iron pnictides
+T9	Property 210 229	Coulomb interaction
+T10	Element 238 240	Fe
+T11	Property 241 253	d -electrons
+T12	Material 299 311	orthorhombic
+T13	Property 482 501	ferro-orbital order
+T17	Material 580 603	tetragonal-orthorhombic
+T18	Property 604 625	structural transition
+T19	Property 665 682	antiferromagnetic
+T20	Property 684 687	AFM
+T21	Property 689 694	order
+T22	Property 701 704	T N
+T23	Property 741 754	phase diagram
+T25	Element 781 795	iron pnictides
+T26	Property 807 810	T N
+T27	SC 845 862	superconductivity
+T28	Property 1039 1055	phase transition
+T29	Property 1072 1075	T N
+T30	SC 1113 1130	superconductivity
+T31	Property 1150 1153	AFM
+T32	Property 1176 1183	s -wave
+T33	SC 1201 1216	superconducting
+T34	SC 1325 1328	T c
+T35	Material 1362 1372	impurities
+T37	Value 819 820	0
+T40	Property 262 287	electron–lattice coupling
+T14	Property 532 537	d y z
+T15	Property 833 844	s + + -wave
+T16	Property 943 956	ferro-orbital
+T41	Property 882 907	ferro-orbital fluctuation
+T42	Value 979 980	0
+T44	Value 1089 1090	0
+T46	Property 1103 1112	s ± -wave
+T47	Property 1154 1165	fluctuation
+T48	Property 1350 1361	nonmagnetic
+T39	Property 400 416	elastic constant
+T49	Property 542 556	d z x orbitals
+T24	Doping 775 780	doped
+R1	Target Arg1:E1 Arg2:T25
+E1	Doping:T24

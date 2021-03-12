@@ -1,0 +1,73 @@
+T1	Element 24 30	silver
+T3	Main 58 72	NdFeAsO0.8F0.2
+T4	SC 73 87	superconductor
+T5	Property 93 110	ac susceptibility
+T6	Property 115 137	electrical resistivity
+T7	Property 144 158	magnetic field
+T8	Element 214 228	NdFeAsO0.8F0.2
+T10	Element 246 250	Ag x
+T11	Element 270 272	Ag
+T12	Element 278 292	NdFeAsO0.8F0.2
+T13	SC 308 325	superconductivity
+T14	SC 361 388	superconducting transitions
+T15	Material 417 422	grain
+T16	SC 474 489	superconducting
+T17	Material 490 496	grains
+T18	Material 511 519	granular
+T19	Property 520 532	weak-coupled
+T20	Property 573 587	susceptibility
+T21	Property 589 593	χ(T)
+T22	Element 628 642	NdFeAsO0.8F0.2
+T23	SC 678 693	superconducting
+T24	Material 694 700	grains
+T25	Element 738 744	silver
+T27	Element 799 801	Ag
+T28	Element 826 828	Ag
+T30	Material 881 896	polycrystalline
+T31	Element 904 906	Ag
+T33	Element 913 927	NdFeAsO0.8F0.2
+T34	Property 942 962	upper critical filed
+T36	Element 1045 1059	NdFeAsO0.8F0.2
+T37	Material 1065 1069	flux
+T38	Property 1075 1092	activation energy
+T39	Property 1142 1156	magnetic field
+T40	Element 1193 1195	Ag
+T42	Element 1202 1216	NdFeAsO0.8F0.2
+T44	Element 1283 1285	Ag
+T45	Material 1299 1307	granular
+T46	SC 1320 1335	superconducting
+T47	Material 1336 1342	grains
+T48	Element 1346 1360	NdFeAsO0.8F0.2
+T52	Value 336 342	51.8 K
+T53	Value 731 737	20 at%
+T54	Value 820 826	30 at%
+T55	Value 897 903	20 at%
+T56	Value 982 987	334 T
+T61	Value 1186 1192	20 at%
+T57	Property 841 858	magneto transport
+T2	Doping 31 39	addition
+T9	Doping 234 242	addition
+T26	Doping 745 750	doped
+T32	Doping 907 912	doped
+T35	Doping 1196 1201	doped
+T43	Value 256 259	0.0
+T51	Value 260 263	0.3
+T29	Characterization 859 871	measurements
+T49	Value 1115 1124	7143.38 K
+T58	Value 1128 1136	454.77 K
+T59	Value 1170 1173	0 T
+T60	Value 1177 1181	14 T
+T41	Doping 1271 1279	addition
+R1	Target Arg1:T52 Arg2:T12
+R2	Equivalent Arg1:T13 Arg2:T52
+R3	Target Arg1:E1 Arg2:T3
+R4	Target Arg1:E2 Arg2:T8
+R5	Target Arg1:E4 Arg2:T33
+R6	Target Arg1:E5 Arg2:T42
+R7	Target Arg1:E6 Arg2:T48
+E1	Doping:T2 Dopant:T1
+E2	Doping:T9 Dopant:T10
+E3	Doping:T26 Dopant:T25
+E4	Doping:T32 Dopant:T31
+E5	Doping:T35 Dopant:T40
+E6	Doping:T41 Dopant:T44

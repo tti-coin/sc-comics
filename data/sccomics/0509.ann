@@ -1,0 +1,46 @@
+T1	Characterization 0 17	X-ray diffraction
+T2	Characterization 22 40	Raman spectroscopy
+T3	Element 52 54	Sr
+T5	Material 68 79	perovskites
+T6	Main 89 105	Ba2− x Sr x MWO6
+T7	Element 114 116	Ni
+T8	Element 118 120	Co
+T9	Material 188 193	cubic
+T10	Material 197 213	tetragonal phase
+T12	Element 260 269	strontium
+T13	Characterization 283 303	Rietveld refinements
+T14	Material 425 435	tetragonal
+T15	Material 436 448	compositions
+T16	Material 475 485	tetragonal
+T17	Material 489 494	cubic
+T18	Property 495 511	phase transition
+T19	Material 550 560	tetragonal
+T20	Material 562 566	I4/m
+T21	Material 571 576	cubic
+T22	Material 578 583	Fm-3m
+T23	Material 619 630	composition
+T24	Property 635 657	temperature dependence
+T25	Characterization 680 691	Raman modes
+T26	Material 796 804	symmetry
+T27	Material 817 827	tetragonal
+T28	Material 831 836	cubic
+T29	Property 858 874	phase transition
+T30	Property 914 936	temperature dependence
+T31	Property 1047 1063	phase transition
+T32	Property 1155 1163	spectrum
+T33	Property 1304 1326	transition temperature
+T39	Value 125 126	0
+T40	Value 131 132	2
+T42	Value 368 371	1.2
+T43	Value 376 379	1.4
+T44	Value 450 453	1.4
+T46	Value 458 459	2
+T47	Property 908 912	FWHM
+T48	Property 880 906	full width at half maximum
+T50	Property 1089 1093	FWHM
+T51	Characterization 308 321	Raman studies
+T49	Property 1246 1269	function of temperature
+T54	Property 219 242	function of composition
+T4	Doping 55 60	doped
+R3	Target Arg1:E1 Arg2:T6
+E1	Doping:T4 Dopant:T3

@@ -1,0 +1,75 @@
+T2	Main 9 56	Tl0.9Bi0.1Sr1.8Yb0.2Ca1−x Cd x Cu1.99Fe0.01O7−δ
+T3	Material 67 71	bulk
+T4	SC 72 86	superconductor
+T5	Process 112 132	solid-state reaction
+T6	Element 166 168	Cd
+T7	Property 196 212	elastic behavior
+T8	Characterization 263 280	X-ray diffraction
+T9	Property 282 307	DC electrical resistivity
+T11	Property 312 333	temperature dependent
+T13	Property 368 393	DC electrical resistivity
+T14	Property 437 445	metallic
+T15	Property 446 458	normal-state
+T16	SC 485 488	T c
+T17	Element 679 681	Cd
+T19	Material 1031 1038	lattice
+T20	Property 1072 1077	model
+T21	Property 1242 1258	elastic behavior
+T24	Property 1441 1457	elastic behavior
+T25	Property 1505 1510	model
+T26	Property 1633 1649	phase transition
+T27	Property 1679 1687	ordering
+T28	Element 1691 1697	oxygen
+T29	Property 1715 1721	strain
+T10	Characterization 334 366	ultrasonic velocity measurements
+T12	Value 513 518	76.4K
+T37	Value 522 525	0.3
+T39	Characterization 528 560	Ultrasonic velocity measurements
+T40	Value 564 567	80K
+T42	Property 605 626	absolute longitudinal
+T43	Property 631 647	shear velocities
+T44	Property 659 673	elastic moduli
+T34	Element 0 2	Cd
+T36	Value 740 743	0.3
+T45	Property 802 809	elastic
+T46	Value 870 874	230K
+T47	Value 905 909	250K
+T49	Value 916 919	0.4
+T51	Value 931 934	0.3
+T53	Value 881 882	0
+T55	Value 887 890	0.3
+T57	Value 1176 1179	0.3
+T58	Property 1572 1575	T A
+T59	Property 1543 1570	elastic anomaly temperature
+T60	Property 172 191	ultrasonic velocity
+T41	Property 1381 1405	Landau free energy model
+T22	Property 752 773	Temperature dependant
+T23	Characterization 394 405	measurement
+T18	Doping 3 8	doped
+T30	Doping 682 694	substitution
+T31	Value 60 61	0
+T32	Value 62 65	0.4
+R1	Equivalent Arg1:T16 Arg2:T12
+R2	Target Arg1:E1 Arg2:T2
+E1	Doping:T18 Dopant:T34
+E2	Doping:T30 Dopant:T17
+#1	AnnotatorNotes T2	9-56
+#2	AnnotatorNotes T3	67-71
+#3	AnnotatorNotes T6	166-168
+#4	AnnotatorNotes T17	679-681
+#5	AnnotatorNotes T19	1031-1038
+#6	AnnotatorNotes T28	1691-1697
+#7	AnnotatorNotes T12	513-518
+#8	AnnotatorNotes T37	522-525
+#9	AnnotatorNotes T40	564-567
+#10	AnnotatorNotes T34	0-2
+#11	AnnotatorNotes T36	740-743
+#12	AnnotatorNotes T46	870-874
+#13	AnnotatorNotes T47	905-909
+#14	AnnotatorNotes T49	916-919
+#15	AnnotatorNotes T51	931-934
+#16	AnnotatorNotes T53	881-882
+#17	AnnotatorNotes T55	887-890
+#18	AnnotatorNotes T57	1176-1179
+#19	AnnotatorNotes T31	60-61
+#20	AnnotatorNotes T32	62-65

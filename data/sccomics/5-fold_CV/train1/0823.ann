@@ -1,0 +1,63 @@
+T2	Element 38 40	Sb
+T3	Property 48 56	magnetic
+T4	Property 58 67	transport
+T6	Main 97 109	FeTe1−x Sb x
+T7	Material 110 125	single crystals
+T8	Property 127 138	Resistivity
+T9	Property 140 163	magnetic susceptibility
+T10	Property 223 231	magnetic
+T12	Property 243 265	transition temperature
+T13	Property 266 269	T N
+T15	Element 288 296	Fe1.05Te
+T16	Element 324 326	Sb
+T18	SC 342 359	superconductivity
+T19	Property 410 420	electronic
+T20	Element 464 466	Sb
+T21	Property 505 522	density of states
+T22	Property 526 537	Fermi level
+T23	Property 561 572	calculation
+T24	Element 602 604	Sb
+T25	Property 633 645	hole carrier
+T27	Property 699 715	Hall coefficient
+T29	Element 748 750	Sb
+T31	Material 786 793	lattice
+T32	Material 837 843	c axis
+T33	Property 872 890	antiferromagnetism
+T34	Element 894 902	Fe1+y Te
+T35	Element 961 965	FeAs
+T5	Material 72 93	structural properties
+T11	Value 272 276	70 K
+T39	Value 384 387	10%
+T41	Material 804 810	a axis
+T44	Material 232 242	structural
+T28	Characterization 717 736	Structural analysis
+T45	Characterization 683 695	measurements
+T1	Doping 20 26	doping
+T14	Doping 327 333	doping
+T17	Doping 605 616	substituent
+T26	Doping 646 652	doping
+T30	Doping 751 757	doping
+R1	Target Arg1:E1 Arg2:T6
+R2	Target Arg1:E2 Arg2:T15
+E1	Doping:T1 Dopant:T2
+E2	Doping:T14 Dopant:T16
+E3	Doping:T17 Dopant:T24
+E4	Doping:T26 Dopant:T25
+E5	Doping:T30 Dopant:T29
+#1	AnnotatorNotes T2	38-40
+#2	AnnotatorNotes T6	97-109
+#3	AnnotatorNotes T7	110-125
+#4	AnnotatorNotes T15	288-296
+#5	AnnotatorNotes T16	324-326
+#6	AnnotatorNotes T20	464-466
+#7	AnnotatorNotes T24	602-604
+#8	AnnotatorNotes T29	748-750
+#9	AnnotatorNotes T31	786-793
+#10	AnnotatorNotes T32	837-843
+#11	AnnotatorNotes T34	894-902
+#12	AnnotatorNotes T35	961-965
+#13	AnnotatorNotes T5	72-93
+#14	AnnotatorNotes T11	272-276
+#15	AnnotatorNotes T39	384-387
+#16	AnnotatorNotes T41	804-810
+#17	AnnotatorNotes T44	232-242

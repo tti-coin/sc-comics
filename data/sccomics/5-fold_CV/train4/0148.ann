@@ -1,0 +1,64 @@
+T1	Material 4 14	structural
+T2	SC 19 34	superconducting
+T4	Characterization 135 152	X-ray diffraction
+T5	Property 175 186	resistivity
+T6	Property 191 205	oxygen content
+T8	Property 431 452	carrier concentration
+T9	SC 466 469	T c
+T10	Property 499 511	hole filling
+T11	SC 539 542	T c
+T12	Property 583 587	hole
+T14	SC 687 690	T c
+T15	SC 823 826	T c
+T17	SC 906 918	superconduct
+T18	SC 1027 1030	T c
+T25	Main 95 110	ErBa2Cu3O7 − δ
+T35	Element 375 397	ErBa2(Cu1 − x Co x O z
+T40	Value 295 296	0
+T41	Value 303 307	0.15
+T43	Value 312 313	0
+T45	Value 320 324	0.45
+T46	Element 515 517	Co
+T47	Element 600 602	Ca
+T48	Element 607 644	(Er1 − y Ca y )Ba2(Cu1 − x Co x )3O z
+T54	Element 676 678	Co
+T55	Element 721 723	Ca
+T56	Element 779 816	(Er0.55Ca0.45)Ba2(Cu0.85Co0.15)3O6.81
+T57	Value 830 834	71 K
+T58	Element 871 896	ErBa2(Cu0.85Co0.15)3O6.70
+T59	Element 950 955	oxide
+T60	Element 957 993	(Er1 − y Ca y )Ba2(Cu − x Co x )3O z
+T68	Value 1059 1063	0.12
+T71	Value 1075 1079	0.24
+T73	Value 402 403	0
+T74	Value 410 414	0.15
+T23	Property 159 173	susceptibility
+T33	Element 355 357	Co
+T3	Doping 79 91	substitution
+T7	Doping 588 594	doping
+T16	Value 1044 1046	86
+T21	Value 1050 1054	84 K
+T20	Element 49 51	Cu
+T22	Element 52 54	Co
+T24	Element 67 69	Er
+T26	Element 70 72	Ca
+T28	Element 73 75	Cu
+T29	Element 76 78	Co
+T13	Property 358 371	concentration
+T30	Element 773 778	oxide
+T27	Element 231 268	(Er1 − y Ca y )Ba2(Cu1 − x Co x )3O z
+T31	Element 224 230	oxides
+R1	Equivalent Arg1:T15 Arg2:T57
+R2	Target Arg1:T57 Arg2:T56
+R3	Equivalent Arg1:T18 Arg2:T16
+R4	Equivalent Arg1:T18 Arg2:T21
+R5	Target Arg1:T16 Arg2:T60
+R6	Target Arg1:T21 Arg2:T60
+R7	Target Arg1:E1 Arg2:T25
+R8	Target Arg1:E2 Arg2:T48
+R9	Target Arg1:E4 Arg2:T25
+R10	Target Arg1:E3 Arg2:T25
+E1	Doping:T3 Site:T24 Dopant:T26
+E2	Doping:T7 Dopant:T12 Site:T47
+E4	Doping:T3 Site:T20 Dopant:T22
+E3	Doping:T3 Site:T28 Dopant:T29

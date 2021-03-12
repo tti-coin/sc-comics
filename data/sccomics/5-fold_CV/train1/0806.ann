@@ -1,0 +1,10 @@
+T1	SC 64 79	superconducting
+T2	Property 224 244	compressive stresses
+T3	Element 466 469	CS1
+T4	Property 822 829	density
+T5	Property 1022 1042	compressive stresses
+T6	Property 1218 1224	stress
+T8	Property 1382 1388	stress
+T9	Property 1443 1449	stress
+T10	Property 580 591	load cycles
+T11	Material 80 87	magnets

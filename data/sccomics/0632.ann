@@ -1,0 +1,61 @@
+T1	Element 12 16	63Cu
+T3	Element 41 43	Hg
+T4	Material 55 62	layered
+T5	Main 80 96	HgBa2Ca4Cu5O12+y
+T6	Main 98 105	Hg-1245
+T7	SC 112 115	T c
+T8	Element 156 158	Cu
+T9	Material 186 198	multilayered
+T10	Element 199 207	cuprates
+T13	Property 358 373	carrier-density
+T14	SC 420 437	superconductivity
+T15	SC 439 441	SC
+T16	SC 500 503	T c
+T17	Property 528 550	quantum critical point
+T19	Property 570 579	AFM order
+T20	SC 638 647	high- T c
+T21	SC 648 650	SC
+T23	Property 655 664	AFM order
+T24	Material 678 685	layered
+T26	Property 718 727	AFM order
+T28	Property 829 848	interlayer coupling
+T29	Property 859 874	carrier-density
+T30	Property 969 983	phase diagrams
+T33	Property 1049 1059	AFM moment
+T34	Material 1067 1075	in-plane
+T35	Property 1098 1103	order
+T36	Property 1129 1137	magnetic
+T37	Property 1157 1174	antiferromagnetic
+T38	SC 1175 1200	high- T c superconductors
+T40	Value 118 122	82 K
+T41	Value 127 130	92K
+T43	Property 298 324	antiferromagnetic metallic
+T44	Property 326 330	AFMM
+T45	Value 380 384	0.17
+T46	Property 552 555	QCP
+T47	Value 476 480	0.14
+T48	Value 489 493	0.17
+T50	Property 711 714	QCP
+T51	Property 878 881	QCP
+T55	Value 741 745	0.15
+T57	Property 447 451	AFMM
+T42	Characterization 17 20	NMR
+T58	Value 67 68	5
+T59	Characterization 159 162	NMR
+T60	Value 254 255	5
+T18	Property 1027 1041	N h dependence
+T22	Property 374 377	N h
+T25	Property 483 486	N h
+T27	Property 735 738	N h
+T32	Value 692 693	4
+T49	Value 785 786	5
+T52	Property 825 828	AFM
+T2	Doping 30 40	underdoped
+T31	Doping 991 1001	underdoped
+R2	Equivalent Arg1:T7 Arg2:T40
+R3	Equivalent Arg1:T7 Arg2:T41
+R5	Target Arg1:T40 Arg2:T5
+R6	Target Arg1:T41 Arg2:T5
+R7	Target Arg1:E1 Arg2:T5
+E1	Doping:T2
+E2	Doping:T31

@@ -1,0 +1,35 @@
+T1	Material 39 54	two dimensional
+T2	Property 55 68	ASYNNNI model
+T3	Material 101 120	structure formation
+T5	SC 150 165	superconducting
+T6	Element 166 170	CuO2
+T7	Material 171 177	planes
+T8	Main 181 193	YBa2Cu3O6+ x
+T9	SC 194 216	high-Tc superconductor
+T10	Element 294 300	oxygen
+T11	Material 301 306	atoms
+T12	Property 329 340	Hamiltonian
+T13	Property 348 361	ASYNNNI model
+T14	Property 390 398	ordering
+T16	Property 467 487	oxygen concentration
+T17	Property 536 544	critical
+T18	Material 545 550	chain
+T19	Element 579 582	CuO
+T20	Material 583 589	chains
+T21	Property 624 629	holes
+T22	Element 637 641	CuO2
+T23	Material 642 648	planes
+T24	SC 669 675	Tc (x)
+T25	SC 732 734	Tc
+T27	Material 873 889	structural phase
+T28	SC 945 951	Tc (x)
+T26	Value 793 796	60K
+T33	Value 915 918	60K
+T36	Value 503 507	0.50
+T37	Value 512 516	0.65
+T38	Material 381 389	Ortho-II
+T39	Material 92 100	Ortho-II
+T40	Property 251 272	repulsive interaction
+T4	Doping 132 138	doping
+R1	Target Arg1:E1 Arg2:T8
+E1	Doping:T4 Dopant:T6

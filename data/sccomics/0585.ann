@@ -1,0 +1,42 @@
+T1	Element 14 16	Cd
+T3	Material 27 36	structure
+T4	Element 68 84	Bi–Pb–Sr–Ca–Cu–O
+T5	Material 116 127	composition
+T6	Main 131 163	Bi1.64Pb0.36Sr2Ca2−x Cd x Cu3O y
+T7	Main 165 171	BPSCCC
+T8	Element 228 234	BPSCCC
+T9	SC 235 249	superconductor
+T10	Process 264 284	solid state reaction
+T12	Characterization 335 338	XRD
+T13	Characterization 340 343	SEM
+T14	Characterization 348 351	EDX
+T15	Property 370 390	critical temperature
+T16	Property 392 416	critical current density
+T17	Property 421 440	flux pinning energy
+T18	Property 494 505	resistivity
+T20	Process 529 545	room temperature
+T21	Element 600 602	Cd
+T23	Property 772 777	model
+T26	SC 877 892	superconducting
+T27	Element 911 927	Bi–Pb–Sr–Ca–Cu–O
+T39	Characterization 471 488	four-probe method
+T40	Process 641 655	annealing time
+T41	Value 841 845	0.04
+T32	Value 175 178	0.0
+T33	Value 180 184	0.02
+T34	Value 186 190	0.04
+T35	Value 192 195	0.1
+T36	Value 197 200	0.5
+T37	Value 202 203	1
+T38	Value 208 209	2
+T19	Element 509 511	Cd
+T11	Characterization 352 364	measurements
+T22	Material 293 303	Structural
+T2	Doping 17 23	doping
+T25	Doping 512 517	doped
+T42	Doping 831 837	doping
+R2	Target Arg1:E1 Arg2:T4
+R3	Target Arg1:E3 Arg2:T27
+E1	Doping:T2 Dopant:T1
+E2	Doping:T25 Dopant:T19
+E3	Doping:T42

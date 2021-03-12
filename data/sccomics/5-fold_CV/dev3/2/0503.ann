@@ -1,0 +1,42 @@
+T1	Material 10 18	textured
+T2	Main 19 38	YBa2Cu3O7−x +xYBiO3
+T3	Material 77 82	films
+T4	Element 108 120	(00l) LaAlO3
+T5	Material 121 130	substrate
+T10	Material 229 240	orientation
+T11	Material 249 263	microstructure
+T13	Material 287 292	films
+T14	Characterization 315 332	X-ray diffraction
+T15	Characterization 334 337	XRD
+T16	Characterization 357 385	scanning electron microscope
+T17	Characterization 387 390	SEM
+T19	Property 402 422	electrical transport
+T20	Property 427 440	magnetization
+T21	SC 474 489	superconducting
+T22	Material 509 514	films
+T24	Property 520 535	surface density
+T26	Element 564 575	YBa2Cu3O7−x
+T27	Material 576 581	films
+T28	Material 632 636	film
+T30	SC 679 696	superconductivity
+T31	Element 700 711	YBa2Cu3O7−x
+T32	Material 712 717	films
+T33	Process 209 215	PA-CSD
+T38	Value 42 43	0
+T39	Value 45 48	2.0
+T40	Value 50 53	5.0
+T41	Value 58 65	10.0wt%
+T48	Property 540 550	smoothness
+T29	Element 655 660	YBiO3
+T12	Element 267 286	YBa2Cu3O7−x +xYBiO3
+T7	Property 149 161	non-fluorine
+T18	Process 134 148	self-developed
+T23	Doping 558 563	doped
+T25	Doping 661 667	doping
+T6	Element 162 169	polymer
+T8	Material 179 196	chemical solution
+T9	Process 197 207	deposition
+R1	Target Arg1:E1 Arg2:T26
+R2	Target Arg1:E2 Arg2:T31
+E1	Doping:T23 
+E2	Doping:T25 Dopant:T29

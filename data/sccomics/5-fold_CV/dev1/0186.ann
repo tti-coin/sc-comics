@@ -1,0 +1,84 @@
+T1	SC 9 23	superconductor
+T5	Material 473 480	crystal
+T6	Material 481 489	symmetry
+T7	Material 504 524	unit cell parameters
+T8	Property 530 550	dopant concentration
+T9	Material 556 562	dopant
+T11	Material 695 712	crystal structure
+T12	Material 732 738	dopant
+T14	SC 768 771	T c
+T15	Property 860 874	oxygen content
+T16	Material 897 903	dopant
+T17	Material 972 979	crystal
+T18	Material 980 988	symmetry
+T19	SC 993 996	T c
+T20	Property 1110 1129	magnetic properties
+T22	Material 1172 1179	dopants
+T23	Property 1198 1206	magnetic
+T24	Property 1220 1238	antiferromagnetism
+T25	SC 1243 1260	superconductivity
+T27	SC 1501 1523	transition temperature
+T29	SC 1866 1883	superconductivity
+T33	Value 4 8	90 K
+T34	Main 25 34	YBa2Cu3Oδ
+T35	Main 36 40	YBCO
+T37	Element 305 309	YBCO
+T38	Element 415 419	YBCO
+T39	Element 675 681	copper
+T40	Main 1283 1299	RBa2Cu3Oδ phases
+T42	Main 1449 1465	R1+x Ba2-x CU3Oδ
+T47	Element 1551 1565	R1.5Ba1.5Cu3Oδ
+T49	Element 1779 1781	La
+T50	Element 1791 1793	Ba
+T51	Element 1719 1729	LaBa2Cu3Oδ
+T53	Element 2022 2025	123
+T54	Value 1676 1679	0.1
+T55	Value 1704 1705	0
+T57	Element 1692 1695	La,
+T59	Element 1651 1653	Dy
+T61	Value 1987 1993	20 000
+T62	Element 2186 2190	YBCO
+T64	Element 1819 1821	Ba
+T65	Element 221 232	noble gases
+T66	Element 237 246	actinides
+T67	Material 128 136	cationic
+T68	Property 141 148	anionic
+T70	Element 627 633	copper
+T13	SC 746 766	critical temperature
+T71	Element 1305 1315	lanthanide
+T75	Element 1207 1218	lanthanides
+T77	Element 1416 1427	rare earths
+T78	Property 430 447	solubility limits
+T79	Property 953 970	solubility limits
+T80	Property 1034 1051	solubility limits
+T81	Property 1570 1584	semiconducting
+T82	Property 1606 1622	solubility limit
+T83	Material 1822 1831	deficient
+T30	Process 1890 1918	liquid nitrogen temperatures
+T2	Doping 149 162	substitutions
+T3	Doping 270 280	substitute
+T4	Doping 363 376	substitutions
+T10	Doping 634 646	substitution
+T21	Doping 1133 1138	doped
+T26	Doping 1363 1369	doping
+T28	Doping 1763 1775	substitution
+T31	Doping 2137 2150	substitutions
+T32	Element 1922 1931	YBa2Cu3O7
+R1	Coref Arg1:T34 Arg2:T35
+R2	Equivalent Arg1:T1 Arg2:T33
+R3	Target Arg1:T33 Arg2:T34
+R4	Coref Arg1:T13 Arg2:T14
+R5	Target Arg1:E1 Arg2:T34
+R6	Target Arg1:E2 Arg2:T37
+R7	Target Arg1:E3 Arg2:T38
+R8	Target Arg1:E6 Arg2:T40
+R9	Target Arg1:E9 Arg2:T34
+E1	Doping:T2 Dopant:T67
+E2	Doping:T3 
+E3	Doping:T4 
+E4	Doping:T10 Site:T70
+E5	Doping:T21 Dopant:T75
+E6	Doping:T26 Dopant:T71
+E7	Doping:T28 Dopant:T49 Site:T50
+E8	Doping:T31 
+E9	Doping:T2 Dopant:T68

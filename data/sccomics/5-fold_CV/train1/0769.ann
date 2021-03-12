@@ -1,0 +1,13 @@
+T1	Main 27 56	Y1− x Sr x Ba2− x La x Cu3O y
+T4	Characterization 129 146	X-ray diffraction
+T5	Material 152 162	structures
+T6	Property 224 245	carrier concentration
+T8	SC 305 322	superconductivity
+T9	SC 437 440	T c
+T10	Material 534 544	structural
+T11	SC 615 641	high T c superconductivity
+T2	Property 95 111	DC magnetization
+T17	Characterization 194 209	Rietveld method
+T7	Doping 286 292	doping
+T3	Characterization 112 124	measurements
+E1	Doping:T7 

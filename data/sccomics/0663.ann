@@ -1,0 +1,21 @@
+T1	Property 25 45	transport properties
+T2	Main 49 63	Ln FeAsO 1 - y
+T3	Element 69 71	La
+T4	Element 73 75	Nd
+T6	Property 140 151	resistivity
+T8	Element 205 207	La
+T9	Element 212 214	Nd
+T10	Element 230 232	La
+T12	Process 302 318	low temperatures
+T13	Property 345 362	magnetoresistance
+T14	Element 390 392	Nd
+T15	Property 412 415	T C
+T16	Property 454 471	magnetoresistance
+T17	Element 552 565	NdFeAsO 1 - y
+T18	Property 604 607	T C
+T21	Element 65 67	Ln
+T7	Property 505 513	carriers
+T5	Doping 98 104	doping
+T11	Property 251 254	T C
+R1	Target Arg1:E1 Arg2:T2
+E1	Doping:T5

@@ -1,0 +1,62 @@
+T1	Material 0 5	Films
+T2	Main 9 33	Bi1.7Pb0.3Sr2Ca2Cu3O10+d
+T4	Material 59 72	nanoparticles
+T5	Element 73 77	TiO2
+T6	Process 83 92	deposited
+T7	Material 106 116	substrates
+T8	Material 125 136	crystalline
+T9	Element 137 139	Si
+T10	Element 144 147	MgO
+T12	Process 182 191	Deposited
+T13	Process 210 218	annealed
+T14	Element 277 283	oxygen
+T15	Process 297 305	Annealed
+T16	Material 306 311	films
+T17	Characterization 347 364	X-ray diffraction
+T18	Characterization 404 432	scanning electron microscopy
+T19	Characterization 437 460	atomic force microscopy
+T21	Material 557 567	thin films
+T23	SC 608 623	superconducting
+T24	Element 659 666	Bi-2223
+T25	Element 675 689	Bi-2212 phases
+T28	Property 770 778	metallic
+T29	SC 814 836	transition temperature
+T30	SC 838 840	TC
+T31	Material 847 852	films
+T32	Process 853 862	deposited
+T33	Element 866 868	Si
+T34	Material 869 878	substrate
+T35	Process 924 933	deposited
+T36	Element 937 940	MgO
+T37	Material 941 950	substrate
+T38	Process 1077 1098	annealing temperature
+T40	Material 1146 1164	surface morphology
+T41	Element 1186 1188	Ti
+T42	Material 1189 1202	nanoparticles
+T43	Material 1218 1224	grains
+T44	Material 1233 1249	grain boundaries
+T45	Material 1257 1261	film
+T46	Material 1336 1342	grains
+T27	Value 245 248	820
+T48	Value 253 259	840 °C
+T49	Value 55 58	0.2
+T11	Value 981 988	116.5 K
+T51	Value 996 999	820
+T52	Value 971 976	114.5
+T53	Value 896 901	117 K
+T54	Value 888 891	115
+T55	Value 1004 1010	840 °C
+T22	Characterization 569 588	Structural analysis
+T39	Property 1138 1145	densest
+T50	Process 151 180	pulse laser deposition method
+T20	Characterization 462 499	Energy dispersive X-ray spectrometric
+T56	Property 369 384	morphologically
+T3	Doping 43 51	addition
+T26	Property 703 718	DC. resistivity
+T47	Characterization 719 731	measurements
+R4	Target Arg1:E1 Arg2:T2
+R5	Equivalent Arg1:T29 Arg2:T52
+R6	Equivalent Arg1:T29 Arg2:T11
+E1	Doping:T3 Dopant:T5
+R2	Equivalent Arg1:T29 Arg2:T54
+R3	Equivalent Arg1:T29 Arg2:T53

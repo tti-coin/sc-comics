@@ -1,0 +1,47 @@
+T2	Element 31 37	Pr6O11
+T3	Property 56 80	critical current density
+T4	Property 82 85	J c
+T5	Property 88 106	irreversible field
+T6	Property 119 139	upper critical field
+T8	Main 154 158	MgB2
+T9	Material 159 164	bulks
+T11	Element 244 250	Pr6O11
+T13	Property 299 302	J c
+T15	Element 326 330	MgB2
+T16	Material 331 336	bulks
+T18	SC 407 410	T c
+T19	Property 426 436	self-field
+T20	Property 442 445	J c
+T22	Element 478 482	MgB2
+T27	Material 621 625	bulk
+T28	Element 681 687	Pr6O11
+T29	SC 698 715	superconductivity
+T30	Property 720 732	flux pinning
+T31	Value 646 651	2.6 T
+T33	Value 589 593	10 K
+T34	Value 416 420	20 K
+T35	Material 251 261	nanopowder
+T24	Material 38 48	nanopowder
+T21	Element 465 471	Pr6O11
+T37	Value 493 507	3.61×105 A/cm2
+T7	Element 179 181	Mg
+T10	Value 459 464	1 wt%
+T14	Value 638 641	1.9
+T25	Property 599 603	H c2
+T26	Property 141 145	H c2
+T39	Property 108 113	H irr
+T40	Property 608 613	H irr
+T41	Property 314 318	H c2
+T1	Doping 19 27	addition
+T12	Doping 262 268	doping
+T23	Doping 472 477	doped
+T38	Doping 688 694	doping
+T17	SC 367 405	superconducting transition temperature
+R1	Target Arg1:E1 Arg2:T8
+R2	Target Arg1:E2 Arg2:T15
+R3	Target Arg1:E3 Arg2:T22
+R4	Coref Arg1:T17 Arg2:T18
+E1	Doping:T1 Dopant:T2
+E2	Doping:T12 Dopant:T11
+E3	Doping:T23 Dopant:T21
+E5	Doping:T38 Dopant:T28

@@ -1,0 +1,27 @@
+T1	Material 19 23	bulk
+T2	SC 24 39	superconducting
+T3	Property 40 60	electronic structure
+T5	Main 80 98	YBa 2 Cu 3 O 7 - δ
+T6	Main 100 104	YBCO
+T10	Property 173 177	band
+T11	Material 273 280	surface
+T12	Element 291 294	CuO
+T13	Material 295 300	chain
+T14	Property 301 305	band
+T15	Material 313 317	bulk
+T16	Property 318 329	sensitivity
+T17	Material 337 343	matrix
+T18	SC 410 425	superconducting
+T20	Property 549 562	quasiparticle
+T21	SC 592 595	T c
+T8	Value 368 376	6.994 eV
+T22	Value 461 466	12meV
+T19	Property 222 225	gap
+T23	Property 199 216	d x 2 - y 2 -wave
+T24	Value 598 607	0.5 – 0.7
+T25	Property 426 429	gap
+T26	Characterization 112 167	laser-excited angle-resolved photoemission spectroscopy
+T4	Doping 74 79	doped
+R1	Coref Arg1:T5 Arg2:T6
+R2	Target Arg1:E1 Arg2:T5
+E1	Doping:T4 

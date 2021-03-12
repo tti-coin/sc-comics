@@ -1,0 +1,30 @@
+T1	Property 15 35	optical conductivity
+T2	Main 39 57	Bi2Sr2CaCu2O 8 + δ
+T3	Material 58 66	material
+T7	Property 165 185	optical conductivity
+T8	Material 193 201	material
+T11	Property 308 317	pseudogap
+T12	Property 336 347	excitations
+T13	Property 355 375	optical conductivity
+T16	SC 530 568	superconducting transition temperature
+T17	SC 569 571	TC
+T18	Property 604 624	optical conductivity
+T19	SC 643 645	TC
+T20	Property 692 701	pseudogap
+T22	Property 833 841	theories
+T5	Property 118 152	Rotating Antiferromagnetism Theory
+T6	Property 154 158	RAFT
+T23	Property 72 95	function of temperature
+T4	Doping 100 106	doping
+T9	Doping 218 228	underdoped
+T10	Doping 232 241	overdoped
+T14	Doping 407 417	underdoped
+T15	Doping 431 436	doped
+T21	Doping 739 745	doping
+R2	Target Arg1:E1 Arg2:T2
+E1	Doping:T4
+E2	Doping:T9
+E3	Doping:T10
+E4	Doping:T14
+E5	Doping:T15
+E6	Doping:T21

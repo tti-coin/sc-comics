@@ -1,0 +1,39 @@
+T1	SC 17 32	superconductors
+T2	Material 38 45	layered
+T3	Material 46 55	structure
+T5	SC 68 83	superconductors
+T7	Element 161 163	Se
+T8	Element 168 169	S
+T9	Material 171 184	isostructural
+T11	SC 246 263	superconductivity
+T12	Material 308 328	atomic displacements
+T13	Main 332 347	Sr0.5La0.5FBiS2
+T14	Main 352 368	Sr0.5La0.5FBiSe2
+T15	Element 380 382	Bi
+T16	Characterization 392 432	extended X-ray absorption fine structure
+T17	Characterization 434 439	EXAFS
+T18	SC 482 499	superconductivity
+T19	Element 525 540	Sr0.5La0.5FBiS2
+T20	Element 560 565	BiSe2
+T21	Material 566 579	bond distance
+T22	Element 618 620	Sr
+T23	Element 621 624	LaF
+T24	Material 625 631	layers
+T25	Element 636 641	BiSe2
+T26	Material 642 648	layers
+T27	Property 680 689	electrons
+T28	SC 695 710	superconducting
+T29	Material 711 717	layers
+T31	Element 765 781	Sr0.5La0.5FBiSe2
+T32	SC 827 842	superconducting
+T33	Material 843 848	plane
+T36	SC 967 984	superconductivity
+T30	Material 750 761	BiSe1 plane
+T34	SC 908 929	superconducting plane
+T35	Property 876 893	interlay coupling
+T4	Element 57 61	BiS2
+T37	Element 988 993	BiSe2
+T10	Element 185 190	BiSe2
+T6	Doping 145 157	substitution
+R1	Target Arg1:E1 Arg2:T10
+E1	Doping:T6 Dopant:T7 Site:T8

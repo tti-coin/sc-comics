@@ -1,0 +1,60 @@
+T1	Material 0 4	Bulk
+T2	Main 5 9	MgB2
+T4	Element 21 22	C
+T5	Element 27 29	Fe
+T7	Process 56 77	solid state sintering
+T8	Element 90 99	C6H10FeO6
+T9	Material 103 109	dopant
+T10	Material 115 132	phase composition
+T11	Material 134 148	microstructure
+T12	SC 154 169	superconducting
+T13	Characterization 195 212	X-ray diffraction
+T14	Characterization 214 217	XRD
+T15	Element 241 245	iron
+T18	Element 280 289	C6H10FeO6
+T19	Material 311 317	c-axis
+T20	Element 332 336	MgB2
+T21	Material 374 379	(100)
+T23	Material 384 389	(002)
+T24	Characterization 420 423	XRD
+T25	Element 434 436	Fe
+T26	Material 437 442	atoms
+T27	Characterization 502 530	scanning electron microscope
+T28	Property 549 562	magnetization
+T29	Element 615 619	MgB2
+T30	SC 620 634	superconductor
+T31	Element 649 653	iron
+T32	Material 665 674	materials
+T33	Property 710 723	magnetization
+T34	Property 729 749	residual resistivity
+T35	Element 777 786	C6H10FeO6
+T37	Property 815 835	critical temperature
+T39	Property 891 915	critical current density
+T40	Property 917 920	J c
+T42	Property 962 983	irreversibility field
+T43	Property 1000 1020	upper critical field
+T47	Material 1099 1114	impurity phases
+T48	Element 1123 1126	MgO
+T49	Property 1161 1164	J c
+T6	Property 1022 1026	H c2
+T22	Property 1044 1048	H c2
+T44	Property 985 990	H irr
+T45	Property 1053 1058	H irr
+T3	Doping 10 15	doped
+T16	Doping 256 262	doping
+T17	Doping 268 276	addition
+T36	Doping 787 793	doping
+T38	Doping 866 872	doping
+T41	Doping 926 932	doping
+R1	Target Arg1:E1 Arg2:T2
+R2	Target Arg1:E4 Arg2:T2
+R3	Target Arg1:E3 Arg2:T20
+R4	Target Arg1:E8 Arg2:T2
+E1	Doping:T3 Dopant:T4
+E2	Doping:T16
+E3	Doping:T17 Dopant:T18
+E4	Doping:T3 Dopant:T8
+E5	Doping:T36 Dopant:T35
+E6	Doping:T38
+E7	Doping:T41
+E8	Doping:T3 Dopant:T5

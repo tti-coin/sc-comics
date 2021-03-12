@@ -1,0 +1,79 @@
+T1	Process 10 20	MBE growth
+T3	Element 28 32	iron
+T4	SC 39 54	superconductors
+T5	Main 56 73	Sr1− x K x Fe2As2
+T6	Main 75 92	Ba1− x K x Fe2As2
+T7	Main 98 109	SmFeAs(O,F)
+T8	Process 118 124	growth
+T9	Element 128 145	Sr1− x K x Fe2As2
+T10	Element 150 167	Ba1− x K x Fe2As2
+T11	Material 168 173	films
+T13	Property 200 208	volatile
+T14	Element 209 210	K
+T15	Material 214 219	films
+T16	Process 223 238	low-temperature
+T17	Process 251 257	growth
+T18	Element 269 271	As
+T19	Material 272 276	flux
+T20	SC 290 293	T c
+T23	Element 372 389	Sr1− x K x Fe2As2
+T24	Element 394 411	Ba1− x K x Fe2As2
+T25	Process 434 440	growth
+T26	SC 444 459	superconducting
+T27	Element 460 471	SmFeAs(O,F)
+T28	Element 542 543	F
+T29	Element 549 556	SmFeAsO
+T30	Material 557 562	films
+T31	Element 592 593	F
+T32	Material 601 606	films
+T33	Element 611 612	F
+T34	Property 613 622	diffusion
+T35	Element 644 648	SmF3
+T36	Element 652 656	NdF3
+T37	Process 699 705	growth
+T38	Process 712 717	grown
+T39	SC 718 733	superconducting
+T40	Element 734 745	SmFeAs(O,F)
+T41	Material 746 751	films
+T42	Element 769 771	Sm
+T43	Element 773 777	SmF3
+T44	Element 779 781	Fe
+T45	Element 787 789	As
+T46	Process 819 837	growth temperature
+T47	Property 916 925	diffusion
+T48	Material 938 943	films
+T49	Element 956 957	F
+T50	Property 958 967	diffusion
+T53	Process 1021 1026	grown
+T54	Material 1027 1032	films
+T55	SC 1040 1046	T c on
+T65	Value 335 341	33.4 K
+T66	Value 343 348	31.0K
+T67	Value 354 359	38.3K
+T68	Value 361 366	35.5K
+T73	Value 853 858	650°C
+T74	Value 994 997	52K
+T75	Value 999 1004	48.6K
+T76	Value 1048 1051	47K
+T77	Element 914 915	F
+T2	Doping 186 199	incorporating
+T12	Value 240 243	300
+T56	Value 244 249	350°C
+T21	SC 314 320	T c on
+T22	SC 323 330	T c end
+T51	SC 975 981	T c on
+T52	SC 984 991	T c end
+R1	Target Arg1:T65 Arg2:T23
+R2	Target Arg1:T66 Arg2:T23
+R3	Target Arg1:T67 Arg2:T24
+R4	Target Arg1:T68 Arg2:T24
+R5	Equivalent Arg1:T55 Arg2:T76
+R6	Target Arg1:E2 Arg2:T9
+R7	Target Arg1:E2 Arg2:T10
+R8	Equivalent Arg1:T21 Arg2:T65
+R9	Equivalent Arg1:T22 Arg2:T66
+R10	Equivalent Arg1:T21 Arg2:T67
+R11	Equivalent Arg1:T22 Arg2:T68
+R12	Equivalent Arg1:T51 Arg2:T74
+R13	Equivalent Arg1:T52 Arg2:T75
+E2	Doping:T2 Dopant:T14

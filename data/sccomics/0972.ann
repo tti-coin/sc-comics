@@ -1,0 +1,41 @@
+T1	Property 46 68	transition temperature
+T2	Property 70 90	thermal conductivity
+T3	Property 92 112	thermoelectric power
+T4	Property 117 130	specific heat
+T5	Material 156 164	pristine
+T7	Main 189 223	Dy0.95Pr0.05Ba2(Cu0.98 M0.02)3O7−δ
+T8	Element 234 236	Fe
+T9	Element 238 240	Co
+T10	Element 242 244	Ni
+T11	Element 249 251	Zn
+T12	Property 258 280	electrical resistivity
+T13	Property 323 331	metallic
+T14	Property 346 366	thermal conductivity
+T15	Material 395 403	pristine
+T16	Element 414 426	DyBa2Cu3O7−δ
+T17	Property 461 481	thermal conductivity
+T18	Property 500 522	transition temperature
+T19	Element 555 557	Pr
+T21	Property 616 636	thermoelectric power
+T22	Material 664 672	pristine
+T23	Property 689 693	hole
+T26	Material 763 771	Pristine
+T27	Property 806 819	specific heat
+T28	Element 829 831	Pr
+T29	Property 875 897	transition temperature
+T34	Value 552 554	5%
+T33	Characterization 30 42	measurements
+T20	Doping 558 564	doping
+T25	Doping 731 736	doped
+T35	Doping 832 838	doping
+T6	Doping 172 177	doped
+T24	Doping 604 610	doping
+T31	Characterization 637 649	measurements
+T30	Doping 748 753	doped
+R1	Target Arg1:E1 Arg2:T7
+E2	Doping:T20 Dopant:T19
+E4	Doping:T25
+E6	Doping:T35 Dopant:T28
+E1	Doping:T6
+E3	Doping:T24
+E5	Doping:T30

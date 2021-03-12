@@ -1,0 +1,111 @@
+T2	Material 17 27	thin films
+T3	Process 56 65	annealing
+T4	Material 118 123	films
+T6	SC 347 350	T c
+T7	SC 356 359	T c
+T8	Material 376 386	thin films
+T9	SC 498 501	T c
+T10	SC 569 572	T c
+T11	Material 594 604	thin films
+T13	Material 782 787	films
+T14	Material 824 831	surface
+T15	Material 832 842	morphology
+T16	Material 852 857	films
+T17	Material 901 907	grains
+T18	Element 0 2	Cd
+T19	Main 9 16	Tl-2223
+T20	Element 66 82	B2Ca2Cd x Cu3O y
+T24	Value 88 91	0.0
+T25	Value 93 96	0.1
+T26	Value 98 101	0.2
+T27	Value 103 106	0.3
+T28	Element 138 147	MgO (100)
+T29	Element 182 186	Tl2O
+T30	Value 247 252	890°C
+T31	Value 257 260	2 h
+T32	Element 272 274	Cd
+T33	Element 314 324	2223 phase
+T34	Value 399 404	118 K
+T35	Value 406 411	120 K
+T36	Value 413 418	124 K
+T37	Value 423 428	121 K
+T38	Element 446 448	Cd
+T40	Value 462 465	0.0
+T41	Value 467 470	0.1
+T42	Value 472 475	0.2
+T43	Value 480 483	0.3
+T44	Value 504 509	124 K
+T46	Value 518 521	0.2
+T47	Value 576 581	122 K
+T48	Element 586 593	Tl-2223
+T49	Property 758 761	J c
+T50	Element 773 775	Cd
+T51	Value 808 812	77 K
+T52	Value 814 817	0 T
+T53	Value 31 35	1 μm
+T54	Value 791 806	1.12 × 105A/cm2
+T55	Value 214 223	10−5 Torr
+T56	Value 769 772	0.2
+T57	Element 679 685	oxygen
+T58	Material 232 243	quartz tube
+T59	Process 151 177	ultrasonic spray pyrolysis
+T1	Doping 3 8	doped
+T5	Doping 262 268	Doping
+T12	Doping 776 781	doped
+R1	Equivalent Arg1:T10 Arg2:T47
+R2	Equivalent Arg1:T9 Arg2:T44
+R3	Equivalent Arg1:T7 Arg2:T34
+R4	Equivalent Arg1:T7 Arg2:T35
+R5	Equivalent Arg1:T7 Arg2:T36
+R6	Equivalent Arg1:T7 Arg2:T37
+R7	Target Arg1:T47 Arg2:T48
+R8	Target Arg1:T44 Arg2:T48
+R9	Target Arg1:E1 Arg2:T19
+R10	Target Arg1:E2 Arg2:T33
+E1	Doping:T1 Dopant:T18
+E2	Doping:T5 Dopant:T32
+E3	Doping:T12 Dopant:T50
+#1	AnnotatorNotes T2	17-27
+#2	AnnotatorNotes T4	118-123
+#3	AnnotatorNotes T8	376-386
+#4	AnnotatorNotes T11	594-604
+#5	AnnotatorNotes T13	782-787
+#6	AnnotatorNotes T14	824-831
+#7	AnnotatorNotes T15	832-842
+#8	AnnotatorNotes T16	852-857
+#9	AnnotatorNotes T17	901-907
+#10	AnnotatorNotes T18	0-2
+#11	AnnotatorNotes T19	9-16
+#12	AnnotatorNotes T20	66-82
+#13	AnnotatorNotes T24	88-91
+#14	AnnotatorNotes T25	93-96
+#15	AnnotatorNotes T26	98-101
+#16	AnnotatorNotes T27	103-106
+#17	AnnotatorNotes T28	138-147
+#18	AnnotatorNotes T29	182-186
+#19	AnnotatorNotes T30	247-252
+#20	AnnotatorNotes T31	257-260
+#21	AnnotatorNotes T32	272-274
+#22	AnnotatorNotes T33	314-324
+#23	AnnotatorNotes T34	399-404
+#24	AnnotatorNotes T35	406-411
+#25	AnnotatorNotes T36	413-418
+#26	AnnotatorNotes T37	423-428
+#27	AnnotatorNotes T38	446-448
+#28	AnnotatorNotes T40	462-465
+#29	AnnotatorNotes T41	467-470
+#30	AnnotatorNotes T42	472-475
+#31	AnnotatorNotes T43	480-483
+#32	AnnotatorNotes T44	504-509
+#33	AnnotatorNotes T46	518-521
+#34	AnnotatorNotes T47	576-581
+#35	AnnotatorNotes T48	586-593
+#36	AnnotatorNotes T50	773-775
+#37	AnnotatorNotes T51	808-812
+#38	AnnotatorNotes T52	814-817
+#39	AnnotatorNotes T53	31-35
+#40	AnnotatorNotes T54	791-806
+#41	AnnotatorNotes T55	214-223
+#42	AnnotatorNotes T56	769-772
+#43	AnnotatorNotes T57	679-685
+#44	AnnotatorNotes T58	232-243

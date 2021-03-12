@@ -1,0 +1,123 @@
+T2	Element 14 16	Zn
+T3	Element 24 26	Cu
+T4	Main 43 77	Cu0.5Tl0.5Ba2Ca3Cu4− y Zn y O12− δ
+T5	SC 115 130	superconductors
+T6	Property 171 176	spins
+T7	Element 180 182	Cu
+T8	Material 183 188	atoms
+T9	Property 249 254	spins
+T10	Material 273 279	planes
+T11	Property 343 355	conductivity
+T12	Property 456 462	theory
+T13	Property 470 478	critical
+T14	SC 500 522	transition temperature
+T15	SC 524 527	T c
+T16	Property 559 564	model
+T17	SC 575 578	T c
+T18	Property 638 649	Cooper pair
+T19	SC 678 681	T c
+T20	Property 704 716	Cooper-pairs
+T21	Property 731 740	electrons
+T22	Property 781 786	model
+T23	Property 831 847	coherence length
+T24	Material 858 864	c-axis
+T26	Material 879 890	inter-plane
+T27	Property 924 934	relaxation
+T28	Property 967 981	Fermi velocity
+T29	Property 1047 1062	electrons pairs
+T31	Property 1147 1160	thermodynamic
+T33	Property 1161 1184	critical magnetic field
+T34	Property 1205 1219	critical field
+T35	Property 1235 1255	upper critical field
+T37	Property 1271 1295	critical current density
+T39	SC 1391 1394	T c
+T40	Property 1443 1451	critical
+T41	Property 1458 1475	three dimensional
+T42	Property 1477 1479	3D
+T43	Property 1482 1497	two dimensional
+T45	Element 1668 1670	Zn
+T46	Element 1682 1684	Cu
+T47	Property 1818 1820	3D
+T48	Property 1821 1823	AL
+T49	Property 1824 1826	LD
+T50	Property 1840 1861	crossover temperature
+T52	Element 1912 1914	Zn
+T54	Property 1956 1963	density
+T55	Property 1973 1978	spins
+T56	Element 1982 1984	Cu
+T57	Material 1985 1990	atoms
+T58	Element 2012 2014	Zn
+T60	Property 2040 2044	spin
+T62	Property 2111 2126	critical fields
+T64	Property 2225 2232	density
+T65	Property 2242 2247	spins
+T66	Element 2251 2253	Cu
+T67	Material 2254 2259	atoms
+T68	Element 2267 2271	CuO2
+T69	Element 2272 2276	ZnO2
+T70	Material 2277 2283	planes
+T72	Element 2364 2398	Cu0.5Tl0.5Ba2Ca3Cu4− y Zn y O12− δ
+T73	SC 2436 2451	superconductors
+T77	Value 82 83	0
+T78	Property 218 240	anti-ferromagnetically
+T79	Element 268 272	CuO2
+T80	Material 27 33	planar
+T81	Property 947 955	carriers
+T25	Property 1111 1126	Ginzburg–Landau
+T36	Property 1081 1096	Ginzburg number
+T83	Property 1098 1101	N G
+T84	Property 1128 1130	GL
+T85	Property 1221 1228	B c1(0)
+T86	Property 1257 1264	B c2(0)
+T38	Property 1297 1303	J c(0)
+T87	Property 1499 1501	2D
+T88	Property 1507 1523	zero dimensional
+T89	Property 1525 1527	0D
+T90	Property 1564 1570	B c(0)
+T91	Property 1572 1579	B c1(0)
+T44	Property 1584 1590	J c(0)
+T92	Property 983 986	V F
+T93	Property 1186 1192	B c(0)
+T94	Property 1712 1714	2D
+T95	Property 1723 1725	0D
+T96	Property 1763 1765	2D
+T51	Property 1864 1869	3D-2D
+T61	Property 2104 2109	3D-2D
+T97	Property 2128 2134	B c(0)
+T98	Property 2136 2144	B c1(0))
+T63	Property 2146 2152	J c(0)
+T99	Property 2325 2333	spin gap
+T100	Property 2350 2360	pseudo-gap
+T104	Value 2403 2404	0
+T105	Value 2406 2409	0.5
+T106	Value 2411 2414	1.0
+T107	Value 2416 2419	1.5
+T108	Value 2421 2424	2.0
+T109	Value 2426 2429	2.5
+T110	Value 2431 2434	3.0
+T71	Value 85 88	0.5
+T111	Value 90 93	1.0
+T112	Value 95 98	1.5
+T113	Value 100 103	2.0
+T30	Property 762 775	Maki-Thompson
+T114	Property 777 779	MT
+T115	Property 434 450	Aslamazov–Larkin
+T116	Property 452 454	AL
+T117	Property 537 553	Lawrence–Doniach
+T118	Property 555 557	LD
+T119	Value 105 108	2.5
+T120	Value 110 113	3.0
+T121	Property 323 355	fluctuation induced conductivity
+T122	Property 357 360	FIC
+T123	Property 1715 1717	LD
+T124	Property 1766 1768	LD
+T125	Property 1771 1773	MT
+T1	Doping 8 13	doped
+T53	Doping 1915 1921	doping
+T59	Doping 2015 2021	doping
+T32	Property 866 872	ξ c(0)
+T74	Property 995 1003	carriers
+R2	Target Arg1:E1 Arg2:T4
+E1	Doping:T1 Dopant:T2 Site:T3
+E2	Doping:T53 Dopant:T52
+E3	Doping:T59 Dopant:T58 Site:T56

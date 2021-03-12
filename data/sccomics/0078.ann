@@ -1,0 +1,71 @@
+T1	Material 2 12	structural
+T2	Material 47 62	single crystals
+T3	SC 68 91	transition temperatures
+T4	SC 94 97	T c
+T5	Process 113 130	recrystallization
+T6	Material 134 141	ceramic
+T8	Process 193 206	high pressure
+T9	Characterization 247 252	X-ray
+T10	SC 342 345	T c
+T11	Material 464 469	plane
+T13	Material 485 493	crystals
+T15	Material 605 613	crystals
+T18	Material 845 854	vacancies
+T19	Material 905 912	defects
+T20	Material 921 935	misorientation
+T21	SC 1047 1050	T c
+T22	Material 1113 1120	defects
+T23	Material 1140 1154	misorientation
+T24	SC 1209 1212	T c
+T25	Property 1214 1230	Electron density
+T26	Material 1248 1256	crystals
+T27	Material 1307 1312	plane
+T28	Property 1421 1435	polaron models
+T29	Main 30 46	14 Y2Ba4Cu7O14+x
+T31	Value 98 102	93 K
+T33	Element 148 153	BaCO3
+T35	Element 366 376	Cu(2)O(1)
+T36	Element 311 319	123-unit
+T37	Element 1107 1112	Cu(1)
+T38	Element 1320 1325	Cu(2)
+T39	Element 1244 1247	247
+T40	Element 964 972	123-unit
+T41	Element 986 994	124-unit
+T42	Element 662 666	O(8)
+T43	Element 668 672	O(9)
+T44	Element 1295 1299	O(1)
+T45	Value 480 484	90 K
+T46	Element 453 463	Ba(1)O(1)
+T47	Element 601 604	247
+T48	Element 509 512	247
+T49	Element 875 880	Cu(1)
+T50	Element 722 726	O(1)
+T51	Material 377 394	apical bondlength
+T52	Element 731 736	Cu(1)
+T53	Element 743 745	Cu
+T54	Material 687 703	nonstoichiometry
+T16	Property 629 645	electron density
+T55	Element 680 686	oxygen
+T56	Material 746 762	nonstoichiometry
+T57	Element 822 830	aluminum
+T58	Element 832 841	carbonate
+T59	Material 1018 1029	distortions
+T60	Material 1281 1287	apical
+T61	Element 1288 1294	oxygen
+T62	Element 1313 1319	copper
+T63	Material 1381 1399	apical bondlengths
+T64	Process 207 218	flux-growth
+T12	SC 471 479	High-T c
+T17	Doping 805 818	incorporation
+T30	Value 92 93	0
+T14	SC 597 600	T c
+T7	Element 157 169	barium metal
+R1	Equivalent Arg1:T4 Arg2:T31
+R2	Equivalent Arg1:T12 Arg2:T45
+R3	Equivalent Arg1:T4 Arg2:T30
+R4	Target Arg1:T30 Arg2:T29
+R5	Target Arg1:T31 Arg2:T29
+R6	Target Arg1:T45 Arg2:T48
+E1	Doping:T17 Dopant:T57 Site:T49
+E2	Doping:T17 Dopant:T18 Site:T49
+E3	Doping:T17 Dopant:T58 Site:T49

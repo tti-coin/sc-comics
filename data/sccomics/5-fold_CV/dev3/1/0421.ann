@@ -1,0 +1,44 @@
+T1	Element 35 37	Ca
+T3	Element 55 57	Sr
+T4	Material 66 76	structural
+T5	Property 78 86	magnetic
+T6	SC 91 106	superconducting
+T7	Main 121 164	RuSr 2 − x Ca x Gd 1.4 Ce 0.6 Cu 2 O 10 − δ
+T8	Property 193 210	magnetic coupling
+T9	Element 214 218	RuO2
+T10	Element 223 227	CuO2
+T11	Property 255 263	magnetic
+T12	SC 268 283	superconducting
+T13	Characterization 292 318	X-ray diffraction analysis
+T14	Material 346 358	single phase
+T15	Material 367 385	lattice parameters
+T16	Element 422 424	Ca
+T17	SC 444 482	superconducting transition temperature
+T18	Element 509 511	Ca
+T20	Element 529 531	Ca
+T21	Element 567 571	RuO6
+T22	Element 597 607	Ru–O(1)–Ru
+T23	Property 657 673	magnetic moments
+T25	Element 681 685	RuO2
+T26	Material 686 692	planes
+T27	Property 718 731	ferromagnetic
+T28	Property 746 759	hole trapping
+T29	Element 763 765	Ru
+T30	Property 766 782	magnetic moments
+T32	Element 786 790	RuO2
+T33	Material 791 797	planes
+T34	Property 810 831	electrical conduction
+T35	SC 850 865	superconducting
+T36	Property 903 914	resistivity
+T37	Property 1028 1047	magnetic transition
+T38	Element 1106 1108	Ca
+T40	Material 572 582	octahedron
+T42	Property 939 956	hoping conduction
+T43	Property 997 1003	hoping
+T44	Property 1061 1067	hoping
+T24	Property 1109 1122	concentration
+T2	Doping 38 50	substitution
+T19	Doping 512 524	substitution
+R1	Target Arg1:E1 Arg2:T7
+E1	Doping:T2 Dopant:T1 Site:T3
+E2	Doping:T19 Dopant:T18

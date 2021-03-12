@@ -1,0 +1,68 @@
+T1	Property 17 27	zero field
+T2	Property 28 40	normal-state
+T3	Property 41 52	resistivity
+T4	SC 59 61	Tc
+T5	Property 84 92	electron
+T6	Main 109 125	LaO1− x F x FeAs
+T7	Main 127 134	La-1111
+T9	Main 151 167	SmO1− x F x FeAs
+T10	Main 169 176	Sm-1111
+T11	Element 193 211	1111-iron-pnictide
+T12	SC 212 226	superconductor
+T14	Element 328 335	La-1111
+T16	Element 381 388	La-1111
+T18	Element 421 428	Sm-1111
+T22	Property 729 740	resistivity
+T23	Property 807 812	model
+T25	Property 1136 1151	charge carriers
+T27	Element 1166 1173	La-1111
+T29	Element 1202 1209	La-1111
+T31	Element 1228 1235	Sm-1111
+T19	Element 604 620	LaO1− x F x FeAs
+T8	Doping 93 99	doping
+T13	Doping 317 327	underdoped
+T15	Doping 371 380	overdoped
+T17	Doping 410 420	underdoped
+T24	Doping 1155 1165	underdoped
+T26	Doping 1192 1201	overdoped
+T28	Doping 1217 1227	underdoped
+T30	Value 282 284	20
+T32	Value 288 292	300K
+T33	Value 340 344	0.05
+T34	Value 345 350	0.075
+T35	Value 393 396	0.1
+T36	Value 397 400	0.2
+T38	Value 433 437	0.06
+T40	Value 438 441	0.1
+T20	Element 625 641	SmO1− x F x FeAs
+R1	Coref Arg1:T6 Arg2:T7
+R2	Coref Arg1:T9 Arg2:T10
+R3	Target Arg1:E1 Arg2:T6
+R4	Target Arg1:E3 Arg2:T14
+R5	Target Arg1:E4 Arg2:T16
+R6	Target Arg1:E5 Arg2:T18
+R7	Target Arg1:E6 Arg2:T27
+R8	Target Arg1:E7 Arg2:T29
+R9	Target Arg1:E8 Arg2:T31
+R10	Target Arg1:E1 Arg2:T9
+R11	Equivalent Arg1:T4 Arg2:T30
+R12	Equivalent Arg1:T4 Arg2:T32
+R13	Condition Arg1:T30 Arg2:E3
+R14	Condition Arg1:T32 Arg2:E3
+R15	Condition Arg1:T30 Arg2:E4
+R16	Condition Arg1:T32 Arg2:E4
+R17	Condition Arg1:T30 Arg2:E5
+R18	Condition Arg1:T32 Arg2:E5
+R19	Target Arg1:T30 Arg2:T14
+R20	Target Arg1:T32 Arg2:T14
+R21	Target Arg1:T30 Arg2:T16
+R22	Target Arg1:T32 Arg2:T16
+R23	Target Arg1:T30 Arg2:T18
+R24	Target Arg1:T32 Arg2:T18
+E1	Doping:T8 Dopant:T5
+E3	Doping:T13 
+E4	Doping:T15 
+E5	Doping:T17 
+E6	Doping:T24 
+E7	Doping:T26 
+E8	Doping:T28 

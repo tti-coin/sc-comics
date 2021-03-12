@@ -1,0 +1,50 @@
+T3	SC 46 48	Tc
+T4	Main 77 91	SmO0.7F0.3FeAs
+T5	Process 124 144	solid state reaction
+T6	Property 157 159	Jc
+T7	SC 208 210	Tc
+T8	Element 218 225	fluorin
+T10	Element 237 252	SmO0.7F0.35FeAs
+T11	Element 257 271	SmO0.7F0.4FeAs
+T12	Process 305 325	solid state reaction
+T13	Property 381 383	Jc
+T14	Characterization 450 453	XRD
+T15	Material 476 494	lattice parameters
+T16	Material 578 596	lattice parameters
+T17	Element 646 658	SmO1-xFxFeAs
+T18	Material 668 686	lattice parameters
+T19	Element 739 751	SmO1-xFδFeAs
+T20	Element 811 826	SmO0.7F0.35FeAs
+T21	Material 884 902	lattice parameters
+T22	SC 929 931	Tc
+T23	Value 191 194	10K
+T24	Value 199 201	0T
+T25	Value 177 189	2.3×105A/cm2
+T26	Value 388 400	1.9×105A/cm2
+T27	Value 405 417	1.7×105A/cm2
+T28	Value 419 422	10K
+T29	Value 427 429	0T
+T30	Value 360 363	56K
+T31	Value 368 371	55K
+T32	Value 347 355	20 hours
+T33	Value 336 342	1100°C
+T34	Value 783 791	3.9233 Å
+T35	Value 795 803	8.4768 Å
+T41	Value 64 69	56.5K
+T47	Value 553 554	0
+T48	Value 557 560	0.3
+T51	Value 569 572	0.3
+T9	Doping 231 236	doped
+T1	SC 4 44	onset resistivity transition temperature
+R1	Target Arg1:T41 Arg2:T4
+R2	Equivalent Arg1:T7 Arg2:T30
+R3	Equivalent Arg1:T7 Arg2:T31
+R4	Target Arg1:T30 Arg2:T10
+R5	Target Arg1:T31 Arg2:T11
+R6	Target Arg1:E2 Arg2:T10
+R7	Coref Arg1:T1 Arg2:T3
+R8	Equivalent Arg1:T1 Arg2:T41
+R9	Target Arg1:E2 Arg2:T11
+R10	Condition Arg1:T30 Arg2:E2
+R11	Condition Arg1:T31 Arg2:E2
+E2	Doping:T9 Dopant:T8

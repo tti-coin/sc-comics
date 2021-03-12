@@ -1,0 +1,77 @@
+T1	Material 0 7	Layered
+T2	Main 8 25	iron oxyarsenides
+T3	Property 90 106	antiferromagnets
+T4	Property 116 128	ground state
+T5	SC 150 184	high-temperature superconductivity
+T6	Property 190 204	charge carrier
+T8	Element 217 227	rare earth
+T10	Property 292 319	antiferromagnetic orderings
+T11	Element 338 340	Fe
+T13	Property 341 357	magnetic moments
+T14	Element 369 373	FeAs
+T15	SC 427 442	superconducting
+T17	Property 470 478	ordering
+T19	Property 497 513	magnetic moments
+T20	Process 517 533	low temperatures
+T21	Material 552 561	thin film
+T22	Material 580 584	film
+T23	Process 585 591	growth
+T24	Main 601 608	SmFeAsO
+T25	Element 612 620	MgO(100)
+T26	Material 621 631	substrates
+T27	Process 638 661	pulsed laser deposition
+T28	Process 663 666	PLD
+T29	Process 685 688	PLD
+T30	Element 718 734	iron oxyarsenide
+T31	Material 735 745	thin films
+T32	Material 773 781	impurity
+T33	Material 782 797	phase formation
+T34	Material 847 851	film
+T35	Process 852 858	growth
+T37	Process 915 931	oxygen-deficient
+T38	Element 939 949	SmFeAsO1−δ
+T39	Material 970 977	lattice
+T40	Material 994 1003	epitaxial
+T41	Element 1004 1015	oxyarsenide
+T42	Material 1016 1025	thin film
+T43	Process 1026 1032	growth
+T44	Element 1036 1044	MgO(100)
+T45	Material 1059 1063	film
+T46	Material 1064 1073	thickness
+T47	Material 1112 1122	thin films
+T48	Process 1180 1186	growth
+T49	Material 1200 1210	unit cells
+T50	Process 1245 1275	Stranski-Krastanov growth mode
+T51	Material 1301 1309	in-plane
+T52	Material 1310 1317	lattice
+T53	Element 1337 1353	iron oxypnictide
+T54	Element 1362 1365	MgO
+T55	Material 1366 1376	unit cells
+T56	Material 1403 1407	film
+T57	Process 1408 1414	growth
+T58	Material 1438 1455	surface roughness
+T59	Process 1473 1479	growth
+T60	Material 1571 1578	surface
+T61	Process 1645 1651	growth
+T62	Material 1671 1680	unit cell
+T63	Process 1699 1705	growth
+T64	Element 1709 1716	(FeAs)−
+T65	Element 1721 1731	(SmO1−δ )+
+T66	Material 1732 1738	layers
+T67	Material 1750 1760	structural
+T68	Material 1779 1788	unit cell
+T69	Property 1810 1815	model
+T70	Process 1824 1830	growth
+T71	Property 1831 1839	kinetics
+T72	Property 48 60	semimetallic
+T73	Property 80 89	itinerant
+T9	Element 486 496	rare-earth
+T74	Process 865 882	ultra-high vacuum
+T36	Process 884 887	UHV
+T75	Material 1166 1179	pseudomorphic
+T12	Property 1389 1402	3-dimensional
+T16	Material 374 384	sublattice
+T18	Property 443 450	pairing
+T7	Doping 205 211	doping
+R1	Target Arg1:E1 Arg2:T2
+E1	Doping:T7 Dopant:T6

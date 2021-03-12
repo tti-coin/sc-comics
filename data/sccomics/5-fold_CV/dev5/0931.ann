@@ -1,0 +1,37 @@
+T1	Property 19 34	vortex dynamics
+T2	Property 50 54	hole
+T4	Element 61 65	iron
+T5	SC 72 87	superconductors
+T6	Main 88 97	CaKFe4As4
+T7	Main 99 106	CaK1144
+T8	Main 112 127	Ba0.6K0.4Fe2As2
+T9	Main 129 135	BaK122
+T10	SC 150 189	superconducting transition temperatures
+T11	Property 212 225	magnetization
+T12	Property 226 241	hysteresis loop
+T13	Element 281 287	BaK122
+T14	Element 337 344	CaK1144
+T15	Property 379 403	critical current density
+T16	Element 438 445	CaK1144
+T17	Element 474 480	BaK122
+T18	Element 531 537	BaK122
+T19	Element 542 549	CaK1144
+T21	Property 582 596	vortex pinning
+T22	Property 619 632	Magnetization
+T23	Property 641 651	relaxation
+T24	Property 712 722	relaxation
+T25	Property 815 829	vortex pinning
+T27	Property 850 874	critical current density
+T28	Element 888 894	BaK122
+T29	Property 964 981	activation energy
+T30	Element 1003 1009	BaK122
+T31	Property 1038 1051	magnetization
+T32	Element 1110 1117	CaK1144
+T20	Property 924 938	Maley’s method
+T26	Property 1181 1196	vortex dynamics
+T3	Doping 55 60	doped
+R1	Coref Arg1:T8 Arg2:T9
+R2	Coref Arg1:T6 Arg2:T7
+R3	Target Arg1:E2 Arg2:T8
+R4	Target Arg1:E2 Arg2:T6
+E2	Doping:T3 Dopant:T2

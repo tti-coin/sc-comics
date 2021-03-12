@@ -1,0 +1,59 @@
+T1	Material 49 58	epitaxial
+T2	Main 59 83	Sr1-x La x Ru1-x Fe x O3
+T3	Material 117 127	thin films
+T4	Process 128 133	grown
+T5	Process 137 160	pulsed laser deposition
+T6	Element 164 176	SrTiO3 (001)
+T7	Material 177 187	substrates
+T9	Element 226 228	Fe
+T10	Element 238 242	Ru4+
+T11	Element 251 257	SrRuO3
+T13	Element 266 272	LaFeO3
+T14	Element 278 284	SrRuO3
+T15	Property 316 326	zero-field
+T16	Property 327 338	resistivity
+T17	Property 349 359	zero-field
+T18	Property 360 371	resistivity
+T19	Property 381 389	magnetic
+T22	Property 455 472	magnetoresistance
+T23	Material 478 483	films
+T24	Property 508 516	metallic
+T25	Property 530 543	ferromagnetic
+T26	Property 544 552	ordering
+T27	Property 567 578	resistivity
+T30	Property 634 637	T C
+T31	Material 675 684	thin film
+T32	Material 717 722	metal
+T33	Property 726 735	insulator
+T34	Property 736 752	phase transition
+T35	Process 756 771	low temperature
+T36	Property 806 817	resistivity
+T37	Property 846 857	resistivity
+T39	Material 938 946	material
+T40	Property 952 969	magnetoresistance
+T41	Property 1036 1053	magnetoresistance
+T42	Material 1074 1083	thin film
+T43	Property 1147 1163	spin fluctuation
+T45	Property 1171 1197	mobile electronic carriers
+T46	Material 1205 1213	material
+T55	Value 89 93	0.05
+T56	Element 390 406	perovskite oxide
+T57	Value 495 499	0.10
+T58	Value 485 488	0.0
+T61	Value 694 698	0.20
+T62	Property 893 922	electron-electron interaction
+T38	Value 1060 1064	−35%
+T63	Value 1093 1097	0.30
+T52	Value 95 99	0.10
+T53	Value 101 105	0.20
+T54	Value 111 115	0.30
+T66	Property 1055 1057	MR
+T67	Property 1117 1119	MR
+T44	Property 18 34	magnetotransport
+T8	Doping 219 225	doping
+T12	Doping 259 265	doping
+T20	Property 597 633	ferromagnetic transition temperature
+R2	Target Arg1:E1 Arg2:T11
+R3	Target Arg1:E2 Arg2:T14
+E1	Doping:T8 Dopant:T9 Site:T10
+E2	Doping:T12 Dopant:T13

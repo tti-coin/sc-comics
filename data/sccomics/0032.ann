@@ -1,0 +1,44 @@
+T1	Property 4 24	thermal conductivity
+T2	Process 168 180	temperatures
+T4	SC 277 280	T c
+T5	SC 323 326	T c
+T7	SC 458 475	superconductivity
+T8	Property 523 537	concentrations
+T9	SC 550 565	superconducting
+T11	SC 662 679	superconductivity
+T12	Property 723 729	phonon
+T13	Property 734 742	electron
+T14	Property 805 813	theories
+T15	Property 838 844	theory
+T16	Property 848 865	phonon conduction
+T17	SC 877 892	superconducting
+T18	Element 404 406	Pr
+T19	Element 397 399	Zn
+T20	Element 602 604	Al
+T23	Element 83 85	Al
+T24	Value 181 185	1 .2
+T26	Value 141 144	1.0
+T28	Value 350 354	50 K
+T30	Main 101 118	Y1−y M y Ba2Cu3O7
+T21	Main 49 68	YBa2(Cu1−x N x )3O7
+T36	Material 33 48	polycrystalline
+T38	Element 126 128	Pr
+T39	Element 133 135	Gd
+T40	Value 137 138	0
+T42	Value 188 193	200 K
+T44	Element 610 612	Gd
+T45	Value 87 88	0
+T46	Value 92 95	0.1
+T49	Element 76 78	Zn
+T27	Property 25 29	K(T)
+T43	Property 219 223	K(T)
+T3	Property 312 316	K(T)
+T50	Property 510 514	K(T)
+T51	Property 743 761	thermal conduction
+T6	Doping 385 391	Doping
+T10	Doping 613 618	doped
+R1	Equivalent Arg1:T5 Arg2:T28
+E1	Doping:T6 Dopant:T18
+E2	Doping:T10 Dopant:T44
+E3	Doping:T6 Dopant:T19
+E4	Doping:T10 Dopant:T20

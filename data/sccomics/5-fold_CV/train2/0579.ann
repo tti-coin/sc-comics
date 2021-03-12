@@ -1,0 +1,35 @@
+T2	Element 42 44	Sr
+T3	Element 48 50	Sb
+T7	Characterization 118 135	X-ray diffraction
+T8	Characterization 137 140	XRD
+T10	Property 143 168	dc electrical resistivity
+T11	Property 193 213	critical temperature
+T12	SC 255 263	high-T c
+T13	Element 319 321	Sb
+T15	SC 442 464	transition temperature
+T16	Property 489 500	resistivity
+T18	Property 536 554	dc magnetic fields
+T20	Material 628 638	multiphase
+T21	Material 654 672	lattice parameters
+T22	Material 677 688	cell volume
+T24	Element 734 736	Sb
+T9	Property 170 188	magnetoresistivity
+T26	Value 291 296	69.83
+T29	Value 332 336	0.06
+T30	Value 397 403	107.8K
+T17	Value 561 565	0.5T
+T19	Element 744 746	Sr
+T25	Material 587 592	metal
+T27	Property 236 251	volume fraction
+T1	Doping 26 38	substitution
+T23	Doping 718 730	substitution
+T5	Process 508 519	temperature
+T6	Characterization 520 532	measurements
+T31	Main 58 60	Bi
+T4	SC 67 82	superconducting
+T32	Material 83 92	materials
+R2	Target Arg1:E1 Arg2:T31
+E1	Doping:T1 Site:T2 Dopant:T3
+E2	Doping:T23 Dopant:T24 Site:T19
+T14	SC 381 387	T c(0)
+R1	Equivalent Arg1:T14 Arg2:T30	

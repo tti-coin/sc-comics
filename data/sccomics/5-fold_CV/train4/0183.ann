@@ -1,0 +1,64 @@
+T1	SC 52 69	superconductivity
+T2	SC 73 105	high temperature superconductors
+T3	Material 121 125	bulk
+T4	Material 136 151	porous material
+T5	Material 172 178	grains
+T6	Property 192 211	non-superconducting
+T7	Material 212 228	grain boundaries
+T13	Material 636 652	grain boundaries
+T15	Process 720 728	sintered
+T16	Material 771 786	microstructures
+T17	Material 807 813	grains
+T18	SC 819 834	superconducting
+T19	Property 839 851	normal state
+T21	SC 940 943	T c
+T23	Property 1010 1021	resistivity
+T24	SC 1054 1069	superconducting
+T25	Material 1121 1126	grain
+T26	Process 1255 1271	wetting reaction
+T27	Material 1307 1311	bulk
+T28	Material 1317 1323	grains
+T29	Element 0 12	Copper oxide
+T31	Main 111 115	YBCO
+T32	Element 126 130	YBCO
+T33	Element 245 249	YBCO
+T34	Element 335 338	CuO
+T35	Element 354 358	Ag2S
+T36	Value 365 368	50%
+T37	Element 433 436	CuO
+T38	Element 576 580	YBCO
+T39	Value 540 542	3%
+T40	Element 552 553	S
+T41	Element 488 490	Cu
+T44	Value 915 918	10%
+T45	Element 230 232	Ag
+T46	Element 455 457	Ag
+T47	Element 617 619	Ag
+T48	Element 1102 1104	Ag
+T49	Element 1156 1160	Ag-O
+T50	Value 947 951	92 K
+T51	Value 972 978	0.77 K
+T52	Element 1312 1316	YBCO
+T53	SC 964 968	ΔT c
+T42	Element 1296 1302	silver
+T22	Material 1217 1225	impurity
+T8	Doping 233 241	addition
+T9	Doping 339 350	substituted
+T10	Doping 470 480	substitute
+T11	Doping 515 527	substitution
+T12	Doping 596 609	substitutions
+T14	Doping 657 663	doping
+T20	Doping 919 925	doping
+T30	Value 672 673	3
+T43	Value 678 681	30%
+R1	Equivalent Arg1:T21 Arg2:T50
+R2	Condition Arg1:T50 Arg2:E7
+R3	Target Arg1:E1 Arg2:T33
+R4	Target Arg1:E5 Arg2:T38
+E1	Doping:T8 Dopant:T45
+E2	Doping:T9 Site:T34 Dopant:T35
+E3	Doping:T10 Dopant:T46 Site:T41
+E4	Doping:T11 
+E5	Doping:T12 Dopant:T40
+E6	Doping:T14 Dopant:T47
+E7	Doping:T20 

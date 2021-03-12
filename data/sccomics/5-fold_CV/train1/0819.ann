@@ -1,0 +1,27 @@
+T1	SC 16 31	superconducting
+T3	SC 222 239	superconductivity
+T4	Material 247 256	interface
+T5	Property 273 277	band
+T6	Property 278 288	insulators
+T9	Property 373 387	electric field
+T10	SC 420 437	superconductivity
+T11	Material 491 495	bulk
+T13	Element 502 508	SrTiO3
+T14	Material 517 526	interface
+T15	Material 640 649	interface
+T16	SC 650 667	superconductivity
+T17	Element 671 679	cuprates
+T18	Property 684 694	electrical
+T19	Material 695 707	double layer
+T20	SC 777 785	high T c
+T21	Element 804 808	FeSe
+T22	Process 809 818	deposited
+T23	Element 822 828	SrTiO3
+T24	Property 585 596	Rashba type
+T25	Property 597 607	spin–orbit
+T26	Material 791 800	monolayer
+T27	Main 141 170	interfacial superconductivity
+T2	Main 289 306	LaAlO3 and SrTiO3
+T7	Doping 496 501	doped
+R1	Target Arg1:E1 Arg2:T13
+E1	Doping:T7 

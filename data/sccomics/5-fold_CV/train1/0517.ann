@@ -1,0 +1,36 @@
+T3	Property 51 70	magnetic properties
+T4	Main 74 84	REBa2Cu3Oy
+T5	Main 86 91	REBCO
+T6	Element 98 99	Y
+T7	Element 101 103	Nd
+T8	Element 108 110	Gd
+T9	Property 191 214	magnetic susceptibility
+T10	Characterization 270 281	irradiation
+T11	Property 338 363	magnetic susceptibilities
+T12	Characterization 370 381	irradiation
+T13	Characterization 411 422	irradiation
+T14	Characterization 511 522	irradiation
+T16	Characterization 538 555	X-ray irradiation
+T17	SC 569 584	superconductive
+T18	Material 605 614	materials
+T19	Property 646 650	hole
+T21	Element 665 669	CuO2
+T22	Material 670 675	plane
+T25	Characterization 721 738	X-ray irradiation
+T26	Property 770 779	electrons
+T27	Element 783 789	oxygen
+T28	Material 790 799	vacancies
+T29	Property 801 811	Relaxation
+T30	Characterization 819 830	irradiation
+T31	Property 846 854	electron
+T32	Characterization 870 881	irradiation
+T33	Property 912 931	magnetic properties
+T34	Characterization 936 949	Raman spectra
+T36	SC 133 137	T c0
+T38	Property 698 717	electron–hole pairs
+T37	Characterization 293 304	measurement
+T39	Characterization 26 43	X-ray irradiation
+T2	Process 743 762	subsequent trapping
+T15	Doping 651 657	doping
+R1	Coref Arg1:T4 Arg2:T5
+E1	Doping:T15 Dopant:T19 Site:T21

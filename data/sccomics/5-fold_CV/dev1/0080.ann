@@ -1,0 +1,87 @@
+T1	Material 30 40	thin films
+T3	Material 203 207	bulk
+T6	SC 340 343	T c
+T7	SC 448 451	T c
+T8	Material 459 464	films
+T10	Process 632 640	pressure
+T13	Material 762 776	c-axis lattice
+T14	Process 791 809	growth temperature
+T15	Material 837 841	film
+T17	Material 938 943	films
+T18	Property 1013 1026	thermodynamic
+T20	Material 1148 1153	cubic
+T21	Main 19 29	SmBaCuO
+T2	Process 61 77	oxygen pressures
+T23	Value 81 98	1.2–6.0×10−5 mbar
+T24	Element 118 123	ozone
+T25	Element 208 226	Sm1+x Ba2-x Cu3O y
+T29	Property 176 192	solid solubility
+T30	Value 267 272	975°C
+T31	Process 235 262	atmospheric oxygen pressure
+T32	Value 488 493	750°C
+T33	Value 503 508	800°C
+T36	Value 871 876	750°C
+T37	Value 895 900	100°C
+T38	Element 928 937	YBaCuO
+T39	Element 1106 1112	SrTiO3
+T40	Element 1047 1065	RE1+x Ba2-x Cu3O y
+T46	Value 478 479	0
+T47	Value 482 483	1
+T50	Value 527 531	90 K
+T51	Element 1070 1071	Y
+T52	Element 1073 1075	Sm
+T53	Element 1077 1079	La
+T54	Material 1113 1122	substrate
+T56	Element 619 625	oxygen
+T57	Element 626 631	ozone
+T58	Property 565 581	solid solubility
+T59	Value 365 369	zero
+T11	Process 944 949	grown
+T5	SC 300 338	superconducting transition temperature
+T26	Value 393 394	0
+T27	Value 398 401	0.5
+T16	SC 847 852	T c,0
+T28	Value 859 863	80 K
+T9	SC 515 520	T c's
+T22	Value 44 47	550
+T34	Value 48 53	850°C
+T19	Process 649 667	growth temperature
+T12	Process 709 727	growth temperature
+R1	Equivalent Arg1:T16 Arg2:T28
+R2	Equivalent Arg1:T9 Arg2:T50
+R3	Coref Arg1:T5 Arg2:T6
+R4	Equivalent Arg1:T6 Arg2:T59
+#1	AnnotatorNotes T1	30-40
+#2	AnnotatorNotes T3	203-207
+#3	AnnotatorNotes T8	459-464
+#4	AnnotatorNotes T13	762-776
+#5	AnnotatorNotes T15	837-841
+#6	AnnotatorNotes T17	938-943
+#7	AnnotatorNotes T20	1148-1153
+#8	AnnotatorNotes T21	19-29
+#9	AnnotatorNotes T23	81-98
+#10	AnnotatorNotes T24	118-123
+#11	AnnotatorNotes T25	208-226
+#12	AnnotatorNotes T30	267-272
+#13	AnnotatorNotes T32	488-493
+#14	AnnotatorNotes T33	503-508
+#15	AnnotatorNotes T36	871-876
+#16	AnnotatorNotes T37	895-900
+#17	AnnotatorNotes T38	928-937
+#18	AnnotatorNotes T39	1106-1112
+#19	AnnotatorNotes T40	1047-1065
+#20	AnnotatorNotes T46	478-479
+#21	AnnotatorNotes T47	482-483
+#22	AnnotatorNotes T50	527-531
+#23	AnnotatorNotes T51	1070-1071
+#24	AnnotatorNotes T52	1073-1075
+#25	AnnotatorNotes T53	1077-1079
+#26	AnnotatorNotes T54	1113-1122
+#27	AnnotatorNotes T56	619-625
+#28	AnnotatorNotes T57	626-631
+#29	AnnotatorNotes T59	365-369
+#30	AnnotatorNotes T26	393-394
+#31	AnnotatorNotes T27	398-401
+#32	AnnotatorNotes T28	859-863
+#33	AnnotatorNotes T22	44-47
+#34	AnnotatorNotes T34	48-53

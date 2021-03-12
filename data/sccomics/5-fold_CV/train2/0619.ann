@@ -1,0 +1,68 @@
+T3	Element 63 68	Sr 2+
+T4	Main 86 112	Bi 2 Sr 1.6 La 0.4 CuO 6+δ
+T5	SC 113 128	superconductors
+T6	Material 163 182	nominal composition
+T7	Element 186 219	Bi 2 Sr 1.6-x Ca x La 0.4 CuO 6+δ
+T8	Process 268 288	solid-state reaction
+T9	Element 302 304	Ca
+T10	Characterization 331 348	X-ray diffraction
+T11	Material 374 389	cell parameters
+T12	Characterization 444 472	scanning electron microscopy
+T14	Material 545 553	porosity
+T15	Material 562 567	grain
+T17	Property 705 720	magnetic fields
+T18	Element 744 746	Ca
+T22	Material 893 897	bulk
+T25	Property 963 983	residual resistivity
+T26	Property 989 1006	activation energy
+T27	Property 1010 1018	vortices
+T28	Property 1027 1048	irreversibility field
+T29	Element 1089 1091	Ca
+T37	Property 663 682	magneto-resistivity
+T38	Value 839 846	94.87 K
+T34	Value 224 225	0
+T30	Value 227 230	0.2
+T43	Value 232 235	0.4
+T44	Value 237 240	0.6
+T45	Value 245 248	0.8
+T41	Value 1082 1085	0.4
+T39	Value 853 856	0.8
+T46	Property 34 45	iso-valence
+T20	SC 783 810	high temperature transition
+T2	Doping 46 58	substitution
+T1	Element 28 33	Ca 2+
+T13	Doping 499 511	substitution
+T19	Doping 750 755	added
+T21	Doping 862 874	substitution
+T16	Value 734 735	0
+T23	Value 736 739	1 T
+T24	SC 898 935	onset critical transition temperature
+R1	Equivalent Arg1:T20 Arg2:T38
+R2	Target Arg1:E1 Arg2:T4
+R3	Condition Arg1:T38 Arg2:E3
+E1	Doping:T2 Site:T3 Dopant:T1
+E2	Doping:T13 
+E3	Doping:T19 Dopant:T18
+E4	Doping:T21 
+#1	AnnotatorNotes T3	63-68
+#2	AnnotatorNotes T4	86-112
+#3	AnnotatorNotes T6	163-182
+#4	AnnotatorNotes T7	186-219
+#5	AnnotatorNotes T9	302-304
+#6	AnnotatorNotes T11	374-389
+#7	AnnotatorNotes T14	545-553
+#8	AnnotatorNotes T15	562-567
+#9	AnnotatorNotes T18	744-746
+#10	AnnotatorNotes T22	893-897
+#11	AnnotatorNotes T29	1089-1091
+#12	AnnotatorNotes T38	839-846
+#13	AnnotatorNotes T34	224-225
+#14	AnnotatorNotes T30	227-230
+#15	AnnotatorNotes T43	232-235
+#16	AnnotatorNotes T44	237-240
+#17	AnnotatorNotes T45	245-248
+#18	AnnotatorNotes T41	1082-1085
+#19	AnnotatorNotes T39	853-856
+#20	AnnotatorNotes T1	28-33
+#21	AnnotatorNotes T16	734-735
+#22	AnnotatorNotes T23	736-739

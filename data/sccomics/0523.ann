@@ -1,0 +1,40 @@
+T1	Main 0 12	(Ba,K)Fe2As2
+T2	SC 13 28	superconducting
+T3	Material 29 34	wires
+T6	Element 114 126	(Ba,K)Fe2As2
+T7	Material 127 132	wires
+T8	Element 134 140	silver
+T9	Material 141 147	powder
+T11	SC 221 236	superconducting
+T12	Material 237 242	wires
+T13	Property 248 257	transport
+T14	Property 258 282	critical current density
+T15	Property 284 286	Jc
+T16	Property 328 338	self field
+T17	Element 356 358	Ag
+T19	Property 373 383	self-field
+T20	Property 384 386	Jc
+T21	Element 425 427	Fe
+T22	SC 434 449	superconducting
+T23	Material 450 455	wires
+T24	Element 519 531	(Ba,K)Fe2As2
+T25	SC 532 547	superconducting
+T26	Element 558 560	Ag
+T28	Material 575 588	intragranular
+T29	Property 589 591	Jc
+T4	Process 59 88	ex-situ powder-in-tube method
+T5	Value 300 313	1.3×104 A/cm2
+T30	Value 317 321	4.2K
+T31	Value 595 608	6.0×104 A/cm2
+T32	Value 612 615	20K
+T34	Process 487 510	magneto-optical imaging
+T10	Doping 176 184	addition
+T18	Doping 359 367	addition
+T27	Doping 561 569	addition
+T33	Characterization 673 684	measurement
+T35	Property 669 672	M-H
+R1	Target Arg1:E1 Arg2:T6
+R2	Target Arg1:E3 Arg2:T24
+E1	Doping:T10 Dopant:T8
+E2	Doping:T18 Dopant:T17
+E3	Doping:T27 Dopant:T26

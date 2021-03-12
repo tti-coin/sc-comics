@@ -1,0 +1,34 @@
+T1	Main 54 58	MgB2
+T2	Element 91 95	MgB2
+T3	Element 107 116	diborides
+T4	Element 125 128	VB2
+T5	Element 134 138	AlB2
+T8	Element 191 195	MgB2
+T10	Element 232 241	diborides
+T11	Element 246 249	SiC
+T12	Element 272 273	C
+T14	Element 286 287	B
+T15	Material 295 316	crystalline structure
+T16	Material 324 330	matrix
+T17	Property 360 384	critical current density
+T18	Property 386 388	Jc
+T19	Property 410 425	magnetic fields
+T21	Element 475 478	SiC
+T23	Element 512 521	diborides
+T24	Property 556 558	Jc
+T25	Property 562 573	high fields
+T26	SC 579 599	critical temperature
+T27	SC 601 603	Tc
+T28	Element 119 123	TaB2
+T7	Element 160 163	C32
+T29	Material 164 183	hexagonal structure
+T9	Doping 278 285	replace
+T13	Doping 454 459	added
+T20	Doping 482 487	added
+T6	Doping 214 222	addition
+E2	Doping:T9 Dopant:T12 Site:T14
+E3	Doping:T13
+E4	Doping:T20 Dopant:T21
+E1	Doping:T6 Dopant:T10
+E5	Doping:T6 Dopant:T11
+E6	Doping:T20 Dopant:T23

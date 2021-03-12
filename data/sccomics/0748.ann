@@ -1,0 +1,39 @@
+T1	Process 31 39	pressure
+T2	Property 47 60	magnetization
+T3	Property 66 86	transport properties
+T4	Material 94 113	nominal composition
+T5	Main 114 128	Pr2Ba4Cu7O15−δ
+T6	Process 167 176	reduction
+T7	Process 197 205	sintered
+T8	Process 216 222	vacuum
+T9	SC 237 254	superconductivity
+T11	Process 306 326	hydrostatic pressure
+T12	Element 334 340	oxygen
+T14	Property 459 473	charge carrier
+T15	Process 495 503	pressure
+T16	SC 518 527	lower T c
+T17	Property 550 569	Seebeck coefficient
+T18	SC 577 592	superconducting
+T19	Property 608 627	metallic conduction
+T21	Property 681 703	temperature dependence
+T22	Property 748 767	non-superconducting
+T23	Property 829 845	electronic state
+T24	Element 856 859	CuO
+T25	Material 867 872	chain
+T26	Process 884 893	reduction
+T27	SC 926 943	superconductivity
+T28	Value 274 277	30K
+T31	Value 285 289	0.94
+T32	Value 394 397	36K
+T33	Value 401 407	1.2GPa
+T35	Value 544 548	0.45
+T36	Value 710 714	100K
+T37	SC 370 387	onset temperature
+T38	Process 146 153	sol–gel
+T10	SC 265 271	T c,on
+T13	Doping 439 445	doping
+T20	SC 660 666	T c,on
+R1	Equivalent Arg1:T37 Arg2:T32
+R2	Equivalent Arg1:T10 Arg2:T28
+R3	Condition Arg1:T32 Arg2:E1
+E1	Doping:T13 Dopant:T14

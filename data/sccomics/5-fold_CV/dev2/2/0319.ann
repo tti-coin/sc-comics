@@ -1,0 +1,60 @@
+T1	SC 44 59	superconducting
+T2	Property 78 94	zero resistivity
+T3	SC 95 105	T c (R =0)
+T6	SC 214 228	superconductor
+T7	Element 294 296	Co
+T8	Element 307 311	Cu2+
+T9	Element 325 329	CuO2
+T10	Material 330 336	planes
+T11	Element 371 375	Co3+
+T12	Property 400 407	density
+T13	Property 411 426	mobile carriers
+T14	SC 434 449	superconducting
+T15	Element 450 454	CuO2
+T16	Material 455 461	planes
+T18	Element 472 474	Li
+T19	Element 478 480	Tl
+T20	Element 490 507	Cu0.5Tl0.5Ba2O4−δ
+T21	Property 508 524	charge reservoir
+T23	Element 564 590	(Cu0.5Tl0.25Li0.25)Ba2O4−δ
+T24	Property 591 607	charge reservoir
+T25	Material 608 613	layer
+T26	Element 617 658	(Cu0.5Tl0.25Li0.25)Ba2Ca2Cu3−x Co x O10−δ
+T27	Property 685 692	density
+T28	Property 696 711	mobile carriers
+T29	Element 719 723	CuO2
+T30	Material 724 730	planes
+T31	Element 738 751	alkali metals
+T32	Property 798 806	electron
+T33	SC 844 859	superconducting
+T34	Element 860 864	CuO2
+T35	Material 865 871	planes
+T36	Property 887 907	free carrier density
+T38	SC 915 930	superconducting
+T39	Element 931 935	CuO2
+T40	Material 936 942	planes
+T41	SC 956 971	superconducting
+T45	Value 195 196	0
+T4	Main 156 190	(Cu0.5Tl0.5)Ba2Ca2Cu3−x Co x O10−δ
+T46	Element 143 149	cobalt
+T49	Value 198 202	0.05
+T50	Value 204 207	0.1
+T51	Value 209 212	0.5
+T37	Property 787 796	s-orbital
+T52	Property 359 367	carriers
+T55	Property 548 556	carriers
+T53	Property 120 132	diamagnetism
+T5	Doping 150 155	doped
+T17	Doping 297 303	doping
+T22	Doping 466 471	doped
+T54	Doping 557 563	doping
+R1	Target Arg1:E1 Arg2:T4
+R2	Target Arg1:E3 Arg2:T20
+R3	Target Arg1:E4 Arg2:T23
+R4	Target Arg1:E5 Arg2:T26
+E1	Doping:T5 Dopant:T46
+E2	Doping:T17 Dopant:T7 Site:T8
+E3	Doping:T22 Dopant:T18 Site:T19
+E4	Doping:T54 Dopant:T55
+E5	Doping:T54 Dopant:T55
+E6	Doping:T17 Dopant:T7 Site:T9

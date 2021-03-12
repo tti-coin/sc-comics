@@ -1,0 +1,75 @@
+T2	Material 4 18	solid solution
+T3	Element 22 39	antimonide-oxides
+T4	Process 94 115	solid-state reactions
+T5	Characterization 137 161	X-ray powder diffraction
+T7	Material 178 187	structure
+T8	Material 189 195	P4/mmm
+T9	Material 209 226	crystal structure
+T10	Element 239 246	Ti2Sb2O
+T11	Material 276 282	layers
+T12	Element 286 292	barium
+T13	Material 293 298	atoms
+T14	Material 309 315	c-axis
+T15	Element 317 326	BaTi2Sb2O
+T16	SC 338 352	superconductor
+T17	SC 360 380	critical temperature
+T18	SC 382 385	T c
+T20	Element 413 419	barium
+T21	Element 428 437	potassium
+T22	SC 445 448	T c
+T23	Element 468 477	potassium
+T24	SC 488 505	superconductivity
+T25	Property 519 533	concentrations
+T26	Property 564 574	electrical
+T27	Property 575 584	transport
+T28	Property 589 612	magnetic susceptibility
+T29	Property 622 641	charge density wave
+T30	Property 648 661	instabilities
+T32	Element 758 767	potassium
+T34	Property 823 837	concentrations
+T35	Process 861 870	reduction
+T36	Material 878 885	lattice
+T37	Material 886 894	symmetry
+T38	Material 920 938	lattice parameters
+T39	Material 963 979	unit cell volume
+T41	Property 1012 1026	concentrations
+T42	Property 1032 1046	phase diagrams
+T43	SC 1047 1053	T c(x)
+T44	Element 1068 1085	Ba1−x K x Ti2Sb2O
+T45	Element 1129 1147	Ba1−x Na x Ti2Sb2O
+T46	Property 1233 1239	charge
+T47	Property 1274 1288	phase diagrams
+T48	SC 1298 1313	superconducting
+T49	Element 1314 1331	antimonide-oxides
+T1	Value 59 60	0
+T53	Value 67 68	1
+T55	Value 201 202	1
+T56	Value 390 395	1.2 K
+T57	Value 455 460	6.1 K
+T58	Value 464 467	12%
+T59	Value 546 549	20%
+T66	Value 1149 1150	0
+T67	Value 1157 1161	0.33
+T69	Main 40 57	Ba1−x K x Ti2Sb2O
+T70	Material 247 253	layers
+T71	Value 746 750	28 K
+T72	Value 715 719	50 K
+T73	Value 754 757	10%
+T74	Element 1002 1011	potassium
+T75	Property 643 646	CDW
+T77	Property 785 799	CDW transition
+T6	Element 163 172	CeCr2Si2C
+T78	Property 696 699	T a
+T79	Material 727 742	parent compound
+T19	Doping 397 409	Substitution
+T33	Doping 768 780	substitution
+T31	Property 667 694	CDW transition temperatures
+R1	Coref Arg1:T17 Arg2:T18
+R2	Target Arg1:T56 Arg2:T15
+R3	Equivalent Arg1:T22 Arg2:T57
+R4	Condition Arg1:T57 Arg2:E1
+R5	Equivalent Arg1:T18 Arg2:T56
+E1	Doping:T19 Site:T20 Dopant:T21
+E2	Doping:T33 Dopant:T32
+T40	Property 901 904	T a
+T50	Property 1058 1061	T a

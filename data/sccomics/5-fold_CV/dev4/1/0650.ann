@@ -1,0 +1,98 @@
+T1	Characterization 10 13	NMR
+T3	SC 34 49	superconductors
+T4	Main 50 60	RE-Fe–As–O
+T5	Element 65 67	Pr
+T6	Element 69 71	Nd
+T7	Element 73 82	La0.7Y0.3
+T8	Element 88 104	PrFeAsO0.65F0.15
+T9	SC 106 109	T c
+T10	Element 120 130	NdFeAsO0.6
+T11	SC 132 135	T c
+T12	Property 219 223	spin
+T13	Property 224 234	relaxation
+T14	Property 240 243	1/T
+T15	Element 258 262	75As
+T16	Characterization 263 266	NMR
+T17	Property 286 288	4f
+T18	Property 289 298	electrons
+T19	Property 307 323	magnetic moments
+T21	Property 353 365	normal-state
+T22	SC 370 385	superconducting
+T23	Element 434 451	La0.7Y0.3FeAsO0.7
+T24	SC 453 456	T c
+T25	Property 480 488	magnetic
+T26	SC 510 513	T c
+T28	Element 563 564	Y
+T29	Element 569 571	La
+T30	Element 626 636	LaFeAsO0.7
+T31	SC 638 641	T c
+T32	Property 673 689	density of state
+T33	Property 697 708	Fermi level
+T34	Element 747 748	Y
+T36	Element 766 768	La
+T37	SC 820 823	T c
+T39	Element 881 882	Y
+T41	Element 900 902	La
+T42	Value 137 140	53K
+T43	Value 111 114	47K
+T44	Value 643 646	28K
+T48	Value 458 461	34K
+T49	Value 593 596	75K
+T51	Element 62 64	RE
+T2	Element 23 27	iron
+T52	Property 170 182	Knight shift
+T53	Value 183 186	75K
+T54	Property 211 218	nuclear
+T55	Element 489 491	RE
+T56	Material 492 496	ions
+T46	Property 853 860	carrier
+T20	Characterization 154 166	measurements
+T27	Doping 547 559	substitution
+T35	Doping 749 761	substitution
+T38	Value 529 532	28K
+T40	Value 536 539	34K
+T45	Doping 883 895	substitution
+R1	Equivalent Arg1:T31 Arg2:T44
+R2	Equivalent Arg1:T24 Arg2:T48
+R3	Equivalent Arg1:T9 Arg2:T43
+R4	Equivalent Arg1:T11 Arg2:T42
+R5	Target Arg1:T43 Arg2:T8
+R6	Target Arg1:T42 Arg2:T10
+R7	Target Arg1:T48 Arg2:T23
+R8	Target Arg1:T44 Arg2:T30
+R9	Target Arg1:E1 Arg2:T23
+R10	Equivalent Arg1:T26 Arg2:T38
+R11	Equivalent Arg1:T26 Arg2:T40
+R12	Condition Arg1:T40 Arg2:E1
+R13	Target Arg1:T40 Arg2:T23
+R14	Target Arg1:T38 Arg2:T30
+E1	Doping:T27 Dopant:T28 Site:T29
+E2	Doping:T35 Dopant:T34 Site:T36
+E3	Doping:T45 Dopant:T39 Site:T41
+#1	AnnotatorNotes T4	50-60
+#2	AnnotatorNotes T5	65-67
+#3	AnnotatorNotes T6	69-71
+#4	AnnotatorNotes T7	73-82
+#5	AnnotatorNotes T8	88-104
+#6	AnnotatorNotes T10	120-130
+#7	AnnotatorNotes T15	258-262
+#8	AnnotatorNotes T23	434-451
+#9	AnnotatorNotes T28	563-564
+#10	AnnotatorNotes T29	569-571
+#11	AnnotatorNotes T30	626-636
+#12	AnnotatorNotes T34	747-748
+#13	AnnotatorNotes T36	766-768
+#14	AnnotatorNotes T39	881-882
+#15	AnnotatorNotes T41	900-902
+#16	AnnotatorNotes T42	137-140
+#17	AnnotatorNotes T43	111-114
+#18	AnnotatorNotes T44	643-646
+#19	AnnotatorNotes T48	458-461
+#20	AnnotatorNotes T49	593-596
+#21	AnnotatorNotes T51	62-64
+#22	AnnotatorNotes T2	23-27
+#23	AnnotatorNotes T53	183-186
+#24	AnnotatorNotes T55	489-491
+#25	AnnotatorNotes T56	492-496
+#26	AnnotatorNotes T38	529-532
+#27	AnnotatorNotes T40	536-539

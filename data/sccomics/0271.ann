@@ -1,0 +1,52 @@
+T2	Main 60 69	Mg1−xMxB2
+T4	Element 78 80	Sc
+T5	Element 82 84	Ti
+T6	Element 86 88	Cd
+T7	Element 93 95	Ba
+T10	Material 173 185	superlattice
+T11	Property 186 192	models
+T12	Material 203 209	c axis
+T13	Material 223 228	metal
+T16	Element 245 249	MgB2
+T17	Property 264 281	phonon dispersion
+T18	Property 364 370	phonon
+T20	Property 448 454	phonon
+T21	SC 605 607	Tc
+T22	Element 634 636	Sc
+T24	Element 641 643	Ti
+T27	Element 695 697	Cd
+T28	Element 702 704	Ba
+T29	Element 708 712	MgB2
+T30	Element 746 750	MgB2
+T31	Element 788 790	Cd
+T32	Element 795 797	Ba
+T33	Material 798 810	compositions
+T34	Property 868 878	solubility
+T36	Material 882 888	metals
+T37	Element 892 896	MgB2
+T40	Property 936 942	phonon
+T41	Element 956 960	AlB2
+T42	Material 966 976	structures
+T43	Material 1063 1072	materials
+T1	Property 41 47	phonon
+T8	Property 112 132	ab initio DFT models
+T9	Property 142 165	LDA and GGA functionals
+T19	Material 408 426	reciprocal lattice
+T54	Material 473 495	G-K and G-M directions
+T55	Property 524 538	thermal energy
+T56	Value 764 767	20K
+T38	Property 912 932	ab initio DFT models
+T39	Property 283 285	PD
+T14	Value 104 105	1
+T23	Value 100 101	0
+T15	Doping 644 656	substitution
+T25	Doping 678 691	substitutions
+T26	Doping 229 241	substitution
+R1	Target Arg1:E3 Arg2:T29
+R2	Target Arg1:E4 Arg2:T29
+R3	Target Arg1:E5 Arg2:T16
+E1	Doping:T15 Dopant:T24
+E2	Doping:T15 Dopant:T22
+E3	Doping:T25 Dopant:T28
+E4	Doping:T25 Dopant:T27
+E5	Doping:T26

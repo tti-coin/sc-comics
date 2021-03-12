@@ -1,0 +1,46 @@
+T3	Process 55 75	hydrostatic pressure
+T4	Material 94 115	structural parameters
+T5	Main 123 138	SmFeAsO1− x F x
+T7	Property 187 192	order
+T8	Material 208 215	lattice
+T10	Material 283 290	lattice
+T11	Process 306 326	hydrostatic pressure
+T13	Material 389 395	c-axis
+T14	Property 477 489	bulk modulus
+T16	Property 586 597	anisotropic
+T17	Element 621 636	SmFeAsO1− x F x
+T21	SC 809 812	T c
+T22	SC 845 860	superconducting
+T23	Element 861 866	FeAs4
+T24	Material 867 872	layer
+T25	Process 915 923	pressure
+T26	Property 964 983	non-superconducting
+T27	SC 1111 1133	transition temperature
+T30	Material 1284 1291	lattice
+T19	Material 729 742	a- and c-axis
+T38	Value 778 782	0.17
+T39	Characterization 1167 1179	measurements
+T40	Material 463 469	a-axis
+T12	Property 358 373	compressibility
+T41	Value 414 417	2.5
+T42	Property 330 341	anisotropic
+T1	Characterization 20 50	synchrotron powder diffraction
+T43	Property 1086 1094	carriers
+T6	Doping 148 154	doping
+T9	Doping 255 261	doping
+T18	Doping 647 653	doping
+T20	Doping 748 754	doping
+T29	Doping 1272 1278	doping
+T2	Value 171 174	0.0
+T31	Value 178 182	0.17
+T15	Doping 526 531	doped
+T28	Doping 1196 1202	doping
+R1	Target Arg1:E1 Arg2:T5
+R2	Target Arg1:E4 Arg2:T17
+E1	Doping:T6 
+E2	Doping:T9 
+E4	Doping:T18 
+E5	Doping:T20 
+E7	Doping:T29 
+E3	Doping:T15 
+E6	Doping:T28 

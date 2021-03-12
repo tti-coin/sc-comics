@@ -1,0 +1,75 @@
+T1	Material 15 25	structural
+T2	Property 27 37	electronic
+T3	Material 39 46	bonding
+T4	Property 60 73	thermodynamic
+T5	SC 78 93	superconducting
+T6	Material 129 142	isostructural
+T7	Material 143 147	bulk
+T8	SC 148 163	superconductors
+T10	Main 164 188	barium iridium phosphide
+T11	Main 189 196	BaIr2P2
+T12	SC 198 201	T c
+T13	Main 215 238	barium iridium arsenide
+T14	Main 239 247	BaIr2As2
+T15	SC 249 252	T c
+T16	Material 278 299	structural parameters
+T18	Element 408 410	As
+T19	Property 481 502	Metallic conductivity
+T21	SC 528 543	superconductors
+T22	Property 561 564	DOS
+T23	Property 604 618	charge density
+T24	Material 635 642	bonding
+T25	Element 646 653	BaIr2P2
+T26	Element 658 666	BaIr2As2
+T27	Material 672 677	ionic
+T28	Property 692 700	metallic
+T29	Material 875 889	intermetallics
+T30	SC 922 937	superconductors
+T31	Property 950 968	anisotropic nature
+T32	Property 981 999	elastic anisotropy
+T33	Element 1003 1010	BaIr2P2
+T34	Element 1034 1042	BaIr2As2
+T35	Property 1048 1056	hardness
+T36	Element 1060 1067	BaIr2P2
+T37	Element 1072 1080	BaIr2As2
+T38	Property 1159 1167	hardness
+T39	Element 1171 1178	BaIr2P2
+T40	Element 1192 1200	BaIr2As2
+T41	SC 1201 1215	superconductor
+T42	Property 1221 1238	Debye temperature
+T43	Element 1242 1249	BaIr2P2
+T44	Element 1254 1262	BaIr2As2
+T45	Property 1372 1382	electronic
+T46	Property 1383 1396	specific heat
+T47	Property 1410 1434	electron-phonon coupling
+T48	SC 1474 1510	superconducting critical temperature
+T50	Material 1594 1598	bulk
+T51	SC 1599 1616	superconductivity
+T52	Element 1620 1627	BaIr2P2
+T53	Element 1632 1640	BaIr2As2
+T54	SC 1646 1668	transition temperature
+T55	Value 204 209	2.1 K
+T56	Value 255 261	2.45 K
+T57	Element 403 404	P
+T58	Property 566 593	Mulliken atomic populations
+T59	Property 853 865	Pugh's ratio
+T60	Property 894 901	ductile
+T61	Value 1100 1108	6.92 GPa
+T62	Value 1113 1121	5.02 GPa
+T63	Value 1324 1332	293.06 K
+T64	Value 1337 1345	258.47 K
+T65	Property 1296 1317	elastic constant data
+T66	Value 1669 1677	0.0057 K
+T67	Value 1682 1685	6 K
+T9	Property 48 58	mechanical
+T20	Property 1445 1469	coulomb pseudo potential
+T17	Doping 388 399	replacement
+R1	Equivalent Arg1:T12 Arg2:T55
+R2	Equivalent Arg1:T15 Arg2:T56
+R3	Target Arg1:T55 Arg2:T11
+R4	Target Arg1:T56 Arg2:T14
+R7	Equivalent Arg1:T54 Arg2:T66
+R8	Equivalent Arg1:T54 Arg2:T67
+R9	Target Arg1:T66 Arg2:T52
+R10	Target Arg1:T67 Arg2:T53
+E1	Doping:T17 Site:T57 Dopant:T18

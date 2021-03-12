@@ -1,0 +1,37 @@
+T1	SC 8 23	superconducting
+T2	Main 31 44	Sr2VO3−δ FeAs
+T4	SC 116 154	superconducting transition temperature
+T5	Element 196 202	oxygen
+T6	Material 203 213	deficiency
+T7	Property 222 242	residual resistivity
+T8	Property 268 281	pair breaking
+T9	Material 292 301	disorders
+T10	SC 349 375	superconducting transition
+T11	Property 406 415	low field
+T12	Property 436 446	high field
+T13	Property 482 502	upper critical field
+T14	Property 567 587	vortex phase diagram
+T15	Property 633 639	vortex
+T16	Material 640 646	liquid
+T17	Property 676 686	anisotropy
+T18	Property 725 738	specific heat
+T20	SC 783 786	T c
+T21	Property 809 822	specific heat
+T22	SC 850 865	superconducting
+T23	Property 926 935	electrons
+T24	Property 964 968	band
+T25	Property 303 319	Magnetotransport
+T26	Value 788 791	40K
+T28	Property 917 925	unpaired
+T3	Property 78 93	oxygen contents
+T19	Doping 756 761	doped
+T27	Characterization 320 332	measurements
+R1	Equivalent Arg1:T20 Arg2:T26
+R2	Condition Arg1:T26 Arg2:E1
+E1	Doping:T19 
+#1	AnnotatorNotes T2	31-44
+#2	AnnotatorNotes T5	196-202
+#3	AnnotatorNotes T6	203-213
+#4	AnnotatorNotes T9	292-301
+#5	AnnotatorNotes T16	640-646
+#6	AnnotatorNotes T26	788-791

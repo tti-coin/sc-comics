@@ -1,0 +1,22 @@
+T2	Property 20 34	pairing theory
+T3	SC 38 55	superconductivity
+T4	Property 59 78	strongly correlated
+T8	Material 135 143	disorder
+T10	Material 223 233	disordered
+T11	SC 241 256	superconductors
+T15	Material 466 474	disorder
+T16	Property 488 507	strong correlations
+T17	Property 605 608	BCS
+T18	Property 614 621	pairing
+T1	Property 114 131	moderate strength
+T5	Property 308 328	electronic repulsion
+T7	Material 338 347	compounds
+T9	Property 364 379	inhomogeneities
+T13	Property 514 538	Gutzwiller approximation
+T14	Property 547 560	normal states
+T19	Property 735 755	Bogoliubov-de Gennes
+T20	Process 566 582	zero temperature
+T12	Property 714 734	Gutzwiller augmented
+T21	Property 234 240	s-wave
+T6	Property 79 85	d-wave
+T22	SC 86 101	superconductors

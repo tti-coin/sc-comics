@@ -1,0 +1,78 @@
+T1	Property 72 79	pinning
+T2	Material 96 100	bulk
+T3	Main 101 133	Bi1.8Pb0.4Sr2(MgB2)xCa2.2Cu3.0Oy
+T4	Material 134 141	ceramic
+T5	Material 142 151	materials
+T6	Element 161 165	MgB2
+T8	Material 196 213	crystal structure
+T9	Property 272 287	magnetic fields
+T12	SC 374 384	T c offset
+T13	SC 389 398	T c onset
+T14	Element 488 492	MgB2
+T16	SC 520 530	T c offset
+T17	SC 535 544	T c onset
+T18	Property 620 634	magnetic field
+T19	SC 671 681	T c offset
+T20	Property 754 762	strength
+T21	Element 825 829	MgB2
+T22	Element 837 844	Bi-2223
+T23	Material 845 862	crystal structure
+T24	Material 888 916	nucleation center formations
+T25	Material 949 956	dopants
+T26	Material 970 976	layers
+T27	Property 989 995	fluxon
+T28	Material 1007 1022	two-dimensional
+T29	Property 1036 1044	vortices
+T30	Property 1055 1069	magnetic field
+T33	Property 1183 1196	pair-breaking
+T34	Property 1228 1239	spin states
+T35	Property 1243 1254	cooper-pair
+T36	Property 1255 1264	electrons
+T37	Property 1280 1292	flux pinning
+T41	Element 1414 1418	MgB2
+T42	Property 1467 1483	coherence length
+T43	Property 1552 1573	upper critical fields
+T44	Element 1613 1617	MgB2
+T46	Property 1652 1658	vortex
+T47	Material 1659 1666	lattice
+T48	Property 1695 1703	magnetic
+T49	Property 1731 1738	pinning
+T50	Element 1762 1769	Bi-2223
+T51	Material 1770 1787	crystal structure
+T52	Property 37 55	magnetoresistivity
+T57	Value 184 187	0.5
+T58	Value 176 177	0
+T59	Property 217 233	magnetotransport
+T61	Value 411 418	114.1 K
+T62	Value 423 430	121.3 K
+T64	Value 466 470	0.05
+T65	Value 564 571	109.4 K
+T66	Value 576 583	118.6 K
+T67	Value 691 697	69.6 K
+T68	Value 735 738	7 T
+T69	Value 1086 1089	7 T
+T31	SC 1146 1156	T c offset
+T71	Value 1443 1447	0.05
+T72	Property 1668 1693	Josephson coupling length
+T73	Material 1024 1026	2D
+T75	Property 1326 1362	thermally activated flux creep model
+T7	Doping 166 174	addition
+T15	Doping 493 501	addition
+T32	Doping 1618 1626	addition
+T38	Characterization 234 246	measurements
+T39	Value 289 290	0
+T40	Value 291 293	7T
+T10	SC 334 365	critical transition temperature
+R2	Equivalent Arg1:T12 Arg2:T61
+R3	Equivalent Arg1:T13 Arg2:T62
+R4	Equivalent Arg1:T16 Arg2:T65
+R5	Equivalent Arg1:T17 Arg2:T66
+R6	Equivalent Arg1:T19 Arg2:T67
+R7	Target Arg1:E1 Arg2:T3
+R8	Condition Arg1:T61 Arg2:E2
+R9	Condition Arg1:T62 Arg2:E2
+R10	Condition Arg1:T65 Arg2:E2
+R11	Condition Arg1:T66 Arg2:E2
+E1	Doping:T7 Dopant:T6
+E2	Doping:T15 Dopant:T14
+E3	Doping:T32 Dopant:T44

@@ -1,0 +1,41 @@
+T1	Property 26 46	electronic structure
+T3	SC 61 76	superconductors
+T4	Property 110 123	phase diagram
+T5	Property 125 137	normal state
+T6	SC 142 157	superconducting
+T7	Property 203 215	normal state
+T8	Property 216 236	electronic structure
+T11	Main 304 323	LaO 1 − x F x BiS 2
+T13	Property 377 387	low energy
+T14	Property 430 449	tight-binding bands
+T16	Property 557 565	electron
+T17	Element 590 592	Bi
+T18	Property 594 603	p Y , p X
+T19	Element 610 611	S
+T24	Property 826 833	density
+T25	Property 853 870	density of states
+T26	Element 875 894	LaO 1 − x F x BiS 2
+T28	Property 990 1012	temperature dependence
+T32	Element 1182 1201	LaO 1 − x F x BiS 2
+T33	Property 1261 1277	spectral density
+T35	Property 1365 1387	temperature dependence
+T36	Property 1466 1487	temperature-dependent
+T9	Characterization 251 292	angle resolved photoemission spectroscopy
+T10	Characterization 294 299	ARPES
+T15	Property 662 679	Green's functions
+T29	Characterization 1128 1133	ARPES
+T30	Characterization 1143 1162	X-ray photoemission
+T43	Characterization 1488 1493	ARPES
+T23	Property 804 816	normal state
+T44	Property 1016 1035	spectral properties
+T2	Element 50 54	BiS2
+T34	Value 1320 1321	0
+T12	Property 344 361	microscopic model
+T20	Property 613 622	p Y , p X
+T42	Property 653 661	electron
+T21	Property 1208 1232	analytical approximation
+T45	Property 543 556	inter-orbital
+T40	Property 735 784	second-order of perturbations on the correlations
+T27	Doping 956 962	doping
+R1	Target Arg1:E1 Arg2:T26
+E1	Doping:T27

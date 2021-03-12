@@ -1,0 +1,35 @@
+T1	Property 29 37	electron
+T2	Property 43 47	hole
+T4	Main 54 61	LaOFeAs
+T5	SC 62 77	superconductors
+T6	Property 153 155	FC
+T7	SC 189 192	T c
+T8	Property 219 236	three-dimensional
+T9	Property 238 240	3D
+T10	Property 264 270	theory
+T11	Property 373 397	fluctuation conductivity
+T13	Property 415 417	3D
+T14	Property 472 481	pseudogap
+T15	Property 596 611	pseudogap state
+T17	Element 621 628	LaOFeAs
+T18	Property 672 678	paired
+T19	Property 732 737	pairs
+T20	SC 742 745	T c
+T21	Property 276 300	Gaussian–Ginzburg–Landau
+T22	Property 302 305	GGL
+T23	Property 242 258	Aslamazov–Larkin
+T24	Property 418 420	AL
+T12	Property 399 401	FC
+T25	Property 506 522	paraconductivity
+T26	Property 718 724	bosons
+T27	Property 679 687	fermions
+T28	Property 260 262	AL
+T29	Property 307 315	approach
+T3	Doping 48 53	doped
+T16	Doping 615 620	doped
+R1	Target Arg1:E1 Arg2:T4
+R2	Target Arg1:E2 Arg2:T4
+R3	Target Arg1:E3 Arg2:T17
+E1	Doping:T3 Dopant:T2
+E2	Doping:T3 Dopant:T1
+E3	Doping:T16 

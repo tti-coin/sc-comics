@@ -1,0 +1,45 @@
+T1	Element 28 29	P
+T2	Element 30 32	As
+T4	Property 64 79	charge carriers
+T5	Element 85 89	FeAs
+T6	SC 119 136	superconductivity
+T9	SC 219 222	T c
+T10	Main 228 253	BaFe 2 ( As 1 - x P x ) 2
+T11	Element 272 273	P
+T13	Element 284 291	LnFeAsO
+T14	Element 303 305	La
+T15	Element 310 312	Sm
+T16	SC 323 340	superconductivity
+T17	Property 356 368	normal-state
+T18	Property 369 380	resistivity
+T19	Property 394 416	temperature dependence
+T20	Property 425 437	normal-state
+T21	Property 438 454	Hall coefficient
+T22	Property 468 490	temperature dependence
+T23	Property 502 514	Fermi liquid
+T24	Property 533 549	magnetic quantum
+T25	SC 575 578	T c
+T26	Element 658 666	Fe–As–Fe
+T27	Property 725 733	magnetic
+T28	Property 734 751	exchange coupling
+T29	Element 755 768	iron pnictide
+T30	SC 769 784	superconductors
+T33	Value 263 266	30K
+T34	Value 347 350	11K
+T35	Element 300 302	Ln
+T3	Doping 33 45	substitution
+T12	Doping 54 60	doping
+T36	Doping 274 280	doping
+T7	SC 180 216	superconducting critical temperature
+T8	Material 90 95	layer
+R1	Target Arg1:T33 Arg2:T10
+R2	Equivalent Arg1:T16 Arg2:T34
+R3	Target Arg1:T34 Arg2:T13
+R4	Target Arg1:E3 Arg2:T13
+R5	Target Arg1:E1 Arg2:T5
+R6	Coref Arg1:T7 Arg2:T9
+R7	Equivalent Arg1:T7 Arg2:T33
+R8	Condition Arg1:T34 Arg2:E3
+E1	Doping:T3 Dopant:T1 Site:T2
+E2	Doping:T12 Dopant:T4
+E3	Doping:T36 Dopant:T11

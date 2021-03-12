@@ -1,0 +1,38 @@
+T1	Material 0 14	Microstructure
+T2	Property 68 82	vortex pinning
+T5	SC 122 137	superconducting
+T6	Material 138 144	matrix
+T7	Property 235 243	critical
+T8	Property 254 269	optimal pinning
+T9	Main 271 283	DyBa2Cu3O7-x
+T10	Main 285 290	DyBCO
+T11	Material 292 297	films
+T12	Element 303 327	BaZrO3 nano precipitates
+T13	Element 329 336	BZO-NPs
+T14	Process 343 348	grown
+T15	Material 352 370	biaxially-textured
+T16	Element 371 374	MgO
+T17	Material 375 388	buffer layers
+T18	Process 389 398	deposited
+T21	Material 441 461	Hastelloy substrates
+T22	Property 465 489	critical current density
+T23	Property 491 493	Jc
+T25	Property 533 543	self-field
+T26	Material 545 556	Orientation
+T27	Element 573 580	BZO-NPs
+T28	Characterization 605 637	Transmission Electron Microscopy
+T29	Characterization 639 642	TEM
+T30	Element 649 656	BZO-NPs
+T32	Element 695 700	DyBCO
+T33	Material 738 745	faceted
+T34	Material 746 754	geometry
+T35	Element 766 769	MgO
+T36	Material 770 782	buffer layer
+T38	Value 526 529	77K
+T24	Value 498 509	0.9 MA cm-2
+T19	Process 402 431	Inclined Substrate Deposition
+T20	Process 433 436	ISD
+T39	Process 762 765	ISD
+T31	Material 680 691	(a,b)-plane
+T3	Doping 87 95	addition
+E1	Doping:T3

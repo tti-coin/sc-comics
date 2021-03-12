@@ -1,0 +1,110 @@
+T1	Property 0 12	Non-magnetic
+T2	Main 13 17	YIn3
+T3	Main 19 24	LaIn3
+T4	Main 29 34	LuIn3
+T5	SC 42 80	superconducting transition temperature
+T6	SC 81 83	Tc
+T7	SC 131 148	superconductivity
+T8	Element 161 171	rare-earth
+T9	Main 181 186	LaSn3
+T10	SC 216 233	superconductivity
+T11	Property 261 273	non-magnetic
+T12	Main 274 278	YSn3
+T13	SC 284 298	superconductor
+T14	SC 304 306	Tc
+T18	SC 397 399	Tc
+T19	Property 414 419	order
+T20	Material 434 452	lattice parameters
+T21	Element 474 478	YSn3
+T23	Property 530 542	ground state
+T24	Property 595 610	band structures
+T25	Element 614 618	YIn3
+T26	Element 620 626	YIn2Sn
+T27	Element 631 635	YSn3
+T28	Property 666 680	Fermi surfaces
+T29	Property 744 755	Fermi level
+T30	Element 780 784	YSn3
+T31	Property 804 821	density of states
+T32	Property 837 848	Fermi level
+T33	Element 889 893	YIn3
+T35	Property 951 965	charge density
+T36	Material 1022 1029	bonding
+T37	Element 1035 1038	YSn
+T38	Material 1039 1044	bonds
+T39	Material 1062 1067	ionic
+T40	Material 1083 1094	bond length
+T41	Material 1105 1110	bonds
+T42	Property 1150 1163	Bader charges
+T43	Property 1183 1190	charges
+T44	Element 1196 1197	Y
+T45	Property 1218 1225	charges
+T46	Element 1229 1231	In
+T47	Element 1232 1234	Sn
+T48	Material 1235 1240	atoms
+T49	Material 1323 1328	bonds
+T50	Element 1332 1335	YX3
+T51	Material 1336 1350	intermetallics
+T52	Property 1381 1389	acoustic
+T53	Element 1411 1415	YIn3
+T54	Element 1442 1446	YSn3
+T55	Property 1477 1488	frequencies
+T56	Element 1547 1551	YIn3
+T57	Element 1556 1560	YSn3
+T59	Property 1617 1627	BCS theory
+T60	Property 1674 1691	density of states
+T61	Property 1693 1696	DOS
+T62	Property 1703 1727	electron-phonon coupling
+T63	Property 1762 1783	temperature dependent
+T64	Property 1784 1797	specific heat
+T65	Property 1813 1824	instability
+T66	Property 1828 1834	phonon
+T67	Element 1857 1860	YIn
+T68	Material 1870 1875	bonds
+T69	Element 1879 1883	YIn3
+T70	SC 1910 1912	Tc
+T71	SC 1939 1956	superconductivity
+T72	Element 1971 1978	Sn-atom
+T73	Element 1986 1990	YIn3
+T74	Material 1991 1998	lattice
+T75	SC 2024 2039	superconducting
+T76	Property 2079 2089	electronic
+T77	Property 2103 2116	specific heat
+T78	Property 2146 2155	frequency
+T79	SC 2209 2211	Tc
+T80	Property 2239 2246	valence
+T81	Property 2247 2269	electron concentration
+T83	Material 2274 2281	ternary
+T84	Element 2282 2288	YIn2Sn
+T85	SC 2314 2352	superconducting transition temperature
+T87	Value 241 247	6.25 K
+T88	Value 310 313	7 K
+T86	Value 87 91	0.78
+T89	Value 93 97	0.71
+T90	Value 102 108	0.24 K
+T91	Value 466 470	1.0%
+T92	Element 1101 1104	YIn
+T94	Element 1865 1869	InIn
+T95	Material 349 354	atoms
+T96	Material 372 377	atoms
+T97	Property 899 929	electron localization function
+T34	Property 931 934	ELF
+T98	Material 1198 1203	atoms
+T15	Doping 319 331	substitution
+T16	Element 346 348	In
+T17	Element 369 371	Sn
+T22	Element 491 495	YIn3
+T82	Value 2180 2187	5.6 THz
+T93	Value 2191 2194	1.5
+T99	Value 2195 2202	0.6 THz
+R2	Target Arg1:T86 Arg2:T2
+R3	Target Arg1:T89 Arg2:T3
+R4	Target Arg1:T90 Arg2:T4
+R5	Equivalent Arg1:T6 Arg2:T86
+R6	Equivalent Arg1:T6 Arg2:T89
+R7	Equivalent Arg1:T6 Arg2:T90
+R8	Target Arg1:T87 Arg2:T9
+R9	Equivalent Arg1:T14 Arg2:T88
+R10	Target Arg1:T88 Arg2:T12
+R11	Equivalent Arg1:T10 Arg2:T87
+E1	Doping:T15 Site:T16 Dopant:T17
+T58	SC 1579 1603	type I superconductivity

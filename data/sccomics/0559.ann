@@ -1,0 +1,28 @@
+T2	Property 42 51	d-density
+T3	Property 79 88	d-p model
+T4	Property 205 220	pseudogap phase
+T5	SC 224 232	high-T c
+T10	Property 569 573	hole
+T12	Process 609 618	reduction
+T13	Property 622 636	kinetic energy
+T15	Property 705 710	holes
+T16	Property 97 120	variational Monte Carlo
+T17	Property 122 125	VMC
+T1	Material 19 33	staggered flux
+T18	Material 35 37	SF
+T19	Material 541 543	SF
+T8	Element 496 498	Cu
+T20	Property 725 737	loop current
+T21	Property 127 133	method
+T22	Property 164 180	circular current
+T23	Property 280 294	trial function
+T24	Property 393 416	current-carrying states
+T25	Property 504 521	coulomb repulsion
+T7	Property 480 491	O-O hopping
+T9	Property 321 333	phase factor
+T11	Doping 574 580	doping
+T14	Doping 698 704	doping
+T6	Element 233 240	cuprate
+T26	SC 241 256	superconductors
+E1	Doping:T11 Dopant:T10
+E2	Doping:T14 Dopant:T15

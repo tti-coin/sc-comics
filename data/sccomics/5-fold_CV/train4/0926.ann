@@ -1,0 +1,42 @@
+T2	Process 29 35	growth
+T3	Property 68 96	manipulate electronic states
+T4	Material 108 117	materials
+T5	Property 148 162	phase diagrams
+T6	Element 166 173	cuprate
+T7	Element 178 182	iron
+T8	SC 189 204	superconductors
+T9	Property 273 281	electron
+T12	Main 331 333	Fe
+T13	SC 340 355	superconductors
+T14	Material 359 364	ionic
+T15	Material 365 371	liquid
+T16	Process 402 418	room temperature
+T17	Element 436 443	protons
+T18	Material 447 451	bulk
+T19	SC 470 487	superconductivity
+T20	SC 530 533	T c
+T21	SC 550 565	superconducting
+T22	Element 602 608	proton
+T23	Material 616 623	lattice
+T24	Characterization 636 675	first proton nuclear magnetic resonance
+T25	Characterization 677 680	NMR
+T26	SC 706 723	superconductivity
+T27	Element 731 734	FeS
+T28	Property 740 745	model
+T29	Characterization 758 761	NMR
+T30	SC 788 796	high-T c
+T31	Characterization 854 857	NMR
+T32	Material 869 877	isotopes
+T33	Property 890 912	electric-field-induced
+T34	Element 913 919	proton
+T35	Property 979 996	electronic states
+T36	Property 1003 1018	Mott insulators
+T37	Characterization 1082 1098	NMR measurements
+T1	Doping 282 288	doping
+T10	Doping 9 21	substitution
+T11	Material 319 329	structures
+T38	Element 308 310	11
+T39	Element 315 318	122
+R1	Target Arg1:E2 Arg2:T12
+E2	Doping:T1 Dopant:T9
+E3	Doping:T10 

@@ -1,0 +1,51 @@
+T1	Property 29 56	transport critical currents
+T3	Main 60 75	Sr0.6K0.4Fe2As2
+T4	Material 76 81	wires
+T5	SC 99 101	Tc
+T6	Material 112 117	wires
+T7	Process 163 185	powder-in-tube process
+T8	Element 187 193	Silver
+T11	Material 239 254	sheath material
+T12	Property 312 321	transport
+T13	SC 322 337	superconducting
+T14	Property 347 371	Critical current density
+T15	Property 372 374	Jc
+T16	Element 393 399	silver
+T18	Property 433 435	Jc
+T19	Element 480 486	silver
+T21	Element 524 528	iron
+T22	Material 535 540	wires
+T23	Property 563 565	Jc
+T25	Property 634 648	vortex pinning
+T27	Property 662 696	transport critical current density
+T28	Element 744 750	silver
+T29	Material 751 757	sheath
+T30	SC 766 781	superconducting
+T31	Material 832 838	grains
+T32	Property 904 906	Jc
+T33	Property 910 920	low fields
+T34	Element 985 987	Fe
+T35	Element 989 991	Ta
+T36	Element 996 998	Nb
+T37	Material 999 1004	tubes
+T38	Element 1006 1008	Ag
+T41	Element 1087 1095	pnictide
+T42	Material 1096 1101	wires
+T43	Value 103 106	34K
+T44	Value 417 421	4.2K
+T45	Value 440 449	1200A/cm2
+T46	Value 455 457	9A
+T47	Value 476 479	20%
+T49	Property 927 948	hysteretic phenomenon
+T10	Material 1022 1037	sheath material
+T2	Element 1078 1086	122 type
+T9	Doping 217 225	addition
+T17	Doping 400 408	addition
+T20	Doping 487 492	added
+T24	Value 602 604	1T
+T26	Value 609 612	10T
+R1	Equivalent Arg1:T5 Arg2:T43
+R2	Target Arg1:T43 Arg2:T3
+E1	Doping:T9 Dopant:T8
+E2	Doping:T17 Dopant:T16
+E3	Doping:T20 Dopant:T19

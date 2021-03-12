@@ -1,0 +1,58 @@
+T2	SC 13 20	high-Tc
+T3	SC 21 36	superconducting
+T4	Main 46 74	YBa2− x La x Cu3− x Al x O z
+T5	Main 79 107	YBa2− x La x Cu3− x Zn x O z
+T6	Material 199 209	structural
+T7	SC 214 229	superconducting
+T8	Characterization 267 284	X-ray diffraction
+T9	Characterization 286 289	XRD
+T14	Element 402 421	YBa2Cu3− x Al x O z
+T15	Element 426 445	YBa2Cu3− x Zn x O z
+T17	Element 485 489	YBCO
+T18	SC 520 540	critical temperature
+T19	SC 542 544	Tc
+T23	SC 654 656	Tc
+T26	Element 784 786	Ba
+T27	Element 800 804	CuO2
+T28	Material 805 810	plane
+T29	Element 826 828	La
+T31	Element 850 852	La
+T33	Property 896 912	solid solubility
+T34	Element 931 933	Al
+T45	Characterization 312 323	measurement
+T47	Element 469 471	Al
+T16	Element 584 592	(La, Al)
+T22	Element 626 628	Zn
+T24	Element 686 694	(La, Zn)
+T35	Element 938 940	Zn
+T54	Value 109 110	0
+T56	Value 115 118	0.3
+T10	Property 295 311	DC magnetization
+T1	Doping 7 12	doped
+T11	Doping 362 367	doped
+T12	Doping 388 393	doped
+T13	Doping 479 484	doped
+T20	Doping 596 601	doped
+T21	Doping 698 703	doped
+T25	Doping 636 641	doped
+T30	Doping 829 835	doping
+T32	Doping 853 859	doping
+T46	Doping 948 953	doped
+R1	Coref Arg1:T18 Arg2:T19
+R2	Target Arg1:E2 Arg2:T4
+R3	Target Arg1:E4 Arg2:T14
+R4	Target Arg1:E6 Arg2:T17
+R5	Target Arg1:E2 Arg2:T5
+R6	Target Arg1:E4 Arg2:T15
+E2	Doping:T1 
+E3	Doping:T11 
+E4	Doping:T12 
+E6	Doping:T13 Dopant:T47
+E7	Doping:T20 Dopant:T16
+E8	Doping:T21 Dopant:T24
+E9	Doping:T25 Dopant:T22
+E10	Doping:T30 Dopant:T29 Site:T26
+E11	Doping:T32 Dopant:T31
+E12	Doping:T46 Dopant:T35
+E13	Doping:T46 Dopant:T34
+E1	Doping:T30 Site:T27 Dopant:T29

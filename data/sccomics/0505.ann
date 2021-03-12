@@ -1,0 +1,34 @@
+T2	Material 39 44	wires
+T5	Element 105 113	graphene
+T6	Element 115 116	G
+T8	Property 160 176	critical current
+T10	Element 267 268	G
+T14	Process 377 386	annealing
+T15	Element 423 424	G
+T17	Process 431 434	IMD
+T18	Material 435 440	wires
+T19	SC 456 473	superconductivity
+T20	Property 478 497	mechanical property
+T21	Process 532 535	PIT
+T22	Material 536 541	wires
+T23	Value 139 145	1.4 mm
+T24	Process 54 75	internal Mg diffusion
+T25	Process 77 80	IMD
+T27	Value 99 104	3 at%
+T28	Value 186 191	530 A
+T29	Value 195 198	4 T
+T30	Value 209 212	45%
+T31	Value 354 357	30%
+T32	Value 364 370	650 °C
+T33	Value 373 376	2 h
+T35	Value 314 317	38%
+T36	Property 291 310	irreversible strain
+T1	Main 34 38	MgB2
+T38	Material 124 133	long wire
+T7	Doping 118 123	doped
+T9	Doping 425 430	doped
+T12	Doping 269 274	doped
+T13	Material 275 279	wire
+E1	Doping:T7 Dopant:T5
+E2	Doping:T9 Dopant:T15
+E4	Doping:T12 Dopant:T10

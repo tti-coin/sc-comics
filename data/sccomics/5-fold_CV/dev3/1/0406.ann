@@ -1,0 +1,63 @@
+T1	Material 14 21	crystal
+T4	SC 44 61	superconductivity
+T5	Main 110 128	niobium oxynitride
+T6	Material 129 139	structures
+T7	Main 141 160	(Nb0·87Si0.09□0.04)
+T8	Main 161 173	(N0·87O0.13)
+T9	Main 178 187	Nb4(N,O)5
+T10	Element 199 209	oxynitride
+T11	Property 248 256	critical
+T12	SC 257 272	superconducting
+T13	Property 281 283	Jc
+T15	Element 301 303	Si
+T16	Material 311 326	crystal lattice
+T17	Material 356 364	cationic
+T19	Material 365 374	vacancies
+T20	Process 434 452	thermally annealed
+T21	Process 464 480	high temperature
+T24	Material 545 561	defect structure
+T26	SC 569 586	superconductivity
+T28	Element 598 600	Si
+T29	Element 627 631	SiO2
+T30	Material 632 642	impurities
+T31	Material 651 667	nano crystalline
+T32	Element 683 688	δ-NbN
+T33	Element 703 707	NbO2
+T34	Material 708 718	impurities
+T35	SC 724 739	superconducting
+T36	Property 760 784	critical current density
+T37	Process 809 818	annealing
+T38	Element 831 849	niobium oxynitride
+T39	Element 860 869	Nb4(N,O)5
+T40	Material 877 885	cationic
+T41	Material 886 893	vacancy
+T42	Property 894 901	ordered
+T43	Material 917 934	crystal structure
+T45	Material 977 990	crystallinity
+T46	Element 994 1012	Nb4·19(N4·50O0.50)
+T47	Material 1016 1020	I4/m
+T48	Material 1021 1032	space group
+T52	Material 1130 1138	cationic
+T53	Material 1139 1148	vacancies
+T54	SC 1186 1203	superconductivity
+T55	SC 1235 1250	superconducting
+T56	Property 95 109	rock salt-type
+T57	Property 668 682	rock salt-type
+T58	Property 902 916	rock salt-type
+T61	Value 1270 1275	47.1%
+T62	Value 1210 1214	10 K
+T64	Process 936 951	Wet ammonolysis
+T50	Property 1117 1129	well-ordered
+T51	Value 1042 1055	0.6861 (2) nm
+T60	Value 1064 1077	0.4284 (1) nm
+T2	Material 22 40	structural defects
+T18	Property 1251 1266	volume fraction
+T22	Process 491 508	nitrogen pressure
+T23	Property 740 755	volume fraction
+T14	Doping 291 297	doping
+T25	Doping 592 597	doped
+T3	Property 1079 1087	Magnetic
+T27	Characterization 1088 1100	measurements
+R1	Equivalent Arg1:T54 Arg2:T62
+E1	Doping:T14 Dopant:T15
+E2	Doping:T25 Dopant:T28

@@ -1,0 +1,161 @@
+T1	Material 4 11	ternary
+T2	Main 12 35	copper platinum borides
+T3	Process 61 72	arc melting
+T4	Process 102 111	annealing
+T5	Material 126 136	structures
+T6	Characterization 158 163	X-ray
+T7	Material 164 178	single crystal
+T9	Element 203 221	(Pt1−x Cu x )3Cu2B
+T10	Material 258 267	structure
+T11	Material 269 280	space group
+T12	Element 304 306	Cu
+T13	Material 307 312	atoms
+T18	Element 411 413	Pt
+T19	Element 418 420	Cu
+T23	Element 454 459	Boron
+T24	Material 515 524	structure
+T25	Element 526 534	Pt9Cu3B5
+T26	Material 536 547	space group
+T27	Material 548 553	P-62m
+T29	Material 613 622	structure
+T30	Element 716 721	[Pt6]
+T32	Element 746 751	boron
+T33	Element 760 765	boron
+T34	Element 793 795	Pt
+T35	Element 849 851	Cu
+T36	Material 852 857	atoms
+T38	Element 896 901	[Pt6]
+T39	Material 902 909	cluster
+T40	Material 930 944	trigonal prism
+T41	Material 966 975	unit cell
+T42	Element 1008 1014	[BPt6]
+T43	Element 1019 1024	[Pt6]
+T44	Material 1025 1040	trigonal prisms
+T45	Element 1098 1099	B
+T46	Element 1121 1123	Cu
+T47	Element 1124 1125	B
+T48	Material 1141 1150	structure
+T49	Element 1173 1181	Pt9Cu3B5
+T50	Material 1182 1191	structure
+T51	Material 1201 1210	structure
+T52	Element 1214 1230	Ti1+x Os2−x RuB2
+T53	Material 1251 1260	structure
+T54	Element 1273 1287	metal sulfides
+T55	Element 1292 1302	aluminides
+T56	Element 1325 1343	(Pt1–x Cu x )3Cu2B
+T57	Material 1372 1381	structure
+T58	Material 1388 1392	bulk
+T59	SC 1393 1407	superconductor
+T60	SC 1415 1437	transition temperature
+T61	Property 1460 1480	upper critical field
+T62	SC 1514 1540	superconducting transition
+T63	Element 1573 1581	Pt9Cu3B5
+T64	Element 1583 1593	Pt9Zn3B5–δ
+T65	Material 1600 1609	structure
+T67	Value 115 120	600°C
+T71	Value 225 229	0.33
+T74	Element 248 252	β-Mn
+T75	Value 290 301	0.6671(1)nm
+T16	Material 474 484	octahedral
+T20	Element 505 509	β-Mn
+T21	Value 557 568	0.9048(3)nm
+T22	Value 572 583	0.2908(1)nm
+T28	Element 596 606	Pt9Zn3B5–δ
+T76	Material 633 654	columnar architecture
+T82	Value 1347 1350	0.3
+T83	Element 1353 1354	B
+T84	Element 1362 1366	β-Mn
+T85	Value 1447 1452	2.06K
+T86	Value 1497 1501	1.2T
+T87	Value 1565 1569	0.3K
+T89	Element 1100 1101	B
+T90	Characterization 183 201	powder diffraction
+T8	Material 354 364	atom sites
+T91	Material 722 736	trigonal prism
+T31	Material 812 822	pentagonal
+T88	Material 378 386	12d site
+T93	Material 351 353	8c
+T37	Material 872 882	structural
+T17	Doping 399 407	occupied
+T66	Element 239 240	B
+T68	Property 1616 1638	electrical resistivity
+T69	Characterization 1639 1651	measurements
+T14	Element 428 451	0.670(4) Pt±0.330(4) Cu
+R1	Equivalent Arg1:T62 Arg2:T87
+R2	Equivalent Arg1:T60 Arg2:T85
+R3	Target Arg1:T85 Arg2:T56
+R4	Target Arg1:T87 Arg2:T63
+E1	Doping:T17 Dopant:T18
+E2	Doping:T17 Dopant:T19
+#1	AnnotatorNotes T1	4-11
+#2	AnnotatorNotes T2	12-35
+#3	AnnotatorNotes T5	126-136
+#4	AnnotatorNotes T7	164-178
+#5	AnnotatorNotes T9	203-221
+#6	AnnotatorNotes T10	258-267
+#7	AnnotatorNotes T11	269-280
+#8	AnnotatorNotes T12	304-306
+#9	AnnotatorNotes T13	307-312
+#10	AnnotatorNotes T18	411-413
+#11	AnnotatorNotes T19	418-420
+#12	AnnotatorNotes T23	454-459
+#13	AnnotatorNotes T24	515-524
+#14	AnnotatorNotes T25	526-534
+#15	AnnotatorNotes T26	536-547
+#16	AnnotatorNotes T27	548-553
+#17	AnnotatorNotes T29	613-622
+#18	AnnotatorNotes T30	716-721
+#19	AnnotatorNotes T32	746-751
+#20	AnnotatorNotes T33	760-765
+#21	AnnotatorNotes T34	793-795
+#22	AnnotatorNotes T35	849-851
+#23	AnnotatorNotes T36	852-857
+#24	AnnotatorNotes T38	896-901
+#25	AnnotatorNotes T39	902-909
+#26	AnnotatorNotes T40	930-944
+#27	AnnotatorNotes T41	966-975
+#28	AnnotatorNotes T42	1008-1014
+#29	AnnotatorNotes T43	1019-1024
+#30	AnnotatorNotes T44	1025-1040
+#31	AnnotatorNotes T45	1098-1099
+#32	AnnotatorNotes T46	1121-1123
+#33	AnnotatorNotes T47	1124-1125
+#34	AnnotatorNotes T48	1141-1150
+#35	AnnotatorNotes T49	1173-1181
+#36	AnnotatorNotes T50	1182-1191
+#37	AnnotatorNotes T51	1201-1210
+#38	AnnotatorNotes T52	1214-1230
+#39	AnnotatorNotes T53	1251-1260
+#40	AnnotatorNotes T54	1273-1287
+#41	AnnotatorNotes T55	1292-1302
+#42	AnnotatorNotes T56	1325-1343
+#43	AnnotatorNotes T57	1372-1381
+#44	AnnotatorNotes T58	1388-1392
+#45	AnnotatorNotes T63	1573-1581
+#46	AnnotatorNotes T64	1583-1593
+#47	AnnotatorNotes T65	1600-1609
+#48	AnnotatorNotes T67	115-120
+#49	AnnotatorNotes T71	225-229
+#50	AnnotatorNotes T74	248-252
+#51	AnnotatorNotes T75	290-301
+#52	AnnotatorNotes T16	474-484
+#53	AnnotatorNotes T20	505-509
+#54	AnnotatorNotes T21	557-568
+#55	AnnotatorNotes T22	572-583
+#56	AnnotatorNotes T28	596-606
+#57	AnnotatorNotes T76	633-654
+#58	AnnotatorNotes T82	1347-1350
+#59	AnnotatorNotes T83	1353-1354
+#60	AnnotatorNotes T84	1362-1366
+#61	AnnotatorNotes T85	1447-1452
+#62	AnnotatorNotes T86	1497-1501
+#63	AnnotatorNotes T87	1565-1569
+#64	AnnotatorNotes T89	1100-1101
+#65	AnnotatorNotes T8	354-364
+#66	AnnotatorNotes T91	722-736
+#67	AnnotatorNotes T31	812-822
+#68	AnnotatorNotes T88	378-386
+#69	AnnotatorNotes T93	351-353
+#70	AnnotatorNotes T37	872-882
+#71	AnnotatorNotes T66	239-240
+#72	AnnotatorNotes T14	428-451

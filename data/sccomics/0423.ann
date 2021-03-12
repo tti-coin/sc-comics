@@ -1,0 +1,61 @@
+T1	Material 12 28	phase separation
+T2	Property 29 42	instabilities
+T3	Property 82 88	charge
+T6	Property 126 139	Hubbard model
+T7	Material 225 240	two-dimensional
+T8	Material 242 248	square
+T9	Material 250 258	lattices
+T10	Material 293 303	unit cells
+T11	Property 315 321	theory
+T12	Property 357 380	quantum critical points
+T13	Material 415 431	phase separation
+T14	Property 432 445	instabilities
+T16	Property 545 552	singlet
+T17	Property 554 559	spins
+T18	Property 564 570	paired
+T19	Property 571 578	charged
+T20	Property 579 584	holes
+T21	Property 599 616	Bose condensation
+T22	Property 630 637	pairing
+T23	Property 675 684	electrons
+T24	Property 738 745	pairing
+T25	Property 749 755	charge
+T26	Property 760 764	spin
+T27	SC 833 850	superconductivity
+T29	Property 903 907	spin
+T31	Property 996 1000	spin
+T32	Property 1001 1007	charge
+T35	Material 1199 1208	nanoscale
+T37	SC 1242 1250	high-T c
+T38	Element 1251 1259	cuprates
+T39	Element 1261 1270	pnictides
+T40	Property 1275 1278	CMR
+T42	Property 93 105	spin pairing
+T45	Property 703 727	Bose-Einstein statistics
+T48	Property 485 506	inhomogeneous systems
+T49	Property 966 988	Nagaoka ferromagnetism
+T51	Process 1119 1138	finite temperatures
+T52	Value 1110 1114	zero
+T34	Property 1057 1072	critical points
+T53	Property 1077 1100	classical criticalities
+T54	Property 1160 1173	inhomogeneous
+T55	Material 1279 1292	nanomaterials
+T56	Material 159 184	nearest neighbor coupling
+T15	Property 450 471	electron condensation
+T57	Property 776 810	distinct condensation temperatures
+T58	Property 870 882	BCS scenario
+T28	Property 106 118	(pseudo)gaps
+T43	Property 621 629	coherent
+T47	Property 641 651	real space
+T30	Material 908 914	liquid
+T33	Property 1175 1183	coherent
+T50	Property 1188 1198	incoherent
+T4	Value 124 125	0
+T5	Doping 1236 1241	doped
+T36	Value 272 273	8
+T41	Value 279 281	10
+R1	Target Arg1:E1 Arg2:T39
+R2	Target Arg1:E2 Arg2:T38
+E1	Doping:T5
+E2	Doping:T5
+T44	Process 655 671	zero temperature

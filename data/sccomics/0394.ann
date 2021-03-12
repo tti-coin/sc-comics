@@ -1,0 +1,98 @@
+T1	Main 0 28	Cu0.5Tl0.5Ba2Ca2Cu3-xMxO10-δ
+T2	Element 34 36	Cd
+T3	Element 38 40	Zn
+T4	Element 42 44	Ni
+T5	Process 98 118	solid-state reaction
+T6	Property 159 172	low frequency
+T10	Material 267 283	length of a-axis
+T12	Element 353 355	Cd
+T13	Element 357 359	Zn
+T14	Element 361 363	Ni
+T15	SC 391 400	Tc(onset)
+T16	SC 405 414	Tc(R = 0)
+T18	Element 443 445	Cd
+T20	Element 500 502	Zn
+T21	Element 507 509	Ni
+T23	SC 588 626	onset temperature of superconductivity
+T25	Element 703 705	Cd
+T26	Property 725 735	vibrations
+T27	Element 746 752	oxygen
+T28	Property 753 759	phonon
+T29	Element 774 785	Tl-OA-Cu(2)
+T30	Property 790 798	hardened
+T31	Property 807 821	peak positions
+T33	Element 871 873	Cd
+T34	Element 875 877	Zn
+T35	Element 879 881	Ni
+T36	Property 912 931	frequency dependent
+T38	Property 1003 1023	dielectric constants
+T39	Property 1080 1089	frequency
+T41	Property 1271 1291	dielectric constants
+T43	Element 1320 1322	Cd
+T44	Element 1324 1326	Zn
+T45	Element 1328 1330	Ni
+T46	Element 1391 1393	Cd
+T48	Element 1456 1458	Cd
+T49	Material 1459 1464	atoms
+T50	Element 1468 1477	CuO2/CdO2
+T52	Material 1478 1484	planes
+T53	Property 1493 1517	an-harmonic oscillations
+T54	Property 1557 1580	density of Cooper-pairs
+T55	Property 1621 1641	dielectric constants
+T56	Property 1680 1695	dielectric loss
+T57	Property 1759 1768	frequency
+T58	Element 1810 1838	Cu0.5Tl0.5Ba2Ca2Cu3-xMxO10-δ
+T59	Element 1844 1846	Cd
+T60	Element 1848 1850	Zn
+T61	Element 1852 1854	Ni
+T62	Property 1928 1953	interfacial polarizations
+T63	Property 1967 1978	frequencies
+T64	Property 1992 2012	ac-conductivity jump
+T65	Material 2028 2036	pristine
+T66	Element 2038 2040	Zn
+T67	Element 2045 2047	Ni
+T68	Element 2092 2094	Cd
+T69	Property 2157 2181	an-harmonic oscillations
+T70	Property 2192 2205	pair breaking
+T74	Value 1856 1859	1.5
+T85	Value 50 51	0
+T86	Value 53 56	1.5
+T90	Material 223 253	orthorhombic crystal structure
+T9	Characterization 1152 1163	measurement
+T76	Characterization 1068 1079	measurement
+T11	Doping 336 349	incorporation
+T17	Doping 433 439	doping
+T19	Doping 483 496	incorporation
+T22	Doping 706 711	doped
+T24	Doping 861 867	doping
+T40	Doping 1310 1316	doping
+T42	Doping 1394 1399	doped
+T47	Doping 1450 1455	doped
+T51	Doping 2048 2053	doped
+T71	Doping 2095 2100	doped
+T32	Value 1784 1790	800 Hz
+T78	Value 1795 1802	1000 Hz
+T7	Property 173 183	dielectric
+T72	Characterization 184 196	measurements
+T8	Property 536 553	ac-susceptibility
+T75	Characterization 554 566	measurements
+T37	Property 932 942	dielectric
+T77	Characterization 943 955	measurements
+E1	Doping:T11 Dopant:T14
+E2	Doping:T11 Dopant:T13
+E3	Doping:T11 Dopant:T12
+E4	Doping:T17 Dopant:T18
+E5	Doping:T19 Dopant:T21
+E6	Doping:T19 Dopant:T20
+E7	Doping:T22 Dopant:T25
+E8	Doping:T24 Dopant:T35
+E9	Doping:T24 Dopant:T34
+E10	Doping:T24 Dopant:T33
+E12	Doping:T40 Dopant:T45
+E13	Doping:T40 Dopant:T44
+E14	Doping:T40 Dopant:T43
+E15	Doping:T42 Dopant:T46
+E16	Doping:T47 Dopant:T48 Site:T50
+E17	Doping:T51 Dopant:T67
+E18	Doping:T51 Dopant:T66
+E19	Doping:T71 Dopant:T68

@@ -1,0 +1,33 @@
+T1	Property 30 46	phase transition
+T2	Element 54 56	Na
+T3	Main 63 79	Cu1−x Na x Ir2S4
+T4	Property 107 123	phase transition
+T6	Process 177 184	cooling
+T7	Property 241 257	phase transition
+T9	Element 288 295	Na ions
+T10	Property 318 334	phase transition
+T12	Characterization 373 391	Raman spectroscopy
+T13	Characterization 396 413	X-ray diffraction
+T14	Material 442 463	structural distortion
+T16	Element 492 494	Na
+T17	Element 498 514	Cu1−x Na x Ir2S4
+T18	Material 535 553	lattice distortion
+T19	Property 578 586	metallic
+T21	Element 615 617	Na
+T22	Element 652 655	Na+
+T23	Element 672 680	S2− ions
+T25	Property 703 712	electrons
+T26	Property 761 770	electrons
+T27	Property 823 832	electrons
+T28	Material 837 852	lattice defects
+T29	Property 924 940	phase transition
+T5	Doping 57 62	doped
+T8	Doping 278 284	doping
+T11	Doping 482 488	doping
+T15	Doping 605 611	doping
+R1	Target Arg1:E1 Arg2:T3
+R2	Target Arg1:E3 Arg2:T17
+E1	Doping:T5 Dopant:T2
+E2	Doping:T8 Dopant:T9
+E3	Doping:T11 Dopant:T16
+E4	Doping:T15 Dopant:T21

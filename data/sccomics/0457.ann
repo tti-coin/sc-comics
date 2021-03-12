@@ -1,0 +1,45 @@
+T1	Main 12 31	YBa2Cu3O7−δ +xCr2O3
+T2	Process 90 110	solid state reaction
+T3	Material 119 134	Microstructural
+T4	Material 163 168	grain
+T6	Property 200 208	magnetic
+T7	Element 209 214	Cr2O3
+T8	Material 215 224	particles
+T9	Element 232 236	YBCO
+T10	Material 237 243	matrix
+T11	Characterization 245 248	XRD
+T12	Material 275 297	orthorhombic structure
+T14	Property 311 326	oxygen ordering
+T15	Element 374 379	Cr2O3
+T16	SC 406 445	superconducting transition temperatures
+T17	Property 517 529	conductivity
+T19	Property 639 641	3D
+T20	SC 649 652	T c
+T21	Property 661 663	3D
+T22	Property 664 685	crossover temperature
+T23	Material 782 788	grains
+T24	Element 806 811	Cr2O3
+T26	Element 829 833	YBCO
+T27	Material 834 840	matrix
+T28	Property 895 905	mean field
+T29	Property 960 962	3D
+T30	Element 994 999	Cr2O3
+T33	Material 1133 1143	intergrain
+T36	Value 35 38	0.0
+T37	Value 40 43	2.3
+T38	Value 45 48	4.4
+T39	Value 54 60	6.1wt%
+T40	Characterization 462 481	standard four-probe
+T41	Property 557 579	Aslamazov–Larkin model
+T42	Property 632 634	2D
+T43	Property 655 657	2D
+T44	Property 691 720	Lawerence–Doniach temperature
+T45	Property 737 770	dimensional nature of fluctuation
+T46	Property 858 887	Lawerence–Doniach temperature
+T5	Doping 183 196	incorporation
+T13	Doping 812 825	incorporation
+T18	SC 1034 1070	zero-resistance critical temperature
+R1	Target Arg1:E1 Arg2:T9
+R2	Target Arg1:E2 Arg2:T26
+E1	Doping:T5 Dopant:T7
+E2	Doping:T13 Dopant:T24

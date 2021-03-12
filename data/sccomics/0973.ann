@@ -1,0 +1,60 @@
+T1	Property 4 12	electron
+T3	Main 19 27	silicene
+T4	Material 55 62	biaxial
+T5	Property 63 77	tensile strain
+T6	Property 101 107	phonon
+T7	SC 117 131	superconductor
+T8	Property 187 200	thermodynamic
+T9	SC 219 234	superconducting
+T10	Element 235 243	silicene
+T11	Property 287 295	electron
+T14	Element 354 362	silicene
+T15	SC 408 446	superconducting transition temperature
+T16	SC 448 451	T C
+T17	Property 483 498	electron–phonon
+T18	SC 627 665	superconducting transition temperature
+T19	SC 764 779	superconducting
+T20	Property 780 790	energy gap
+T21	Property 798 809	Fermi level
+T22	Property 850 874	thermodynamic parameters
+T23	Property 910 942	Bardeen–Cooper–Schrieffer theory
+T24	Property 976 986	energy gap
+T25	Property 994 1014	critical temperature
+T26	Property 1072 1085	specific heat
+T27	Property 1098 1111	specific heat
+T28	Property 1119 1131	normal state
+T29	Property 1189 1209	critical temperature
+T30	Property 1214 1227	specific heat
+T31	Property 1235 1247	normal state
+T32	Property 1255 1268	thermodynamic
+T33	Property 1269 1283	critical field
+T34	Property 1367 1375	electron
+T35	Property 1410 1418	electron
+T36	Property 1419 1428	band mass
+T13	Value 310 328	3.5 × 10 14 cm − 2
+T37	Value 276 278	5%
+T40	Value 1398 1402	2.11
+T43	Property 146 166	Eliashberg formalism
+T44	Material 363 372	monolayer
+T45	Property 558 573	pseudopotential
+T46	Property 550 557	Coulomb
+T47	Value 825 829	6.68
+T48	Value 832 836	3.88
+T49	Value 591 594	0.1
+T50	Value 597 600	0.3
+T51	Property 499 516	spectral function
+T2	Doping 13 18	doped
+T12	Doping 296 302	doping
+T42	Value 681 686	18.7K
+T52	Value 690 695	11.6K
+T38	Value 1041 1045	4.14
+T53	Value 1049 1053	3.87
+T39	Value 1154 1158	2.19
+T54	Value 1162 1166	2.05
+T41	Value 1299 1304	0.143
+T55	Value 1308 1313	0.155
+R2	Target Arg1:E1 Arg2:T3
+R3	Equivalent Arg1:T18 Arg2:T42
+R4	Equivalent Arg1:T18 Arg2:T52
+E1	Doping:T2 Dopant:T1
+E2	Doping:T12 Dopant:T11

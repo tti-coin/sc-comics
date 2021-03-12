@@ -1,0 +1,34 @@
+T1	Property 48 56	electron
+T4	Material 206 215	materials
+T5	Property 281 285	hole
+T7	SC 457 491	high temperature superconductivity
+T8	Element 499 507	cuprates
+T9	Property 607 615	electron
+T11	Main 622 629	cuprate
+T12	Material 630 639	materials
+T13	Property 734 738	hole
+T14	Property 744 752	electron
+T16	Element 759 767	cuprates
+T17	SC 769 786	superconductivity
+T18	Property 801 808	pairing
+T19	Property 812 825	hole carriers
+T20	Property 838 842	band
+T21	Property 857 862	model
+T22	Property 1062 1067	model
+T23	Property 1124 1130	models
+T24	Property 1145 1151	models
+T2	Doping 57 62	doped
+T6	Doping 286 291	doped
+T10	Doping 616 621	doped
+T15	Doping 753 758	doped
+T3	SC 71 86	superconductors
+T25	Element 63 70	cuprate
+R1	Target Arg1:E3 Arg2:T11
+R2	Target Arg1:E4 Arg2:T16
+R3	Target Arg1:E5 Arg2:T16
+R4	Target Arg1:E1 Arg2:T25
+E1	Doping:T2 Dopant:T1
+E2	Doping:T6 Dopant:T5
+E3	Doping:T10 Dopant:T9
+E4	Doping:T15 Dopant:T14
+E5	Doping:T15 Dopant:T13

@@ -1,0 +1,44 @@
+T1	Element 0 4	57Fe
+T2	Element 9 14	151Eu
+T4	Main 70 88	Eu0.57Ca0.43Fe2As2
+T5	Property 103 105	3d
+T6	Property 110 112	4f
+T7	Property 113 127	magnetic order
+T8	Main 132 162	Eu0.73Ca0.27(Fe0.87Co0.13)2As2
+T9	SC 174 188	superconductor
+T10	Property 207 218	resistivity
+T11	Property 251 263	ground state
+T12	Element 338 346	EuFe2As2
+T13	Element 351 359	CaFe2As2
+T15	Element 403 408	Fe-As
+T16	Material 409 415	layers
+T18	Element 463 467	Eu2+
+T19	Property 468 484	magnetic moments
+T22	Element 507 511	Eu3+
+T23	SC 550 564	superconductor
+T24	Element 600 604	Eu2+
+T25	Property 605 612	moments
+T26	Material 620 626	c-axis
+T27	Material 634 643	unit cell
+T28	Property 681 695	magnetic field
+T29	Element 699 710	iron nuclei
+T30	Material 712 720	Divalent
+T31	Element 721 729	europium
+T32	Property 730 736	orders
+T33	Material 761 765	bulk
+T34	SC 784 799	superconducting
+T35	SC 822 836	superconductor
+T36	Property 885 897	ground state
+T37	Property 941 943	3d
+T38	Property 944 953	magnetism
+T39	Property 989 1006	spin density wave
+T41	Property 1077 1093	electron density
+T42	Element 1097 1108	iron nuclei
+T3	Characterization 15 32	Mössbauer spectra
+T43	Value 909 912	27%
+T44	Property 852 871	inhomogeneous state
+T45	Property 1049 1072	electric field gradient
+T17	Property 437 455	rotation (canting)
+T20	Property 574 592	rotation (canting)
+T14	Doping 379 391	substitution
+E1	Doping:T14 

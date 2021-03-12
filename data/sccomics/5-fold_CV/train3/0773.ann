@@ -1,0 +1,22 @@
+T1	Property 0 7	Valence
+T2	Property 20 28	metallic
+T3	SC 74 91	superconductivity
+T4	Property 137 144	valence
+T5	Property 158 165	valence
+T6	Element 189 191	Bi
+T7	Property 215 229	valence states
+T9	Property 255 262	valence
+T10	SC 293 310	superconductivity
+T11	SC 350 384	high temperature superconductivity
+T12	Property 407 412	model
+T13	Material 429 439	impurities
+T14	Property 452 465	phase diagram
+T15	SC 476 491	superconducting
+T16	SC 503 518	superconducting
+T17	Property 543 551	metallic
+T18	Property 571 578	singlet
+T19	Process 635 651	high temperature
+T20	Value 230 232	+3
+T21	Value 237 239	+5
+T8	Doping 245 251	doping
+E1	Doping:T8 

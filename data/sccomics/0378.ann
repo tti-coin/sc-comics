@@ -1,0 +1,92 @@
+T3	Main 48 52	MgB2
+T4	SC 53 68	superconducting
+T5	Material 69 74	wires
+T6	Property 92 116	critical current density
+T8	Material 188 193	wires
+T9	Element 274 278	MgB2
+T10	Material 279 284	wires
+T11	Element 299 303	MgB2
+T12	Material 304 309	layer
+T14	Process 354 368	heat treatment
+T15	Element 383 384	B
+T16	Element 408 412	MgB2
+T17	Material 413 418	layer
+T18	Element 426 430	MgB2
+T19	Material 431 436	wires
+T20	Element 582 584	Mg
+T21	Element 593 594	B
+T22	Material 595 601	powder
+T23	Element 614 618	MgB2
+T24	Material 619 624	layer
+T25	Material 636 641	wires
+T26	Process 649 663	heat treatment
+T28	Element 734 738	MgB2
+T29	Material 739 744	layer
+T31	Element 806 808	Mg
+T32	Element 813 814	B
+T33	Element 823 827	MgB2
+T34	Material 828 833	layer
+T37	Element 879 883	MgB2
+T38	Material 884 889	wires
+T39	Element 972 974	Mg
+T40	Element 979 980	B
+T41	Element 989 993	MgB2
+T42	Material 994 999	layer
+T43	Element 1100 1104	MgB2
+T44	Material 1105 1110	layer
+T45	Material 1173 1179	liquid
+T46	Element 1180 1182	Mg
+T47	Element 1187 1188	B
+T48	Material 1189 1195	powder
+T49	Material 1231 1240	thickness
+T50	Element 1256 1260	MgB2
+T51	Material 1261 1266	layer
+T52	Element 1287 1289	Mg
+T54	Element 1382 1384	Mg
+T55	Element 1401 1403	Cu
+T56	Process 1404 1411	coating
+T58	Element 1442 1444	Mg
+T59	Element 1497 1501	MgB2
+T60	Material 1502 1507	layer
+T61	Material 1515 1520	wires
+T62	Element 1535 1537	Cu
+T63	Process 1538 1545	coating
+T65	Element 1583 1587	MgB2
+T66	Material 1588 1593	layer
+T67	Element 1632 1636	MgB2
+T68	Material 1637 1642	layer
+T69	Element 1681 1683	Mg
+T71	Element 1710 1714	MgB2
+T72	Material 1715 1720	layer
+T73	Element 1729 1735	B-rich
+T74	Element 1749 1750	B
+T75	Element 1795 1797	Cu
+T76	Process 1798 1804	coated
+T77	Process 1805 1808	IMD
+T78	Material 1809 1814	wires
+T79	Element 1885 1887	Mg
+T80	Property 1888 1901	melting point
+T82	Element 1930 1934	MgB2
+T83	Material 1935 1940	layer
+T84	Element 2047 2051	MgB2
+T85	Material 2052 2057	wires
+T86	Element 2073 2075	Cu
+T87	Process 2076 2083	coating
+T88	Material 2174 2179	wires
+T2	Process 0 21	Internal Mg diffusion
+T89	Process 23 26	IMD
+T90	Process 163 177	powder in tube
+T13	Property 463 466	J e
+T91	Process 632 635	IMD
+T27	Process 841 862	internal Mg diffusion
+T30	Process 864 867	IMD
+T53	Process 1452 1455	IMD
+T64	Material 1704 1709	dense
+T70	Value 1837 1844	1.03 mm
+T93	Value 1871 1877	600 °C
+T94	Process 1849 1860	temperature
+T81	Process 2043 2046	IMD
+T96	Process 2170 2173	IMD
+T97	Process 2183 2206	low heating temperature
+T7	Material 2018 2039	processing parameters
+T1	Process 1011 1028	heating treatment

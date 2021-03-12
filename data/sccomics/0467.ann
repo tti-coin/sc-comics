@@ -1,0 +1,54 @@
+T1	Property 4 28	electrical resistivities
+T2	Element 40 48	titanium
+T3	Main 57 62	Ti-Al
+T4	Material 63 69	alloys
+T6	Material 215 224	materials
+T11	Property 486 492	phonon
+T12	Property 501 512	resistivity
+T13	Property 539 555	saturation model
+T14	Property 567 578	resistivity
+T15	Property 628 644	saturation model
+T16	Property 777 785	electron
+T17	Property 786 792	phonon
+T18	Property 808 821	resistivities
+T19	Property 832 837	model
+T21	Material 956 965	materials
+T22	Property 983 996	free-electron
+T25	Material 1079 1087	impurity
+T26	Property 1092 1100	electron
+T27	Property 1101 1107	phonon
+T28	Property 1108 1121	resistivities
+T29	Property 1125 1130	model
+T30	Property 1138 1152	band structure
+T32	Property 1204 1231	electron-phonon interaction
+T33	Element 1242 1250	titanium
+T36	Property 1300 1316	plasma frequency
+T38	Property 1356 1361	model
+T40	Property 1446 1454	electron
+T41	Property 1455 1461	phonon
+T42	Property 1477 1490	resistivities
+T43	SC 1538 1574	superconducting critical temperature
+T45	SC 1575 1578	T c
+T5	Value 202 209	1.2 GPa
+T52	Process 187 195	pressure
+T7	Property 232 254	resistivity saturation
+T53	Property 295 315	parallel resistivity
+T54	Property 388 407	Mott-Fermi smearing
+T10	Property 670 688	Matthiessen's rule
+T56	Property 767 775	residual
+T20	Property 1001 1013	Debye models
+T24	Element 1600 1608	titanium
+T34	Process 278 290	temperatures
+T9	Element 424 440	transition metal
+T37	Property 317 333	saturation model
+T8	Property 1052 1071	pressure dependence
+T23	Property 874 895	pressure coefficients
+T39	Process 1166 1174	pressure
+T44	Process 1330 1338	pressure
+T46	Process 1404 1412	pressure
+T47	Process 1281 1289	pressure
+T48	Process 1585 1593	pressure
+T31	Value 129 130	4
+T49	Value 135 140	700 K
+T35	Value 159 162	175
+T50	Value 163 168	700 K

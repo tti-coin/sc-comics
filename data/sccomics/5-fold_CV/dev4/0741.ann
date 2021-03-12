@@ -1,0 +1,50 @@
+T3	SC 52 55	HTS
+T4	Characterization 57 62	SQUID
+T5	SC 154 157	HTS
+T6	Characterization 158 163	SQUID
+T7	SC 246 249	HTS
+T8	Material 250 266	coated conductor
+T9	Material 268 270	CC
+T10	Material 332 351	Josephson junctions
+T11	Material 356 377	multilayer structures
+T13	Element 394 402	MgO(100)
+T14	Material 403 412	substrate
+T15	Material 468 477	substrate
+T17	Element 494 498	gold
+T18	SC 527 530	HTS
+T19	Material 531 533	CC
+T20	Material 554 563	thin-film
+T21	Element 646 651	SmBCO
+T23	Element 665 670	ErBCO
+T25	Material 727 737	electrodes
+T27	Element 792 797	ErBCO
+T28	Material 816 825	thin-film
+T29	Element 846 851	SmBCO
+T31	Material 997 1001	flux
+T32	Property 1058 1082	critical current density
+T33	Material 1090 1099	thin-film
+T34	Process 1191 1201	oxygenated
+T35	Process 1216 1225	annealing
+T1	SC 27 50	high-Tc superconducting
+T2	Value 101 106	130mm
+T36	Value 428 436	15×15mm2
+T37	Value 602 605	7mm
+T22	Element 656 658	La
+T39	Value 691 694	90K
+T26	Element 783 785	La
+T12	Property 911 929	electrical current
+T16	Doping 482 490	occupied
+T30	Doping 659 664	doped
+T38	Doping 786 791	doped
+R1	Coref Arg1:T1 Arg2:T3
+R2	Coref Arg1:T8 Arg2:T9
+R4	Target Arg1:T39 Arg2:T21
+R5	Target Arg1:T39 Arg2:T23
+R6	Target Arg1:E2 Arg2:T23
+R7	Target Arg1:E3 Arg2:T27
+R8	Condition Arg1:T39 Arg2:E2
+E1	Doping:T16 Dopant:T17
+E2	Doping:T30 Dopant:T22
+E3	Doping:T38 Dopant:T26
+T24	SC 678 683	Tc ’s
+R3	Equivalent Arg1:T24 Arg2:T39	

@@ -1,0 +1,20 @@
+T1	SC 19 34	superconducting
+T2	Material 35 40	fault
+T3	SC 93 108	superconducting
+T5	SC 269 284	superconductors
+T6	SC 366 381	superconductors
+T7	SC 407 422	superconducting
+T8	Material 466 471	fault
+T9	Property 480 488	recovery
+T11	Property 664 672	recovery
+T12	SC 685 688	HTS
+T13	Property 887 895	recovery
+T10	Process 947 960	encapsulation
+T14	Material 818 829	stabilizers
+T16	Property 41 48	current
+T17	Process 58 62	SFCL
+T18	Process 292 296	SFCL
+T19	Process 567 571	SFCL
+T20	Process 161 165	SFCL
+T21	Property 225 236	short fault
+T4	Material 867 877	stabilizer
