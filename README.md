@@ -1,4 +1,5 @@
 # SC-CoMIcs: A Superconductivity Corpus for Materials Informatics
+<a href="https://zenodo.org/badge/latestdoi/343638726"><img src="https://zenodo.org/badge/343638726.svg" alt="DOI"></a>
 ## Environment
 - python 3.7.3
 - CUDA 10.1
