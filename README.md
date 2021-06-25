@@ -199,3 +199,8 @@ python ann2json.py data_name data_dir save_dir
 - data_name: dataset name
 - data_dir: Directory path where the integrated ann/text files are placed
 - save_dir: Directory path to save the json files
+
+Example:
+```fish
+python ann2json.py sccomics ../../data/sccomics/ ../extracted/
+```
