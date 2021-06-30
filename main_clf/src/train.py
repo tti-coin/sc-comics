@@ -57,12 +57,16 @@ class Trainer():
             self.bert_model.eval()
 
         train_conll_path = config.get("data", "train_path")
+        print( "train path", train_conll_path )
         assert Path(train_conll_path).exists()
         dev_conll_path = config.get("data", "dev_path")
+        print( "dev path", dev_conll_path )
         assert Path(dev_conll_path).exists()
         dev1_conll_path = Path(dev_conll_path) / "1"
+        print( "dev1 path", dev1_conll_path )
         assert dev1_conll_path.exists()
         dev2_conll_path = Path(dev_conll_path) / "2"
+        print( "dev2 path", dev2_conll_path )
         assert dev2_conll_path.exists()
         self.train_dataset = ConllDataset(train_conll_path)
         # self.dev_dataset = ConllDataset(dev_conll_path)
@@ -368,6 +372,11 @@ class Trainer():
 
 
 if __name__ == "__main__":
-    config_path = "./configs/train.conf"
+#    config_path = "./configs/train.conf"
+    if ( len(sys.argv[0]) == 1 ):
+        print("Usage: python train.py train_fN.conf")
+        print("     Configuration files should be stored in ./configs/ directory.")
+        exit(0)
+    config_path = "./configs/"+sys.argv[1]
     Trainer = Trainer(config_path)
     Trainer.train()

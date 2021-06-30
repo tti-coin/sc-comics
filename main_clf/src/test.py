@@ -221,7 +221,11 @@ class Test():
 
 
 if __name__ == "__main__":
-    config_path = "./configs/test.conf"
+    if ( len(sys.argv[0]) == 1 ):
+        print("Usage: python test.py test_fN.conf")
+        print("     Configuration files should be stored in ./configs/ directory.")
+        exit(0)
+    config_path = "./configs/"+sys.argv[1]
     test = Test(config_path)
 
     acc, rec, _, prec, f1 = test.eval()

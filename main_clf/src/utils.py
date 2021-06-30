@@ -1,4 +1,5 @@
 from torchtext import data, datasets
+from torchtext.legacy import data, datasets
 
 
 def create_dataset(data_path):
